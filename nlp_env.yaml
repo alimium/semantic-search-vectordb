@@ -1,0 +1,22 @@
+name: nlp
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - python
+  - pytorch::pytorch
+  - torchaudio
+  - torchvision
+  - scikit-learn
+  - nltk
+  - matplotlib
+  - plotly
+  - seaborn
+  - transformers
+  - gradio
+  - evaluate
+  - pdfminer
+  - lightning
+  - chromadb
+prefix: /Users/ali/Documents/Coding/conda_envs/nlp

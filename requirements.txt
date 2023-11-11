@@ -1,0 +1,17 @@
+numpy
+pandas
+python
+pytorch::pytorch
+torchaudio
+torchvision
+scikit-learn
+nltk
+matplotlib
+plotly
+seaborn
+transformers
+gradio
+evaluate
+pdfminer
+lightning
+chromadb
