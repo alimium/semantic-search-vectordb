@@ -1,3 +1,7 @@
+"""
+This module hosts a helper function to extract text from pdf files.
+"""
+
 import os
 from pathlib import Path
 from multiprocessing import Pool, cpu_count
@@ -16,7 +20,7 @@ def _extract_text(v):
         with open(dst / f"{file[:-4]}.txt", "w", encoding="utf8") as f:
             f.write(text)
         print(f"extracted {file}")
-    except Exception as e:
+    except (ValueError, RuntimeError) as e:
         if skp:
             if isinstance(e, fitz.fitz.FileDataError):
                 print(f"Error: Document {file} has broken file data.")
