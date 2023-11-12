@@ -1,0 +1,384 @@
+Commodity Movements Originating in West Virginia
+Summary of 1993 CFS
+In West Virginia, the CFS measured $35 billion of goods shipments weighing 234
+million tons.  West Virginia accounted for approximately 1 percent of the value and 2
+percent of the weight of total U.S. shipments.  See attached table.  The CFS data cover
+shipments by establishments in mining, manufacturing, wholesale, and selected retail and
+service industries.  The data exclude most shipments of crude oil; therefore, the totals and
+percentages do not fully reflect the contribution of pipeline shipments.
+The major commodities shipped by establishments vary when measured by value
+and weight.  The main commodities originating in West Virginia by value were:
+chemicals or allied products; coal; primary metal products; petroleum, or coal products;
+and food or kindred products.  The main commodities by weight were:  coal; petroleum
+or coal products; chemicals or allied products; nonmetallic minerals; and lumber or wood
+products, excluding furniture.
+Local transportation of freight is important to West Virginia’s commerce.  The
+CFS shows that in 1993, about one-quarter of the value and over one-third of the weight
+of total shipments from West Virginia were shipped to destinations within the state.
+About 25 percent of the value and about 41 percent of the weight of all shipments were
+between places less than 50 miles apart.  In comparison, about 30 percent of the value and
+56 percent of the weight of total U.S. shipments were between places less than 50 miles
+apart.  In West Virginia, about 39 percent of the value of shipments and 49 percent of the
+weight of shipments were between places less than 100 miles apart.
+Approximately three-quarters of the value and two-thirds of the weight of all
+shipments from West Virginia went to other states.  The most important destination state
+by value of shipments was Ohio.  Other important states by value were:  Virginia,
+Pennsylvania, New York, and Kentucky.  Some of the most important destinations by
+weight of shipments were:  Ohio, Virginia, Pennsylvania, Michigan, and North Carolina.
+A large proportion of commodities were moved by trucks, about 65 percent of the
+value and 29 percent of the weight.  Rail was also important, accounting for 14 percent of
+the value and 43 percent of the weight of shipments.  Water transportation moved 5
+percent of the value of shipments and 20 percent of the weight.
+1993 Commodity Flow Survey State Summary: West Virginia
+Tabulation by the Bureau of Transportation Statistics, U.S. Department of Transportation
+Summary
+Value
+Weight
+Total shipments originating in West Virginia
+$34.9 billion
+234.2 million tons
+Percent of total U.S. shipments (preliminary U.S. estimate)
+0.6
+2.4
+Commodity Shipments Originating in West Virginia Ranked by Value
+Commodity Shipments Originating in West Virginia Ranked by Weight
+Commodity
+Percent of value
+Commodity
+Percent of weight
+Chemicals or allied products  ..............................................
+17.4
+Coal  ................................................................................
+67.6
+Coal  ....................................................................................
+12.8
+Petroleum or coal products  ............................................
+16.7
+Primary metal products  ......................................................
+12.5
+Chemicals or allied products  ..........................................
+3.5
+Petroleum or coal products  ................................................
+9.1
+Nonmetallic minerals  ......................................................
+3.4
+Food or kindred products  ...................................................
+6.6
+Lumber or wood products, excluding furniture  ...............
+2.4
+Other commodities  .............................................................
+41.6
+Other commodities  .........................................................
+6.4
+Total  ...................................................................................
+100.0
+Total  ...............................................................................
+100.0
+Domestic Destinations of Shipments Originating in West Virginia
+Domestic Destinations of Shipments Originating in West Virginia
+Ranked by Value
+Ranked by Weight
+State
+Percent of value
+State
+Percent of weight
+West Virginia  ......................................................................
+25.4
+West Virginia  ..................................................................
+36.3
+Ohio  ...................................................................................
+11.8
+Ohio  ...............................................................................
+11.7
+Virginia  ...............................................................................
+7.5
+Virginia  ...........................................................................
+11.6
+Pennsylvania  ......................................................................
+7.4
+Pennsylvania  ..................................................................
+9.9
+New York  ...........................................................................
+3.9
+Michigan  .........................................................................
+5.0
+Kentucky  ............................................................................
+3.3
+North Carolina  ................................................................
+3.7
+Other States  .......................................................................
+40.7
+Other States  ...................................................................
+21.8
+Total  ...................................................................................
+100.0
+Total  ...............................................................................
+100.0
+Modes of Transportation for Shipments Originating in West Virginia
+Modes
+Percent of value
+Percent of weight
+Parcel, U.S. Postal Service, or courier service  ...........................................................
+**
+-
+Truck (for-hire, private, and both private truck and for-hire truck)  ...............................
+64.9
+29.0
+Air (including truck and air)  .........................................................................................
+2.0
+-
+Rail  ..............................................................................................................................
+14.0
+43.3
+Water (inland water, Great Lakes, deep sea, truck and water, and rail and water)  ....
+4.9
+20.1
+Pipeline*  ......................................................................................................................
+**
+**
+Truck and rail intermodal combination  ........................................................................
+**
+0.9
+Other intermodal (truck and pipeline, inland and Gt. Lakes, inland and deep sea)  ....
+**
+**
+Other, unknown, and withheld for sampling and disclosure reasons  ..........................
+14.2
+6.7
+Total  ............................................................................................................................
+100.0
+100.0
+Domestic Distance Shipped for Commodities Originating in West Virginia
+Distance
+Percent of value
+Percent of weight
+Less than 50 miles  ......................................................................................................
+25.4
+40.6
+50 to 99 miles  ..............................................................................................................
+13.1
+8.5
+100 to 249 miles  ..........................................................................................................
+21.0
+18.1
+250 to 499 miles  ..........................................................................................................
+24.5
+26.7
+500 to 749 miles  ..........................................................................................................
+6.5
+4.5
+750 to 999 miles  ..........................................................................................................
+4.0
+1.2
+1,000 to 1,499 miles  ....................................................................................................
+1.6
+0.2
+1,500 to 1,999 miles  ....................................................................................................
+0.5
+-
+2,000 miles or more  ....................................................................................................
+3.3
+0.2
+Total  ............................................................................................................................
+100.0
+100.0
+ *     CFS data for pipelines exclude most shipments of crude oil.
+**    Some or all data suppressed to avoid disclosure or because data are statistically unreliable.
+ -     Represents zero or less than 1 unit of measurement.
+NOTE:  Data are estimates based on a sample and subject to error.  See Appendix B, "Reliability of the Data," in source document.
+SOURCE:  U.S. Department of Commerce, Bureau of the Census, 1992 Census of Transportation, Communications, and Utilities, 1993 Commodity Flow Survey ,  TC92-CF (Washington, DC: 1996).
+90-Percent Confidence Intervals for 1993 Commodity Flow Survey State Summary: West Virginia
+Tabulation by the Bureau of Transportation Statistics, U.S. Department of Transportation
+Summary
+Value
+Weight
+Total shipments originating in West Virginia (in billion $ and million tons)
+31.17  -  38.63
+203.38  -  265.02
+Percent of total U.S. shipments (preliminary U.S. estimate)
+0.51  -  0.64
+2.05  -  2.69
+Commodity Shipments Originating in West Virginia Ranked by Value
+Commodity Shipments Originating in West Virginia Ranked by Weight
+Commodity
+Percent of value
+Commodity
+Percent of weight
+Chemicals or allied products  ...............................................
+12.3  -  22.5
+Coal  .................................................................................
+52.6  -  82.6
+Coal  .....................................................................................
+10.4  -  15.2
+Petroleum or coal products  .............................................
+10.0  -  23.5
+Primary metal products  .......................................................
+9.3  -  15.7
+Chemicals or allied products  ...........................................
+2.3  -  4.6
+Petroleum or coal products  .................................................
+6.1  -  12.0
+Nonmetallic minerals  .......................................................
+1.5  -  5.3
+Food or kindred products  ....................................................
+5.2  -  8.0
+Lumber or wood products, excluding furniture  ................
+1.5  -  3.3
+Other commodities  ..............................................................
+(NA)
+Other commodities  ..........................................................
+(NA)
+Total  ....................................................................................
+(X)
+Total  ................................................................................
+(X)
+Domestic Destinations of Shipments Originating in West Virginia
+Domestic Destinations of Shipments Originating in West Virginia
+Ranked by Value
+Ranked by Weight
+State
+Percent of value
+State
+Percent of weight
+West Virginia  .......................................................................
+22.1  -  28.7
+West Virginia  ...................................................................
+29.9  -  42.7
+Ohio  .....................................................................................
+10.2  -  13.5
+Ohio  .................................................................................
+9.6  -  13.8
+Virginia  ................................................................................
+5.7  -  9.3
+Virginia  ............................................................................
+6.5  -  16.7
+Pennsylvania  .......................................................................
+6.1  -  8.7
+Pennsylvania  ...................................................................
+7.4  -  12.4
+New York  .............................................................................
+2.9  -  4.9
+Michigan  ..........................................................................
+2.2  -  7.8
+Kentucky  ..............................................................................
+2.6  -  4.0
+North Carolina  .................................................................
+1.6  -  5.8
+Other States  ........................................................................
+(NA)
+Other States  ....................................................................
+(NA)
+Total  ....................................................................................
+(X)
+Total  ................................................................................
+(X)
+Modes of Transportation for Shipments Originating in West Virginia
+Modes
+Percent of value
+Percent of weight
+Parcel, U.S. Postal Service, or courier service  .............................................................
+(X)
+(X)
+Truck (for-hire, private, and both private truck and for-hire truck)  .................................
+59.4  -  70.4
+25.9  -  32.1
+Air (including truck and air)  ...........................................................................................
+1.2  -  2.8
+(X)
+Rail  ................................................................................................................................
+12.0  -  16.0
+36.2  -  50.4
+Water (inland water, Great Lakes, deep sea, truck and water, and rail and water)  ......
+3.8  -  6.0
+17.4  -  22.8
+Pipeline*  ........................................................................................................................
+(X)
+(X)
+Truck and rail intermodal combination  ..........................................................................
+(X)
+0.1  -  1.7
+Other intermodal (truck and pipeline, inland and Gt. Lakes, inland and deep sea)  ......
+(X)
+(X)
+Other, unknown, and withheld for sampling and disclosure reasons  ............................
+13.2  -  15.2
+4.7  -  8.7
+Total  ..............................................................................................................................
+(X)
+(X)
+Domestic Distance Shipped for Commodities Originating in West Virginia
+Distance
+Percent of value
+Percent of weight
+Less than 50 miles  ........................................................................................................
+21.8  -  29.0
+34.4  -  46.9
+50 to 99 miles  ................................................................................................................
+7.7  -  18.5
+6.0  -  11.0
+100 to 249 miles  ............................................................................................................
+17.6  -  24.5
+14.7  -  21.6
+250 to 499 miles  ............................................................................................................
+22.0  -  27.0
+20.5  -  33.0
+500 to 749 miles  ............................................................................................................
+4.7  -  8.3
+2.0  -  7.0
+750 to 999 miles  ............................................................................................................
+3.2  -  4.8
+0.7  -  1.7
+1,000 to 1,499 miles  ......................................................................................................
+0.9  -  2.3
+0.0  -  0.4
+1,500 to 1,999 miles  ......................................................................................................
+0.2  -  0.8
+(X)
+2,000 miles or more  ......................................................................................................
+2.3  -  4.3
+0.0  -  0.4
+Total  ..............................................................................................................................
+(X)
+(X)
+ *     CFS data for pipelines exclude most shipments of crude oil.
+NA   Not available.
+ X     Not applicable.
+NOTE:  For explanation of 90-percent confidence intervals see Appendix B, "Reliability of the Data," in source document.
+SOURCE:  U.S. Department of Commerce, Bureau of the Census, 1992 Census of Transportation, Communications, and Utilities, 1993 Commodity Flow Survey , TC92-CF
+(Washington, DC: 1996).
+The Commodity Flow Survey (CFS) is a comprehensive effort to learn where and
+how goods are shipped in the U.S. The CFS measures shipments of commodities by
+establishments with paid employees and engaged in manufacturing, mining, wholesale
+trade, or selected retail and services industries. Prior commodity surveys covered
+shipments only by manufacturing firms. Commodity flows are estimated for a universe of
+approximately 900,000 establishments.
+Data collected on individual shipments include total value, total weight,
+commodity type, modes of transport, domestic origin and destination; data for export
+shipments include the city and country of destination, mode and port of exit. Information
+is also be obtained on whether shipments are containerized or a hazardous material. Some
+firms provided data concerning on-site shipping facilities and access to shipping facilities,
+plus data on ownership and leasing of transportation equipment.
+The CFS is conducted by the Bureau of the Census as part of the Economic
+Census. Funding and technical guidance is provided by the U.S. Department of
+Transportation. Initiated for 1993, the CFS is scheduled for 1997 and every 5 years
+thereafter for years ending in 2 and 7. Commodity surveys were conducted between 1963
+and 1982, but data for 1982 were not published. No data were collected for 1987.
+Participants will report for a sample of shipments during a 2-week period each quarter
+during the reporting year.
+The CFS is a mail-out/mail-back survey of 200,000 sampled employer
+establishments in selected industries. Establishments were selected by stratified sample,
+with strata based on geographic location and industry. Geographic strata are the 89
+National Transportation Analysis Regions(NTARs), which provide nationwide coverage
+and are aggregations of Bureau of Economic Analysis economic areas. Within the strata,
+all establishments with annualized employment above a specified cutoff were selected
+with certainty, and the remaining smaller establishments were sampled with probability
+proportional to annualized payroll.
+For 1993, each sampled establishment reported on a sample of individual
+shipments during a 2 week period in each calendar quarter. In addition, about 20,000
+establishments will provide information on transportation facilities and arrangements in
+their final reporting period.
+For further information about survey design and printed products, contact the
+Commodity Flow Survey Branch, Services Division, Bureau of the Census, Washington,
+DC 20233, or by calling 301/457-2805 or 2114. For information on related data programs
+and studies, contact the Bureau of Transportation Statistics at 202/366-DATA for voice,
+202/366-3640 for fax, or CFS@BTS.GOV for e-mail.

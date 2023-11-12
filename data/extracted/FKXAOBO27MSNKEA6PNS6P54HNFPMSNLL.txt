@@ -1,0 +1,112 @@
+Life Expectancy: Total Life Expectancy for Female Births Between 1999 - 2001
+Cimarron
+Texas
+Harper
+Kay
+Beaver
+Nowata
+Ottawa
+Grant
+Woods
+Craig
+Alfalfa
+Osage
+Washington
+Garfield
+Rogers
+Noble
+Mayes
+Woodward
+Major
+Delaware
+Ellis
+Pawnee
+Total Years
+Tulsa
+Payne
+Dewey
+Kingfisher
+Blaine
+Not Available
+Cherokee
+Creek
+Wagoner
+Logan
+Adair
+Lincoln
+77 - 78
+Roger Mills
+Custer
+Muskogee
+Okmulgee
+Canadian
+Oklahoma
+79 - 80
+Sequoyah
+Okfuskee
+81 - 82
+McIntosh
+Washita
+Beckham
+Caddo
+83 - 87
+Haskell
+Pott. Co.
+Seminole
+Cleveland
+Pittsburg
+92
+Hughes
+Greer
+Le Flore
+Kiowa
+Grady
+McClain
+Latimer
+Garvin
+Harmon
+Comanche
+Pontotoc
+State: 78 years
+US: 80.4 years
+Coal
+Jackson
+Murray
+Stephens
+Pushmataha
+Tillman
+Johnston
+Atoka
+Cotton
+Carter
+Jefferson
+McCurtain
+Notes: life expectancy at birth is the average 
+number of years a person born in a particular 
+year is anticipated to live. Data on this map is only
+valid only for births occuring between 1999-2001
+Choctaw
+Love
+Bryan
+Marshall
+Data Source: Health Care Information Division, 
+Oklahoma State Department of Health
+07.14.2008
+Projection/Coordinate System: USGS Albers Equal Area Conic
+Created: 
+N
+0
+70
+140
+35
+Health Care Information
+Center for Health Statistics
+Oklahoma State Department of Health
+Disclaimer:This map is a compilation of records, information and data from various
+city, county and State offices and other sources, affecting the area shown, and is the
+best representation of the data available at the time.  The map and data are to be
+used for reference purposes only.  The user acknowledges and accepts all inherent
+limitations of the map, including the fact that the data are dynamic and in a constant
+state of maintenance.
+Miles
+¯

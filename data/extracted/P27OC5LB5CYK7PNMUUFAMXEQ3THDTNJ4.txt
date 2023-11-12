@@ -1,0 +1,332 @@
+, 
+Summary of Major Points: Christopher B. Field, PhD1, Carnegie Institution for Science2
+Energy and Commerce Committee, Subcommittee on Energy and Power:  “Climate 
+Science and the EPA’s Greenhouse Gas Regulations”, March 8, 2011 
+ 
+The modern understanding of climate change is based on many lines of robust, 
+independent evidence, providing a foundation of well established conclusions, including the 
+following, from the US Global Change Research Program: (1) Global warming is unequivocal 
+and primarily human-induced, (2) Climate changes are underway in the United States and are 
+projected to grow, and (3) Widespread climate-related impacts are occurring now and are 
+expected to increase. 
+ 
+Against these foundations, I want to talk about the observed (not simulated) climate 
+sensitivity of two important processes – US agriculture and wildfires in the Western US. 
+• Observed yields of corn, soybean, and cotton all have clear temperature thresholds, below 
+which yields are stable and above which yields fall quickly with rising temperatures. A 
+single day of 104˚F instead of 84˚F reduces corn yields by about 7%.  Modest warming 
+over the century is expected to reduce yields by 30-46% below levels that would 
+otherwise occur, and severe warming could reduce yields by 63-82% 
+• Large wildfires in the Western US are more frequent, last longer, and occur over a longer 
+fire season in years that are unusually warm.  Based on observed patterns, a 1.8˚F 
+warming would increase the annual area burned from 1.3 million acres (the average for 
+1970-2003) to 4.5 million acres. 
+ 
+                                                 
+1 Any opinions, findings, conclusions, or recommendations expressed in this publication are those of the author and 
+do not necessarily reflect those of the Carnegie Institution for Science or the IPCC 
+2 The Carnegie Institution for Science is a not-for-profit organization dedicated to basic research for the benefit of 
+humanity. 
+1 
+ 
+ 
+Statement of 
+ 
+Christopher B. Field, PhD3
+ 
+Director, Department of Global Ecology 
+Carnegie Institution for Science4
+ 
+Co-chair, Working Group II of the IPCC 
+ 
+Mailing Address: 
+Carnegie Institution for Science 
+260 Panama Street 
+Stanford, CA 94305 
+ 
+Before the 
+U.S. House of Representatives  
+Energy and Commerce Committee 
+Subcommittee on Energy and Power 
+“Climate Science and the EPA’s Greenhouse Gas Regulations” 
+10:00 a.m., March 8, 2011 
+Room 2123, Rayburn House Office Building 
+ 
+ 
+                                                 
+3 Any opinions, findings, conclusions, or recommendations expressed in this publication are those of the author and 
+do not necessarily reflect those of the Carnegie Institution for Science or the IPCC 
+4 The Carnegie Institution for Science is a not-for-profit organization dedicated to basic research for the benefit of 
+humanity. 
+2 
+ 
+ 
+Climate Science and the EPA’s Greenhouse Gas Regulations 
+ 
+Introduction  
+ 
+I thank Chairman Upton, Ranking Member Waxman, Chairman of the Subcommittee 
+Whitfield, Ranking Member of the Subcommittee Rush, and the other Members of the 
+Committee for the opportunity to speak with you today on observed impacts of climate on 
+important processes in our country.  My name is Christopher Field.  I am director of the 
+Department of Global Ecology at the Carnegie Institution for Science, a not-for-profit 
+organization dedicated to basic research for the benefit of humanity.  In addition, I am a 
+professor in the Department of Environmental Earth System Science and the Department of 
+Biology at Stanford University.  Since September of 2008, I have served as co-chair of Working 
+Group 2 of the Intergovernmental Panel on Climate Change.  Working Group 2 is tasked with 
+assessing scientific information concerning impacts of climate change, options for adaptation to 
+climate changes that cannot be avoided, and vulnerability to climate change. 
+ 
+ 
+My personal research focuses on interactions among climate, the carbon cycle, and 
+ecosystem processes, using approaches that range from ecosystem-scale climate manipulations to 
+global climate models.  I have published over 200 peer-reviewed papers in leading scientific 
+journals, and was a coordinating lead author on the topic “North America” for the Working 
+Group 2 contribution to the IPCC Fourth Assessment Report.  I have served on many committees 
+of the National Research Council and International Scientific Organizations.  I am an elected 
+member of the US National Academy of Sciences and the American Academy of Arts and 
+Sciences as well as an elected Fellow of the American Association for the Advancement of 
+Science. 
+ 
+ 
+In today’s testimony, I will focus on two aspects of observed sensitivity of important 
+processes to climate.  The two processes are agricultural yields in the United States and wildfire 
+in the Western United States.  The sensitivities I want to discuss today are based on observations 
+and not on simulations.  All of the material I will be discussing today is based on publications in 
+peer-reviewed scientific journals or on national or international assessments of thousands of 
+scientific sources. 
+ 
+Robust Foundations of Current Knowledge 
+ 
+The starting point for the material I want to discuss today is a series of robust conclusions 
+from climate science, synthesized in a number of recent major assessments including two 2010 
+reports from the US National Academy of Sciences, “Climate Stabilization Targets: Emissions, 
+Concentrations, and Impacts over Decades to Millennia” (Solomon 2010), and “Advancing the 
+Science of Climate Change” (Matson 2010), the 2009 report from the US Global Change 
+Research Program, “Global Climate Change Impacts in the United States” (Karl et al. 2009) and 
+the Fourth Assessment Report of the IPCC (IPCC 2007a, c, b).  These documents provide a 
+scientifically rich picture of a changing climate, the mechanisms that underlie observed and 
+projected changes, impacts of climate change on individuals, ecosystems, economies, and 
+regions, and the costs and benefits of changing practices to decrease the amount of climate 
+change from a business-as-usual scenario. 
+ 
+3 
+ 
+ 
+The following 10 points, quoted from (Karl et al. 2009), form the foundation for any 
+discussion of climate change and its impacts: 
+“1. Global warming is unequivocal and primarily human-induced. 
+Global temperature has increased over the past 50 years. This observed increase is due primarily 
+to human induced emissions of heat-trapping gases. 
+ 
+2. Climate changes are underway in the United States and are projected to grow. 
+Climate-related changes are already observed in the United States and its coastal waters. These 
+include increases in heavy downpours, rising temperature and sea level, rapidly retreating 
+glaciers, thawing permafrost, lengthening growing seasons, lengthening ice-free seasons in the 
+ocean and on lakes and rivers, earlier snowmelt, and alterations in river flows. These changes are 
+projected to grow. 
+ 
+3. Widespread climate-related impacts are occurring now and are expected to increase. 
+Climate changes are already affecting water, energy, transportation, agriculture, ecosystems, and 
+health. These impacts are different from region to region and will grow under projected climate 
+change. 
+ 
+4. Climate change will stress water resources. 
+Water is an issue in every region, but the nature of the potential impacts varies. Drought, related 
+to reduced precipitation, increased evaporation, and increased water loss from plants, is an 
+important issue in many regions, especially in the West. Floods and water quality problems are 
+likely to be amplified by climate change in most regions. Declines in mountain snowpack are 
+important in the West and Alaska where snowpack provides vital natural water storage. 
+ 
+5. Crop and livestock production will be increasingly challenged. 
+Many crops show positive responses to elevated carbon dioxide and low levels of warming, but 
+higher levels of warming often negatively affect growth and yields. Increased pests, water stress, 
+diseases, and weather extremes will pose adaptation challenges for crop and livestock 
+production. 
+ 
+6. Coastal areas are at increasing risk from sea-level rise and storm surge. 
+Sea-level rise and storm surge place many U.S. coastal areas at increasing risk of erosion and 
+flooding, especially along the Atlantic and Gulf Coasts, Pacific Islands, and parts of Alaska. 
+Energy and transportation infrastructure and other property in coastal areas are very likely to be 
+adversely affected. 
+ 
+7. Risks to human health will increase. 
+Harmful health impacts of climate change are related to increasing heat stress, waterborne 
+diseases, poor air quality, extreme weather events, and diseases transmitted by insects and 
+rodents. Reduced cold stress provides some benefits. Robust public health infrastructure can 
+reduce the potential for negative impacts.  
+ 
+8. Climate change will interact with many social and environmental stresses. 
+4 
+ 
+Climate change will combine with pollution, population growth, overuse of resources, 
+urbanization, and other social, economic, and environmental stresses to create larger impacts 
+than from any of these factors alone.  
+ 
+9. Thresholds will be crossed, leading to large changes in climate and ecosystems. 
+There are a variety of thresholds in the climate system and ecosystems. These thresholds 
+determine, for example, the presence of sea ice and permafrost, and the survival of species, from 
+fish to insect pests, with implications for society. With further climate change, the crossing of 
+additional thresholds is expected. 
+ 
+10. Future climate change and its impacts depend on choices made today. 
+The amount and rate of future climate change depend primarily on current and future human-
+caused emissions of heat-trapping gases and airborne particles. Responses involve reducing 
+emissions to limit future warming, and adapting to the changes that are unavoidable.” 
+ 
+Recent Results: Observed Responses of the Temperature Sensitivity of US Agriculture 
+ 
+Globally and in the US, advancements in agriculture are among the crowning 
+accomplishments of human ingenuity.  Especially over the last century, yields have increased 
+dramatically (Lobell et al. 2009), more than keeping pace with the growth of human population.  
+One recent analysis concludes that agricultural intensification since 1961 has increased yields so 
+much that the area in crops has not needed to change, even as demand has soared (Burney et al. 
+2010).  As a consequence, intensification of agriculture has prevented deforestation that 
+otherwise would have emitted 161 billion tons of carbon to the atmosphere. 
+ 
+ 
+ 
+Over recent decades, yields of most major crops have increased at 1-2% per year (Lobell 
+and Field 2007), but an increasing body of evidence indicates that obtaining these yield increases 
+is becoming more and more difficult, as climate change acts to resist or reverse yield increases 
+from improvements in management and breeding. Using global records of yield trends in the 
+world’s six major food crops since 1961, my colleague David Lobell and I (Lobell and Field 
+2007) concluded that, at the global scale, effects of warming are already visible, with global 
+yields of wheat, corn, and barley reduced since 1981 by 40 million tons per year below the levels 
+that would occur without the warming.  As of 2002 (the last year analyzed in the study), this 
+represents an economic loss of approximately $5 billion per year. 
+ 
+ 
+In the United States, the observed temperature sensitivity of three major crops is even 
+more striking.  Based on a careful county-by county analysis of patterns of climate and yields of 
+corn, soybeans, and cotton, Schlenker and Roberts (Schlenker and Roberts 2009) concluded that 
+observed yields from all farms and farmers are relatively insensitive to temperature up to a 
+threshold but fall rapidly as temperatures rise above the threshold.  For farms in the United 
+States, the temperature threshold is 84˚F for corn, 86˚F for soybeans, and 90˚F for cotton.  For 
+corn, a single day at 104˚F instead of 84˚F reduces observed yields by about 7%.  These 
+temperature sensitivities are based on observed responses, including data from all of the US 
+counties that grow cotton and all of the Eastern counties that grow corn or soybeans.  These are 
+not simulated responses.  They are observed in the aggregate yields of thousands of farms in 
+thousands of locations. 
+ 
+5 
+ 
+ 
+The temperature sensitivity observed by Schlenker and Roberts (Schlenker and Roberts 
+2009) suggests a challenging future for US agriculture.  Unless we can develop varieties with 
+improved heat tolerance, modest warming (based on the IPCC B1 scenario) by the end of the 21st 
+century will reduce yields by 30-46%.  With a high estimate of climate change (based on the 
+IPCC A1FI scenario), the loss of yield is 63-82%.  These three major crops, in some ways the 
+core of US agriculture, are exquisitely sensitive to warming.  This result is very clear.  We may 
+be able to breed warming tolerant varieties, and it is possible that some of the yield losses due to 
+warming will be compensated by positive responses to elevated atmospheric CO2 (Long et al. 
+2006), but we will be trying to improve yields in a setting where warming is like an anchor 
+pulling us back. 
+ 
+Recent Results: Observed Responses of the Temperature Sensitivity of Wildfires in the 
+Western US 
+ 
+Wildfire is a common threat in the Western US.  While historical, low-intensity wildfires 
+can play an important role in sustaining the health of ecosystems (Minnich 1983), large, high-
+intensity wildfires destroy lives and homes, impact air quality, degrade watersheds, reduce 
+economic activity, and eliminate wildlife habitat.  In recent years, suppression costs have been 
+over $1 billion per annum (Littell et al. 2009). 
+ 
+ 
+Westerling and colleagues (Westerling et al. 2006) compiled a database of 1166 large 
+wildfires in the US during the period from 1970 to 2003.  They observed a large increase in fire 
+frequency, duration, and in the length of the fire season after the mid 1980s.  This increase in fire 
+activity was strongly related to warm spring and summer temperatures.  Over this period, the 
+length of time from snow-melt in the spring to the first snow-fall in the autumn is a good 
+predictor of the fire risk. 
+ 
+ 
+Littell and colleagues (Littell et al. 2009) looked at a longer series of fire records and 
+analyzed the data for relationships with temperature and rainfall.  They found that, for most 
+Western ecosystems, climate is a strong predictor of wildfire area burned, with current-year 
+temperature explaining a significant amount of the variability in most regions.  The striking 
+feature of these results, based on observations and not simulations is the sensitivity.  For most of 
+the West, the annual area burned increases by 200 to over 600% for every 1.8˚F of warming 
+(Solomon 2010).  It is only in the driest regions, where warming makes it too dry for fire, that 
+there is not a strong positive response.  Based on these observed sensitivities, warming of 1.8˚F 
+is expected to increase the area burned from 1.3 million acres per year (the 1970-2003 average) 
+to 4.5 million acres (Solomon 2010). 
+ 
+Conclusion 
+ 
+Many lines of robust, independent evidence support the conclusion that the climate has 
+been warming over the past century and that human emissions of heat-trapping gases are very 
+likely responsible for much of the warming since the middle of the last century (IPCC 2007d).  
+We are already seeing a wide range of impacts of these climate changes (IPCC 2007e).  
+Although there is scientific uncertainty about the amount of future warming, it is very clear that, 
+unless emissions of heat-trapping gases decrease dramatically, the planet will warm substantially 
+in coming decades.  New data on sensitivities, here I have discussed US agriculture and wildfire, 
+emphasize the magnitude of the risk for the United States.  Based on observations, not 
+6 
+ 
+simulations, the sensitivities to warming of both agriculture and wildfire are more than sufficient 
+to cause pervasive regional harm, with even modest warming. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7 
+ 
+Literature cited 
+ 
+Burney, J. A., S. J. Davis, and D. B. Lobell. 2010. Greenhouse gas mitigation by agricultural 
+intensification. Proceedings of the National Academy of Sciences 107:12052. 
+IPCC. 2007a. Climate Change 2007: Impacts, Adaptation and Vulnerability. Contribution of 
+Working Group II to the Fourth Assessment Report of the Intergovernmental Panel on 
+Climate Change, M.L. Parry, O.F. Canziani, J.P. Palutikof, P.J. van der Linden and C.E. 
+Hanson, C.E., Eds. Cambridge University Press, Cambridge, UK. 
+IPCC. 2007b. Climate Change 2007: Mitigation. Contribution of Working Group III to the 
+Fourth Assessment Report of the Intergovernmental Panel on Climate Change. 
+Cambridge University Press, Cambridge and New York. 
+IPCC. 2007c. Climate Change 2007: The Physical Science Basis:  Contribution of Working 
+Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate 
+Change. Cambridge University Press, Cambridge, United Kingdom and New York, NY, 
+USA. 
+IPCC. 2007d. Summary for Policymakers. Pages 1-21 in S. Solomon, D. Qin, M. Manning, Z. 
+Chen, M. Marquis, K. B. Averyt, M.Tignor, and H. L. Miller, editors. Climate Change 
+2007: The Physical Science Basis:  Contribution of Working Group I to the Fourth 
+Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge 
+University Press, Cambridge, United Kingdom and New York, NY, USA. 
+IPCC. 2007e. Summary for Policymakers. Pages 7-22 in M. L. Parry, O. F. Canziani, J. P. 
+Palutikof, P. J. van der Linden, and C. E. Hanson, editors. Climate Change 2007: 
+Impacts, Adaptation and Vulnerability. Contribution of Working Group II to the Fourth 
+Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge 
+University Press, Cambridge, UK. 
+Karl, T. R., J. M. Melillo, and T. C. Peterson, editors. 2009. Global Climate Change Impacts in 
+the United States. Cambridge University Press, Cambridge, United Kingdom and New 
+York, NY, USA. 
+Littell, J. S., D. McKenzie, D. L. Peterson, and A. L. Westerling. 2009. Climate and wildfire area 
+burned in western US ecoprovinces, 1916-2003. Ecological Applications 19:1003-1021. 
+Lobell, D. B., K. G. Cassman, and C. B. Field. 2009. Crop Yield Gaps: Their Importance, 
+Magnitudes, and Causes. Annual Review of Environment and Resources 34:179-204. 
+Lobell, D. B. and C. B. Field. 2007. Global scale climate–crop yield relationships and the 
+impacts of recent warming. Environmental Research Letters 2:doi:10.1088/1748-
+9326/1082/1081/014002. 
+Long, S. P., E. A. Ainsworth, A. D. B. Leakey, J. Nοsberger, and D. R. Ort. 2006. Food for 
+thought: Lower-than-expected crop yield stimulation with rising CO2 concentrations. 
+Science 312:1918-1921. 
+Matson, P. 2010. Advancing the Science of Climate Change. National Academies Press, 
+Washington, D.C. 
+Minnich, R. A. 1983. Fire mosaics in Southern Califonia and Northern Baja California. Science 
+219:1287-1294. 
+Schlenker, W. and M. Roberts. 2009. Nonlinear temperature effects indicate severe damages to 
+US crop yields under climate change. Proceedings of the National Academy of Sciences 
+106:15594. 
+8 
+ 
+Solomon, S. 2010. Climate Stabilization Targets: Emissions, Concentrations, and Impacts over 
+Decades to Millennia. National Academies Press, Washington, D.C. 
+Westerling, A. L., H. G. Hidalgo, D. R. Cayan, and T. W. Swetnam. 2006. Warming and earlier 
+spring increase western U.S. forest wildfire activity. Science 313:940-943. 
+ 
+ 
+9 
+ 

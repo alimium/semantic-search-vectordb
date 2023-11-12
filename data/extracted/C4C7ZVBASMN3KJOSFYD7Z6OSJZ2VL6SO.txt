@@ -1,0 +1,2682 @@
+28 
+28 
+Physician 
+Physician's services, whether furnished in the office, the recipient's home, 
+a hospital, a skilled nursing facility, or elsewhere, refer to services provided 
+by a physician: 
+• 
+Within the scope of practice of medicine or osteopathy as defined by 
+state law; and 
+• 
+By or under the personal supervision of an individual licensed under 
+state law to practice medicine of osteopathy. 
+The policy provisions for physicians can be found in the Alabama Medicaid 
+Agency Administrative Code, Chapter 6. 
+28.1 
+Enrollment 
+EDS enrolls physicians and issues provider contracts to applicants who 
+meet the licensure and/or certification requirements of the state of 
+Alabama, the Code of Federal Regulations, the Alabama Medicaid Agency 
+Administrative Code, and the Alabama Medicaid Provider Manual. For the 
+purpose of enrollment, a physician is defined as: a physician who is fully 
+licensed and possesses a current license to practice medicine. 
+EDS also enrolls Physician Assistants (PA), Certified Registered Nurse 
+Practitioners (CRNP), Certified Registered Nurse Anesthetists (CRNA), 
+and Anesthesiology Assistants (AA) who are employed by a Medicaid 
+enrolled physician. Physician-employed includes physicians practicing in 
+an independent practice or in a group practice relationship.  
+Refer to Chapter 38, Anesthesiology, for more information on CRNA and 
+AA services. 
+Refer to Chapter 2, Becoming a Medicaid Provider, for general enrollment 
+instructions and information. Failure to provide accurate and truthful 
+information or intentional misrepresentation might result in action ranging 
+from denial of application to permanent exclusion. 
+Provider Number, Type, and Specialty 
+A provider who contracts with Medicaid as a physician is issued a nine-digit 
+Alabama Medicaid provider number that enables the provider to submit 
+claims and receive reimbursement for physician-related claims. 
+NOTE: 
+All nine digits are required when filing a claim. 
+Physicians are assigned a provider type of 01 (Physician). Physician-
+Employed Nurse Practitioners or Physician-Employed Physician Assistants 
+are assigned a provider type of 06 (Physician-Employed Practitioners), and 
+Certified Registered Nurse Anesthetists and Anesthesiology Assistants are 
+assigned a provider type of 92 (CRNA). 
+ 
+October 2005 
+28-1 
+ 
+Physician  
+Valid specialties for physicians and physician-employed practitioners are 
+listed below: 
+Specialty 
+Code 
+Allergy/Immunology 
+03 
+Anesthesiology 
+05 
+Anesthesiology Assistant 
+N7 
+Cardiac surgery 
+S1 
+Cardiovascular disease 
+06 
+Certified Registered Nurse Anesthetist 
+C3 
+Cochlear implant team 
+C9 
+Colon and rectal surgery 
+S2 
+Dermatology 
+07 
+EENT 
+XA 
+Emergency medicine 
+E1 
+Endocrinology 
+E2 
+EPSDT 
+E3 
+Family practice 
+08 
+Gastroenterology 
+10 
+General practice 
+01 
+General surgery 
+02 
+Geriatrics 
+38 
+Hand surgery 
+21 
+Hematology 
+H2 
+Infectious diseases 
+55 
+Internal medicine 
+11 
+Mammography 
+M7 
+Neonatology 
+N1 
+Nephrology 
+39 
+Neurological surgery 
+14 
+Neurology 
+13 
+Nuclear medicine 
+36 
+Nutrition 
+40 
+Obstetrics/Gynecology 
+16 
+Oncology 
+XI 
+Ophthalmology 
+18 
+Oral and maxillofacial surgery 
+SE 
+Orthopedic 
+X6 
+Orthopedic surgery  
+20 
+Otorhinolaryngology 
+X9 
+Pathology 
+22 
+Pediatrics 
+37 
+Physician-Employed Nurse Practitioner 
+N3 
+Physician-Employed Physician Assistant 
+N6 
+Plastic, reconstructive, cosmetic surgery 
+24 
+Primary care provider (not a screening provider 
+but can refer patients) 
+AE 
+Proctology 
+28 
+Psychiatry 
+26 
+Pulmonary disease 
+29 
+Radiology 
+30 
+Rheumatology 
+R4 
+Thoracic surgery 
+33 
+Urology 
+34 
+Vascular surgery 
+S4 
+ 
+28-2 
+October 2005 
+Physician 28 
+Enrollment Policy for Physicians 
+Providers (in-state and out-of-state) who meet enrollment requirements are 
+eligible to participate in the Alabama Medicaid Program. The PA or CRNP 
+must send a copy of the prescriptive authority granted by the licensing 
+board in order for the PA or CRNP to be added to the Provider License File 
+for the purpose of reimbursing the pharmacist for the prescriptions written 
+by the PA or CRNP. This copy must be sent to EDS Provider Enrollment, 
+P.O. Box 241685, AL 36124-1685. 
+EDS will not enroll physicians having limited licenses unless complete 
+information as to the limitations and reasons are submitted in writing to the 
+Provider Enrollment Unit for review and consideration for enrollment. 
+28.2 
+Benefits and Limitations 
+This section describes program-specific benefits and limitations. Refer to 
+Chapter 3, Verifying Recipient Eligibility, for general benefit information and 
+limitations. 
+Physicians are expected to render medically necessary services to 
+Medicaid patients in the same manner and under the same standards as 
+for their private patients, and bill the Alabama Medicaid Agency their usual 
+and customary fee. 
+A physician enrolled in and providing services through an approved 
+residency training program will be assigned a pseudo Medicaid license 
+number, but may not bill for services performed as part of the residency 
+training program. A pseudo Medicaid license number is required on written 
+prescriptions issued to Medicaid recipients. To request a pseudo Medicaid 
+license number, please refer to Chapter 2, Becoming a Medicaid provider 
+for additional information. 
+Written medication prescriptions should have a typed or printed name of 
+the prescriber on the prescription, handwriting should be legible, and the 
+pseudo license number for a resident should be clearly indicated. 
+Pharmacists must have the physician’s license number prior to billing 
+for prescriptions.  Pharmacies shall use the correct physician license 
+number when submitting a pharmacy claim to Medicaid. 
+Supervising physicians may bill for services rendered to Medicaid 
+recipients by residents enrolled in and providing services through (as part 
+of) an approved residency training program. The following rules shall apply 
+to physicians supervising residents as part of an approved residency 
+training program: 
+a. The supervising physician shall sign and date the admission history 
+and physical progress notes written by the resident. 
+b. The supervising physician shall review all treatment plans and 
+medication orders written by the resident. 
+c. The supervising physician shall be available by phone or pager. 
+d. The supervising physician shall designate another physician to 
+supervise the resident in his/her absence. 
+e. The supervising physician shall not delegate a task to the resident 
+when regulations specify that the physician perform it personally or 
+when such delegation is prohibited by state law or the facility's policy. 
+ 
+October 2005 
+28-3 
+ 
+Physician  
+Payments from Medicaid funds can be made only to physicians who 
+provide the services; therefore, no reimbursement can be made to patients 
+who may personally pay for the service rendered. 
+Reimbursement may be made to a physician submitting a claim for 
+services furnished by another physician in the event there is a reciprocal 
+arrangement as long as block 19 on the claim identifies the physician who 
+actually furnished the service. Both physicians should be enrolled as 
+Medicaid providers. The reciprocal arrangement may not exceed 14 days 
+in the case of an informal arrangement or 90 continuous days in the case 
+of an arrangement involving per diem or other fee-for-time compensation. 
+Providers participating in a reciprocal arrangement should be enrolled with 
+the Alabama Medicaid Agency. 
+The physician agrees when billing Medicaid for a service that the physician 
+will accept as payment in full, the amount paid by Medicaid for that service, 
+plus any cost-sharing amount to be paid by the recipient, and that no 
+additional charge will be made. Conditional collections from patients, made 
+before Medicaid pays, which are to be refunded after Medicaid pays, are 
+not permissible. The physician may bill the patient, in addition to the cost-
+sharing fee, for services rendered when benefit limitations are exhausted 
+for the year or when the service is a Medicaid non-covered benefit. 
+However, the provider (or their staff) must advise each patient prior to 
+services being rendered when Medicaid payment will not be accepted, and 
+the patient will be responsible for the bill. If a provider routinely accepts a 
+Medicaid assignment, he or she may not bill Medicaid or the recipient for a 
+service he or she did not provide, i.e., missed or canceled appointment. 
+A hospital-based physician-employed by and paid by a hospital may not bill 
+Medicaid for services performed for which the hospital is reimbursed. A 
+hospital-based physician shall bill the Medicaid Program on a CMS-1500, 
+Health Insurance Claim Form or assign their billing rights to the hospital, 
+which shall bill the Medicaid Program on a CMS-1500 form. A hospital-
+based physician who is not employed by and paid by a hospital may bill 
+Medicaid using a CMS-1500 claim form. 
+A physician enrolled in a residency training program and whose practice is 
+limited to the institution in which that resident is placed shall not bill 
+Medicaid for services performed therein for which the institution is 
+reimbursed through the hospitals' cost reports. For tracking purposes, 
+these physicians will be assigned pseudo Medicaid license numbers. 
+Hospital-based physicians are reimbursed under the same general system 
+as is used in Medicare. Bills for services rendered are submitted as follows: 
+• 
+All hospital-based physicians, including emergency room physicians, 
+radiologists, and pathologists, will bill Medicaid on a CMS-1500 claim 
+form, or assign their billing rights to the hospital, which shall bill 
+Medicaid on a CMS-1500 claim form. 
+• 
+Physician services personally rendered for individual patients will be 
+paid only on a reasonable charge basis (i.e., claims submitted under 
+an individual provider number on a physician claim form). This includes 
+services provided by a radiologist and/or pathologist. 
+• 
+Reasonable charge services are: 1) personally furnished for a patient 
+by a physician; 2) ordinarily require performance by a physician and; 3) 
+contribute to the diagnosis or treatment of an individual patient. 
+28-4 
+October 2005 
+Physician 28 
+ 
+NOTE: 
+If a provider routinely accepts Medicaid assignments, he/she may not bill 
+Medicaid or the recipient for a service he/she did not provide, i.e., "no call" 
+or “no show”.  
+28.2.1 
+Physician-Employed Practitioner Services 
+Medicaid payment may be made for the professional services of the 
+following physician-employed practitioners: 
+• 
+Physician Assistants (PAs) 
+• 
+Certified Registered Nurse Practitioners (CRNPs) 
+Nurse Practitioner is defined as a Registered Professional Nurse who is 
+currently licensed to practice in the state, who meets the applicable State 
+of Alabama requirements governing the qualifications of nurse 
+practitioners. 
+Physician Assistant means a person who meets the applicable State of 
+Alabama requirements governing the qualifications for assistants to 
+primary care physicians. 
+All services requiring additional education and training beyond the scope of 
+practice billed by a CRNP/PA must be documented in the approved 
+collaborative agreement from the Board of Medical Examiners (BME) and 
+the Alabama Board of Nursing (ABN) between the practitioner and 
+physician.  The only exception is for those “routine” services within the 
+scope of practice approved by the applicable licensing and governing 
+boards.  Services billed outside a CRNP/PA scope of practice and/or 
+collaborative agreement are subject to post-payment review. 
+Medicaid will make payment for services of Physician Assistants (PAs) and 
+Certified Registered Nurse Practitioners (CRNPs) who are legally 
+authorized to furnish services and who render the services under the 
+supervision of an employing physician with payment made to the 
+employing physician. Medicaid will not make payment to the PA or CRNP. 
+Generally, CRNPs and PAs are reimbursed at 80% of the allowed amount 
+for all services except lab and injectables, which should pay at 100%. 
+The employing physician must be a Medicaid provider in active status. 
+The PA or CRNP must enroll with Medicaid and receive an Alabama 
+Medicaid provider number with the employing physician as the payee. 
+Covered services furnished by the PA or CRNP must be billed under the 
+PA’s or CRNP’s name and Alabama Medicaid provider number. 
+The covered services for PAs and CRNPs are limited to injectable drugs, 
+laboratory services in which the laboratory is CLIA certified to perform, and 
+the CPT codes identified in Appendix O, CRNP & PA Services. 
+The office visits performed by the PA or CRNP count against the recipient's 
+yearly benefit limitation. 
+The PA or CRNP may make physician-required visits to nursing facilities. 
+The PA or CRNP may not make physician-required inpatient visits to 
+hospitals or other institutional settings to qualify for payment to the 
+physician or to satisfy current regulations as physician visits. 
+ 
+October 2005 
+28-5 
+ 
+Physician  
+The PA or CRNP may provide low complexity or straightforward medical 
+decision-making services in the emergency room or as an assistant at 
+surgery (identified surgical codes only) for reimbursement by Medicaid. 
+See Appendix O for a list of covered services. 
+The employing-physician need not be physically present with the PA or 
+CRNP when the services are being rendered to the recipient; however, the 
+physician must be immediately available to the PA or CRNP for direct 
+communication by radio, telephone, or telecommunication. 
+The PA’s or CRNP’s employing physician is responsible for the 
+professional activities of the PA or CRNP and for assuring that the services 
+provided are medically necessary and appropriate for the patient. 
+There shall be no independent, unsupervised practice by PAs or CRNPs. 
+28.2.2 
+Covered Services 
+In general, Medicaid covers physician services if the services meet the 
+following conditions: 
+• 
+Considered medically necessary by the attending physician 
+• 
+Designated by procedure codes in the Physicians' Current Procedural 
+Terminology (CPT), HCPCS or designated by special procedure codes 
+created by Medicaid for its own use 
+This table contains details on selected covered services. 
+ 
+Service 
+Coverage and Conditions 
+Add-on Code 
+Add-on Code definition in the CPT is recognized and allowed for 
+payment with the appropriate primary code.  
+Administration 
+Fee 
+Please refer to Appendix H, Medicaid Physician Drug List, section 
+H.1 (Policy) for information regarding office visits, chemotherapy, 
+and administration fees. 
+Please refer to Appendix A, Well Child Check-Up, Section A.6.1 
+(Fees) for information regarding the use of designated VFC codes 
+for billing immunization administration fee(s). 
+Allergy 
+Treatments 
+Please refer to Appendix H, Medicaid Physician Drug List, section 
+H.1.2 (Chemotherapy Injections) for information. 
+Anesthesia 
+Anesthesia is covered. See Chapter 38, Anesthesiology. 
+Artificial Eyes  
+Artificial eyes must be prescribed by a physician. 
+Breathing or 
+Inhalation 
+Treatments 
+Breathing or inhalation treatments are a covered service.  Any 
+medication provided during a breathing treatment (e.g., Albuterol) is 
+considered a component of the treatment charge.  
+Cardiac 
+Catheterization 
+Please note that modifier 51 (multiple procedures) should not be 
+utilized with cardiac codes 93501-93533 or 93539-93556. 
+Cerumen 
+Removal 
+Code 69210 (which requires skill and use of forceps, suction, or 
+cerumen spoon) is a covered service.   
+Chemotherapy 
+Administration 
+Please note code 36823 includes chemotherapy dose 
+calculation/administration by injection into the perfusate.  Codes 
+96408-96425 should not be utilized with codes 96408-96425.  
+CAT scans are covered as medically necessary. 
+Computerized 
+Axial 
+Tomograph 
+(CAT) Scans  
+Chiropractors  
+Chiropractic services are covered only for QMB recipients and for 
+services referred directly as a result of an EPSDT screening. 
+ 
+28-6 
+October 2005 
+Physician 28 
+Service 
+Coverage and Conditions 
+Chromosomal 
+Studies  
+Medicaid can pay for these studies on prospective mothers in an 
+effort to identify conditions that could result in the birth of an 
+abnormal child. 
+ 
+Circumcision  
+Circumcision of newborns is a covered service. If medically 
+necessary, non-newborn circumcision is covered. 
+ 
+Diet Instruction  
+Diet instruction performed by a physician is considered part of a 
+routine visit. 
+Drugs 
+Non-injectable drugs must be billed by a pharmacy to be covered. 
+Physicians who administer injectable drugs to their patients may 
+bill Medicaid for the cost of the drug by using the procedure code 
+designated by Medicaid for this purpose. 
+Examinations 
+Physician visits for examinations are counted as part of each 
+recipient’s benefit limit of 14 physician visits per year. Exception: 
+Certified Emergencies. 
+Annual routine physical examinations are not covered except 
+through EPSDT. Refer to Appendix A, EPSDT, for details. 
+Medical examinations for such reasons as insurance policy 
+qualifications are not covered. 
+Physical examinations for establishment of total and permanent 
+disability status if considered medically necessary are covered. 
+Medicaid requires a physician's visit once every 60 days for 
+patients in a nursing facility. Patients in intermediate care facilities 
+for the mentally retarded must receive a complete physical 
+examination at least annually. 
+Eyecare 
+Eye examinations by physicians are a Medicaid covered service. 
+Physician visits for eyecare disease are counted as part of each 
+recipient's benefit limit of 14 physician visits per year. 
+Foot Devices 
+See Chapter 14, Durable Medical Equipment (DME), for details 
+ 
+Gastric bypass 
+Covered with prior authorization 
+ 
+Hearing Aids 
+See Chapter 10, Audiology/Hearing Services, for details. 
+Hyperbaric 
+Oxygen Therapy 
+Topically applied oxygen is not hyperbaric and is not covered. 
+HBO therapy should not be a replacement for other standard 
+successful therapeutic measure. Medical necessity for the use of 
+hyperbaric oxygen for more than two months must be prior 
+approved (see Chapter 4, Obtaining Prior Authorization). 
+Physician attendance should be billed using procedure code 
+99183. Prior approval for HBO for diagnoses not listed below or 
+for treatments exceeding the limitations listed may be submitted to 
+EDS for consideration on an individual recipient basis. Please note 
+that no approval will be granted for diagnoses listed in the 
+exclusion section. Program reimbursement for HBO therapy is 
+limited to that which is administered in a chamber for the 
+diagnoses found in Chapter 19 Hospital, under Outpatient 
+Hyperbaric Oxygen Therapy (HBO). 
+Please refer to Section 28.2.9 for documentation requirements  
+for parental, TPN, IDPN, and IPN nutrition. 
+Added: 
+Hyperalimentation 
+Hyperalimention 
+Parental 
+  TPN 
+  IDPN 
+IPN 
+ 
+October 2005 
+28-7 
+ 
+Physician  
+Immunizations 
+The Department of Public Health provides vaccines at no charge 
+to Medicaid physicians enrolled in the Vaccines For Children 
+(VFC) Program. Medicaid reimburses administration fees for 
+vaccines provided free of charge through the Vaccines For 
+Children (VFC) Program. Medicaid tracks usage of the vaccine 
+through billing of the administration fee using the appropriate CPT-
+4 codes. Refer to Appendix A, EPSDT, for more information. 
+The single antigen vaccines may be billed only when medically 
+justified and prior authorized. These vaccines are listed below: 
+• 
+Diphtheria 
+• 
+Measles 
+• 
+Mumps 
+• 
+Rubella  
+ 
+Payment for immunizations against communicable diseases for 
+adults will be made if the physician normally charges his patients 
+for this service. 
+Infant 
+Resuscitation 
+Newborn resuscitation (procedure code 99440) is a covered 
+service when the baby's condition is life threatening and 
+immediate resuscitation is necessary to restore and maintain life 
+functions. Intubation, endotracheal, emergency procedure 
+(procedure code 31500) cannot be billed in conjunction with 
+newborn resuscitation. 
+Mammography 
+Diagnostic 
+Diagnostic mammography is furnished to a man/woman with signs 
+or symptoms of breast disease, or a personal history of breast 
+cancer, or a personal history of biopsy-proven benign breast 
+disease, and includes a physician’s interpretation of the results of 
+the procedure. Services are not limited. 
+Mammography 
+Screening 
+Furnished to a woman without signs or symptoms of breast 
+disease, for the purpose of early detection of breast cancer, and 
+includes a physician’s interpretation of the results of the 
+procedures. Services are limited to one screening mammography 
+every 12 months for women ages 50 through 64. 
+Medical 
+Materials and 
+Supplies 
+Costs for medical materials and supplies normally utilized during 
+office visits or surgical procedures are to be considered part of the 
+total fee for procedures performed by the physician and therefore 
+are not generally a separately billable service. 
+Newborn Claims 
+Five kinds of newborn care performed by physicians in the days 
+after the child's birth when the mother is still in the hospital may be 
+filed under the mother's name and number or the baby's name 
+and number: 
+1. Routine newborn care (99431, 99433, and discharge codes 
+99238 or 99239) 
+2. Circumcision (54150 or 54160) 
+3. Newborn resuscitation (99440) 
+4. Standby services following a caesarian section or a high-risk 
+vaginal delivery. (99360) 
+5. Attendance at delivery (when requested by delivering 
+physician) and initial stabilization of newborn (99436) 
+Standby services (procedure code 99360) are covered only when 
+the pediatrician, family practitioner, neonatologist, general 
+practitioner, or non-delivering OB/GYN is on standby in the 
+operating or delivery room during a caesarian section or a high-
+risk vaginal delivery. Attendance of the standby physician in the 
+hospital operating or delivery room must be documented in the 
+operating or delivery report. 
+Use CPT codes when filing claims for these five kinds of care. 
+If these services are billed under the mother's name and number 
+and the infant(s) are twins, indicate Twin A or Twin B in Block 19 
+of the claim form. 
+Any care other than routine newborn care for a well baby, before 
+and after the mother leaves the hospital, must be billed under the 
+child's name and number. 
+28-8 
+October 2005 
+Physician 28 
+Newborn 
+Hearing 
+Screening 
+Inpatient newborn hearing screenings are considered an integral 
+part of inpatient hospital services. Outpatient facility services for 
+newborn hearing screenings are considered non-covered. 
+ 
+Limited hearing screen codes 92586 and 92587 (CPT 2002) may 
+be billed in an outpatient setting provided: 1) an infant was 
+discharged prior to receiving the inpatient hearing screen, or 2) an 
+infant was born outside a hospital or birthing center. These codes 
+are reimbursable for audiologists, pediatricians, otolaryngologists, 
+and EENT. 
+ 
+Comprehensive hearing screen codes 92585/92588 may be billed 
+for: 1) infants who fail the newborn hearing screening prior to 
+discharge from the hospital, or 2) infants/children fail a hearing 
+screening at any time following discharge. Comprehensive hearing 
+screenings should be performed on infants by three months of age 
+if they failed the newborn hearing screening prior to discharge. 
+Code 92585 is reimbursable for otolaryngologists, audiologists, 
+pediatricians, and EENT. Code 92588 is reimbursable for 
+otolaryngologists, audiologists, pediatricians, EENT, and 
+neurologists. 
+Obstetrical 
+Services 
+ Refer to Section 28.2.10 
+Oxygen and 
+Compressed 
+Gas 
+A physician's fee for administering oxygen or other compressed 
+gas is a covered service under the Medicaid program. Oxygen 
+therapy is a covered service based on medical necessity and 
+requires prior authorization. Please refer to Chapter 14, DME, for 
+more information. 
+Podiatrist 
+Service 
+Covered for QMB or EPSDT referred services only. See Chapter 
+29, Podiatrist, for more details. 
+Post Surgical 
+Visits 
+Post-surgical hospital or office visits for conditions directly related 
+to major surgical procedures are covered by the surgical fee. Post-
+surgical visits cannot be billed separately the day of, or up to 62 
+days after surgery. 
+Prosthetic 
+Devices 
+Internal prosthetic devices (e.g., Smith Peterson Nail or 
+pacemaker) are a covered benefit. 
+ 
+Psychiatric 
+Services 
+Physician visits for psychiatric services are counted as part of 
+each recipient's benefit limit of 14 physician visits per year. 
+Psychiatric evaluation or testing are covered services under the 
+Physicians' Program if services are rendered by a physician in 
+person and are medically necessary. Psychiatric evaluations are 
+limited to one per calendar year, per provider, per recipient. 
+Psychotherapy visits are included in the office visit limit of 12 visits 
+per calendar year. Office visits are not covered when billed in 
+conjunction with psychotherapy codes. 
+Psychiatric services under the Physicians' Program are confined 
+to use with psychiatric diagnosis (290-319) and must be 
+performed by a physician. 
+Hospital visits are not covered when billed in conjunction with 
+psychiatric therapy on the same day. 
+For services rendered by psychologist, see Chapter 34 for details. 
+Psychiatric day care is not a covered benefit under the Physicians' 
+Program. 
+Radiation 
+Treatment 
+Management 
+Radiation treatment management services do not need to be 
+furnished on consecutive days. Up to two units may be billed on 
+the same date of service as long as there has been a separate 
+break in therapy sessions. 
+Second 
+Opinions 
+Physician visits for second opinions are counted as part of each 
+recipient's benefit limit of 14 physician visits per year. 
+Optional Surgery: Second opinions (regarding non-emergency 
+surgery) are highly recommended in the Medicaid program when 
+the recipients request them.  
+Diagnostic Services: Payment may be made for covered 
+diagnostic services deemed necessary by the second physician. 
+ 
+October 2005 
+28-9 
+ 
+Physician  
+Self-inflicted 
+injuries 
+Self-inflicted injuries are covered. 
+Surgery 
+Cosmetic surgery is covered only when prior approved for medical 
+necessity. Examples of medical necessity include prompt repair of 
+accidental injuries or improvement of the functioning of a 
+malformed body member. 
+Elective surgery is covered when medically necessary. 
+Multiple surgeries are governed by the following rules: 
+When multiple or bilateral surgical procedures that add significant 
+time or complexity are performed at the same operative session,  
+Medicaid pays for the procedure with the highest allowed amount 
+and half of the allowed amount for each subsequent procedure. 
+This also applies to laser surgical procedures. Additional 
+payments will not be made for procedures considered to be 
+mutually exclusive or incidental. When multiple and/or bilateral 
+procedures are billed in conjunction with one another that meet 
+the definition of bundled, subset, CPT’s “Format of Terminology”, 
+and/or comprehensive/component (bundled) codes, then, the 
+procedure with the highest allowed amount will be paid while the 
+lesser procedure will not be considered for payment as the 
+procedure is considered an integral part of the covered service.. 
+Any dressing/compression wrap performed in conjunction with 
+wound debridement is considered part of the debridement 
+services and is not separately covered/billable. 
+Certain procedures are commonly carried out as integral parts of 
+a total service and as such do not warrant a separate charge. 
+When incidental procedures (e.g., excision of a previous scar or 
+puncture of an ovarian cyst) are performed during the same 
+operative session, Medicaid reimburses for the major procedure 
+only. 
+Laparotomy is covered when it is the only surgical procedure 
+performed during the operative session or when performed with an 
+unrelated or incidental surgical procedure. Surgeons performing 
+laparoscopic procedures on recipients where a laparoscopic 
+procedure code (PC) has not been established should bill the 
+most descriptive PC with modifier 22 (unusual procedural 
+services) until the new PC is established. 
+CPT defined Add-on codes are considered for coverage when 
+billed with the appropriate primary procedure code. 
+Effective January 1, 2005, code 69990 (operating microscope) 
+may be paid separately only when submitted with the following 
+CPT codes: 61304-61546, 61550-61711, 62010-62100, 63081-
+63308, 63704-63710, 64831, 64834-64836, 64840-64858, 64861-
+64870, 64885-64898, 64905-64907. 
+Certain relatively small surgical procedure codes formally 
+designated in the CPT with an (*) may be billed in addition to an 
+office visit.  Additionally, these codes do not carry the global 
+surgical package concept of inclusion of post-operative care within 
+62 days of the surgery.  In the 2004 CPT guidelines the (*) 
+designation has been removed.  For reference, these codes are 
+listed the Procedure Codes section in Chapter 28 of the Billing 
+Manual. 
+It is necessary to append the appropriate anatomical modifiers to 
+surgical codes to differentiate between multiple surgeries and 
+sites. 
+Appropriate use of CPT and HCPCs modifiers is required to 
+differentiate between sites and procedures.  Please refer to 
+Section 28.5.3 Procedure Codes and Modifiers 
+NOTE: Surgeons are responsible for submitting hard copy 
+hysterectomy and tubal ligation consent forms to EDS at PO Box 
+244032, Montgomery, AL 36124 Attn: Desiree Nelson. 
+28-10 
+October 2005 
+Physician 28 
+Surgery, Breast 
+Reconstruction 
+Breast reconstruction surgery is reimbursable following a 
+medically necessary mastectomy when performed for the removal 
+of cancer. All reconstructive procedures require prior 
+authorization. The term "reconstruction" shall include 
+augmentation mammoplasty, reduction mammoplasty, and 
+mastoplexy. Breast reconstruction surgeries are governed by the 
+following rules: 
+• 
+The reconstruction follows a medically necessary mastectomy 
+for the removal of cancer 
+• 
+The recipient is eligible for Medicaid on the date of 
+reconstruction surgery 
+• 
+The recipient elects reconstruction within two years of the 
+mastectomy surgery 
+• 
+The diagnosis codes used are appropriate 
+• 
+The surgery is performed in the manner chosen by the patient 
+and the physician in accordance with guidelines consistent 
+with Medicare and other third party payers 
+• 
+For more information regarding prior authorization, please 
+refer to Chapter 4 Obtaining Prior Authorization. For more 
+information related to breast prosthesis, please refer to 
+Chapter 14 Durable Medical Equipment. 
+Therapy 
+Physician visits for therapy are counted as part of each recipient's 
+benefit limit of 14 physician visits per year. See Rule No. 560-X-
+6.14 for details about this benefit limit in the Alabama Medicaid 
+Agency Administrative Code, Chapter 6. 
+Physical Therapy is not covered when provided in a physician's 
+office. Physical therapy is covered only when prescribed by a 
+physician and provided in a hospital setting. Refer to Chapter 19, 
+Hospital, for more information. 
+Group Therapy is a covered service when a psychiatric diagnosis 
+is present and the therapy is prescribed, performed, and billed by 
+the physician personally. Group Therapy is not covered when 
+performed by a caseworker, social services worker, mental health 
+worker, or any counseling professional other than physician. 
+Group Therapy is included in the physician visit limit of 14 visits 
+per year. 
+Speech Therapy for a speech related diagnosis, such as stroke 
+(CVA) or partial laryngectomy, is a covered benefit when 
+prescribed by and performed by a physician in his office. Speech 
+therapy performed in an inpatient or outpatient hospital setting or 
+in a nursing facility is a covered benefit, but is considered covered 
+as part of the reimbursement made to the facility and should not 
+be billed by the physician. 
+Family Therapy is a covered service when a psychiatric diagnosis 
+is present and the physician providing the service supplies 
+documentation that justifies the medical necessity of the therapy 
+for each family member. Family therapy is not covered unless the 
+patient is present. Family Therapy is not covered when performed 
+by a caseworker, social service worker, mental health worker, or 
+any counseling professional other than a physician. Family 
+Therapy is included in the physician visit limit of 14 visits per year. 
+Transplants 
+See Chapter 19, Hospitals, for transplant coverage. 
+Ventilation Study
+Ventilation study is covered if done in physician's office by the 
+physician or under the physician's direct supervision. 
+Documentation in the medical record must contain all of the 
+following: 
+• 
+Graphic record 
+• 
+Total and timed vital capacity 
+• 
+Maximum breathing capacity 
+Always indicate if the studies were performed with or without a 
+bronchodilator. 
+ 
+October 2005 
+28-11 
+ 
+Physician  
+Well Baby 
+Coverage 
+Well baby coverage is covered only on the initial visit, which must 
+be provided within eight weeks of the birth. When the well-baby 
+checkup is done, the physician should bill procedure code 99432. 
+Only one well-baby checkup can be paid per lifetime, per recipient. 
+Refer to Appendix A, EPSDT, for information on additional 
+preventive services. 
+ 
+NOTE: 
+For newborn hospital discharge services performed on a subsequent 
+admission date, use code 99238. Please use code 99435 when filing 
+claims for newborns assessed and discharged from the hospital or 
+birthing room on the same date.  
+28.2.3 
+Non-covered Services 
+Service 
+Coverage and Conditions 
+Acupuncture 
+Acupuncture is not covered. 
+After Office 
+Hours 
+The following services are not covered: After office hours, services 
+provided in a location other than the physician’s office, and office 
+services provided on an emergency basis. 
+Autopsies  
+Autopsies are not covered. 
+Biofeedback  
+Biofeedback is not covered. 
+Blood Tests  
+Blood tests are not covered for marriage licenses. 
+Casting and 
+Supplies 
+Some surgical codes are considered an inclusive package of 
+professional services and/or supplies and are not considered 
+separately allowable or reimbursable as the fracture repair or 
+surgical codes is inclusive of these services.  An example of this 
+would be a surgical code for a fracture repair which is inclusive of 
+any casting and strapping services or supplies. 
+Cerumen 
+Removal 
+When a simple instrument is used, such as a curette, or a solvent or 
+lavage is used, and the cerumen comes out easily, it is considered a 
+component of an evaluation and management charge. 
+Chiropractors  
+Chiropractic services are not covered, except for QMB recipients and 
+for services referred directly as a result of an EPSDT screening. 
+Chromosomal 
+Studies  
+Chromosomal studies (amniocentesis) on unborn children being 
+considered for adoption are not covered. 
+Medicaid can pay for these studies on prospective mothers in an 
+effort to identify conditions that could result in the birth of an 
+abnormal child. 
+Dressing and 
+Compression 
+Wrap 
+Any dressing/compression wrap performed in conjunction with 
+wound debridement is considered part of the debridement services 
+and is not separately covered/billable. 
+Experimental treatment or surgery is not covered. 
+Experimental 
+Treatment or 
+Surgery 
+Filing Fees 
+Filing Fees are not covered. 
+Hypnosis 
+Hypnosis is not covered. 
+Laetrile 
+Therapy 
+Laetrile therapy is not covered. 
+Mutually 
+Exclusive 
+Procedures 
+Mutually exclusive procedures are those codes that cannot 
+reasonably be done in the same session and are considered not 
+separately allowable or reimbursable.  For example, a vaginal and 
+abdominal hysterectomy on the same date of service. 
+Oxygen and 
+Compressed 
+Gas 
+A physician's fee for administering oxygen or other compressed gas 
+is a covered service under the Medicaid program; the cost of the 
+oxygen or gas is not covered. 
+28-12 
+October 2005 
+Physician 28 
+Service 
+Coverage and Conditions 
+When multiple and/or bilateral procedures are billed in conjunction 
+with one another and meet the CPTs definition of “Format of 
+Terminology” (bundled or subset) and/or comprehensive/component 
+(bundled) codes, then the procedure with the highest amount will be 
+paid while the procedure with the lesser amount will not be 
+considered for payment as the procedure is considered an integral 
+part of the covered service.  Please refer to Section 28.5.3 
+Procedure Codes and Modifiers. 
+ 
+Incidental surgical procedures are defined as those codes that are 
+commonly carried out as integral parts of a total service and as such 
+do not warrant a separate charge.  An example of this would be lysis 
+of adhesions during the same session as an abdominal surgery. 
+Surgery 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Post Surgical 
+Visits 
+Post-surgical hospital or office visits for conditions directly related to 
+major surgical procedures are covered by the surgical fee. Post-
+surgical visits cannot be billed separately one day prior to surgery or 
+up to 62 days after surgery. 
+Visits by Assistant Surgeon or Surgeons are not covered. 
+Preventive 
+Medicine 
+Medicaid does not cover preventive medicine other than those 
+specified elsewhere, including but not limited to, EPSDT screening. 
+Syntocin 
+Syntocin is not covered. 
+Telephone 
+Consultations 
+Telephone consultations are not covered. 
+Therapy 
+Occupational and Recreational Therapies are not covered. 
+ 
+28.2.4 
+Limitations on Services 
+Within each calendar year each recipient is limited to no more than a total 
+of 14 physician visits in offices, hospital outpatient settings, nursing 
+facilities, rural health clinics or Federally Qualified Health Centers. Visits 
+not counted under this benefit limit will include, but not be limited to, visits 
+for: EPSDT, prenatal care, postnatal care, and family planning. Physicians 
+services provided in a hospital outpatient setting that have been certified as 
+an emergency do not count against the physician benefit limit of 14 per 
+calendar year. If a patient receives ancillary services in a doctor's office, by 
+the physician or under his/her direct supervision, and the doctor submits a 
+claim only for the ancillary services but not for the office visit, then the 
+services provided will not be counted as a visit. 
+For further information regarding outpatient maintenance dialysis and 
+ESRD, refer to Chapter 35, Renal Dialysis Facility. 
+A new patient office visit codes shall not be paid to the same physician or 
+same group practice for a recipient more than once in a three-year period. 
+28.2.5 
+Physician Services to Hospital Inpatients 
+In addition to the 14 physician visits, Medicaid covers up to 16 inpatient 
+dates of service per physician, per recipient, per calendar year. For 
+purposes of this limitation, each specialty within a group or partnership is 
+considered a single provider. 
+When filing claims for recipients enrolled in the Patient 1st Program, please 
+refer to Chapter 39, Patient 1st, to determine whether your services require 
+a referral from the Primary Medical Provider (PMP). 
+ 
+October 2005 
+28-13 
+ 
+Physician  
+Physician hospital visits are limited to one visit per day, per recipient, per 
+provider. 
+Physician(s) may bill for inpatient professional interpretation(s), when that 
+interpretation serves as the official and final report documented in the 
+patient’s medical record. Professional interpretation may be billed in 
+addition to a hospital visit if the rounding physician also is responsible for 
+the documentation of the final report for the procedure in the patient’s 
+medical record. Professional interpretation may not be billed in addition to 
+hospital visits if the provider reviews results in the medical record or 
+unofficially interprets medical, laboratory, or radiology tests. Review and 
+interpretation of such tests and results are included in the evaluation and 
+management of the inpatient. Medicaid will cover either one hospital visit or 
+professional interpretation(s) up to the allowed benefit limit for most 
+services. Professional interpretations are allowed in the inpatient setting for 
+the following services: 
+Echocardiography (i.e., M-mode, transthoracic, complete and follow up) 
+Echocardiography (i.e., 2D, transesophageal) 
+Echocardiography (i.e., Doppler pulsed or continuous wave with spectral 
+display, complete and follow up) 
+Cardiac Catheterizations 
+Comprehensive electrophysiologic evaluations and follow up testing 
+Programmed stimulation and pacing 
+Intra-operative epicardial and endocardial pacing and mapping 
+Intracardiac catheter ablations; intracardiac echocardiography 
+Evaluation of cardiovascular function 
+Plethysmography, total body and tracing 
+Ambulatory blood pressure monitoring 
+Cerebrovascular arterial studies, extremity arterial studies, venous studies, 
+and visceral and penile studies 
+Circardian respiratory pattern recording (i.e., pediatric pneumogram), infant 
+Needle electromyography 
+Ischemic limb exercise test 
+Assessment of aphasia 
+Developmental testing 
+Neurobehavioral status exam and neuropsychological testing battery 
+28-14 
+October 2005 
+Physician 28 
+Professional interpretations for lab and x-ray (CPT code 70000 through 
+80000 services) in the inpatient setting can only be billed by pathologists 
+and radiologists. The only exception is for professional interpretations by 
+cardiologists for catheterization or arterial studies and for select laboratory 
+procedures by oncologists and hematologists. Professional 
+interpretations/components done by other physicians for services in this 
+procedure code range are included in the hospital visit if one is done. If no 
+hospital visit is made, professional interpretation by physicians other than 
+radiologists, pathologists, oncologists, hematologists, and cardiologists 
+should not be billed as these services are covered only for the above-
+mentioned specialties. 
+A physician hospital visit and hospital discharge shall not be paid to the 
+same physician on the same day. If both are billed, only the discharge shall 
+be paid. 
+Professional interpretations performed for an inpatient are counted by 
+dates of service rather than the number of interpretation performed. 
+An office visit and an inpatient visit shall not be paid to the same physician 
+on the same day. If both are billed, then the first Procedure Code billed will 
+be paid.  
+Physician consults are limited to one per day per recipient. 
+28.2.6 
+Critical Care 
+When caring for a critically ill patient, for whom the constant attention of the 
+physician is required, the appropriate critical care procedure code (99291 
+and 99292) must be billed. Critical care guidelines are defined in the 
+Current Procedural Terminology (CPT) and Provider Manual. Critical care 
+is considered a daily global inclusive of all services directly related to 
+critical care. These codes can only be billed for a recipient age 25 months 
+and older. 
+Coverage of critical care may total no more than four hours per day. 
+The actual time period spent in attendance at the patient's bedside or 
+performing duties specifically related to that patient, irrespective of breaks 
+in attendance, must be documented in the patient's medical record. 
+RESTRICTIONS: 
+No individual procedures related to critical care may be billed in addition to 
+procedure codes 99291 and 99292, except: 
+• 
+An EPSDT screening may be billed in lieu of the initial hospital 
+care (P/C 99221, 99222, or 99223). If screening is billed, the initial 
+hospital care cannot be billed.  
+• 
+Procedure code 99082 (transportation or escort of patient) may 
+also be billed with critical care (99291 and/or 99292). Only the 
+attending physician may bill this service and critical care. 
+Residents or nurses who escort a patient may not bill either 
+service. 
+ 
+October 2005 
+28-15 
+ 
+Physician  
+LIMITATIONS: 
+• 
+Procedure codes 99291 and 99292 may be billed by the 
+physician providing the care of the critically ill or injured patient 
+in place of service 41, Ambulance, if care is personally 
+rendered by the physician providing the care of the critically ill 
+or injured patient. 
+28.2.7 
+Pediatric and Neonatal Critical Care 
+CPT Code 
+Description 
+Criteria 
+Not valid for ages 28 
+days or less, can be 
+billed by any physician 
+provider type 
+99293 
+Initial Inpatient Pediatric 
+Critical Care, per day, for the 
+evaluation and management of 
+a critically ill infant or young 
+child, 29 days through 24 
+months of age 
+Not valid for ages 28 days 
+or less, can be billed by 
+any physician provider 
+type 
+99294 
+Subsequent Inpatient Pediatric 
+Critical Care per day, for the 
+evaluation and management of 
+a critically ill infant or young 
+child, 29 days through 24 
+months of age. 
+Not valid for ages 29 days 
+or older, can be billed by 
+any physician provider 
+type 
+99295 
+Initial Inpatient Neonatal 
+Critical Care, per day for the 
+evaluation and management of 
+a critically ill neonate, 28 days 
+of age or less 
+ 
+ 
+Not valid for ages 29 days 
+or older, can be billed by 
+any physician provider 
+type 
+99296 
+Subsequent Inpatient Neonatal 
+Critical Care, per day for the 
+evaluation and management of 
+a critically ill neonate, 28 days 
+of age or less 
+The pediatric and neonatal critical care codes (99293-99296) include 
+management, monitoring and treatment of the patient, including 
+respiratory, pharmacological control of the circulatory system, enteral and 
+parenteral nutrition, metabolic and hematologic maintenance, parent/family 
+counseling, case management services and personal direct supervision of 
+the health care team in the performance of their daily activities. 
+Routinely these codes may include any of the following services, therefore 
+these services should not be billed separately from the critical care codes 
+99293-99296: umbilical venous or umbilical arterial catheters, central or 
+peripheral vessel catheterization, other arterial catheters, oral or nasal 
+gastric tube placement, endotracheal intubation, lumbar puncture, 
+suprapubic bladder aspiration, bladder catheterization, initiation and 
+management of mechanical ventilation or CPAP, surfactant administration, 
+intravascular fluid administration, transfusion of blood components 
+(excluding exchange transfusions), vascular puncture, invasive or non-
+invasive electronic monitoring of vital signs, beside pulmonary function 
+testing, and/or monitoring or interpretation of blood gases or oxygen 
+saturation. 
+28-16 
+October 2005 
+Physician 28 
+The following criteria should be used as guidelines for the correct reporting 
+of neonatal and pediatric critical care codes for the critically ill 
+neonate/infant. Only one criterion is required to be classified as critically ill. 
+• 
+Respiratory support by ventilator or CPAP 
+• 
+Nitric oxide or ECMO 
+• 
+Prostaglandin, Indotropin of Chronotropic or Insulin infusions 
+• 
+NPO  with IV fluids 
+• 
+Acute Dialysis (renal or peritoneal) 
+• 
+Weight less than 1,250 grams 
+• 
+Acute respiratory distress in a pediatric admission requiring oxygen 
+therapy with at least daily adjustment and FIO2>35% oxygen by 
+oxyhood. 
+RESTRICTIONS: 
+No individual procedures related to critical care may be billed in addition to 
+procedure codes 99293-99296 except: 
+• 
+Chest tube placement 
+• 
+Pericardiocentesis or thoacentesis 
+• 
+Intracranial taps 
+• 
+Initial hospital care history and physical or EPSDT screen may be 
+billed in conjunction with 99295.  Both may not be billed.  NOTE:  
+One EPSDT screen for the hospitalization will encompass all 
+diagnoses identified during the hospital stay for referral purposes. 
+• 
+Standby (99360), resuscitation (99440), or attendance at delivery 
+(99436) may be billed in addition to critical care.  Only one of these 
+codes may be billed in addition to neonatal intensive care critical 
+care codes. 
+LIMITATIONS: 
+• 
+Code 99293 (initial inpatient pediatric critical care) is reported for 
+the initial evaluation and management on the first day for infants 
+29 days through 24 months of age. 
+• 
+Code 99294 (subsequent inpatient pediatric critical care) is 
+reported for subsequent days (per day) for infants 29 days 
+through 24 months of age. 
+• 
+Code 99295 (initial inpatient neonatal critical care) is reported for 
+subsequent days (per day) for neonates, 28 days of age or less. 
+ 
+October 2005 
+28-17 
+ 
+Physician  
+• 
+Code 99296 (subsequent inpatient neonatal critical care) is 
+reported for subsequent days (per day) for neonates, 28 days of 
+age or less. 
+• 
+Pediatric, neonatal critical care codes and intensive (non-critical) 
+low birth weight service codes are reported once per day per 
+recipient. 
+• 
+Subsequent Hospital Care codes (99231-99233) cannot be billed 
+on the same date of service as neonatal critical care codes 
+(99293-99296) 
+• 
+Only one unit of critical care can be billed per child per day in the 
+same facility. Medicaid pays the first claim received and denies 
+subsequent claims (first in, first out policy). 
+• 
+Critical care is considered to be an evaluation and management 
+service.  Although usually furnished in a critical or intensive care 
+unit, critical care may be provided in any inpatient health care 
+setting.  Services provided which do not meet critical care criteria, 
+should be billed under the appropriate hospital care codes. If a 
+recipient is readmitted to the NICU/ICU, the provider must be the 
+primary physician in order for NICU critical care codes to be billed 
+again. 
+• 
+Once the patient is no longer considered by the attending 
+physician to be critical, the Subsequent Hospital Care codes 
+(99231-99233) should be billed. Only one unit can be billed per 
+day per physician regardless of specialty. Medicaid pays the first 
+claim received and denies subsequent claims (first in, first out 
+policy). 
+• 
+Transfers to the pediatric unit from the NICU cannot be billed using 
+critical care codes. Subsequent hospital care would be billed in 
+these instances. 
+• 
+Global payments encompass all care and procedures that are 
+included in the rate. Providers may not perform an EPSDT screen 
+and refer to a partner or other physician to do procedures. All 
+procedures that are included in the daily critical care rate, 
+regardless of who performed them, are included in the global 
+critical care code. 
+• 
+Consultant care rendered to children for which the provider is not 
+the primary attending physician must be billed using consultation 
+codes. Appropriate procedures may be billed in addition to 
+consultations. If, after the consultation the provider assumes total 
+responsibility for care, critical care may be billed using the 
+appropriate critical care codes as defined above. The medical 
+record must clearly indicate that the provider is assuming total 
+responsibility for care of the patient and is the primary attending 
+physician for the patient. 
+28-18 
+October 2005 
+Physician 28 
+28.2.8 
+Intensive (Non-Critical) Low Birth Weight 
+Services 
+CPT Code 
+Description 
+Criteria 
+May only be billed by a 
+neonatologist 
+99298 
+Subsequent intensive care, per day, for the 
+evaluation and management of the 
+recovering very low birth 
+May only be billed by a 
+neonatologist 
+99299 
+Subsequent intensive care, per day, for the 
+evaluation and management of the 
+recovering very low birth weight infant 
+(present body weight of 1500-2500 grams) 
+These codes are used to report care subsequent to the day of admission 
+provided by a neonatologist directing the continuing intensive care of the 
+very low birthweight infant who no longer meets the definition of being 
+critically ill.  Low birthweight services are reported for neonates less than 
+2500 grams who do not meet the definition of critical care but continue to 
+require intensive observation and frequent services and intervention only 
+available in an intensive care setting. Services provided to these infants 
+exceed those available in less intensive hospital areas of medical floors.  
+These infants require intensive cardiac and respiratory monitoring, 
+continuous and/or frequent vital signs monitoring, heat maintenance, 
+enteral and/or parenteral nutritional adjustments, laboratory and oxygen 
+monitoring and constant observation by the health care team under direct 
+supervision. 
+RESTRICTIONS: 
+No individual procedures related to critical care may be billed in addition to 
+procedure codes 99298-99299 except: 
+• 
+Chest tube placement 
+• 
+Pericardiocentesis or thoracentesis 
+• 
+Intracranial taps 
+LIMITATIONS: 
+• 
+Once the patient is no longer considered by the attending 
+physician to be critical, the Subsequent Hospital Care codes 
+(99231-99233) should be billed. Only one unit can be billed per 
+day per physician regardless of specialty. Medicaid pays the first 
+claim received and denies subsequent claims (first in, first out 
+policy). 
+• 
+Global payments encompass all care and procedures that are 
+included in the rate. Providers may not perform an EPSDT screen 
+and refer to a partner or other physician to do procedures. All 
+procedures that are included in the daily critical care rate, 
+regardless of who performed them, are included in the global 
+critical care code. 
+ 
+October 2005 
+28-19 
+ 
+Physician  
+• 
+Consultant care rendered to children for which the provider is not 
+the primary attending physician must be billed using consultation 
+codes. Appropriate procedures may be billed in addition to 
+consultations. If, after the consultation the provider assumes total 
+responsibility for care, critical care may be billed using the 
+appropriate critical care codes as per the setting. The medical 
+record must clearly indicate that the provider is assuming total 
+responsibility for care of the patient and is the primary attending 
+physician for the patient. 
+• 
+Pediatric, neonatal critical care codes and intensive (non-critical) 
+low birth weight services codes are only reported once per day per 
+recipient. 
+28.2.9 
+End-Stage Renal Disease (ESRD) 
+Physician services rendered to each outpatient maintenance dialysis 
+patient provided during a full month shall be billed on a monthly capitation 
+basis using the appropriate procedure code by age as outlined in the CPT. 
+Monthly maintenance dialysis payment (i.e., uninterrupted maintenance 
+dialysis) is comprehensive and covers most of a physician’s services 
+whether a patient dialyzes at home or in an approved ESRD outpatient 
+facility.  Dialysis procedures are allowed in addition to the monthly 
+maintenance dialysis payment. In general, the Agency follows Medicare 
+guidelines related to monthly capitation payments for physicians.   
+ 
+Physician services included in the monthly capitation payment for ESRD 
+related services include, but are not limited to: 
+• 
+Assessment and determination of the need for outpatient chronic 
+dialysis therapy 
+• 
+Assessment and determination of the type of dialysis access and 
+dialyzing cycle,  
+• 
+Management of the dialysis visits including outpatient visits for 
+evaluation and management, management during the dialysis, and 
+telephone calls. 
+• 
+Assessment and determination if a recipient meets preliminary criteria 
+as a renal transplant candidate including discussions with family 
+members 
+• 
+Assessment for a specified diet and nutritional supplementation for the 
+control of chronic renal failure, including specifying quantity of total 
+protein, sodium, potassium, amount of fluids, types of anemia and 
+appropriate treatments, type of arthropathy or neuropathy and 
+appropriate treatment or referral, estimated ideal dry weight, etc. 
+Assessment for diabetic patient’s diet and caloric intake is included 
+also. 
+• 
+Prescribing the parameters of intradialytic management including 
+anticoagulant, dialysis blood flow rates and temperature, duration and 
+frequency of treatments, etc. 
+ 
+The monthly capitation payment is limited to once per month, per recipient, 
+per provider. 
+ 
+28-20 
+October 2005 
+Physician 28 
+The following services are not covered by the monthly capitation payment 
+(MCP) for the attending dialysis physicians and are reimbursed in 
+accordance with usual and customary charge rules: 
+• 
+ Declotting of shunts 
+• 
+ Covered physician services furnished to hospital inpatients by a 
+physician who elects not to receive the MCP for these service, For 
+example, an attending physician who provides evaluation and 
+management (E & M) services for a renal patient in an inpatient setting 
+may bill appropriate CPT hemodialysis procedures in lieu of certain 
+other E & M services for ipatient visits. 
+•  
+Nonrenal related physician services furnished by the physician 
+providing renal care or by another physician. (These services may not 
+be incidental to services furnished during a dialysis session or office 
+visit necessitated by the renal condition.) For example, physician 
+services rendered to hospitalized inpatient recipients who require 
+dialysis but are not receiving dialysis on that day may use the 
+appropriate procedure code as described in the CPT. 
+ 
+Physician services are allowed for outpatient maintenance dialysis patients 
+not performed as prescribed during a full month or interruptedly. An 
+example of interrupted monthly outpatient dialysis maintenance is 
+preceding and/or following the period of hospitalization. 
+ 
+The CPT codes described by age for physicians rendering outpatient 
+dialysis services that are interrupted during a full month should be billed on 
+a per day basis. These codes should be billed for the days of the month in 
+which the outpatient ESRD related services were performed.   
+ 
+Single or repeated physician assessments are allowed for hemodialysis or 
+dialysis procedures other than hemodialysis. These services are 
+comprehensive and include assessment and management related to the 
+patient’s renal dialysis. Please utilize the most descriptive and appropriate 
+CPT dialysis procedure when billing for single or repeated physician 
+evaluation(s). 
+ 
+Dialysis training is a covered service when billed by an approved ESRD 
+facility. 
+Refer to Chapter 35, Renal Dialysis Facility, for further details. 
+ 
+Parenteral Nutrition 
+Added: 
+Parenteral 
+Nutrition 
+The Alabama Medicaid Agency may reimburse for total parenteral 
+nutritional (TPN) solutions through the pharmacy program if the recipient 
+meets certain requirements as listed below.  TPN solutions include those 
+used for hyperalimentation, intradialytic parenteral nutrition (IDPN), and 
+intraperitoneal nutrition (IPN).  Requirements must be met and clearly 
+documented in the medical record for coverage of all TPN.  All services 
+rendered are subject to post payment review.   
+ 
+ 
+October 2005 
+28-21 
+ 
+Physician  
+Statement of Medical Necessity 
+The ordering physician will be responsible for writing a statement of 
+medical necessity.  This statement shall certify that the patient cannot be 
+maintained on oral or enteral feedings and that due to severe pathology of 
+the alimentary tract either hyperalimentation or IDPN/IPN must be given for 
+100% of nutritional needs.  The original signed statement of medical 
+necessity must be kept in the patient’s medical record.  This certification 
+statement must be written or stamped on the prescription or reproduced on 
+a form accompanying the prescription.  The statement must be signed and 
+dated by the certifying physician at the time of each order.   
+Hyperalimentation 
+Added: Statement of 
+Medical Necessity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Added: 
+Hyperalimentation 
+section 
+Medicaid covers hyperalimentation for recipients who meet certain 
+requirements of medical necessity and documentation in the medical 
+record is sufficient based on the following: 
+ 
+• Documentation in the medical record must validate the patient suffers 
+from a permanently impaired gastrointestinal tract and that there is 
+insufficient absorption of nutrients to maintain adequate strength and 
+weight.  The following are considered conditions which could cause 
+insufficient absorption:  
+ 
+1. Crohn’s disease 
+2. Obstruction secondary to stricture or neoplasm of the esophagus 
+or stomach  
+3. Loss of ability to swallow due to central nervous system disorder, 
+where the risk of aspiration is great 
+4. Short bowel syndrome secondary to massive small bowel 
+resection 
+5. Malabsorption due to enterocolic, enterovesical or 
+enterocutaneous fistulas (TPN temporary until the repair of the fistula) 
+6. Motility disorder (pseudo-obstruction) 
+7. Prolonged paralytic ileus following a major surgical procedure or 
+multiple injuries 
+8. Newborn infants with catastrophic gastrointestinal anomalies such 
+as tracheoesophageal fistulas, gastroschisis, omphalocele or massive 
+intestinal atresia 
+9. Infants and young children who fail to thrive due to systemic 
+disease or secondary to insufficiency associated with short bowel 
+syndrome, malabsorption or chronic idiopathic diarrhea. 
+ 
+• 
+Medical record documentation must include supporting evidence that 
+the patient cannot be maintained on oral or enteral feedings and that 
+due to severe pathology of the alimentary tract, hyperalimentation must 
+be given in order to meet 100% of the patient’s nutritional needs. 
+28-22 
+October 2005 
+Physician 28 
+• 
+Physical signs, symptoms and test results indicating severe pathology 
+of the alimentary tract must be clearly documented in the medical 
+record.  This would include BUN, serum albumin, and phosphorus.  
+Medical records must document inability to maintain weight during a 
+trial of at least four weeks of enteral feeding. 
+Intradialytic Parenteral Nutrition (IDPN) and Intraperitoneal Nutrition 
+(IPN) 
+Added: Physical 
+signs, 
+symptoms…of 
+enteral feeding 
+ 
+Added: 
+Intradialytic 
+Parenteral 
+Nutrition (IDPN) 
+and 
+Intraperitoneal 
+Nutrition (IPN) 
+section 
+IDPN and IPN involves infusing hyperalimentation fluids as part of dialysis, 
+through the vascular shunt or intraperitoneally to normalize the amounts of 
+albumin, glucose, and other nutrients in the blood stream to decrease 
+morbidity and mortality associated with protein calorie malnutrition.  IDPN 
+and IPN solutions are considered not covered for the recipient with a 
+functioning gastrointestinal tract whose need for parenteral nutrition is only 
+due to the following:  
+ 
+• 
+If IDPN or IPN is offered as an addition to regularly scheduled 
+infusions of TPN 
+• 
+If  the recipient would not qualify as a candidate for TPN 
+• 
+A swallowing disorder 
+• 
+A temporary defect in gastric emptying such as a metabolic or 
+electrolyte disorder 
+• 
+A psychological disorder, such as depression, impairing food intake 
+• 
+A metabolic disorder inducing anorexia, such as cancer 
+• 
+A physical disorder impairing food intake, such as dyspnea or severe 
+pulmonary or cardiac disease 
+• 
+A side effect of medication 
+• 
+Renal failure and/or dialysis 
+ 
+The following requirements must be met in order to bill for IDPN or IPN 
+solutions: 
+ 
+• 
+Documentation in the medical record must validate the patient suffers 
+from a permanently impaired gastrointestinal tract and that there is 
+insufficient absorption of nutrients to maintain adequate strength and 
+weight.   
+• 
+Documentation must include that the patient cannot be maintained on 
+oral or enteral feedings and that due to severe pathology of the 
+alimentary tract, IDPN or IPN must be given in order to meet 100% of 
+the patient’s nutritional needs. 
+ 
+October 2005 
+28-23 
+ 
+Physician  
+• 
+Infusions must be vital to the nutritional status of the recipient and not 
+supplemental to a deficient diet or deficiencies caused by dialysis. 
+Added: Infusions must 
+be…caused by dialysis. 
+ 
+Added: Physical signs, 
+symptoms and… 
+of enteral feeding. 
+• 
+Physical signs, symptoms and test results indicating severe pathology 
+of the alimentary tract must be clearly documented in the medical 
+record.  This would include creatinine (predialysis), serum albumin 
+(predialysis), a low or declining serum cholesterol level, and 
+phosphorus.  Medical records must document inability to maintain 
+weight during a trial of at least four weeks of enteral feeding. 
+Restrictions 
+Added: Restrictions 
+A few solutions used in TPN preparation are considered payable as part of 
+the composite rate for dialysis and should not be billed separately by the 
+pharmacist; these are as follows: 
+ 
+• 
+Glucose 
+• 
+Dextrose 
+• 
+Trace Elements 
+• 
+Multivitamins 
+28.2.10 
+Anesthesiology 
+Administration of anesthesia is a covered service when administered by or 
+directed by a duly licensed physician for a medical procedure that is 
+covered by Medicaid. Medical direction by an anesthesiologist of more than 
+four Certified Registered Nurse Anesthetists (CRNAs) or Anesthesiology 
+Assistants (AAs) concurrently will not be covered. 
+Administration of anesthesia by an AA is a covered service when the AA 
+has met the qualifications and standards set forth in Rule No. 540-X-7-.34 
+of the Alabama Board of Medical Examiners. The AA must enroll and 
+receive a provider number to bill the Alabama Medicaid Program. Refer to 
+Chapter 38, Anesthesiology, for more information. 
+28.2.11 
+Obstetrical and Related Services 
+The following policy refers to maternity care billed as fee-for-service and 
+not as a part of the Maternity Care program. Refer to Chapter 24, Maternity 
+Care Program, for more details. 
+Physician visits for obstetrical care are counted as part of each recipient's 
+benefit limit of 14 physician visits per year under the conditions listed 
+below. 
+Maternity Care and Delivery 
+The services normally provided in maternity cases include antepartum 
+care, delivery, and postpartum care. When a physician provides total 
+obstetrical care, the procedure code which shall be filed on the claim form 
+is the code for all-inclusive "global" care. The indicated date of service on 
+"global" claims should be the date of delivery. If a woman is pregnant at the 
+time she becomes eligible for Medicaid benefits, only those services 
+provided during the time she is eligible will be covered.  
+28-24 
+October 2005 
+Physician 28 
+ 
+NOTE: 
+When a physician provides eight (8) or more prenatal visits, performs 
+the delivery, and provides the postpartum care, the physician must 
+use a "global" obstetrical code in billing. 
+If a physician submits a "global" fee for maternity care and delivery, the 
+visits covered by these codes are not counted against the recipient's limit 
+of 14 physician office visits a calendar year. For purposes of "global" 
+obstetrical billing, services rendered by members of a group practice are to 
+be considered as services rendered by a single provider. 
+NOTE: 
+The date of service on the “global” OB claim must be the date of 
+delivery. 
+Antepartum care includes all usual prenatal services such as initial office 
+visit at which time pregnancy is diagnosed, initial and subsequent histories, 
+physical examinations, blood pressure recordings, fetal heart tones, 
+maternity counseling, etc.; therefore, additional claims for routine services 
+should not be filed. Antepartum care also includes routine lab work (e.g., 
+hemoglobin, hematocrit, chemical urinalysis, etc.); therefore, additional 
+claims for routine lab work should not be filed. 
+To justify billing for global antepartum care services, physicians must utilize 
+the CPT-4 antepartum care global codes (either 4-6 visits or 7 or more 
+visits), as appropriate. Claims for antepartum care filed in this manner do 
+not count against the recipient's limit of 14 office visits per year. 
+NOTE: 
+Physicians who provide less than four (4) visits for antepartum care 
+must utilize CPT-4 codes under office medical services when billing 
+for these services. These office visit codes will be counted against the 
+recipient's limit of 14 physician visits a calendar year. 
+Billing for antepartum care services in addition to "global" care is not 
+permissible. However, in cases of pregnancy complicated by toxemia, 
+cardiac problems, diabetes, neurological problems or other conditions 
+requiring additional or unusual services or hospitalization, claims for 
+additional services may be filed. If the physician bills fragmented services 
+in any case other than high-risk or complicated pregnancy and then bills a 
+"global" code, the fragmented codes shall be recouped. Claims for such 
+services involved in complicated or high risk pregnancies may be filed 
+utilizing CPT codes for Office Medical Services. Claims for services 
+involving complicated or high-risk pregnancies must indicate a diagnosis 
+other than normal pregnancy and must be for services provided outside of 
+scheduled antepartum visits. These claims for services shall be applied 
+against the recipient's limit of 14 physician office visits a calendar year. 
+ 
+October 2005 
+28-25 
+ 
+Physician  
+Delivery and Postpartum Care 
+Delivery shall include vaginal delivery (with or without episiotomy) or 
+cesarean section delivery and all in-hospital postpartum care. More than 
+one delivery fee may not be billed for a multiple birth (twins, triplets, etc.) 
+delivery, regardless of delivery method(s). Delivery fees include all 
+professional services related to the hospitalization and delivery which are 
+provided by the physician; therefore, additional claims for physician's 
+services in the hospital such as hospital admission, may not be filed in 
+addition to a claim for delivery or a claim for "global" care. 
+EXCEPTION: When a physician's first and only encounter with the 
+recipient is for delivery ("walk-in" patient) he may bill for a hospital 
+admission (history and physical) in addition to delivery charges. 
+Postpartum care includes office visits following vaginal or cesarean section 
+delivery for routine postpartum care within 62 days post delivery. Additional 
+claims for routine visits during this time should not be filed.  
+Delivery Only 
+If the physician performs the delivery only, he must utilize the appropriate 
+CPT-4 delivery only code (vaginal delivery only or C-section delivery only). 
+More than one delivery fee may not be billed for a multiple birth (twins, 
+triplets, etc.) delivery, regardless of the delivery method(s). Delivery fees 
+include all professional services related to the hospitalization and delivery 
+which are provided by the physician; therefore, additional claims for 
+physician's services in the hospital such as hospital admission, may not be 
+filed in addition to a claim for delivery only. 
+EXCEPTION: When a physician's first and only encounter with the 
+recipient is for delivery ("walk-in" patient) he may bill for a hospital 
+admission (history and physical) in addition to delivery charges. 
+Ultrasounds 
+Obstetrical ultrasounds are limited to two per pregnancy. For patients 
+covered under the maternity care waiver, refer to Chapter 24, Maternity 
+Care Program. Generally, first ultrasounds are conducted to detect 
+gestational age, multiple pregnancies, and major malformations. Second 
+ultrasounds may be conducted to detect fetal growth disorders (intrauterine 
+growth retardation, macrosomia) and anomalies that would appear later or 
+may have been unrecognizable in the earlier scan. 
+Additional ultrasounds may be prior approved by the Alabama Medicaid 
+Agency if a patient's documented medical condition meets any of the 
+following criteria: 
+• 
+Gestational diabetes with complications (Type 1 diabetes, vascular 
+disease, hypertension, elevated alpha-fetoprotein values, poor patient 
+compliance) 
+• 
+Failure to gain weight, evaluation of fetal growth 
+• 
+Pregnancy-induced hypertension 
+• 
+Vaginal bleeding of undetermined etiology 
+• 
+Coexisting adnexal mass 
+• 
+Abnormal amniotic fluid volume (polyhydramnios, oligohydramnios) 
+28-26 
+October 2005 
+Physician 28 
+• 
+Pregnant trauma patient 
+• 
+Congenital diaphragmatic hernia (CDH) 
+• 
+Monitoring for special tests such as fetoscopy, amniocentesis, or 
+cervical cerclage placement 
+• 
+Assist in operations performed on the fetus in the uterus 
+• 
+Detection of fetal abnormalities with other indicators or risk factors 
+(Low human chronic gonadotrophin (HCG) and high-unconjugated 
+estriol (uE3) are predictive of an increased risk for Trisomy 18. 
+Echogenic bowel grades 2 and 3 are indicative of an increased risk of 
+cystic fibrosis and Trisomy 21) 
+• 
+Determination of fetal presentation 
+• 
+Suspected multiple gestation, serial evaluation of fetal growth in 
+multiple gestation 
+• 
+Suspected hydatidiform mole 
+• 
+Suspected fetal death 
+• 
+Suspected uterine abnormality 
+• 
+Suspected abrupt placenta 
+• 
+Follow-up evaluation of placental location for identified placenta previa 
+• 
+Maternity Care subcontractors should contact the Primary Contractor 
+for information regarding obstetrical ultrasounds. 
+To determine if a procedure requires prior authorization, providers should 
+use the AVRS line at EDS, 1-800-727-7848. 
+28.2.12 
+Vaccines For Children (VFC) 
+The Department of Public Health provides vaccines at no charge to 
+Medicaid providers enrolled in the Vaccines For Children (VFC) Program 
+as recommended by the Advisory Committee on Immunization. 
+Medicaid reimburses administration fees for vaccines provided free of 
+charge through the VFC Program. The rate for the administration fee is 
+$8.00; it is not the rate on the pricing file. Please refer to Appendix A, Well 
+Child Check-Up, Section A.6.1 (Fees) for information regarding the use of 
+designated VFC codes for billing immunization administration fee(s). 
+A VFC provider may or may not choose to become an enrolled Medicaid 
+provider. Enrollment as a VFC provider or a Medicaid provider is 
+independent of each other. 
+Refer to Appendix A, EPSDT, for procedure codes for VFC. 
+28.2.13 
+Lab Services 
+Collection of laboratory specimens may be billed only when sending 
+specimens to another site for analysis if the other site is not owned, 
+operated, or financially associated with the site in which the specimen was 
+collected.  The collection fee may not be billed if the lab work is done at the 
+same site where the specimen was collected or in a lab owned, operated, 
+or financially associated with the site in which the specimen was collected.  
+ 
+October 2005 
+28-27 
+ 
+Physician  
+Providers will not be paid for and should not submit claims for laboratory 
+work done for them by independent laboratories or by hospital laboratories.   
+Providers may submit claims for laboratory work done by them in their own 
+offices or own laboratory facilities.  Providers who send specimens to 
+independent laboratories for analysis may bill a collection fee.  This fee 
+shall not be paid to any provider who has not actually extracted the 
+specimen from the patient. 
+NOTE: 
+Providers should use procedure code 36415-90 for routine venipuncture 
+collection, 36416-90 for collection of capillary blood specimen (e.g., finger, 
+heal, ear stick) and Q0091-90 for collection of Pap smear specimen. 
+ 
+Repeat Lab Procedures 
+Modifier 91 may be utilized to denote a repeat clinical laboratory test 
+performed on the dame date of service for the same recipient.  Providers 
+should use modifier 91 instead of modifier 76 for repeat lab procedures. 
+NOTE: 
+A physician CANNOT bill the following pathology/laboratory procedure 
+codes, however the above collection fee can be billed, if applicable: 
+ 
+82775 Galactose – 1 – phosphate uridyl transferase; quantitative 
+83498 Hydroxyprogesterone, 17 – d 
+84030 Phenylalanine (PKU) blood 
+84437 Thyroxine; total requiring elution (e.g., neonatal) 
+28.2.14 
+Supply Code 
+The procedure code 99070 is utilized by physicians to bill for supplies and 
+materials over and above those usually included with the office visit. 
+Examples of supplies and materials over and beyond usual supplies 
+include elastic wraps, disposable tubing for bronchial dilating equipment or 
+post-operative dressing changes when no office visit is allowable. 
+28.3 
+Prior Authorization and Referral Requirements 
+Medical care and services that require prior authorization for in-state 
+providers will continue to require prior authorization for out-of-state 
+providers, e.g., organ transplants and select surgical procedures. Please 
+refer to Chapter 4, Obtaining Prior Authorization for more information. 
+Unlisted services and procedure codes are not covered by the Alabama 
+Medicaid Agency, with the exception of Medicare crossover claims and 
+rare instances when approval is granted prior to service provision after the 
+agency has determined that the service is covered and that no other 
+procedure code exists for reimbursement. 
+28.4 
+Cost Sharing (Copayment) 
+The copayment amount for physician office visit (including crossovers, and 
+optometric) is $1.00 per visit. Copayment does not apply to services 
+provided for pregnant women, nursing facility residents, recipients less 
+than 18 years of age, emergencies, and family planning. 
+28-28 
+October 2005 
+Physician 28 
+The provider may not deny services to any eligible Medicaid recipient 
+because of the recipient’s inability to pay the cost-sharing (copayment) 
+amount imposed. 
+28.5 
+Completing the Claim Form 
+To enhance the effectiveness and efficiency of Medicaid 
+processing, providers should bill Medicaid claims electronically. 
+Physicians who bill Medicaid claims electronically receive the 
+following benefits: 
+• 
+Quicker claim processing turnaround 
+• 
+Immediate claim correction 
+• 
+Enhanced online adjustment functions 
+ 
+�Electronic 
+claims 
+submission 
+can save you 
+time and 
+money. The 
+system alerts 
+you to 
+common 
+errors and 
+allows you to 
+correct and 
+resubmit 
+claims online. 
+• 
+Improved access to eligibility information 
+Refer to Appendix B, Electronic Media Claims Guidelines, for more 
+information about electronic filing.  
+NOTE: 
+When filing a claim on paper, a CMS-1500 claim form is required. 
+Medicare-related claims must be filed using the Medical 
+Medicaid/Medicare-related Claim Form. 
+This section describes program-specific claims information. Refer to 
+Chapter 5, Filing Claims, for general claims filing information and 
+instructions. 
+28.5.1 
+Time Limit for Filing Claims 
+Medicaid requires all claims for physicians to be filed within one year of the 
+date of service. Refer to Section 5.1.5, Filing Limits, for more information 
+regarding timely filing limits and exceptions. 
+28.5.2 
+Diagnosis Codes 
+The International Classification of Diseases - 9th Revision - Clinical 
+Modification (ICD-9-CM) manual lists required diagnosis codes. These 
+manuals may be obtained by contacting the American Medical Association, 
+P.O. Box 10950, Chicago, IL 60610. 
+NOTE: 
+ICD-9 diagnosis codes must be listed to the highest number of digits 
+possible (3, 4, or 5 digits). Do not use decimal points in the diagnosis code 
+field. 
+ 
+October 2005 
+28-29 
+ 
+Physician  
+ 
+28.5.3 
+Procedure Codes and Modifiers 
+Medicaid uses the Healthcare Common Procedure Coding System 
+(HCPCS). HCPCS is composed of the following: 
+• 
+American Medical Association’s Current Procedural Terminology 
+(CPT) 
+• 
+Nationally assigned codes developed for Medicare 
+• 
+Locally assigned codes issued by Medicaid.  Effective for dates of 
+service on or after 01/01/2004, use national codes.   
+Filing Claims with Modifiers 
+Appropriate use of CPT and HCPCs modifiers is required to differentiate 
+between sites and procedures.  It is necessary to append the appropriate 
+anatomical modifiers to surgical codes to differentiate between multiple 
+surgeries and sites. 
+Appropriate Use of Modifiers 
+Modifier 59 (Distinct Procedural Service) 
+ 
+According to the CPT book, modifier 59 is described as being necessary to 
+describe a distinct procedural service.  This modifier should only be used to 
+show a distinct procedural service when a comprehensive/component 
+coding pair is billed.  Modifier 59 should not be billed to represent that 
+multiple services of the same procedure code were performed. 
+ 
+A comprehensive/coding pair occurs when one code is considered a 
+component procedure and the other code is considered a comprehensive 
+procedure.  These code pairs are frequently referred to as bundled codes 
+thus meaning the component code is usually considered an integral part of 
+the comprehensive code.  Therefore, in most instances the most 
+comprehensive code only should be billed and the component code should 
+be denied as rebundled or mutually exclusive. 
+ 
+Modifier 59 should only be used in conjunction with a 
+comprehensive/coding pair procedure when appropriately unbundling the 
+code pair.  This modifier 59 should not be billed with the comprehensive 
+code.  The component code can be unbundled, or allowed separately, in 
+certain situations.  If the two services are performed at two different times 
+of day or the services are performed in two different anatomical sites, then 
+modifier 59 can be submitted with the component procedure code.   
+In order to communicate the special circumstances of the 
+component/comprehensive code pair unbundling, diagnoses codes and 
+anatomical modifiers must be utilized as appropriate on the claim form.  In 
+some cases, it may be necessary to attach a copy of the Operative Report 
+to further explain the reason for the unbundling of code pairs. 
+ 
+Modifier 59 should never be used in any other circumstances and is 
+subject to post payment review.  If the services performed and billed for a 
+date of service does not include a coding pair described above, then 
+modifier 59 is not valid or appropriate. 
+28-30 
+October 2005 
+Physician 28 
+ 
+NOTE: 
+Modifier 59 is not to be used with Physician's Current Procedural 
+Terminology (CPT) codes 99201-99499 or 77419-77430. 
+ 
+Modifier 76 (Repeat Procedure) 
+ 
+Prior to January 1, 2004, providers were advised to file multiple services 
+with modifiers Y2-Y9 and Z2-Z3 to avoid services being denied as 
+duplicates.  Since these modifiers have been eliminated, we are revising 
+instructions for filing multiple services that are performed on the same 
+day.  . The appropriate use of CPT and HCPCS codes is required when 
+filing claims.  In addition, diagnosis codes and modifiers should assist with 
+accurately describing services billed.  It is necessary to append the 
+appropriate anatomical modifiers to procedure codes to differentiate 
+between multiple sites.  If a claim drops for manual review, the 
+appropriate use of diagnosis codes and modifiers may assist claim 
+reviewers in determining the intent of billing without having to request 
+documentation.  As always, providers can continue to file modifiers RT 
+and LT when two of the same procedure is performed and one is on the 
+right side and one is on the left side of the body.  However, if more than 
+one service is performed on the right or left side, services could be denied 
+as duplicates if more than one RT or LT modifier is filed on the same 
+procedure code.  Modifier 76 is defined by the CPT as “Repeat Procedure 
+by Same Physician”.  Therefore, we are providing the following 
+instructions to educate providers on how to submit those services. 
+ 
+1) If multiple services are performed, anatomical modifiers can be filed in 
+addition to modifier 76 on the second line item.  Anatomical modifiers are:  
+LT, RT, E1-E4, F1-F9, FA, T1-T9, and TA. 
+ 
+Date of Service Place 
+Procedure 
+Number of Services 
+2/4/03-2/4/03 
+11 
+73580-RT 
+1 
+2/4/03-2/4/03 
+11 
+73580-RT76 
+1 
+ 
+2) If multiple services are performed, anatomical modifiers can be used 
+without modifier 76. 
+ 
+Date of Service Place 
+Procedure 
+Number of Services 
+2/4/04-2/4/03 
+11 
+28820-T8 
+1 
+2/4/03-2/4/03 
+11 
+28820-TA 
+1 
+ 
+Multiple services (excluding most surgeries) can also be filed with multiple 
+units of service.  Modifier 76 is defined as “repeat procedure by same 
+physician”. The Agency requires claims filed with multiple units of service be 
+submitted as shown below.  
+ 
+3)  The first line must be submitted with only one unit of service and the 
+second line with modifier 76 can show the additional number of services that 
+were performed that day. 
+ 
+Date of Service Place 
+Procedure 
+Number of Services 
+2/4/03-2/4/03 
+11 
+88305-TC 
+1 
+2/4/03-2/4/03 
+11 
+88305-TC76 
+3 
+ 
+October 2005 
+28-31 
+ 
+Physician  
+ 
+Modifier 50 (Bilateral Procedures) 
+ 
+Modifier 50 represents a bilateral service was performed.  For example, if 
+bilateral joint injections are administered into the shoulders, the services 
+should be filed as follows: 
+ 
+Date of Service Place 
+Procedure 
+Number of Services 
+2/4/03-2/4/03 
+11 
+20610-50 
+1 
+ 
+There should be only one line item submitted with modifier 50, one unit of 
+service and a submitted amount to cover both procedures.  The modifier 50 
+instructs our system to pay for the procedure with the highest allowed 
+amount and half of the allowed amount for each subsequent procedure. 
+ 
+Procedure Codes 
+The CPT manual lists most procedure codes required by Medicaid. This 
+manual may be obtained by contacting the Order Department, American 
+Medical Association, 515 North State Street, Chicago, IL 60610-9986.  The 
+(837) Professional electronic claim and the paper claim have been modified 
+to accept up to four Procedure Code Modifiers. 
+NOTE: 
+Unlisted procedure codes are not covered by the Agency unless the 
+provider requested and received approval for a prior authorization before 
+the service is rendered.  The Agency will deny all requests for payment of 
+unlisted codes after the fact. 
+Physician-Employed Physician Assistants (PA) and Certified 
+Registered Nurse Practitioners (CRNP) 
+Payment will be made only for physician drugs identified in Appendix H, 
+Alabama Medicaid Physician Drug List, CPT codes identified in Appendix O, 
+CRNP and PA Services, and laboratory services, which are CLIA certified. 
+EPSDT screenings will be covered only if the provider is enrolled in that 
+program. Refer to Appendix A, EPSDT, for EPSDT program requirements. 
+The Physician's Assistant or CRNP can make physician required inpatient 
+visits to nursing facilities. However, physician required inpatient visits to 
+hospitals or other institutional settings cannot be made by a PA or CRNP. 
+Also, the PA or CRNP may provide low complexity or straightforward 
+medical decision-making services in the emergency room or assist at 
+surgery (identified surgical codes only) for Medicaid reimbursement.  
+ 
+Surgical Procedure Codes Not Included in Global Surgical Package 
+ 
+Certain relatively small surgical procedure codes formally designated in the 
+CPT with an (*) may be billed in addition to an office visit.  Additionally, 
+these codes do not carry the global surgical package concept of inclusion of 
+post-operative care within 62 days of the surgery.  In the 2004 CPT 
+guidelines the (*) designation has been removed.  For reference, these 
+codes are listed below the covered services section in Chapter 28 of the 
+Billing Manual. 
+28-32 
+October 2005 
+Physician 28 
+Surgical Procedure Code Modifiers 
+When submitting claims for procedures done on the same date of service, a 
+modifier is required to indicate that the repeated service is not a duplicate. If 
+the same provider performs the repeat procedure, use modifier 76.  
+For repeat procedures done on the same date of service by a different 
+provider, use modifier 77. Claims submitted for repeat procedures on the 
+same date of service without modifiers are denied as duplicate services. 
+Modifier 
+Description 
+76 
+Repeat Procedure By Same Physician.  Modifier indicates a procedure of 
+service is repeated by the same physician subsequent to the original 
+service.  This situation may be reported by adding modifier 76 to the five-
+digit procedure code. 
+77 
+Repeat Procedure By Another Physician modifier indicates that a basic 
+procedure performed by another physician had to be repeated. This 
+situation may be reported by adding modifier 77 to the five-digit 
+procedure code. 
+59 
+Distinct procedural service modifier indicates that a service or procedure 
+was distinct or separate from other services performed on the same day. 
+This may represent a different session or patient encounter, different 
+procedure or surgery, different site, separate lesion, or separate injury (or 
+area of injury in extensive injuries). 
+ 
+ 
+Procedure Codes 
+ 
+58100 
+58300 
+58340 
+58350 
+59000 
+59020 
+59030 
+60000 
+61000 
+61001 
+61020 
+61026 
+61050 
+61055 
+61070 
+61105 
+61107 
+61210 
+62268 
+62269 
+62270 
+62272 
+62273 
+62280 
+62281 
+62282 
+62284 
+62290 
+62291 
+64400 
+36000 
+36405 
+36406 
+36410 
+36415 
+36440 
+36470 
+36471 
+36488 
+36489 
+36490 
+36491 
+36510 
+36600 
+36660 
+38300 
+40800 
+40804 
+41000 
+41005 
+41250 
+41251 
+41252 
+41800 
+42000 
+42300 
+42310 
+42320 
+42400 
+42650 
+10040 
+10060 
+10080 
+10120 
+10140 
+10160 
+11000 
+11200 
+11300 
+11305 
+11310 
+11730 
+11900 
+11901 
+12001 
+12002 
+12004 
+12011 
+12013 
+12031 
+12032 
+12041 
+12051 
+15786 
+16020 
+16025 
+17000 
+17110 
+17250 
+17260 
+ 
+October 2005 
+28-33 
+ 
+Physician  
+ 
+Procedure Codes 
+ 
+42660 
+42700 
+43450 
+43760 
+45900 
+45905 
+45915 
+46030 
+46050 
+46080 
+46320 
+46900 
+46910 
+47000 
+48102 
+49080 
+49081 
+49180 
+49400 
+49420 
+50200 
+50390 
+50398 
+50688 
+51000 
+51005 
+51600 
+51700 
+51705 
+51710 
+53600 
+53601 
+53620 
+53621 
+53660 
+53661 
+54050 
+54055 
+54200 
+55000 
+55100 
+56405 
+56420 
+56605 
+56606 
+56720 
+57020 
+57100 
+57150 
+57160 
+57400 
+57410 
+57452 
+57454 
+17270 
+17280 
+17340 
+17360 
+17380 
+19000 
+19100 
+20000 
+20206 
+20500 
+20501 
+20520 
+20525 
+20550 
+20600 
+20605 
+20610 
+20650 
+20665 
+20670 
+21100 
+21315 
+21355 
+23700 
+24640 
+27086 
+27256 
+27257 
+27275 
+27605 
+27860 
+28001 
+28002 
+28190 
+28630 
+28635 
+28660 
+28665 
+30000 
+30020 
+30200 
+30210 
+30300 
+30560 
+30801 
+30901 
+30903 
+30905 
+30906 
+31000 
+31002 
+32000 
+32400 
+32420 
+64402 
+64405 
+64408 
+64410 
+64412 
+64413 
+64415 
+64417 
+64418 
+64420 
+64421 
+64425 
+64430 
+64435 
+64445 
+64450 
+64505 
+64508 
+64510 
+64520 
+64530 
+65205 
+65210 
+65220 
+65222 
+65270 
+65410 
+65430 
+65435 
+65800 
+65805 
+66030 
+67500 
+67515 
+67700 
+67710 
+67715 
+67810 
+67820 
+67825 
+67840 
+67850 
+68135 
+68200 
+68440 
+68801 
+68810 
+68840 
+68850 
+69000 
+69020 
+69420 
+69421 
+69433 
+28-34 
+October 2005 
+Physician 28 
+ 
+Procedure Codes 
+ 
+32960 
+33010 
+33011 
+57500 
+57511 
+57800 
+ 
+Professional and Technical Components 
+Some procedure codes in the 70000, 80000, 90000, and G series are a 
+combination of a professional component and a technical component. 
+Therefore, these codes may be billed one of three different ways; (1) as a 
+global, (2) as a professional component, or (3) as a technical component. 
+NOTE: Not all providers are allowed to bill any or all of the three ways to 
+bill. Specific coverage questions should be addressed to the Provider 
+Assistance Center. 
+• 
+Global, the provider must own the equipment, pay the technician, 
+review the results, and provide a written report of the findings. The 
+procedure code is billed with no modifiers. The Global component 
+should be billed only for the following place of service locations: 
+− 
+11 (Office) 
+− 
+81 (Independent Laboratory) 
+• 
+Professional component, the provider does not own or operate the 
+equipment. The provider reviews the results, and provides a written 
+report of the findings. The Radiological professional component is 
+billed by adding modifier 26 to the procedure code, and should be 
+billed only for the following place of service locations: 
+− 
+21 (inpatient hospital) 
+− 
+22 (outpatient hospital) 
+− 
+23 (emergency room - hospital) 
+− 
+51 (inpatient psychiatric facility) 
+− 
+61 (comprehensive inpatient rehab facility) 
+− 
+62 (comprehensive outpatient rehab facility) 
+− 
+65 (end-stage renal disease facility) 
+− 
+81 (Independent Laboratory) 
+• 
+Technical component, the provider must own the equipment, but 
+does not review and document the results. The technical component 
+charges are the facility’s charges and are not billed separately by 
+physicians. The technical component is billed by adding modifier TC to 
+the procedure code. The technical component can only be billed by 
+facilities. 
+28.5.4 
+Billing for Patient 1st Referred Service 
+Please refer to Chapter 39 for information regarding the Patient 1st 
+Program and Patient 1st referrals.  Please refer to Chapter 5, Filing Claims, 
+for information regarding filing claims for a Patient 1st referral.  
+ 
+ 
+October 2005 
+28-35 
+ 
+Physician  
+28.5.5 
+Place of Service Codes 
+The following place of service codes apply when filing claims for 
+physicians: 
+POS 
+Description 
+11 
+Office 
+12 
+Home 
+21 
+Inpatient Hospital 
+22 
+Outpatient Hospital 
+23 
+Emergency Room - Hospital 
+24 
+Ambulatory Surgical Center 
+25 
+Birthing Center 
+26 
+Military Treatment Facility 
+31 
+Skilled Nursing Facility or Nursing Facility 
+32 
+Nursing Facility 
+33 
+Custodial Care Facility 
+34 
+Hospice 
+41 
+Ambulance - Land 
+42 
+Ambulance - Air or water 
+51 
+Inpatient Psychiatric Facility 
+52 
+Psy. Fac. Partial Hospitalization 
+53 
+Community Mental Health Center 
+54 
+Intermediate Care Fac./Mentally Retarded 
+55 
+Residential Substance Abuse Treatment Facility 
+56 
+Psychiatric Residential Treatment Center 
+61 
+Comprehensive Inpatient Rehabilitation Facility 
+62 
+Comprehensive Outpatient Rehabilitation Facility 
+65 
+End Stage Renal Disease Treatment Facility 
+71 
+State or Local Public Health Clinic 
+72 
+Rural Health Clinic 
+ 
+28.5.6 
+Required Attachments 
+To enhance the effectiveness and efficiency of Medicaid processing, your 
+attachments should be limited to the following circumstances: 
+• 
+Claims With Third Party Denials 
+NOTE: 
+When an attachment is required, a hard copy CMS-1500 claim form 
+must be submitted. 
+Refer to Section 5.7, Required Attachments, for more information on 
+attachments. 
+28.5.7 
+Consent Forms Required Before Payments 
+Can Be Made 
+NOTE: 
+EDS will NOT pay any claims to ANY provider until a correctly 
+completed original of the appropriate form is on file at EDS. 
+28-36 
+October 2005 
+Physician 28 
+Abortions 
+In accordance with federal law, abortions are covered only (1) if the 
+pregnancy is the result of an act of rape or incest; or (2) where a woman 
+suffers from a physical disorder, physical injury, or physical illness, 
+including a life-endangering physical condition caused by or arising from 
+the pregnancy itself, that would, as certified by a physician, place the 
+woman in danger of death unless an abortion is performed. 
+Please refer to Appendix E, Medicaid Forms, for a copy of the PHY-96-2 
+Certification and Documentation for Abortion form, which is used when the 
+pregnancy is causing the life of the mother to be in danger. In the case of 
+abortions performed secondary to pregnancies resulting from rape or 
+incest, the documentation required is a letter from the recipient or provider 
+certifying that the pregnancy resulted from rape or incest. 
+• 
+The original copy of the PHY-96-2 form (for life of the mother in 
+danger) signed by the attending physician, or the certification letter 
+regarding rape or incest, and a copy of the medical records (history 
+and physical, operative report and discharge summary) must be 
+submitted to EDS. 
+• 
+The second copy of the consent form or certification letter must be 
+placed in the recipient’s medical record. 
+• 
+Copies of the consent form or certification letter may need to be 
+provided to hospital, laboratory or other providers as applicable in 
+order for them to submit billing for their services. 
+All claims relating to abortions must have the above-specified 
+documentation on file at EDS prior to payment. 
+ 
+This documentation is not required when a recipient presents with a 
+spontaneous abortion. 
+ 
+If the recipient does not qualify for payment by Medicaid and elects to have the 
+abortion, providers may bill the recipient for the abortion as a non-covered 
+service. 
+Sterilization 
+EDS must have on file the Medicaid-approved sterilization form. Refer to 
+Appendix C, Family Planning, for more information. 
+Sterilization by Hysterectomy 
+Payment is not available for a hysterectomy if: 
+1. It was performed solely for the purpose of rendering an individual permanently 
+incapable of reproducing 
+2. If there was more than one purpose to the procedure, it would not have been 
+performed but for the purpose of rendering the individual permanently 
+incapable of reproducing 
+Hysterectomy procedures performed for the sole purpose of rendering an 
+individual incapable of reproducing are not covered under Medicaid. 
+Hysterectomies done as a medical necessity as treatment of disease can be 
+paid for by the Medicaid funds under the physician's program. 
+ 
+October 2005 
+28-37 
+ 
+Physician  
+ 
+NOTE: 
+Sterilization performed for the sole purpose of rendering a person 
+permanently incapable of reproducing is not available to persons under 
+twenty-one (21) years of age under the Medicaid Program. 
+Refer to Appendix E, Medicaid Forms, for a sample of the sterilization form. 
+Hysterectomy 
+The hysterectomy consent form was recently revised. The form was revised to 
+include a section for unusual circumstances. Now this form can be used by a 
+physician to certify a patient was already sterile when the hysterectomy was 
+performed; a hysterectomy was performed under a life threatening situation; 
+or a hysterectomy was performed under a period of retroactive Medicaid 
+eligibility. In all of these circumstances, medical records must be forwarded to 
+EDS along with the hysterectomy consent form and claim(s) in order for a 
+State review to be performed. 
+NOTE: 
+The doctor’s explanation to the patient that the operation will make her 
+sterile and the doctor’s and recipient’s signature must precede the 
+operation except in the case of medical emergency. 
+ 
+It is also important to note that certain fields on the hysterectomy consent form 
+are non-correctable. The non-correctable fields include the recipient’s 
+signature and date of signed informed consent, the provider’s signature and 
+date of informed consent and the representative’s signature and date of 
+informed consent (if the recipient requires a representative to sign for them). If 
+a non-correctable field is missing, contains invalid information or indicates the 
+recipient/representative or physician signed after the date of surgery, EDS will 
+deny the consent form. 
+EDS must have on file a Medicaid-approved Hysterectomy Consent Form. 
+The revised hysterectomy consent form (form # PHY-81243) becomes 
+effective January 1, 2004. Instructions for completing the consent form will be 
+on the back of the consent form. See Appendix E, Medicaid Forms, or visit our 
+website for a sample copy of this form.  
+Please note, only the surgeon should submit a hysterectomy consent form to 
+EDS. All other providers should not request and submit copies of the consent 
+form. Multiple copies slow down the consent form review and claims payment 
+process. 
+Exceptions That Do Not Require Consent 
+If the following situations, the consent form is not required. If consent is not 
+required, the reason must be stated on the claim.  
+1. The physician who performed the hysterectomy certifies in writing that the 
+patient was already sterile when the hysterectomy was performed; the cause 
+of sterility must be stated in this written statement.  
+28-38 
+October 2005 
+Physician 28 
+2. The physician who performed the hysterectomy certifies in writing that the 
+hysterectomy was performed under a life-threatening emergency situation in 
+which prior acknowledgement was not possible. This written statement must 
+include a description of the nature of the emergency.  
+3. The hysterectomy was performed during a period of retroactive Medicaid 
+eligibility, and the physician who performed the hysterectomy submits, in lieu 
+of the consent form, a written statement certifying that the individual was 
+informed before the operation that the hysterectomy would make her sterile. 
+NOTE: 
+Medicaid payment cannot be made for any claims for services 
+provided in connection with an abortion, a sterilization procedure or a 
+hysterectomy for medical reasons unless an approved consent form is 
+on file. Please be aware consent for sterilization is different from 
+consent for hysterectomy. See Appendix M, Medicaid Forms, for 
+examples of each. 
+ 
+28.6 
+For More Information 
+This section contains a cross-reference to other relevant sections in the 
+manual. 
+Resource 
+Where to Find It 
+CMS-1500 Claim Filing Instructions 
+Section 5.2 
+Medical Medicaid/Medicare-related Claim Filing 
+Instructions 
+Section 5.6.1 
+Anesthesiology 
+Chapter 38 
+EPSDT 
+Appendix A 
+Electronic Media Claims (EMC) Submission 
+Guidelines 
+Appendix B 
+Family Planning 
+Appendix C 
+Alabama Medicaid Injectable Drug List 
+Appendix H 
+AVRS Quick Reference Guide 
+Appendix L 
+Alabama Medicaid Contact Information 
+Appendix N 
+CRNP and PA Services 
+Appendix O 
+ 
+ 
+October 2005 
+28-39 
+ 
+Physician  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This page is intentionally left blank. 
+28-40 
+October 2005 

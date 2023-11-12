@@ -1,0 +1,112 @@
+Chatham, Massachusetts
+Sewage Discharge Permit Regulation
+Contact: Terence Hayes
+R.S.Health Agent
+(508)945-2793
+Health Regulation
+Adopted: 1989
+CHATHAM BOARD OF HEALTH
+SEWAGE DISCHARGE PERMIT
+Regulation
+BOH-4-88
+Authority:     These regulations are adopted by the Chatham Board of Health under the auspices
+of Massachusetts General Laws, Chapter 111, Section 31.
+Effective Date: April 15, 1989
+Purposes: To protect the groundwater from contamination which may result from residential
+and commercial development, including but not limited to, concentrated sewage disposal.
+Applicability: Ml proposed subsurface disposal systems or group of systems located on the lot(s)
+that they serve for a new or existing project* or development with a design sewage flow of 2,000
+gallons per day or greater. (Subdivisions comprised of single-family house lots are exempt from
+this regulation.) A Sewage Discharge  Permit acquired after approval by the Board of Health will
+be issued for all subsurface disposal systems with a sewage flow of 2000 gallons or greater.
+Procedure: The Board of Health will issue a sewage discharge permit only after the applicant has
+met the following procedures and standards: The applicant(s) must demonstrate by written report
+(prepared by qualified professionals) to the satisfaction of the Board that drinking water
+standards (as well as 5 mg/I nitrogen) will be met at the down gradient property limit; and that
+surface water standards will be met at downgradient lakes and ponds (0.05 mg/I phosphorus) and
+in estuaries and salt ponds (0.50 mg/I nitrogen). This procedure shall be followed for all down
+gradient ponds, lakes, rivers, coastal waters and other water bodies in the Town of Chatham,
+including but not limited to, Muddy River, Crow's Pond, Ryder's Cove, Frost Fish Creek, Stage
+Harbor, Mitchell River, Mill Pond, Oyster River, Oyster Pond, Sulphur Springs, Buck's Creek,
+Taylor's Pond, Eel River, Cockle Cove Creek, Red River, Mill Pond (South Chatham), Goose
+Pond, Schoolhouse Pond, Stillwater Pond, Lover's Lake, White Pond, Ryder's Pond, Barclay's
+Pond, Perch Pond, Black Pond, Blue Pond and Emery Pond.
+The written report shall be based upon the following scope of work:
+a.   Geologic borings of location and number sufficient to demonstrate soil conditions and
+groundwater flow on the lot(s).
+b.   Water table map (one-foot interval contours) showing groundwater flow directions. The
+number and location of observation wells required for this map is to be determined on a case by
+case basis and shall be sufficient to determine which water bodies and wells are down gradient
+from the proposed discharge.
+*Existing projects or developments will be subject to this regulation if, at any time, there is a
+change' resulting in an increase in sewage flow.
+C.   Projections of down gradient concentrations of nitrogen using the approved Board of
+Health Nitrogen loading formula (or other contaminants as requested by the Board of Health).
+Projections of downgradient water quality will be determined utilizing two-dimensional solute
+transport models and input variables approved by the Board of Health. If private or public wells
+are located downgradient within 2500 feet, a locus map and additional projections of water
+quality in the wells will be required. The currently approved model for this work is:
+1.   USGS Konikow and Bredehoeft (1979)
+Currently approved input variables:
+1.   Transmissivity to be determined by on-site slug or pump test.
+2.   Aquifer thickness to be determined by on-site boring location of
+confining layers and estimated plume thickness.
+3.   Dispersivity 40 feet longitudinal/30 feet transverse.
+4.   Hydraulic gradient as determined by site-specific water table
+map.
+5.   No retardation factor.
+6.   Sewage flows as determined by Title V design flows.
+Monitoring Requirements After Permitting:
+Applicants who receive permits under this regulation shall install a minimum of three
+downgradient wells and one upgradient well on the property. Location, number of wells and
+monitoring well requirements (whether single well or clustered multi-level wells) will be
+approved by the Board of Health. Timing of installation and start of sampling will be determined
+by the Board of Health. Groundwater flow direction will be determined from site-specific
+observation wells. Wells shall be constructed, sampled and maintained as outlined in the Board
+of Health's guidelines entitled "Monitoring Well Design and Sampling Guidelines." Repair and
+maintenance of the wells shall be the responsibility of the property owner. The Board of Health
+shall be granted, through a easement on the deed, access to the monitoring wells. Groundwater
+samples using EPA methods will be obtained by a qualified professional following EPA or State
+Chain of Custody Procedures on a quarterly basis for five (5) years unless otherwise specified by
+the Board of Health. The frequency of sampling will be re-evaluated by the Board after the initial
+5 years of sampling. Water samples will be tested by a state-certified laboratory quarterly for
+nitrate-nitrogen, ammonia-nitrogen, kjedahl nitrogen, total phosphorus, chlorides, specific
+conductance and annually for volatile organic compounds (EPA Analytical Procedure 502) and
+any other parameters deemed necessary by the Board of Health. Results are to be reported to the
+Board of Health within ten working days of the completion of laboratory analysis and shall meet
+Massachusetts Class I groundwater standards and appropriate Federal and State advisory levels
+for organic chemicals at the downgradient property boundary. In the event that water quality
+standards are violated the following actions will be undertaken by the property owner(s):
+a.   Report results to the Chatham Board of Health within 48 hours.
+b.   Resample wells and retest within 5 days. If the results are still in violation, then the
+property owner(s) shall:
+1.   Notify downgradient property owners within 48 hours.
+2.   Decrease wastewater flows or increase level of treatment
+within 45 days.
+3.   Initiate remedial clean-up actions as denied necessary by the
+Board of Health.
+Public Hearing: A minimum of one public hearing shall be held after the receipt of written report
+and related materials. The date and time of the hearing will be advertised in local newspapers to
+allow comments from the general public on the proposed project or development.
+Variance: Variance from this regulation may be granted by the Board of Health only if the
+applicant can demonstrate to the satisfaction of the Board that: 1) enforcement thereof would do
+manifest injustice and/or would significantly impact the economic viability of an existing
+business and/or would deprive a landowner of all economically reasonable use of the lot(s) in
+question, and 2) that the installation of an on-site subsurface sewage disposal system, or systems,
+will not have a significant adverse effect on public and/or private drinking water resources, lakes,
+ponds, rivers, streams, salt ponds,, estuaries, or any other body of water.
+In applying for a variance, the applicant shall be required to submit, but not be limited to, a
+geohydrological report as described above as well as a map of potential future well sites, present
+and future population density, and any other information deemed pertinent by the Board of
+Health.
+A variance review fee may be assessed by the Board of Health, to retain the service(s) of an
+independent registered civil/sanitary engineer, and or environmental consultant, to conduct a
+review of the submitted variance. The fee will be determined by the Board, based on the
+complexity of the planned project and subsurface system or systems, and the time required to
+adequately review all plans and reports. The applicant will pay the fee after the Board has
+received copies of the written report and assessed the level of review required or at the date of the
+first Public Hearing, which ever comes first. Any unused portion of the fee will be refunded to
+the applicant after the review is completed.
+Severability:  Each of these regulations shall be construed as separate to the end that if any
+regulation or sentence, clause, or phrase thereof shall be held invalid for any reason, the
+remainder of that regulation and all other regulations shall continue in full force.

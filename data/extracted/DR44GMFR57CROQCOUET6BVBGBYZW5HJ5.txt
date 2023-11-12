@@ -1,0 +1,2486 @@
+2004 FCIC 24010 CLASSIFICATION STANDARDS HANDBOOK (CSH)  
+SUMMARY OF CHANGES 
+ 
+This handbook has been in the reconstruction phase for the past two years.  During this 
+time, the Regional Offices have had several opportunities to provide comments, 
+suggestions, and additions. Insurance Services and the Actuarial Division have provided 
+additional review and comment.   
+ 
+The Handbook was reformatted using the same formatting and fonts as the Crop Insurance 
+Handbook.  Listed below is an overview of the changes that were made:   
+ 
+ 
+Reference: 
+Description of additions, changes or clarifications: 
+Table of 
+Contents 
+Table of Contents was electronically generated and is linked to the 
+applicable text. 
+Section 3 
+Definitions have been removed added or updated to agree with the 
+handbook changes.   
+Section 4 
+Updated and expanded Adjusting Transitional Yields for High-Risk Land.  
+Section 4 
+Removed Continuous Cropping Practice. 
+Section 4 
+Removed Hard-Copy Evidence for Category “B and C” Crops. 
+Section 4 
+Removed Transfer of APH Yield History on Category “B and C” Annual 
+Crops. 
+Section 4 
+Updated Master Yield using current procedure changes and combined 
+prior Master Yield procedure into one area. 
+Section 4 
+Updated Perennial Crop Underwriting Guidelines and clarified RO 
+authority.  
+Section 4 
+Removed Forage Production Age of Stand–no longer applicable/Policy 
+Change. 
+Section 4 
+Removed Peanut procedure–no longer applicable, APH, updated 
+Tobacco. 
+Section 4 
+Removed Peaches, Apples, Grapes/Table Grapes-Now covered in RMA 
+RO Underwriting Guidelines.  
+Section 4 
+Added Land RMA RO procedures were outlined.  
+Section 5 
+Updated sections and added General High Risk Rate Calculations. 
+Section 6 
+Added section on Unclassified/Unrated land with subsections of 
+Distribution of Production Guarantees and Rate Calculations, Identifying 
+Unclassified/Unrated Land, Information Needed to Rate 
+Unclassified/Unrated Land, and Methods of Insurance for 
+Unclassified/Unrated Land.  
+Exhibit 2 
+Removed FCI-35 County Coverage and Rate Table.  Replaced with 
+Underwriting Guide Format. 
+Exhibit 3 
+Removed Master Yield Calculation-Covered in CIH.  Replaced with new 
+Flood Plain Characteristics and Rating Implications.  
+Exhibit 4 
+Underwriting Guide Format moved to Exhibit 2.  Replaced with new 
+Reference to Actuarial Structures.  
+Exhibit 5 & 6 
+Removed Letters-No longer applicable.  Replaced Exhibit 5 with Spans 
+Used for Tobacco. 
+ 
+  
+ 
+ 
+ 
+ 
+United States 
+Department of 
+Agriculture 
+ 
+ 
+ 
+2004 
+CLASSIFICATION 
+STANDARDS 
+HANDBOOK 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product 
+Development 
+Division 
+ 
+FCIC 24010 (2004) 
+ 
+ 
+Regional Office Standards and Instructions for 
+Determining and Assigning Coverage and Rate 
+Classifications. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+AUGUST 2004 
+TABLE OF CONTENTS 
+FCIC 24010 
+ 
+ 
+1 
+PURPOSE....................................................................................................................................1 
+ 
+ 
+2 
+CANCELLATION.........................................................................................................................1 
+ 
+ 
+3 
+DEFINITIONS ..............................................................................................................................3 
+ 
+ 
+4 
+COVERAGE DETERMINATION .................................................................................................4 
+ADJUSTING T-YIELDS FOR HIGH-RISK LAND............................................................4 
+MASTER YIELDS ............................................................................................................5 
+PERENNIAL CROP UNDERWRITING GUIDELINES....................................................7 
+TOBACCO PRODUCERS.............................................................................................11 
+ADDED LAND ................................................................................................................13 
+ 
+ 
+5 
+HIGH RISK LAND RATE CLASSIFICATION............................................................................15 
+RATING OF FLOOD PRONE LAND .............................................................................15 
+RATING OF FRAGILE AND HIGHLY ERODIBLE LAND .............................................18 
+GENERAL HIGH RISK RATE CALCULATIONS ..........................................................20 
+ 
+ 
+6 
+UNCLASSIFIED/UNRATED LAND ...........................................................................................23 
+DISTRIBUTION OF PRODUCTION GUARANTEES AND RATE CALCULATIONS...23 
+IDENTIFYING UNCLASSIFIED/UNRATED LAND .......................................................23 
+INFORMATION NEEDED TO RATE UNCLASSIFED/UNRATED LAND ....................24 
+METHODS OF INSURANCE FOR UNCLASSIFIED/UNRATED LAND.......................25 
+ 
+ 
+EXHIBIT 1 ..............................................................................................................................................29 
+ADJUSTING TRANSITIONAL YIELDS FOR HIGH RISK LAND..................................29 
+ 
+ 
+EXHIBIT 2 ..............................................................................................................................................31 
+UNDERWRITING GUIDE FORMAT..............................................................................31 
+ 
+ 
+EXHIBIT 3 ..............................................................................................................................................33 
+FLOOD PLAIN CHARACTERISTICS AND RATING IMPLICATIONS .........................33 
+ 
+ 
+EXHIBIT 4 ..............................................................................................................................................39 
+REFERENCE TO ACTUARIAL STRUCTURES...........................................................39 
+ 
+ 
+EXHIBIT 5 ..............................................................................................................................................40 
+SPANS USED FOR TOBACCO....................................................................................40 
+ 
+ 
+ 
+i 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+ 
+Reserved. 
+ 
+ 
+ 
+ii 
+ 
+AUGUST 2004 
+ 
+FCIC 24010 
+U.S. DEPARTMENT OF AGRICULTURE 
+ 
+WASHINGTON, D.C. 20250 
+ 
+ 
+RISK MANAGEMENT AGENCY DIRECTIVE  
+ 
+NUMBER: 
+24010 
+ 
+SUBJECT: 
+ 
+ 
+CLASSIFICATION STANDARDS HANDBOOK 
+DATE: 
+        August 19, 2003 
+ 
+OPI:  
+PRODUCT DEVELOPMENT DIVISION 
+APPROVED: 
+Tim B. Witt  /s/ 
+ 
+ 
+ 
+ 
+1 
+PURPOSE 
+ 
+ 
+To provide the RRiisskk  M
+Maannaaggeem
+meenntt  AAggeennccyy  RReeggiioonnaall  O
+Offffiicceess  ((RRM
+MAA  RRO
+O’’ss)) operating 
+standards for coverage and rate classification determinations. 
+ 
+NOTE:  IF A CONFLICT EXISTS BETWEEN THE LANGUAGE OF THIS HANDBOOK 
+AND THE CROP INSURANCE HANDBOOK (CIH), THE LANGUAGE OF THE 
+CIH WILL CONTROL. 
+ 
+ 
+2 
+CANCELLATION 
+ 
+2A 
+Effective Date.  The RMA 24010 Classification Standards Handbook became 
+effective on August 19, 2003. 
+ 
+2B 
+Issuances Rescinded.  This handbook replaces Transmittal No. M7-9 dated 
+August 3, 1992. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                            
+ 
+ 
+ 
+ 
+ 
+ 
+DISTRIBUTION. 
+ 
+Risk Management Agency Directors, Branch Chiefs, Washington, D.C. and Kansas City; 
+Regional Offices, Risk Compliance Offices, NAD, and NCIS.
+ 
+1 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+ 
+Reserved.
+ 
+2 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+ 
+3 
+DEFINITIONS 
+ 
+ 
+3A 
+County actuarial structure. A record of different coverage and/or rates with 
+respective identification.   
+ 
+ 
+3B 
+Farming operation.  One or more persons who participate in establishing a yield 
+history.  Corporations, partnerships, and family operations are included under 
+this title. 
+ 
+ 
+3C 
+Flood frequency.  The number of times flooding occurs over a period of years. 
+ 
+ 
+3D 
+Flood severity.  The degree of damage or loss caused by flooding over a period 
+of a year or years. 
+ 
+ 
+3E 
+High-risk land.  Acreage with identifiable physical limitations to crop production 
+that may increase the potential frequency and/or severity of loss; or expose a 
+planted or intended crop to perils not generally encountered by most insureds.  
+Such acreage may consist of flood plains, poorly drained areas, high sand 
+content soils, high aluminum toxicity soils, high sodium content soils, high alkali 
+soils, peat soils, soils with high or low pH, soils that are highly erodible, etc. 
+ 
+ 
+3F 
+Homogeneous yield area.  Defined portions of a county or state with similar 
+crop yield or yield capabilities. 
+ 
+ 
+3G 
+Individual Determined Yield.  A yield determined by the RMA Regional Office 
+(RO) used to complete a four-year base period when less than four years of 
+actual production history are provided. 
+ 
+ 
+3H 
+Nonactual yield.  Any yield other than an actual yield that is used for the 
+purpose of determining insurance coverage.  Such yields include transitional, 
+adjusted transitional, assigned APH yields, yield substitutions, etc. 
+ 
+ 
+3I 
+Unclassified/Unrated Land.  Acreage within a county without published 
+coverage and/or rates. 
+ 
+3 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+4 
+COVERAGE DETERMINATION See [Exhibit 4] 
+ 
+ 
+4A 
+Adjusting Transitional Yields For High-Risk Land  
+ 
+To reduce the frequency of excessive indemnities in high-risk areas, RMA may 
+adjust transitional yields (T-Yields) by using T-Yield Map Areas or other actuarial 
+document, to more accurately reflect an average yield for the area.  The T-Yields 
+in the database are also subject to change.  Refer to the Crop Insurance 
+Handbook (CIH) for more information on T-Yields.  
+ 
+A(1) 
+Identify areas of high-risk land on the FCI-33, FCI-33 Legal Descriptor 
+Document or FCI-33 Supplement. Use Natural Resource Conservation 
+Service (NRCS) soils surveys, climatological data, insurance experience, 
+RMA RO site inspections, and local resource personnel to determine the 
+presence of high-risk land. 
+ 
+ 
+ 
+A(2) 
+Determine the adjusted “T- Yield” for a high-risk area: 
+ 
+(2)(a) Calculation.  Divide the weighted average yield potential of 
+predominant soil-mapping units in the high-risk area (High-Risk 
+Yield [HRY]), by the weighted average yield for the predominant 
+soils of the cropland in the entire county (County Average Yield 
+[CAY]), excluding any high-risk land.  HRY/CAY = Yield Factor (F). 
+ 
+(2)(b) Determine the County Transitional Yield (T-Yield by 
+practice/type/map area) from the county actuarial documents.  
+Multiply the County T-Yield by Yield Factor (F) to obtain the 
+adjusted T-Yield for the high-risk area.  See [Exhibit 1]. 
+ 
+ 
+ 
+A(3) 
+Determine the adjusted T-Yield for flood prone/excess moisture areas: 
+ 
+ 
+Yields published by NRCS do not account for probable losses due to 
+recurring problems with flooding and excess moisture; the following can 
+be used to determine an adjusted T-Yield: 
+ 
+(3)(a) Determine the County T-Yield (by practice/type/map area) from 
+the county actuarial documents. 
+ 
+(3)(b) Compute the flood/excess moisture frequency.  Subtract the 
+flood/excess moisture frequency from 1.00.  Multiply the result 
+times the County T-Yield.  This will be the adjusted T-Yield for the 
+flood-prone/excess moisture land.   
+ 
+A(4) 
+Soils with no published yields (contact NRCS for updated or 
+unpublished lists) may be ranked by using methods such as yield 
+potential versus available water, comparability with other similar soils, 
+adjustments for slope, salinity, etc., and interactions of these 
+characteristics. Other sources of supporting information include 
+climatological data, actual yield history, geographic information system 
+mapping, university personnel and reports, NRCS and FSA personnel. 
+ 
+NOTE:  Determination of adjusted T-Yields for high-risk land should be 
+thoroughly documented and retained in the county work folder. 
+ 
+4 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+ 
+4B 
+Master Yields 
+ 
+B(1) 
+Approving County Crop Programs For Master Yields 
+ 
+Use the following standards to recommend county crop programs for 
+master yields: 
+ 
+(1)(a) Agronomic practices generally preclude the accumulation of a 
+complete four years of production history in a ten-year calendar 
+period for a unit. 
+ 
+(1)(b) Unbiased third-party evidence of planted acreage and harvested 
+production (supporting evidence) is available through a processor 
+or the insured. 
+ 
+(1)(c) The occurrence of a large number of policies for the crop and 
+predominance of crop share (vs. cash rent/ownership) may cause 
+administrative problems with an operator entity master yield, 
+because sharing landowners may be insured with a different 
+company.  NOTE:  Added land procedures for standard APH will 
+not apply to a crop in a county eligible for master yields.  If the 
+crop has not been produced for four years or more, producers 
+would not be eligible for master yields and will be limited to 
+variable or 100% T-Yields.   
+ 
+(1)(d) Master yields are applicable on a county crop program basis.  
+Different Master yields may be established for areas with similar 
+growing conditions. This is referred to as the master yield 
+homogenous area. 
+ 
+(1)(e) Submit recommended changes to the Master Yield List in Exhibit 
+7 of the CIH by crop and state or by county crop program to the 
+Product Development Division no later than COB on the first of 
+March each calendar year.   
+ 
+ 
+B(2) 
+Determining Homogeneous Master Yield Areas 
+ 
+(2)(a)  Considerations when determining a homogeneous master yield 
+area include: 
+ 
+ 
+1 Soil type and yield potential; 
+ 
+ 
+2 Rainfall and climatic conditions; 
+ 
+ 
+3 Farming practices and management; 
+ 
+ 
+4 Loss experience; 
+ 
+ 
+5 Actuarial maps; and  
+ 
+ 
+ 
+6 Farm Serial Numbers (FSN) or legal descriptions. 
+ 
+  
+ 
+ 
+5 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+B(3) 
+Hard-Copy Evidence For Master Yields 
+ 
+ 
+ 
+ 
+For cases where the RMA RO determines the approved APH yield, the 
+RMA RO may require hard-copy evidence of production when reported 
+yields do not appear reasonable. 
+ 
+(3)(a) Reasonable means: The reported yield is greater than the result 
+of multiplying the applicable lower level yield edit factor for annual 
+crops contained in the Data Acceptance System (DAS) manual 
+times  the transitional yield for the practice/type for the county or 
+area within a county. 
+ 
+ 
+ 
+(3)(b) Send a letter to the Insurance Provider (IP) describing the 
+required hard-copy evidence.  Remind the company/agent that 
+RMA RO will assign a yield if the required evidence is not returned 
+within 20 calendar days from the date of notification from the RMA 
+RO. 
+ 
+ 
+ 
+B(4) 
+Transfer Of APH Yield History For Master Yields 
+ 
+(4)(a) In some cases, an insured with a master yield may expand the 
+farming operation across a county or state line or form a new 
+entity.  When this occurs, the published Transitional Yield may not 
+be appropriate.  The RMA RO may determine a yield (F Yield 
+Descriptor) to be used in place of the published Transitional Yield 
+until four years of production history can be accumulated.  Upon 
+receipt of a timely filed Request For Actuarial Change (as defined 
+in the CIH), the RMA RO may consider determining a yield for the 
+following cases: 
+ 
+ 
+1 Producers who have a master yield in a county and expand 
+their operation into an adjacent county that has similar yield 
+expectations. 
+ 
+ 
+2 Individuals who participate in the creation of a master yield 
+credited to another person (New Entity) must have participated 
+in management of the crop for at least four years.  In addition, 
+the RMA RO must determine that a reasonable expectation of 
+similar production from this new entity exists in order to issue 
+an RO Determined Yield.  If the entity change qualifies for 
+successor-in-interest, a total transfer of the database would be 
+used.  Refer to Section 4 in the CIH. 
+ 
+ 
+(4)(b) RMA RO Determined Yields 
+ 
+1 MAP AREAS:  This procedure may apply to counties that have 
+map areas if the Transitional Yield in the map area in the 
+county expanded into is within 15 percent of the Transitional 
+Yield in the map area of the existing county.  The RO 
+Determined Yield will be reduced by the ratio of the 
+Transitional Yields, but will not be increased above the actual 
+yields.  No RO Determined Yields are authorized between 
+map areas within a county. 
+ 
+6 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+ 
+2 RO’s may determine and issue a reasonable yield to be used 
+in place of the Transitional Yield until four years of actual 
+yields can be accumulated.  Reasonable yields may be 
+determined by: 
+ 
+ 
+a Using NRCS soil survey yields by soil-mapping unit to 
+establish relationships between acreage. 
+ 
+b Indexing yields using the ratio of Transitional Yields or 
+processor averages between Transitional Yield areas, 
+types, practices, or varieties.  The RO Determined Yield 
+will not exceed the actual yields obtained by the original 
+entity or adjacent county. 
+ 
+3 The RMA RO will establish the RO Determined Yield and 
+issue it in a letter to the company instructing them to use the 
+yield in the master yield Database(s) with an “F” descriptor and 
+to keep the letter in the producer’s file until four years of actual 
+history is accumulated on the master yield(s). 
+ 
+ 
+4C 
+Perennial Crop Underwriting Guidelines  
+ 
+ 
+Submit proposed guidelines or updates to existing guidelines to the Product 
+Development Division for approval.  Existing guidelines will apply unless changes 
+are submitted for approval prior to the yield determination process for the crop 
+year. 
+ 
+C(1) 
+Each RMA RO will establish underwriting guidelines to determine yield 
+adjustments when needed.  Consider the following criteria when 
+developing these guidelines: 
+ 
+(1)(a) The use of inspection reports which indicate the condition of the 
+crop, cultural practices, level of management, etc. 
+ 
+(1)(b) The use of insured's yield history. 
+ 
+(1)(c) History of previous insureds. 
+ 
+(1)(d) Variations in base yield for each crop within states and between 
+states. 
+ 
+(1)(e) Current growth stage. 
+ 
+(1)(f) Orchard density and tree spacing. 
+ 
+(1)(g) Tree/vine/bush variety (cultivar) by block or unit. 
+ 
+(1)(h) Degree of carryover damage (disease, freeze, etc.). 
+ 
+(1)(i) 
+Outside sources of underwriting information such as university 
+extension specialists, etc. 
+ 
+ 
+7 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+C(2) 
+Guideline Preparation  
+ 
+(2)(a) Format office underwriting guidelines as shown in [Exhibit 2].   
+ 
+(2)(b) Use the BACKGROUND statement to define the problem being 
+addressed.   
+ 
+(2)(c) Use the DETERMINATION portion of the guidelines to convey  
+a concise decision statement.   
+ 
+(2)(d) Use the IMPLEMENTATION section to define office procedures. 
+ 
+ 
+C(3) 
+Regional Offices are authorized in the Crop Insurance Handbook to 
+issue guidelines, which waive pre-acceptance field inspections for 
+certain situations (e.g., abnormally low yields from insurable causes(s) of 
+loss for a given area may cause the yield variance to require field reviews 
+of an excessive number of contracts). 
+ 
+(3)(a) Waiving pre-acceptance field inspection.  As per the CIH, 
+Insurance Providers are not required to perform field inspections, 
+based on the yield variance (as amended by RMA RO guidelines), 
+on more than 10 percent of their Category C APH contracts per 
+crop, per region.  The RMA RO is authorized to issue additional 
+guidelines/criteria identifying which contracts (by crop, by region) 
+are to be selected under the 10 percent limitation.   
+ 
+ 
+(3)(b) Pre-Acceptance Perennial Crop Inspections 
+ 
+ 
+The CIH also states that the ”Insurance Providers should contact 
+the applicable RMA RO and specify the reason, which may cause 
+excessive pre-acceptance field inspections, and provide 
+examples, which clearly indicate that excessive pre-acceptance 
+field inspections would be required.” 
+ 
+ 
+RMA RO may issue guidelines that waive making Pre-Acceptance 
+Perennial Crop Inspection Reports if more than 10 percent of a 
+companies Category C Crop policies by crop, by region will be 
+selected under the Yield Variance in CIH Section 7 F(2)(b)1&2. 
+ 
+1 Regional guidelines should only address the policies that 
+should be reviewed under this 10 percent rule (e.g., When 
+selecting policies, priority should be given first to polices 
+selected for yield variance with Pre-Acceptance Perennial 
+Inspections Reports that are greater than five years old).  
+ 
+2 Copies of the RO guidelines/criteria identifying which 
+contracts by crop by region are to be selected, under the 
+10 percent rule for completing Pre-Acceptance Perennial 
+Inspections Reports due to yield variance, must be 
+submitted to the Product Development Division, 
+Underwriting Standards Branch for approval, prior to being 
+issued.  RMA RO’s are not authorized to waive doing any 
+inspections reports for these contracts or any other CIH 
+ 
+8 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+ 
+procedure. Once approved by RMA RD/PDD/UD 
+guidelines should be made available electronically on the 
+Regional Office Websites, at the same time they are 
+issued. 
+ 
+(3)(c) RO Determined Yields 
+ 
+ 
+The RMA RO may issue guidelines to Insurance Providers 
+authorizing them to calculate approved APH yields for cases 
+where RMA RO determinations would otherwise be required.  In 
+these cases forwarding of the documentation to the RMA RO 
+would not be required.  As per CIH Section 7F(3)(b)3, Insurance 
+Providers are required to send a list of these policies to the RMA 
+RO for spot check purposes.   
+ 
+ 
+Copies of the RMA RO underwriting guidelines, with instructions 
+for calculating yields and doing yield substitutions under the yield 
+adjustment election, must be submitted to the Product 
+Development Division/Underwriting Standards Branch for 
+approval.  Once approved by RMA RD/PDD/UD guidelines should 
+be made available electronically on the Regional Office Websites, 
+at the same time they are issued. 
+ 
+1 The RMA RO should be cautious in issuing any guidelines to 
+address catastrophic years that would alter adjustments for 
+alternate bearing or down trending identified by the present 
+yield variance contained in CIH procedure.  The RMA RO’s 
+may not waive CIH procedures preventing CUPS, to apply, to 
+contracts selected for special cases or RO Determined Yields.  
+See [3d) below] for Yield Substitutions. 
+ 
+2 The RMA RO should spot-check and/or review approved APH 
+yields completed by an Insurance Provider authorized to under 
+RMA RO guidelines for Perennial Category C Crops.   
+ 
+a RMA RO Determined Yield Request with Pre-Acceptance 
+Perennial Crop Inspections, less than five years old 
+(unless documentation following procedure to waive based 
+upon the 10% rule), and all other required supporting 
+documentation, should be reviewed to determine 
+compliance with RMA policy, procedure and guidelines. 
+ 
+b The RMA RO guidelines will provide instructions for 
+selecting policies for spot check and/or review.  A minimum 
+of one policy by crop by insurance provider by state must 
+be pulled for spot check or review.     
+ 
+3(d) 
+Yield Limitations and Adjustments 
+ 
+1 The actual yields, prior to any substitution under the yield 
+adjustment election, are used for determining if any yield 
+adjustments may be required. 
+ 
+9 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+As per CIH Section 7 J(6)(a) Yield limitations (CUPS) do not 
+apply to policies identified as special cases.  
+ 
+a Special cases are identified in the CIH Section 7F(2), yield 
+substitutions for these policies are determined by RMA 
+RO’s. 
+ 
+i 
+CIH Section 7(2)(b) 1 & 2. 
+ 
+aa CIH Section 13 D(7)(a)2 a, yield substitutions (60% 
+of T-Yield) will not be made for low yields occurring 
+due to alternate bearing years such as policies 
+identified by CIH Sec. 7(2)(b)1.  
+ 
+bb CIH Section 13 D(7)(a)2 b, yield substitutions will 
+not be made for low yields occurring due to yields 
+declining, such as policies identified in Section 7 
+F(2)(b)2. 
+ 
+ii  CIH Section 7(2)(c), productivity is reduced due to 
+disease, damage has occurred or cultural practices 
+have been performed that will reduce the insured crop 
+from previous production levels or answered yes to 
+Question #22 on the Producer’s Pre-Acceptance 
+Worksheet.  Acreage that is in poor condition, being 
+renovated, grafted, or reduced tonnage contracts, etc., 
+such as policies identified in Section 7 F(2)(c).  
+ 
+iii CIH Section 7(2)(e), irrigation water supply is not 
+adequate such as policies identified under Section 7 F 
+(2)(e). 
+ 
+iiii CIH Section 7(2)(f), unusual cases submitted to the 
+RMA RO, policies identified under Section 7 F(2)(f) 
+(e.g. contracts with young acreage, prior to 2001, 
+where 60% T-Yield substitutions may be greater than 
+the acreage is capable of producing).  
+ 
+b Requests for greater yields than the average yield are for 
+policies not identified as special cases. 
+ 
+i 
+Policies identified as special cases, requesting the 
+RMA RO to establish higher yields after approved 
+yields are issued, must be submitted under 
+reconsideration criteria (within 30 days of issuance of 
+the approved yield). 
+    
+2 RO Guidelines Examples:  
+ 
+a If the RMA RO identifies in their guidelines that the Yield 
+Variance Table in Section 7 F(2)(b)1 of the CIH will be 
+used to determine alternate bearing for a crop such as 
+apples.  The RMA RO may have a tolerance test for 
+policies that are selected by this table, prior to doing any 
+yield substitutions.  They may issue guidelines such as the 
+most recent crop year’s yield is equal to or greater than 
+125 percent of the APH average yield and the prior year’s  
+ 
+10 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+average yield is 75 percent or less than the APH average 
+yield.  For these policies adjustments will by made using 
+the average of the years in the database could be 
+multiplied by 0.5 and the average of the two lowest yields 
+multiplied by 0.5 and sum the results to obtain the RO 
+Determined Yield.   Units selected that are identified as 
+alternate bearing would not qualify for the 60% yield 
+substitution or CUPS based upon the CIH procedures. 
+ 
+However, contracts selected by this criteria, that the RMA 
+RO identifies as not having alternate bearing, may have 
+low yields that qualify for the 60% T-Yield substitutions.  
+ 
+b Using the yield variance in Section 7 F(2)(b)2, policies 
+selected by this criteria are also determined prior to doing 
+any yield substitution.  The RMA RO guidelines may 
+indicate that adjustments for policies selected where the 
+most recent three years average is 25 percent less than 
+the APH average yield (prior to any yield substitution) 
+should by limited to 80% of the prior three year average. 
+ 
+As per CIH procedure the 60% T-Yield substitutions are 
+determined by the Corporation not to be appropriate for 
+qualifying years, and CUPS will not apply for these units.  
+Contracts selected by this criteria, that the RMA RO 
+identifies as not having yield declines may qualify for the 
+60% T-Yield substitutions for qualifying low yields.     
+ 
+c 
+If the unit had been selected because productivity had 
+been reduced, the yield substitution may be used prior to 
+adjustment only for insurable causes such as disease and 
+hail.  However, if cultural practices were to limit production, 
+such as a reduced tonnage contract, or grafting, removal of 
+trees/vines/bushes, the approved yield will be limited to the 
+terms of the contract, condition of the acreage or policy 
+provisions on insurability.  
+ 
+NOTE: These provisions and any guidelines the RO may issue or follow cannot 
+change or waive procedures in the Crop Insurance Handbook or 
+provisions of any Policy.  
+ 
+ 
+4D 
+Tobacco Producers  Except Tobacco type 31; 41 & 32 PA; 51 & 61 CT; 51 &61 
+MA; and 32 MD).  Refer to the CIH for additional information. 
+ 
+D(1) As provided in the Crop Insurance Handbook, insureds are not 
+required to report yield history on an APH form.  Producers report yield 
+history to the USDA/Farm Service Agency (FSA) County offices.  RMA 
+obtains this producer data from FSA, processes the data into county 
+producer classifications, see [Exhibit 5] and publishes these classifications 
+in County FCI-32 (Producer) Actuarial Classification Listings, hereafter 
+referred as listings.  Producer insurance coverage and guarantees are 
+determined from these listings and associated rules pages. 
+ 
+11 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+D(2) 
+Producer classifications are updated annually using FSA’s most 
+recent ten (10) year history of county planted acreage and production.  
+This ten year history is referred to by RMA as the base period.  Due to the 
+timing of data availability from FSA to RMA’s filing schedule, there is a 
+one-year lag applicable for the listings.  (Example: Crop year 2004 listings 
+are based upon 1993-2002 planting history.) 
+ 
+(2)(a) If the producer has ten years of actual yields, total all production 
+and acreage from all farms for each of the ten years in the base 
+period.  Divide production by acreage for each year to  
+ 
+derive a weighted average by year.  Drop the high and low yields 
+and divide by eight for the product average. 
+ 
+(2)(b) If the producer has three to nine years of actual yields in the base 
+period, determine the weighted average yield for each year by 
+dividing total production by total acreage from all farms for each of  
+ 
+the producer’s planted years.  Sum the weighted average yields 
+and divide by the sum of the county average NASS yields for the 
+same years to determine an index.  A proxy yield for each non- 
+planted year will be determined by multiplying the county average 
+NASS yield for that year by the index.  The high and low year 
+yields will be dropped and the simple average determined for the 
+remaining year(s) yield(s). 
+ 
+(2)(c) If the producer has two years of actual yields in the base period, 
+determine the weighted average yield for each year by dividing 
+total production by total acreage from all farms for each of the 
+producer’s planted years.  Sum the weighted average yields and 
+divide by the sum of the county average NASS yields for the same 
+years to determine an index.  The index will be cupped at .60 and 
+capped at .95.  A proxy yield for each non-planted year will be 
+determined by multiplying the county average NASS yield for that 
+year by the index. Determine the simple average for the ten years.  
+ 
+(2)(d) If the producer has one year of actual yield in the base period, 
+determine a proxy yield for the missing nine years by multiplying 
+the county average NASS yield for each year by .80.  Determine 
+the simple average for the ten years.   
+ 
+D(3) 
+FCI-32 Actuarial Classification Listing Rules Page will provide rules 
+that govern the producer classifications published in the listings.  RMA 
+RO’s are authorized to define the rules that govern producer 
+classifications in their regions.  
+  
+D(4) 
+RMA RO’s are authorized to establish classifications by farm serial 
+number based on the risk associated with the land.  The Farm Serial 
+Number (FSN) listing on the last page(s) of the FCI-32 provides 
+classifications for farms for which limits will be imposed.  The primary 
+reason for limiting a farm classification would be where the producer has 
+similar yields on most farms, except one or two.  The exceptional farms 
+generally have yields that are considerably lower than those of other 
+farms.  This situation possibly indicates severe problems with this land; 
+therefore, lower yields.  It may be advisable to limit the amount of 
+coverage assigned to this land.  FSN classifications reflect land risk only. 
+ 
+12 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+D(6) 
+Producer with no history of planted acreage the last (4) four years in 
+the database will be flagged in the database and their names omitted 
+from the listing. 
+ 
+D(7) 
+Two or more producers on same farm with different data.  The RRM
+MAA  
+RRO
+O will separate acres within a FSN only if FFSSAA verifies separate acres 
+and production by producer. When this is done, the RRM
+MAA 
+  
+RRO
+O will use the tract system to establish multiple records for a single 
+FSN.  Example. 00001-1 (tract)  
+ 
+ 
+ 
+D(8) 
+Unlisted Producers.  Any producer not shown on the FCI-32 listing must 
+request a classification from the RRM
+MAA  RRO
+O, unless otherwise provided for 
+on the FCI-32 Rules Page.   
+ 
+ 
+4E 
+Added Land Discretion   
+ 
+ 
+Beginning with the 2003 crop year, discretion was granted to the RMA RO’s to 
+consider factors other than the land productivity when reviewing added land 
+request.  Examples of cases or other factors to consider is when yields used to 
+determine the Simple Average (SA) T-Yield are from small acreages.  In such 
+cases, the RMA RO’s may authorize use of a variable T-Yield rather than a SA T-
+Yield. 
+  
+ 
+Added land requests are submitted to RMA RO’s for cases where added land 
+exceeds the acreage thresholds.  See the CIH, Exhibit 36, for thresholds.  The 
+RMA RO’s will review requests to determine if use of SA T-Yields is appropriate.   
+ 
+ 
+Following is an outline to determine if authorization of SA T-Yields is appropriate, 
+for requests exceeding thresholds shown in the CIH, that require RMA RO 
+review.  The goal of RMA RO reviews is to determine that: 
+ 
+E(1) 
+The added land has similar characteristics as the existing land, 
+currently in the operation, that would indicate productivity falls within 15% 
+of the existing land. 
+ 
+ 
+ 
+(1)(a) Soil survey yield data and maps showing soil types are used to 
+compare, or climate or elevation data may also be used to 
+determine similar agronomic conditions. 
+ 
+ 
+ 
+(2)(b) The actual production history for the crop by P/T/V on the added 
+land for the previous crop year(s) from the previous  
+ 
+ 
+operator/tenant and submitted by the insured, may be used for 
+this comparison. 
+ 
+ 
+ 
+E(2) 
+The actual yields reported from the existing land in the operation, 
+being used to determine the SA T-Yield, are credible and represent 
+sufficient acreage to provide a reliable source to base yields for the added 
+land. 
+ 
+For instance, if it appears average yields used to determine the SA T-
+Yield contains “yield builders” such as small amounts of acreage 
+compared to the amount of land being added or the data base for the  
+ 
+13 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+existing unit has acreage going from small to large and these yields 
+exceed T-Yields, the average yield may be reduced to determine use of 
+the SA T-Yield. 
+ 
+ 
+ 
+ 
+(2)(a) The simple average yield for the basic unit can be recalculated to 
+determine if the recalculated yield is within 15% of standard 
+(unadjusted) SA T-Yield. 
+  
+1 Compute the weighted average of all qualifying units in the 
+basic unit and T-Yield areas to eliminate any problems with 
+small acreage and high yields. 
+ 
+ 
+ 
+ 
+2 Remove the high yields for small acreage, if there are no other 
+similar units with acreage for the year.  If the added land has 
+equal productivity to the existing land, (based upon soil types, 
+etc.,) but the recalculated yield is less than 85% of the 
+standard SA T-Yield that would be applied by added land 
+procedure, the RMA RO would determine that the variable T-
+Yield is appropriate for the request. 
+ 
+14 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+ 
+5  
+HIGH RISK LAND RATE CLASSIFICATION 
+ 
+ 
+5A 
+Flood.  Each river and its flood plain represent complex interaction between 
+hydrology, topography, crop physiology, weather, soils, and the effects of human 
+intervention, see [Exhibit 3].   
+ 
+Flood is a random predictable peril affecting identifiable locations and 
+representing a definable risk that is in addition to the standard insurance risk for 
+the crop and county.  (Recurrent frequency of the event within a locality is 
+observable and measurable.)  These unique characteristics dictate a separate 
+accounting for the risk within an actuarial structure of an insurance product.  This 
+segregation of risk is typical for all crop, property, and personal liability products 
+offering flood insurance. 
+ 
+A(1) 
+Rating Flood Prone Land.  
+ 
+(1)(a) Rate flood prone land based on the extent, frequency, and 
+severity of loss.  The determined premium rate (additive, 
+multiplicative, or fixed) that corresponds with a classification 
+assignment on the FCI-33 will be listed on the FCI-35, Coverage 
+and Rates table.  Premium rates or rate area classifications may 
+also be identified on the FCI-33 Legal Descriptor or FCI-33.  More 
+than one rated area may be identified on these actuarial 
+documents if the county has multiple river, streams, or 
+watersheds; if crops are grown between the river and a levee, or 
+the risk of flood varies within the same location (e.g., changes in 
+elevation). 
+ 
+(2)(b) Rating for flood requires consideration of the crop, the extent of 
+potential flooding, flood severity, and frequency of occurrence.  
+Determine the minimum flood stage or elevation that will be used 
+to determine flood frequency.  A premium rate may be calculated  
+for an area using river gage stations along the river or from a 
+comparable watershed.  Readings should be obtained for at least 
+the most recent 20-year period that data are available.   
+ 
+A(2) 
+Determining extent, frequency, and severity.  
+ 
+(2)(a) Isolating the extent of flood risk is the process of identifying land 
+directly and indirectly affected by flooding.  A direct impact would 
+be on unprotected land adjacent to the river.  Resulting damage 
+would be immediate and obvious.  An indirect impact may be on 
+acreage behind a levee that is vulnerable to seepage, 
+overtopping, levee breach, high water table, or poor drainage.  
+The extent of potential flooding is influenced by elevation, flood 
+magnitude, topography, presence and amount of natural 
+vegetation during the year, watershed size, flood control  
+measures, and artificial drainage.  Flood zone maps produced by 
+other governmental entities, topography maps, soil surveys, direct 
+physical observation, aerial photography, etc., may be used to 
+determine the extent of flood risk.  Use the FCI-33 to show 
+determined high-risk area boundaries. 
+ 
+15 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+(2)(b) Determining frequency consists of tabulating how often, when, 
+and the duration of flooding.  There are many possible flood 
+magnitudes; hence, many possible elevations affected within a 
+flood plain.  Duration and timing also have significant influence.  
+Short duration flooding late in the growing season may produce 
+negligible damage to a particular crop.  The same type of flood 
+experienced during mid-season may cause total loss.  The 
+opposite results may be produced when a different crop is 
+planted.   
+ 
+1 Determining the frequency and severity of crop loss from a 
+historical flood depends on gaining an idea of: 
+ 
+a When it occurred during the year. 
+ 
+b The depth of the water. 
+ 
+c 
+The size of the area affected. 
+ 
+d How fast the water moved. 
+ 
+e How quickly the water receded. 
+ 
+2 In addition to these historical observations, unique 
+characteristics of each crop and the applicable insurance 
+program must be considered: 
+ 
+a When the crop is normally planted. 
+ 
+b How high the crop grows. 
+ 
+c 
+At what point(s) during the growing season is the crop 
+more or less susceptible to flood damage. 
+ 
+d What features of the insurance product mitigate or 
+enhance the potential for indemnification. 
+ 
+3 
+Example considerations: 
+ 
+A major flood in the Midwest in early March has no 
+effect on the probability or severity of a corn loss 
+because the crop is not normally planted. 
+ 
+The effects of a slow moving, shallow flood that 
+recedes reasonably quickly during early September 
+will be negligible effects on corn, but catastrophic to 
+soybeans.   
+ 
+A late April flood that drains away quickly may produce 
+a corn replanting payment, but is not likely to result in a 
+total loss unless soil type drainage limitations or 
+continued rainfall prevent replanting the crop. 
+ 
+16 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+(2)(c) Determining loss severity involves identifying the percentage of 
+crop loss associated with each historical flood when data are 
+available.  Flood is usually catastrophic to a growing plant. 
+It does not gradually reduce a plant's ability to produce (such as 
+drought). The plant is most often simply eliminated.  However, 
+consideration to overall loss within an area must be given when 
+evaluating each event.  For example, an early season flood may 
+result in replanting or delayed planting of the crop.  Final yields 
+may be unaffected or reduced.  A crop planted later than normal 
+due to flooding is younger and more vulnerable to stress from 
+drier summer conditions than a timely planted crop.  The resulting 
+cause of loss may be drought although the initial contributing 
+factor was flood.   
+ 
+Develop a flood severity scale for each crop.  Apply the scale 
+whenever the river exceeds flood stage or a point where crop 
+damage may occur.  This flood severity scale should  
+account for the time of the flood and the expected yield loss.  
+Early season flooding causes delayed planting or replanting of the 
+crop without severely limiting crop potential.  While floods 
+occurring near the final planting dates and later are often 
+catastrophic.  An example of a severity table ranking the 
+significance of each historical event may look like the following:    
+ 
+Mar 
+Apr 
+May 
+ Jun 
+ Jul 
+Aug 
+Sep 
+Oct 
+Nov 
+  0  
+.10   
+.50 
+1.00 
+1.00 
+1.00 
+1.00 
+1.00 
+   0      
+ 
+A(3) 
+Evaluating flood gage peak flow discharge verses daily flow 
+discharge rates.   
+ 
+(3)(a) When evaluating peak and daily flow discharges, a difference will 
+be seen between the cubic flow amounts recorded in each data 
+set.  A block of data may look like this: 
+ 
+Date             Peak Flow Discharge           Daily Flow Discharge 
+ 
+1979.04.12            19700                                      17300 
+1996.05.08            13000                                        7280 
+1993.09.23              8820                                        6340 
+              
+(3)(b) The peak flow discharge is the instantaneous discharge for the 
+highest gage height recorded for that day (or period).  Gage height 
+is measured usually every 15 minutes, although some programs 
+have a variable time recording of gage height.  The highest gage 
+height reached is used to compute the peak discharge.   
+ 
+(3)(c) The daily flow discharge is the average sum of the discharges 
+obtained from the daily gage height readings.  This is why the 
+peak flow is higher than the average flow. 
+ 
+(3)(d) These differences have several ramifications on flood rating. 
+ 
+17 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+1 When performing flood event analysis, recognize that a daily 
+flow discharge has affected more or less of the flood plain on 
+that day than the daily average or mean alone. 
+ 
+2 A large variation between peak and daily average flow may 
+suggest: 
+ 
+a Faster moving water and quicker plant destruction. 
+ 
+b Presence and effect from flood abatement measures. 
+ 
+c 
+Possible water release or diversion from man-made flood 
+control structures. 
+ 
+d Flood damage between levees and the river may be more 
+immediate and more severe than on an unprotected river.   
+ 
+A(4) 
+Determining Flood Peril Premium Rates. 
+ 
+(4)(a) Apply the appropriate weight for each time the river was above 
+flood stage.  The loss severity weight for any single year cannot 
+exceed 1.00 since this denotes a total loss.  Total the weights 
+assigned and divide by 20 (number of years of flood data).  The 
+result is the risk-rate for flood.  Refer to Section 5 C for additional 
+rate calculation instructions.  
+ 
+(4)(b) This system works well when flood-history data are available.  
+When data is not available, the RO must utilize other sources of 
+information such as the NCRS Soil Survey Report Field Reviews 
+during seasons of flooding, the county soil surveys aerial 
+photography, topographic maps, and personal interviews within 
+the county to evaluate the flood risk. 
+ 
+ 
+5B 
+Rating of Fragile and Highly Erodible Land.  
+ 
+ 
+ 
+B(1) 
+Land with inherent risk factors such as low water holding capacity, 
+excess water runoff, salinity, alkalinity, etc., will be rated based on known 
+rates for comparable land in a similar climate.  The rate that corresponds 
+with a classification assignment on the FCI-33 will be shown on the FCI-
+35 as a fixed, add on, or multiplicative rate. 
+ 
+ 
+ 
+B(2) 
+Establish a rate based on a county having similar characteristics, or 
+in which the soil, climate topography, etc., of the land in question is 
+within normal variation for the county.  In some cases, rates could be 
+determined from individual insurance experience versus the county for 
+the same crop years after conversion to the same coverage level and on 
+a yield (free from the effects of revenue products) only basis. 
+ 
+ 
+ 
+B(3) 
+Methods to establish new rate areas, to aid in reviewing prior high-risk 
+rate areas, and determining a rate for a written agreement: 
+ 
+ 
+ 
+ 
+ 
+ 
+18 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+ 
+ 
+ 
+(3)(a) Determine rate from a known area.  Once an area of similar 
+characteristics is found, calculate the rate for that area using the 
+expected yield for the new rate area.  Divide this rate by the rate 
+at that same yield in the county in which the new rate area will be 
+established.  Adjustments in yields and rates may need to be 
+made based on differences in climate or soils between the area of 
+known rates and the new rate area.  (If the result is less than 1.2 
+(20% difference), do not establish the high rate area for that crop 
+or consider removing an existing high rate area. 
+ 
+ 
+ 
+ 
+(3)(b) Determine rate from producer experience.  This may be practical 
+to do in areas with few producers and verifiable insurance 
+participation within the proposed high rate area.  Determine who is 
+insured in the proposed high rate area.  Normalize producer and 
+county insurance experience for the same years to a common 
+coverage level and on the basis of yield only (free from effects of 
+revenue products).  Determine the average APH yield of the pool  
+ 
+ 
+ 
+ 
+versus the county.  Compare the pool rate at the pool yield to the 
+county rate at the county yield.  If the result is less than 20% 
+higher, do not establish the high rate area for that crop or consider 
+removing an existing high rate area. 
+ 
+ 
+ 
+ 
+ 
+ 
+(3)(c) Determine rate when not practical to do (a) or (b).  If the high rate 
+area is determined to be necessary and justifiable, start the area 
+with a 20% rate increase (multiplicative factor of 1.20) and monitor 
+experience over several years to determine needed adjustments.  
+ 
+ 
+5C 
+Climatic Conditions and Microclimates 
+ 
+C(1) 
+The climatic conditions, length of growing season, Growing Degree Days 
+(GDD), risk of frost and/or freeze are so common in the area or micro 
+climate that the success in growing the crop (or lack of data) may be 
+infrequent and it cannot be determined that the crop is adapted to the 
+area.  Frost and freeze probabilities (temperature, frequency, and 
+duration) associated with the crop (annual or 
+perennial)/type/variety/growth stage, geographic location, and topography 
+are important considerations when it comes to determinations of 
+insurance coverage and appropriate rates (premium) that are acceptable 
+to the insured and insurer.  The below listed items identify possible 
+considerations when making frost and freeze rating determinations.   See 
+also [6 Unclassified/Unrated Land]. 
+ 
+C(2) 
+The county contains numerous microclimates or areas where the growing 
+season is limited or inadequate to produce the crop/type. 
+ 
+C(3) 
+Frost and /or freeze. Crop losses increase dramatically as the 
+temperature falls below the critical temperature sometimes defined as the 
+temperature at which a 10% loss in production is expected.  As an 
+example the difference between a light 10 percent killing frost and a 
+disastrous 90% kill may be 3 degrees Fahrenheit. 
+ 
+ 
+(1)(a) Two general conditions provide freezing temperatures. 
+ 
+19 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+1 Artic outbreaks associated with migratory cold air masses. 
+ 
+2  Nighttime radiational cooling.  
+ 
+ 
+Both situations may result from the same conditions following a cold front 
+passage; indeed radiational cooling may bring further surface cooling to 
+an area already affected by the an Artic outbreak. 
+ 
+(2)(b) Sources of information and publications that provide freeze 
+probabilities and damage estimates for given states and specifics 
+locations are available through: 
+ 
+1 Federal and State agencies such as: 
+ 
+a NOAA 
+ 
+b National Climate Data Center 
+ 
+c 
+Regional Climate Centers 
+ 
+ 2 National Weather Service 
+ 
+Note: Weather station information is available through some of 
+these agencies. 
+ 
+a Research publications and staff of the Cooperative State 
+Research, Education, and Extension Service. 
+ 
+b  USDA agencies such as NASS, NRCS and the Farm 
+Service Agency (Both can provide valuable insight as to 
+local conditions.) 
+ 
+c 
+United States Geological Survey.   
+  
+ 
+5D 
+General High Risk Rate Calculations.  
+ 
+C(1) 
+The basic formula for rating a high-risk peril such as flood is: 
+ 
+ 
+ 
+F x S = Peril Base Premium Rate Add-on 
+ 
+Where: 
+ 
+F = Frequency of Loss Occurrence Over Time 
+S = Severity of Loss  
+ 
+C(2) 
+A rate determination for measurable risk within defined boundaries 
+may involve the use of two modified forms of this basic rate formula 
+depending on what type of rating (Worst Case Rating verses Class 
+Average Rating) best fits the characteristics of the risk and its location.  
+ 
+ 
+20 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+ 
+ 
+Worst Case Rating 
+ 
+The basic formula for worst case rating is: 
+ 
+ Σ (E)          x            Σ ( S t)           =   Peril Base Premium Rate Add-on 
+ (Yt) 
+ 
+            n 
+ 
+Or, 
+ 
+Number of Events  X Σ ?(Observed Severity)   =  Peril Base Premium Rate 
+ Total Number of                         n 
+ 
+      Add-on 
+ Observed Years                                              
+ 
+Where: 
+E   
+=  
+Event 
+Yt  
+=  
+Total Years Observed 
+St   
+=  
+Observed Severity/Timing of Event 
+n    
+=  
+Count of Observed Severities  
+ 
+Note:  Each Event =  1.0 
+ 
+Example: The data show flooding has occurred 6 times over a 20-year 
+period during the spring crop growing season.  The timing of floods 
+indicates a severity of .50 for each event.   
+ 
+Number of Events = 6 
+Total Number of Observed Years = 20 
+Σ of Observed Severities = (.50+.50+.50+.50+.50+.50) = 3.0 
+Count of Severities (n)  = 6   
+ 
+Base Premium Rate Add-on =  6.0    X    3.0    =   0.150 or .2   
+                                            
+ 
+ 
+ 
+ 20.0          6.0 
+ 
+ 
+ 
+ 
+Class Average Rating 
+ 
+The basic formula for class average rating is: 
+ 
+Σ (E)        x        Σ (S  e x S t)      =   Base Premium Rate Add-on 
+ (Yt)  
+  
+         n 
+ 
+Or, 
+ 
+Σ  of Events    X    Σ (Observed Severity)  =  Base Premium Rate Add-on 
+Total Number                           n 
+Of Observed  
+Years                                              
+ 
+Where: 
+E   
+=  
+Event 
+Yt  
+=  
+Total Years Observed 
+Se 
+=  
+% of Defined Location Affected 
+St   
+=  
+Observed Severity/Timing of Event 
+n    
+=  
+Count of Observed Severities  
+ 
+21 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+ 
+Note:  Each Event 
+=  
+1.0 
+ 
+Example: The data show flooding during the growing season 10 out of the 
+20 total years observed.  The following table of event frequencies and 
+severities represents the effect of class average rating on flood rating: 
+ 
+Year 
+    E 
+      S  e 
+       S t 
+   (S  e x S t) 
+1998 
+1     1.0  1.0 
+0.75 
+1.00 
+ 0.75 
+1996 
+1.0 
+0.50 
+0.30 
+ 0.15 
+1994 
+1.0 
+0.80 
+1.00 
+ 0.80 
+1993 
+1.0 
+1.00 
+1.00 
+ 1.00 
+1992 
+1.0 
+0.20 
+1.00 
+ 0.20 
+1990 
+1.0 
+0.60 
+0.50 
+ 0.30 
+1986 
+1.0 
+0.90 
+1.00 
+ 0.90 
+1985 
+1.0 
+0.50 
+0.10 
+ 0.05 
+1982 
+1.0 
+0.30 
+0.25 
+ 0.08 
+1981 
+1.0 
+1.00 
+0.50 
+ 0.50 
+ 
+Σ(E ) =  10.0  
+Σ(Se x St )=  4.73 
+ 
+Number of Events = 10.0 
+Σ(E)  = 10 
+ 
+Total Number of Observed Years = 20 
+Σ of Observed Severities = 4.73 
+ 
+Count of Severities (n)  = 10.0   
+ 
+Base Premium Rate Add-on = 10    X     4.73   =   0.237  or .2  
+                                              
+ 
+ 
+   20             10 
+ 
+ 
+Determined Add-ons should be rounded to tenths unless the data used is 
+accurate to two decimal places.  The natural variation within each flood zone 
+makes calculating the premium rate to hundredths of a point does not improve 
+the accuracy of the rate in most cases.  
+ 
+22 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+ 
+6  
+UNCLASSIFIED/UNRATED LAND  
+ 
+ 
+6A 
+Distribution of production guarantees is accomplished by classifying the 
+county coverage acreage and risk into homogeneous groups (areas) according 
+to productivity based on soil capabilities, actual yields and other factors or 
+combination of factors available to the Risk Management Specialist that best 
+measures actual or relative land productivity. 
+ 
+ 
+Rates are set according to risk of loss in identified areas of the county with the 
+objective of collecting sufficient premiums to pay indemnities and accumulate a 
+reserve over time.  See also [5C High Risk Land Rate Classification/Climatic 
+Conditions and Microclimates]. 
+ 
+ 
+6B 
+Reasons for identifying an area(s) within a county as unclassified/unrated  
+ 
+B(1) 
+Coverage will not be provided for areas not considered suitable for 
+production of the commodity being insured. 
+ 
+(1)(a) Noncropland (i.e., NRCS Class VIII rating or severe limitations 
+make them unsuitable for production of the insured crops, parks, 
+military reservations, etc) where it is felt they need to be identified. 
+ 
+ 
+ 
+(1)(b) Land that is uninsurable or has uninsurable causes of loss based 
+on the policy (i.e., subject to backup/contained water/flood 
+easements, stripmines, reclaimed land, etc.). 
+ 
+ 
+ 
+(1)(c) Classes of soils identified by NRCS whose severe limitations 
+make them unsuitable for crop production. 
+ 
+ 
+B(2) 
+Soils and/or climate are not considered suitable for production of the 
+commodity being insured due to factors such as productivity, moisture 
+availability, growing season restrictions. 
+ 
+(2)(a) The risk of growing the insured crop in this area is so great and/or 
+uncertain that a sound insurance program cannot be operated. 
+ 
+(2)(b) The land and/or risk factors in question have so much variation 
+within these areas that rating on an area basis is not possible.  
+The risks are so “variable” that the crop cannot be pre-rated on a 
+map and must be individually rated by Written Agreement, FCI-33 
+Legal Descriptor or FCI-33 Supplement. 
+ 
+(2)(c) Land along major rivers and islands that are farmed only during 
+year’s when water levels are low. 
+ 
+(2)(d) Cropland that has risks so “frequent and/or severe” that actuarially 
+sound rates cannot be determined. 
+ 
+(2)(e) Areas with no history of producing the crop to show adaptability, 
+such as perennials in a county with numerous microclimates. 
+ 
+23 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+(2)(f) Deep, excessively drained, very rapidly permeable soils. 
+ 
+ (2)(g) Other factors such as disease problems. 
+ 
+B(3) 
+Insurance availability would encourage cropping patterns with 
+limited yield potential and/or high risk in certain areas of a county or 
+is inconsistent with recommended conservation methods.  
+ 
+(3)(a) The county contains numerous microclimates or areas where the 
+growing season is limited or inadequate to produce the crop/type. 
+ 
+1 The climatic conditions, length of growing season, Growing 
+Degree Days (GDD), risk of frost and/or freeze are so common 
+in the area or micro climate that the success in growing the 
+crop (or lack of data) may be so infrequent that it cannot be 
+ 
+determined that the crop is adapted to the area.   
+ 
+ 
+ 
+ 
+ 
+2 The crop is normally harvested before maturity for hay or 
+silage in this area within a county. 
+ 
+a Corn is traditionally harvested for silage and grain is limited 
+to years with extended growing season (more Growing 
+Degree Days) or higher precipitation. 
+ 
+b Oats are traditionally harvested as hay due to limited 
+growing season (lack of GDD’s) or where conditions during 
+the growing season are generally hot and dry.  
+ 
+(3)(c) The crop type or practice would not allow sufficient time for 
+required conservation practices. 
+ 
+The crop would be harvested so late in the growing season in 
+these areas that a cover crop, required for conservation practices 
+due to soil types in this area, could not be timely established, 
+(sandhills area of a county marginally adapted to the crop, i.e., 
+soybeans).  
+ 
+(3)(d) The crop/practices are grown/carried out on a very limited basis 
+and only these areas have been identified as insurable. 
+ 
+ 
+6C 
+Information needed to rate Unclassified/Unrated land 
+ 
+ 
+C(1) 
+Requests with acceptable production history, preferably a minimum of 
+four years, of the crop/type/practice. 
+ 
+ 
+C(2) 
+Accumulated data from written agreement experience to indicate 
+applicability. 
+ 
+ 
+C(3) 
+New varieties-disease resistance, early maturation, etc. 
+ 
+C(4) 
+Recommendations from University Extension, NRCS, and FSA based 
+upon NAP experience. 
+ 
+24 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+C(5) 
+Specific information on any land improvements, (i.e., elevation of levee 
+above sea level, means to remove water from inside levees, pumping 
+capacities, etc.,). 
+ 
+C(6) 
+Aerial photograph with field boundaries clearly identified. 
+ 
+C(7) 
+Soil information from sources such as the Natural Resource and 
+Conservation Service. 
+ 
+C(8) 
+Plant growth models identifying water use requirements and efficiency. 
+ 
+ 
+ 
+6D 
+Methods of Insurance for Unclassified/Unrated land 
+ 
+D(1) 
+If the applicable information requirements of C above are met.   
+ 
+ 
+If the information reviewed can be used by the RMA RO to develop an 
+actuarial sound premium rate and coverage under existing terms of the 
+policy, the RO can offer insurance on Unclassified/Unrated land by the 
+following methods: 
+ 
+(1)(a) Written agreement. 
+ 
+(1)(b) Modification of FCI-32, FCI-33 Map, FCI-33 Legal Descriptor, or 
+FCI-33 Supplement. 
+ 
+25 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+Reserved
+ 
+26 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+ 
+ 
+ 
+ 
+  
+CLASSIFICATION 
+ STANDARDS 
+ HANDBOOK 
+ 
+ 
+EXHIBITS 
+ 
+ 
+ 
+ 
+ 
+ 
+27 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+ 
+28 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+                           EXHIBIT 1 
+ 
+ 
+ADJUSTING TRANSITIONAL YIELDS FOR HIGH-RISK LAND 
+ 
+   Acres  
+ 
+          Yield  
+ 
+        Extension 
+ 
+ 
+Standard 
+Risk 
+ 
+30,000 
+50,000 
+20,000 
+20,000 
+ 
+140 
+125 
+115 
+100 
+ 
+4,200,000 
+6,250,000 
+2,300,000 
+2,000,000 
+ 
+High Risk 
+ 
+10,000 
+5,000 
+ 
+40 
+30 
+ 
+400,000 
+150,000 
+ 
+ 
+Total Extension 
+ 
+Total Acres 
+ 
+ 
+Representative 
+Std. & High Risk 
+ 
+Std. & High Risk 
+ 
+of County 
+15,300,000 
+÷ 
+ 
+135,000 
+= 
+ 
+113.3 
+ 
+ 
+Total Extension 
+ 
+Total Acres 
+ 
+ 
+High Risk 
+High Risk 
+ 
+ 
+High Risk 
+550,000 
+ 
+÷ 
+15,000  
+= 
+ 
+36.7 
+ 
+ 
+High Risk 
+ 
+ 
+Representative 
+ 
+Yield Factor 
+of County 
+36.7 (HRY) 
+ 
+÷ 
+113.3 (CAY) = 
+ 
+.32 (F) 
+ 
+ 
+County 
+(F) 
+ 
+Average 
+Yield  
+   “T” 
+ 
+Adjusted T-Yield 
+Factor  X 
+ Yield = 
+for the High-Risk Area 
+ 
+.32 
+X 
+95 
+= 
+30 
+ 
+ 
+ 
+29 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+Reserved
+ 
+30 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+EXHIBIT 2  
+ 
+ 
+ 
+ 
+UNDERWRITING GUIDE FORMAT  
+ 
+ 
+SUBJECT: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BACKGROUND: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DETERMINATION: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IMPLEMENTATION: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+31 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+Reserved
+ 
+32 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+  
+EXHIBIT 3  
+ 
+ 
+Flood Plain Characteristics And Rating Implications 
+ 
+Type 1 
+ 
+Characteristics: 
+The profile is typical of smaller streams at the beginning of watersheds.  It may also 
+describe larger rivers in mountainous areas depending on the type of existing parent 
+material.  Flood plain development and agricultural use are minimal.  Slopes, lack of 
+tillable land, low productivity are limitations. 
+    
+   
+Rating Implications included with surrounding insurable land:  
+There are minimal rating implications due to the absence of insurable land.  These 
+profiles are usually assigned standard class rates.  Or, they may be included with 
+exceptional rate classifications assigned to larger associated flood plains. 
+ 
+Type 1 
+T
+y
+p
+e
+ 1
+T
+ 
+ 
+ 
+ 
+ 
+Type 2 
+ 
+Characteristics: 
+Type 1 profiles generally evolve into Type 2 profiles.  Slope of the flood plain is steep (B 
+and C slopes).  A more or less constant slope exists between flood plain boundaries and 
+the river.  Acreage becomes tillable depending on the suitability of soil types although 
+much remains in woodland or pasture.  There are relatively few fields with uniform land 
+elevations.  Floodwater drainage is usually rapid.  However, water speed will produce 
+immediate damage by scouring or laying the crop down. 
+ 
+Rating Implications:  
+The uniformity of profile slope toward the river suggests class average rating is 
+appropriate.  
+ 
+Type 2 
+T y p e  2
+ 
+ 
+ 
+33 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+Type 3 
+ 
+Characteristics: 
+The flood plain has fully developed and is generally surrounded by rolling land.  Soil 
+types are often derived from a mixture of alluvial and colluvial deposits.  Very little or no 
+slope exists next to the river.  There is very little or no observable development of 
+primary and secondary flood plains.  Slope increases dramatically at the flood plain 
+boundary.  This marked elevation increase is commonly referred to as a bluff line.   
+Floodwater speed is slower.  However, drainage away from the flood plain is also 
+slower.  Crop damage from extended submersion instead of water speed is typical.  
+Damage from high water tables and poor internal soil drainage become more common.      
+ 
+Rating Implications:  
+Worst case rating is commonly used.  Class average rating might be used depending on 
+the degree of slope (more) and severity of historical discharge volume (less) in the 
+primary flood zone.  
+ 
+Type 3 
+T y p e  3  
+ 
+ 
+ 
+Type 4 
+ 
+Characteristics: 
+This profile exists in two forms.  It may be part of a Type 3 profile in larger flood plains 
+along major rivers or it may be common in regions with predominately flat terrain such as 
+the Midwest.  There is very little variation in slope.  No distinction of variable flood risk 
+within the profile can reasonably be made.  On a flat terrain, that would normally be a 
+small creek or river may produce floods of impressive proportions even after moderate 
+rainfall because extent is not confined by land elevation.  Smaller Type 4 profiles are 
+often more frequently flooded than similar profiles along major rivers due to the greater 
+influence of local weather.  Flood timing and its variable relationship to crop damage 
+become important rating considerations.  The effects of Type 4 profile flooding a crop 
+along major rivers is almost always catastrophic regardless of timing during the growing 
+season.      
+ 
+Rating Implications:  
+ 
+Worst case rating is used. 
+ 
+ 
+Type 4 
+ 
+ 
+ 
+34 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+Type 5 
+ 
+Characteristics: 
+A Type 5 profile is a Type 4 profile with some minimal flood abatement measures.  
+These measures may include piled dirt field boundaries, non-Corps specification levees, 
+and passive drainage ditches.  Flood abatement measures may have anywhere from no 
+effect on flood frequency to legitimate flood prevention depending on many other land 
+characteristics.  Abatement measures may also work to increase potential crop damage 
+from excessive moisture and poor drainage.  Drainage of water runoff from adjacent 
+uplands or direct flooding may become increasingly difficult.    
+   
+ 
+Rating Implications:  
+ 
+Rating may become dependent on the quality of flood abatement measures.  The entire 
+flood plain may be worst case rated, only that acreage between flood abatement 
+measures and the river may be worst case rated.  Or, a combination of worst case and 
+class average rating may be appropriate. 
+ 
+ 
+Type 5 
+T y p e  6  
+ 
+ 
+ 
+Type 6 
+ 
+Characteristics: 
+ 
+This profile may be found along older river channels that have changed course over 
+time.  Land elevation for some portions of the flood plain is at or even below  
+the current river channel.  When flooding occurs, lower elevations away from the 
+river are inundated and unable to drain back into the river as water recedes.   
+ 
+Flood damage away from the river may actually be more severe than on land adjacent to 
+the river.  Direct overflow and normal runoff from surrounding land may create severe 
+drainage limitations. 
+   
+Rating Implications:  
+Worst case rating is applicable.  There may be unusual situations where worst case 
+rating applies to depressional areas while class average or standard rating is reasonable 
+for land closer to the river. 
+   
+Type 6 
+T y p e  6
+ 
+ 
+ 
+35 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+Type 7 
+ 
+Characteristics: 
+This irregular profile is usually produced by variation of parent material within the flood 
+plain.  Parent materials subject to differing rates of erosion and older colluvial or glacial 
+deposits contribute to the ‘washboard’ appearance of this profile.  Potential flood 
+damage on associated farmland is highly variable.  There may be knolls in the flood 
+plain that do not flood aside depressional areas similar to a Type 6 profile. 
+ 
+Rating Implications:  
+Appropriate rating methods are dependent on the distribution and size of farmed fields 
+within the flood plain.  If only those areas not subject to flood are farmed, standard rating 
+may be used.  If fields are large with continuous mono-cropping across the flood plain, 
+class average rating may be used.  If only small fields in lower areas are farmed, worst 
+case rating is used.      
+ 
+ 
+Type 7 
+T y p e  6  
+ 
+ 
+ 
+ 
+Type 8 
+ 
+Characteristics: 
+ 
+A Type 8 profile is similar to a Type 4 profile.  The difference is a Type 4 profile is 
+beginning to show development of primary and secondary flood plains.  It is often not 
+possible to physically distinguish between them for rating purposes. 
+ 
+Rating Implications:  
+ 
+Average class or worst case may be appropriate depending on the distribution and slope 
+of land in each flood plain. 
+ 
+ 
+Type 8 
+T  
+ 
+ 
+ 
+ 
+36 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+Type 9 
+ 
+Characteristics: 
+Type 9 profiles have extensive primary and secondary flood plain development.  
+It is possible to separate land for rating purposes.  
+ 
+ 
+ 
+Rating Implications:  
+Generally, average class rating is applied to secondary flood plains due to lower risk and 
+increasing slope.  Worst case is appropriate for primary flood plains depending on the 
+extent and quality of flood control structures. 
+   
+ 
+ 
+Type 9 
+T
+ 
+ 
+ 
+ 
+ 
+Type 10 
+ 
+Characteristics: 
+A Type 10 profile may have characteristics similar to any other type of flood plain.  The 
+difference is presence of a substantial flood control structure on one side of the flood 
+plain.  In this case, the levee may be a Corps Specification levee that is privately owned.  
+Existence of the structure may decrease risk behind the levee; however, severity of 
+flooding on the river side of the structure is general increased.  This is because 
+constriction of the flood plain forces water to move faster and spread out further on the 
+opposite side of the river.    
+   
+ 
+ 
+Rating Implications:  
+Land behind the levee may be assigned standard or average class ratings depending on 
+the quality of the levee, seep potential, susceptibility of soil types to excessive moisture 
+damage, and drainage limitations.  Worst case rating is generally applicable to land 
+between the river and the levee and land on the opposite side of the river. 
+ 
+Type 10 
+T  
+ 
+ 
+ 
+37 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+Type 11 
+ 
+Characteristics: 
+This profile is characteristic of the largest rivers.  Corps Specification or better 
+levees on each side of the river define the flood plain.  Construction of the levees 
+is substantial and failure is not expected even under severe conditions.  
+Breaching does occur although not generally more often than every twenty-five to 
+fifty years. 
+ 
+ 
+Rating Implications:  
+Land behind the levee may be assigned standard or average class ratings 
+depending on the quality of the levee, seep potential, susceptibility of soil types 
+to excessive moisture damage, and drainage limitations.  Worst case rating is 
+applicable to land between the river and the levees.  
+ 
+ 
+Type 11 
+T  
+ 
+ 
+38 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+EXHIBIT 4 
+ 
+ 
+Reference To Actuarial Structures  
+ 
+Almost all actuarial structures in use to classify risk and assign premium rates have their basis 
+in the assumption that productivity and risk are related.  As productivity increases, risk and its 
+associated premium rate decrease.  General types of structures include: 
+ 
+Single risk classification:  This actuarial structure is generally established in counties with 
+limited crop acreage and potential risk variation among insureds.  A single class rate applies to 
+all insured acreage.  An example might be an apple program in a predominately flat county with 
+100 potential acres.  A low number of insureds and a lack of evident risk variation suggest a 
+county-wide rate is the most appropriate structure.  
+ 
+Multiple risk classifications: Continuous rating methods, and producer listing yield 
+classifications, farm yield groupings, soil productivity groupings, and practice-type-variety 
+groupings.  The basic underwriting concept of multi-class rating is to account for variable risk 
+exposure.  Use of multi-class structures makes it is possible to attract a better risk with lower 
+premiums while continuing to adequately rate for the higher risk.  If this approach is successful, 
+rates may be reduced thereby attracting more business.  In a county with many acres of a crop, 
+the relationship between risk and productivity generally holds true although other program 
+features or the presence of exceptional risk may work to degrade the actual relationship.  In a 
+county with limited crop acreage, this relationship may not exist.  Over- or under-rating of all 
+multiple risk classifications is possible if they are not systematically reviewed. 
+ 
+Exceptional or High Risk Classification:  The actuarial structure for exceptional risk is simply 
+an extension of single or multi-class rating.  Almost all perils and associated losses have a 
+random occurrence in a county.  For example, hail may damage crop production on 100 acres 
+in part of a county; however, future recurrence on the same location is unknown and 
+unpredictable. This type of random loss, which may happen at any location, is the basis of a 
+county average rate shared by all insurance participants.    The exceptional risk does not exhibit 
+random loss behavior.  Exceptional risk is the expectation of repetitious loss from one or more 
+perils in a definable location.  The best example of exceptional risk for crop and other lines of 
+property insurance is flood.  Flood occurs within the physical bounds of a flood plain.  It is a 
+measurable peril with historical frequency that is expected to continue into the future.  Other 
+perils also exhibit this tendency toward repetitious loss due to the natural limitations of certain 
+soils.   These characteristics such as aluminum toxicity, poor drainage, sand content, land 
+degradation, or high water table often mimic or exacerbate the effects of a weather related peril. 
+ 
+Price coverage plans (RA, CRC, IP, etc.) and Group Risk Plan coverage also have a revenue 
+factor that must be considered along with yield components in determining risk.  
+ 
+39 
+ 
+AUGUST 2003 
+ 
+FCIC 24010 
+ 
+ 
+       EXHIBIT (5) 
+ 
+ 
+SPANS USED FOR TOBACCO  
+ 
+ 
+ 
+ 
+ 
+      TOBACCO                             TYPE 21                                 TYPE 37 
+ 
+     1        1 -   900                      1       1 -   100                        1        1 -   100  
+     2    901 - 1000                      2   101 -   150                        2    101 -   150      
+     3  1001 - 1100                      3   151 -   200                        3    151 -   200      
+     4  1101 - 1200                      4   201 -   250                        4    201 -   250      
+     5  1201 - 1300                      5   251 -   300                        5    251 -   300     
+     6  1301 - 1400                      6   301 -   350                        6    301 -   350      
+     7  1401 - 1500                      7   351 -   400                        7    351 -   400      
+     8  1501 - 1600                      8   401 -   450                        8    401 -   450      
+     9  1601 - 1700                      9   451 -   500                        9    451 -   500      
+   10  1701 - 1800                    10   501 -   600                      10    501 -   600     
+   11  1801 - 1900                    11   601 -   700                      11    601 -   700     
+   12  1901 - 2000                    12   701 -   800                      12    701 -   800     
+   13  2001 - 2100                    13   801 -   900                      13    801 -   900     
+   14  2101 - 2200                    14   901 - 1000                      14    901 - 1000     
+   15  2201 - 2300                    15  1001 - 1100                     15  1001 - 1100     
+   16  2301 - 2400                    16  1101 - 1200                     16  1101 - 1200     
+   17  2401 - 2500                    17  1201 - 1300                     17  1201 - 1300     
+   18  2501 - 2600                    18  1301 - 1400                     18  1301 - 1400     
+   19  2601 - 2700                    19  1401 - 1500                     19  1401 - 1500     
+   20  2701 - 2800                    20  1501 - 1600                     20  1501 - 1600     
+   21  2801 - 2900                    21  1601 - 1700                     21  1601 - 1700     
+   22  2901 - 3000                    22  1701 - 1800                     22  1701 - 1800     
+   23  3001 - 3100                    23  1801 - 1900                     23  1801 - 1900     
+   24  3101 - 3200                    24  1901 - 2000                     24  1901 - 2000     
+   25  3201 +                            25  2001 +                             25  2001 - 2100     
+                                                                                              26  2101 - 2200     
+                                                                                              27  2201 - 2300     
+                                                                                              28  2301 - 2400     
+                                                                                              29  2401 - 2500     
+                                                                                              30  2501 +          
+ 
+ 
+ 
+40 
+ 
+ 

@@ -1,0 +1,345 @@
+IN THE UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF WEST VIRGINIA
+AARON C. LEWIS,
+Petitioner,
+v.
+Civil Action No. 3:06-CV-47
+Criminal Action No. 3:03-CR-17
+UNITED STATES OF AMERICA,
+(JUDGE BAILEY)
+Respondent.
+REPORT AND RECOMMENDATION 
+THAT § 2255 MOTION BE DENIED
+I.  INTRODUCTION
+On May 11, 2006, pro se petitioner filed a Motion under 28 U.S.C. § 2255 to Vacate, Set
+Aside or Correct Sentence by a Person in Federal Custody.  The Government filed its response
+May 30, 2007. 
+II.  FACTS
+A. 
+Conviction and Sentence
+Petitioner was named in a twelve count superseding indictment filed on June 3, 2003 in
+the Northern District of West Virginia.  Petitioner was charged in count 1 in a conspiracy to
+possess with the intent to distribute more than 50 grams of cocaine base in violation of 21 U.S.C.
+§ 846; in counts 2, 5, 7, 9, and 10 with distribution of six ounces of cocaine base in violation of
+21 U.S.C. § 841(a)(1); in counts 3, 4, 6, 8, and 11 with distribution of 1.85 grams of cocaine base
+in violation of 21 U.S.C. § 841(a)(1); and in count 12 with aiding and abetting the distribution of
+.37 grams of crack in violation of 18 U.S.C. § 2 and 21 U.S.C. § 841. 
+1
+On August 13, 2003, petitioner was convicted by a jury on all twelve counts.  On
+November 4, 2003, petitioner was sentenced to a term of imprisonment of 275 months on counts
+1, 2, 5, 7, 9, and 10 and 240 months, concurrent, on counts 3, 4, 6, 8, 11, and 12.
+B.
+Appeal
+On November 10, 2003, petitioner filed a notice of appeal. On July 6, 2004, the Fourth
+Circuit Court of Appeals affirmed petitioner’s conviction and sentence.  Petitioner petitioned the
+United States Supreme Court for a writ of certiorari. The Supreme Court denied petitioner’s
+petition on February 22, 2005.
+C.
+Federal Habeas Corpus
+The petitioner asserts the following grounds for relief:
+1.
+The Court did not have jurisdiction over the conspiracy alleged in Count 1
+because petitioner was a juvenile during a portion of the conspiracy and the Court did not
+comply with the requirements of the Federal Juvenile Delinquency Act, 18 U.S.C. § 5301, for
+prosecuting a juvenile. 
+2.
+The Government’s failure to submit a Bill of Particulars detailing when, where,
+and with whom the acts in Counts 2 through 7 occurred prejudiced petitioner because he was
+unable to adequately prepare a defense for trial.
+3. 
+Newly discovered evidence, namely a Bill of Sale, establishes the government’s
+witness, David Rosario, fabricated his statements about having bought cocaine from petitioner
+on March 28, 2002. 
+4.
+The Government’s witnesses Joseph Lockett and Jonathan Crawford made
+statements to the grand jury that were inconsistent with their prior statements made to
+2
+investigators.  Furthermore, there was insufficient evidence to convict petitioner of the
+substantive drug charges in counts 2 through 11.
+In its response to the Petitioner’s motion, the Government asserts:
+1.
+The Court had jurisdiction over the acts alleged in Count 1 because although
+petitioner joined the conspiracy as a juvenile, he continued his involvement as an adult.
+2.
+Although the Government did not submit a Bill of Particulars, the superseding
+indictment, witness lists, Jencks and Giglio materials provided to petitioner before trial
+sufficiently apprised petitioner of the charges against him. 
+3.
+The Bill of Sale does not establish David Rosario fabricated his testimony. 
+Furthermore, petitioner failed to prove the five elements necessary for receiving a new trial
+based on newly discovered evidence.
+4.
+Petitioner failed to prove that no reasonable jury could have convicted him of the
+substantive drug charges in counts 2 through 11.
+D. 
+Recommendation
+Based upon a review of the record, the undersigned recommends that Petitioner’s § 2255
+motion be denied and dismissed from the docket because his claims are without merit.  
+III.   ANALYSIS
+“A petitioner collaterally attacking his sentence or conviction bears the burden of proving
+his sentence or conviction was imposed in violation of the Constitution or laws of the United
+States, that the court was without jurisdiction to impose such a sentence, that the sentence
+exceeded the maximum authorized by law, or that the sentence otherwise is subject to collateral
+attack.  28 U.S.C. § 2255. A motion collaterally attacking a petitioner’s sentence brought
+3
+pursuant to § 2255 requires the petitioner to establish his grounds by a preponderance of the
+evidence.” Sutton v. United States of America, 2006 WL 36859, at *2 (E.D. Va. Jan. 4, 2006).
+A.
+Timeliness of Motion
+In 1996, the Anti-Terrorism and Effective Death Penalty Act of 1996 [“AEDPA”] was
+enacted, establishing a one-year limitation period within which to file any federal habeas corpus
+motion.  28 U.S.C. §2255.  The limitation period shall run from the latest of:
+1) the date on which the judgment of conviction becomes final;
+2) the date on which the impediment to making the motion created by governmental
+action in violation of the Constitution or laws of the United States is removed, if the movant was
+prevented from making a motion by such governmental action;
+3) the date on which the right asserted was initially recognized by the Supreme Court, if
+that right has been newly recognized by the Supreme Court and made retroactively applicable to
+cases on collateral review; or
+4) the date on which the facts supporting the claim or claims presented could have been
+discovered through the exercise of due diligence. 
+28 U.S.C. § 2255.  Where a federal prisoner files a petition a writ of certiorari with the United
+States Supreme Court, the judgment of conviction becomes final - thereby triggering the one-
+year limitation - when the Supreme Court either denies certiorari or issues a decision on the
+merits.  Clay v. United States, 537 U.S. 522, 525 (2003).  
+In the present case, the Supreme Court denied petitioner’s writ of certiorari on February
+22, 2005.  Petitioner therefore had until February 22, 2006 to file his motion under § 2255.  On
+February 22, 2006, petitioner requested the Court grant him a two month extension to file his
+motion under § 2255.  On March 13, 2006, the Court granted petitioner’s request and extended
+4
+the period within which petitioner may file his motion to May 12, 2006.  Petitioner filed his
+motion on May 11, 2006.  Because petitioner filed his § 2255 motion within the period of time
+designated by the Court, the Court finds petitioner’s motion was timely. 
+B.
+Procedurally Defaulted Issues
+Before evaluating the merits of Petitioner’s claims, the Court must determine which of
+Petitioner’s issues he may bring in his § 2255 motion.  It is well settled non-constitutional issues
+that could have been raised on direct appeal but were not may not be raised in a collateral attack
+such as a § 2255 motion.  Sunal v. Large, 332 U.S. 174, 178-79 (1947); Bousley v. United
+States, 523 U.S. 614 (1998).  Constitutional issues that were capable of being raised on direct
+appeal but were not may be raised in a § 2255 motion so long as the petitioner demonstrates 1)
+“cause” that excuses his procedural default, and 2) “actual prejudice” resulting from the alleged
+errors.  United States v. Maybeck, 23 F.3d 888, 891 (1994).  Petitioner may alternatively
+demonstrate “actual innocence,” or that it is more likely than not, in light of all the evidence, that
+no reasonable juror would have convicted him.”  Bousley v. United States, 523 U.S. 614, 621
+(1998).  Finally, issues previously rejected on direct appeal may not be raised in a collateral
+attack.  Boeckenhaupt v. United States, 537 F.2d 1182 (4th Cir. 1976).  
+The Court finds petitioner is not barred from raising his first issue because challenges to
+the jurisdiction of the Court may be raised on collateral attack.  See 28 U.S.C. § 2255; see, also,
+Sunal v. Large, 332 U.S. 174, 178-179 (1947).  However, petitioner is barred from raising issues
+2 and 3 because he has failed to show “cause” and “prejudice” for failing to raise them on direct
+appeal.  Maybeck, 23 F.3d at 891.  Furthermore, petitioner is barred from raising issue 4 because
+challenges to the sufficiency of the evidence may not be raised on collateral attack and because
+5
+petitioner’s previous challenge, made on direct appeal, to the sufficiency of the evidence as to
+counts 2, 5, 7, 9, and 10 was rejected.  Boeckenhaupt, 537 F.2d at 1182.1  
+B.
+Issue 1 - Whether the Court Had Jurisdiction Over Count 1
+Petitioner alleges the Court did not have jurisdiction over the conspiracy charged in
+Count 1 because petitioner was a juvenile through a period of the conspiracy and the Court failed
+to comply with the requirements of the Federal Juvenile Delinquency Act, 18 U.S.C. § 5031 et
+seq for prosecuting a juvenile.  The Government contends the Court had jurisdiction over Count
+1 because although petitioner was a juvenile at the time he joined the conspiracy, he remained in
+the conspiracy as an adult. 
+The Court finds the trial Court had jurisdiction over the acts alleged in Count 1.2  Count 1
+of the superseding indictment charged petitioner in a conspiracy alleged to have occurred “from
+on or about January, 1999 to on or about the date of the return of the indictment,” or June 3,
+2003.   Because petitioner was born on January 7, 1984, acts committed by petitioner prior to
+January 7, 2002 were committed as a juvenile and acts committed by petitioner on or after
+January 7, 2002 were committed as an adult.  Petitioner therefore allegedly joined the conspiracy
+as a juvenile.  However, because the Government proved petitioner’s involvement in the
+1 Petitioner raised the following four issues on direct appeal: 1) Whether the United
+States presented sufficient evidence to support defendant’s conviction on the substantive drug
+distribution charges; 2) whether the district court committed clear error in its calculation of
+defendant’s relevant conduct; 3) whether the district court plainly erred in its instructions to the
+jury as to the object of the conspiracy; 4) whether the district court plainly erred in its
+instructions to the jury concerning defendant’s Pinkerton (Pinkerton v. United States, 328 U.S.
+640 (1946)) liability regarding charged conspiracy. 
+2   The “act” alleged in Count 1 is the “criminal agreement” itself, not any of the actual
+distributions of cocaine that were the object of the criminal conspiracy. United States v.
+Shambani, 513 U.S. 10, 16 (1994).  As held by the Supreme Court, the government, in order to
+prove a violation of 21 U.S.C. § 846, “need not prove the commission of any overt acts in
+furtherance of the conspiracy. . . . [T]he criminal agreement itself is the actus reas.”  Id. 
+6
+conspiracy continued into his adulthood, the Court had jurisdiction and his conviction may be
+sustained.  United States v. Spoone, 741 F.2d 680 (4th Cir. 1984) [upholding conspiracy
+conviction of adult defendant who joined conspiracy as a juvenile yet committed one overt act in
+furtherance of the conspiracy as an adult].  The fact the Government presented evidence of
+petitioner’s involvement as a juvenile does not disturb the Court’s finding because the Court
+finds the jury was properly instructed they were to consider evidence of petitioner’s juvenile
+involvement merely for purposes outlined in the F.R.E. § 404(b) (such as knowledge, intent, and
+motive), not as evidence of his guilt of the crime.  Id. at 687; see F.R.E. 404(b).  Finally, the
+Court finds petitioner’s reliance on the Federal Juvenile Delinquency Act is misplaced.  The Act
+applies to the prosecution of a juvenile in federal court.  18 U.S.C. §§ 5031, 5032.  The Act does
+not apply to the prosecution of an adult in federal court who joined a conspiracy as a juvenile. 
+Spoone, 741 F.2d at 687.   
+C.
+Issue 2  - Whether Petitioner was Prejudiced By the Government’s Failure to 
+Submit a Bill of Particulars
+Petitioner argues the Government’s failure to submit a Bill of Particulars as to Counts 2
+through 7 of the indictment prejudiced his ability to prepare a defense for trial.  The Government
+contends although the Government did not comply with the Court’s order to submit a Bill of
+Particulars, petitioner was not prejudiced by the Government’s noncompliance because
+petitioner received the requested information in the superseding indictment, witness lists, and
+Jencks and Giglio material.  
+The original indictment filed April 2, 2003 charged petitioner in Counts 2 through 7 with
+distributing cocaine base, “in or about January, February and March of 2002,” in violation of 21
+7
+U.S.C. § 841(a)(1).3  On April 30, 2003, petitioner moved the Court to order the Government to
+submit a Bill of Particulars detailing a) the identity of others involved in each count, b) the
+alleged circumstances of petitioner’s participation in each count, c) which acts were purportedly
+committed by petitioner while he was under eighteen, d) what acts in support of the conspiracy
+were purportedly committed by petitioner after he was eighteen, e) additional detail on the time
+and location of the acts charged in Counts 2 through 7.4   On May 14, 2003, the Court granted
+petitioner’s motion, ordering the Government to submit a Bill of Particulars stating when, where,
+and with whom the acts in Counts 1 through 7 took place and which, if any, of the alleged acts
+were committed prior to petitioner’s eighteenth birthday.5  The Government objected to the
+Order but the Court’s Order was affirmed.
+On June 3, 2003, the Government filed a superseding indictment that specified in greater
+detail the dates of the alleged acts in Counts 2 through 7.6  The new dates established the alleged
+acts were committed by petitioner after he turned eighteen.  The superseding indictment did not,
+however, provide any detail as to where or with whom the acts in Counts 2 through 7 took place. 
+On May 27, 2003, the Government provided petitioner with a witness list and Jencks and Giglio
+material.  The Government never submitted a Bill of Particulars. 
+The Court finds petitioner was not prejudiced by the Government’s failure to submit the
+Bill of Particulars because the superseding indictment, witnesses lists, and Jencks and Giglio
+materials provided the information originally sought in the Bill of Particulars and sufficiently
+enabled petitioner to prepare a defense, minimize surprise at trial, and avoid double jeopardy. 
+3 Docket No. 1.
+4 Docket No. 15.
+5 Docket No. 19.
+6 The superseding indictment also added four additional charges, Counts 9, 10, 11, and
+12.
+8
+United States v. Fletcher, 74 F.3d 49, 53 (4th Cir. 1996); United States v. Shembari, 484 F.2d
+931, 934-35 (4th Cir. 1973).  Specifically, the dates contained in the superseding indictment
+sufficiently apprised petitioner of “when” the acts in Counts 2 through 7 occurred, that all acts in
+Counts 2 through 7 occurred after petitioner turned eighteen, and “where” each alleged act
+occurred.  Similarly, the witness lists sufficiently apprised petitioner of the individuals “with
+whom” the acts in Counts 2 through 7 took place and were given to petitioner in sufficient time
+before trial.  The Court finds the failure of the witness lists to specify which witness would
+testify to which of the alleged acts is insignificant, because the government need not provide
+“detailed disclosure of the government’s evidence in advance of trial.”  United States v.
+Automated Medical Labs, Inc., 770 F.2d 399, 405 (4th Cir. 1985).  Petitioner was permitted to
+contact the witnesses to determine the specifics of their testimony.
+D.
+Issue 3 - Whether the Government’s Witness Fabricated Evidence Before the Grand
+Jury.
+Petitioner alleges newly discovered evidence establishes David Rosario, a witness for the
+Government, fabricated statements to Detective Snyder.  The Government argues the “newly
+discovered” evidence fails to establish Mr. Rosario fabricated testimony.  Additionally, the
+Government alleges even if the evidence establishes Mr. Rosario fabricated testimony, the
+evidence fails to establish grounds for vacating petitioner’s conviction.
+On June 3, 2003, Detective Snyder testified before the grand jury about statements made
+to him by David Rosario.  The statements, which established the basis for Count 12, concerned a
+controlled buy made by an undercover agent from Mr. Rosario.  Detective Snyder testified to the
+grand jury Mr. Rosario told him he obtained the drugs at issue from a black male in a green
+SUV.  Detective Snyder also testified Mr. Rosario, after pleading guilty and getting debriefed,
+9
+said he obtained the drugs at issue from petitioner on March 28, 2002.  Petitioner concedes that
+he owned a green color SUV but argues he did not purchase a green color SUV until April 6,
+2003.  Petitioner has submitted a Bill of Sale as proof of his purchase and proof Mr. Rosario
+fabricated his statements to Detective Snyder. 
+The Court finds petitioner’s argument is without merit.  First, the Bill of Sale establishes
+petitioner bought a green-color SUV on April 6, 2002, not April 6, 2003 as alleged by petitioner. 
+Second, the Bill of Sale does not definitively establish Mr. Rosario fabricated his testimony. 
+The proximity in time between March 28, 2002 (the date Mr. Rosario alleged he encountered
+petitioner in the green SUV)  and April 6, 2002 (the date petitioner bought his car) makes it
+entirely possible Mr. Rosario was merely mistaken as to the exact date of the transaction as
+opposed to intentionally fabricating evidence.  Second, even if the Bill of Sale could be
+construed as proving Mr. Rosario fabricated his testimony, petitioner has failed to establish the
+required grounds for a new trial.  Pursuant to Rule 33 of the Federal Rules of Criminal
+Procedure, a motion for a new trial based on newly discovered evidence may be granted if the
+petitioner proves all the following five factors:
+“a) the evidence must be, in fact, newly discovered, i.e., discovered since the trial; b) the 
+facts must be alleged from which the court may infer diligence on the part of the movant;
+c) the evidence relied on must not be merely cumulative or impeaching; d) it must be 
+material to the issues involved; and e) it must be such, and of such nature, that on a new 
+trial, the newly discovered evidence would probably produce an aquittal.”
+United States v. Custis, 988 F.2d 1355, 1359 (4th Cir. 1993) (quoting United States v. Bales, 813
+F.2d 1289, 1295 (4th Cir. 1987); see, also, United States v. Singh, 54 F.3d 1182, 1190 (4th Cir.
+1995).  Petitioner has failed to prove the above elements.  First, petitioner has failed to prove the
+10
+Bill of Sale was discovered only since the trial nor that he exercised diligence in attempting to
+locate the Bill of Sale.  Presumably, petitioner was aware prior to the start of the August 11,
+2003 trial that he had purchased a green-color SUV on or about April 2002 and that a Bill of
+Sale likely existed to prove the date of his purchase.  Second, petitioner has failed to show the
+Bill of Sale would “probably produce an acquittal.”   The Bill of Sale would merely have
+impeached Mr. Rosario’s ability to accurately recall dates rather than produce an acquittal due to
+the detail of Mr. Rosario’s testimony coupled with Joseph Lockett’s testimony petitioner
+distributed cocaine base in March 2002.7  Although William Pennington testified Mr. Rosario
+intended to falsely testify against petitioner, 8 William Pennington’s testimony was
+uncorroborated.
+E.
+Issue 4 - Whether There was Sufficient Evidence to Convict Petitioner of Counts 2 
+Through 11.
+Petitioner alleges witnesses Joseph Lockett’s and Jonathan Crawford’s statements to the
+grand jury were inconsistent with their statements to investigators and that Lockett’s testimony
+was “unsubstantiated and uncorroborated” such that it was “unreasonable for the jury to base
+convictions on such evidence.”  Petitioner thus broadly alleges there was insufficient evidence to
+support his convictions of counts 2 through 11.  The Government contends petitioner has failed
+to show the evidence was insufficient. 
+Generally, a jury’s conviction may be reversed for insufficient evidence where, “viewing
+the evidence in the light most favourable to the government, any rational trier of fact would have
+7 Joseph Lockett testified he bought cocaine from petitioner in January, February, and
+into March.  
+8 William Pennington testified at the trial he was in the Eastern Regional jail with Mr.
+Rosario and that Mr. Rosario told him he hated petitioner and intended to falsely testify against
+petitioner at trial.
+11
+found the defendant guilty beyond a reasonable doubt.”  United States v. Reavis, 48 F.3d 763,
+771 (4th Cir. 1995).   Because it is the jury’s view of the sufficiency of the evidence which
+controls, “[t]he relevant question is not whether the appellate court is [itself] convinced beyond a
+reasonable doubt.”  Id.; Burks v. Unites States, 437 U.S. 1, 17 (1978).  Similarly, it is the jury’s
+province, not the appellate court’s, to evaluate and determine a witness’ credibility.  Johnson v
+United States, 271 F.2d 596, 597 (4th Cir. 1959) [holding, “it is the duty of the trier of fact to
+hear the evidence, to determine the credibility of the witnesses and to determine the weight to be
+accorded to the testimony of each witness”]. 
+The Court finds petitioner has failed to meet his burden of showing that no rational jury
+could have found him guilty beyond a reasonable doubt of counts 2 through 11.  Reavis, 48 F.3d
+at 771.  Regarding Counts 2, 5, 7, 9, and 10, witness Lockett testified he purchased six ounces of
+cocaine from petitioner on five occasions, beginning around the time of the Superbowl in 2002,
+two weeks following the Superbowl, near Valentine’s Day, and the first and third weeks in
+March 2002.  Petitioner argues Lockett’s prior statements to the grand jury that petitioner sold
+him 28 grams on each occasion, rather than six ounces, impeached  his testimony and left his
+testimony “uncorroborated and unsubstantiated.”  In viewing the evidence in the light most
+favourable to the government, the Court finds there was sufficient evidence for a jury to
+convicted petitioner of counts 2, 5, 7, 9, and 10.  Furthermore, the Court notes the jury was made
+aware of Lockett’s inconsistent statements to the grand jury and investigators9 and nevertheless
+decided to believe Lockett’s testimony, as evidenced by their conviction on counts 2, 5, 7, 9, and
+9 Lockett admitted on cross-examination he had not originally told investigators about the
+six ounce quantities and that he had testified to the grand jury his purchases from petition began
+in the Fall of 2002. 
+12
+10.  The Court will not disturb the jury’s assessment of a witness’ credibility.   Johnson, 271
+F.2d at 597.
+Similarly, the Court finds petitioner has failed to prove that no rational jury could find
+him guilty beyond a reasonable doubt of counts 3, 4, 6, 8, and 11.  Witness Crawford testified
+before the jury that he purchased “wholesale” amounts of cocaine base from petitioner five to ten
+times in early 2002, in or around January, February and March.  Petitioner argues Crawford’s
+testimony was inconsistent with statements he made to the grand jury that the purchases
+occurred in 2000 and 2001.  The Court, again, finds, petitioner has failed to meet his burden of
+proving his convicted rested on insufficient evidence.  In addition to there being sufficient
+evidence to support his conviction for counts 3, 4, 6, 8, and 11, including Crawford’s testimony
+and other witness’ testimony establishing petitioner’s involvement in the sale of drugs on or
+about January, February, and March 2002, the jury determined Crawford’s testimony was
+credible.  The Court will not disturb its finding.  Johnson, 271 F.2d at 597.
+V.   Recommendation
+For the foregoing reasons, the undersigned recommends that Petitioner’s § 2255 motion
+be denied and dismissed from the docket because petitioner’s claims are without merit. 
+Within ten (10) days after being served with a copy of this report and recommendation,
+any party may file with the Clerk of Court written objections identifying those portions of the
+recommendation to which objection is made and the basis for such objections.  A copy of any
+objections shall also be submitted to the Honorable John P. Bailey, United States District Judge. 
+Failure to timely file objections to this recommendation will result in waiver of the right to
+appeal from a judgment of this Court based upon such recommendation. 28 U.S.C. § 636(b)(1);
+13
+Thomas v. Arn, 474 U.S. 140 (1985); Wright v. Collins, 766 F.2d 841 (4th Cir. 1985): United
+States v. Schronce, 727 F.2d 91 (4th Cir. 1984), cert. denied, 467 U.S. 1208 (1984).
+The Clerk is directed to mail a copy of this Report and Recommendation to the pro se
+plaintiff and counsel of record, as applicable.
+DATED: November 15, 2007
+/s/ James E. Seibert
+JAMES E. SEIBERT
+UNITED STATES MAGISTRATE JUDGE
+14

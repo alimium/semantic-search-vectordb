@@ -1,0 +1,352 @@
+EXXON COMPANY, U.S.A.
+IBLA 88-181
+Decided February 21, 1990
+Appeal from a decision of the Deputy Director, Minerals Management Service, affirming an order
+assessing charges for erroneous reporting.  MMS 87-0222-O&G.
+Affirmed in part, reversed in part, and remanded.
+1.
+Administrative Practice--Administrative Procedure: Decisions
+When issuing a formal decision one must do more than ensure that the
+decision is supported by a rational basis.  The basis for that decision
+must be stated 
+in the written decision and demonstrated in the administrative record
+accompanying the decision.  The recipient of the decision deserves a
+reasoned and factual explanation of the rationale for the decision, and
+must be given some basis for understanding it and accepting it or,
+alternatively, for appealing and disputing it.
+2.
+Administrative Procedure: Generally--Federal Oil and Gas Royalty
+Management Act of 1982: Generally--Federal Oil and Gas Royalty
+Management Act of 1982: Assessments--Oil and Gas Leases: Royalties:
+Generally--Regulations: Generally--Regulations: Applicability--
+Regulations: Interpretation
+A regulation should be sufficiently clear that there is no basis for an oil
+and gas lessee's noncompliance with the regulation before that regulation
+is interpreted to the detriment of a lessee.  If a regulation is ambiguous,
+any doubt as to its meaning should be resolved favorably to the lessee.
+The need for clarity is even more imperative when MMS attempts to
+base a significant monetary assessment on a lessee's failure to properly
+apply provisions of its Oil and Gas Payor Handbook, because that
+Handbook lacks the force and effect of 
+law enjoyed by a statute or regulation. 
+APPEARANCES:  Salvatore J. Casamassima, Esq., Houston, Texas, for appel- lant; Peter J. Schaumberg,
+Esq., Geoffrey Heath, Esq., and Howard W. Chalker, Esq., Office of the Solicitor, U.S. Department of the
+Interior, Washington, D.C., for the Minerals Management Service.
+113 IBLA 199
+                                                         IBLA 88-181
+OPINION BY ADMINISTRATIVE JUDGE MULLEN
+Exxon Company, U.S.A. (Exxon), has appealed from a decision of the Deputy Director, Minerals
+Management Service (MMS), dated October 5, 1987, affirming a $10,000 assessment for erroneous reporting
+on Exxon's June 1986 Form MMS-2014, Report of Sales and Royalty Remittance.
+At the outset of this decision we must note that the record submitted by MMS on appeal is not the
+complete, official file in this dispute.  MMS has not submitted Exxon's June 1986 Form MMS-2014, or a
+complete copy of Royalty Rejected Line Detail Report No. ATL 152R, documents central to the dispute now
+before us.  The MMS field report and MMS' Answer do shed some light upon what transpired, but, in the
+absence of the complete file, some details of the disputed transaction are left to speculation. 1/ 
+Oil and gas lessees are required to file monthly production reports with MMS.  The reports filed
+are on forms prepared by MMS, and require a listing of various transactions as line item entries, using
+various numeric codes, called "transaction codes" (TCs).  MMS also requires the use of the report form for
+entries intended to correct entries on previous reports, and a numeric code is also used to describe the nature
+of any line item entry that makes adjustments.  These entries are called "adjustment rea- 
+son codes" (ARCs)  Use of these codes presumably facilitates computerized processing of production data.
+The dispute now before us arose from the manner in which Exxon completed Form MMS-2014
+in June 1986 when it made line item entries to adjust previously reported transportation allowances
+(allowable deductions).  Evidently, MMS had previously approved a tentative transportation allowance, with
+the understanding that necessary adjustments would be made when actual costs were determined.
+Apparently, Exxon assembled transportation cost data, and, in the June 1986 report, it "reversed" the
+previously reported tentative allowance (presumably by adding an amount equal to the tentative allowance
+previously deducted) and replaced it with a corrected transportation allowance based on actual costs. 2/  This
+adjustment was evidently noted with the correct TC and ARC, as MMS has had no problem with the manner
+in which Exxon reported this adjustment.
+                                     
+1/  MMS is reminded of its obligation to submit the complete, original administrative record to this Board
+when an appeal is filed, and that failure to comply may result in our vacating its decision as unsupported 
+by the evidence.  Dugan Production Corp., 103 IBLA 362, 364 (1988), and cases cited therein.  We note that
+despite the difficulty experienced 
+when attempting to determine what actually transpired in this case, it is unnecessary for us to take further
+steps to overcome MMS' failure to submit a complete record.  The MMS decision must be reversed on other
+grounds.
+2/  It is not clear whether Exxon revised an earlier report for June 1986, or made entries in a June 1986 report
+to adjust entries on previous report(s).  It appears that the latter procedure was used. 
+113 IBLA 200
+                                                         IBLA 88-181
+The problem arose because the June 1986 report also contained line item entries in which Exxon
+had evidently reversed its previously reported gross royalty and royalty-in-kind figures for the same time
+periods and replaced them with identical figures.  Exxon listed these entries using TC 01 (royalty due) and
+TC 06 (royalty-in-kind) to describe the trans- actions and ARC 34 (adjustments for allowances) on the report
+to explain 
+the adjustment.
+MMS' computer balked at accepting the MMS-2014 report form sub- 
+mitted by Exxon because of Exxon's use of the ARC 34 entries, and generated Royalty Rejected Line Detail
+Report No. ATL 152R.  The report identified 1,365 line item entries as being erroneous.  By demand letter
+and bill 
+for collection, Invoice No. 75760111, both dated December 11, 1986, MMS assessed Exxon $10,000 for
+1,365 erroneous reports on Exxon's Form MMS-2014 for the June 1986 reporting period.  MMS enclosed
+the Royalty Rejected Line Detail Report, upon which MMS circled each line which contained at least one
+reporting error.  The following errors were cited by MMS:  "1.  [t]he use of adjustment reason codes that
+were incompatible with the transaction codes used (e.g., using adjustment reason code 34 with transaction
+codes 01 and 06); and 2. [r]eporting unnecessary lines with no quantities and values."  Although the
+regulations then in effect provided for the assessment of $10 per line for each line containing one or more
+payor errors (in this case $13,650), MMS charged Exxon $10,000, the maximum erroneous reporting
+assessment permitted.
+Exxon appealed this assessment to the Director, MMS.  In its appeal 
+to the Director, Exxon explained that the alleged errors resulted from adjustments it made to its tentative
+transportation allowance figures following MMS' approval of its actual transportation costs for its California
+Hondo lease.  Exxon argued that it had selected ARC 34 by following the 
+1982 MMS Oil and Gas Payor Handbook (Handbook).  The Handbook instructions stated that ARC 34
+should be used to adjust royalties as a result 
+of a retroactive allowance determination made by MMS, and that ARC 38, 
+the code MMS determined to be appropriate, should be used to adjust line entries previously reported with
+coding or typographical errors.  Exxon further asserted that it had never been notified that ARC 34 was
+incompatible with TC 01 and TC 06.
+By decision dated October 5, 1987, the Deputy Director, MMS, denied Exxon's appeal.  He first
+noted that a completed Form MMS-2014 must accompany all royalty payments to MMS.  He also indicated
+that 30 CFR 218.40(b) (1986) provides for an assessment of $10 for each report which is completed
+incorrectly, and that 30 CFR 218.40(c) (1986) defines a report as each line on a Form MMS-2014.  He
+further found that Exxon's adjustments using ARC 34 in conjunction with TC 01 and TC 06 had been
+rejected by the MMS exception processing system because ARC 34, as an adjustment to allowances, 
+is "incompatible" with TC 01 and TC 06, which are used for royalty transactions and not allowance
+transactions.
+113 IBLA 201
+                                                         IBLA 88-181
+The Deputy Director continued:
+The Appellant states that the MMS Payor Handbook does not explain this
+incompatibility and that Exxon has never been notified that the use of ARC 34 for this
+kind of reporting is incorrect.
+The MMS Fiscal Accounting Division, in the field report on this appeal
+prepared pursuant to 30 CFR 290.3(b) (1986), states that Exxon's errors were
+avoidable because the adjustments made by Exxon (the reversals of TC 01 and 06)
+were unwarranted and unnecessary.  The Fiscal Accounting Division further states that
+Exxon was notified in November 1984 that this type of reporting was inappropriate.
+The record supports the finding that Exxon had been notified of the
+incompatibility of TC 01 and ARC 34.
+Based on the record before me, I conclude the Fiscal Accounting Division acted
+correctly with respect to the subject assessment.  The Appellant has offered no
+arguments which would justify the waiver of these charges.  Accordingly, the subject
+appeal is denied.
+(Decision at 2).
+In its statement of reasons (SOR), Exxon initially asks the Board to disregard the Deputy
+Director's conclusion that the record supports the finding that Exxon had been notified of the incompatibility
+of ARC 34 and TC 01 and TC 06.  This request derives from MMS' failure to provide a copy of the Fiscal
+Accounting Division field report to Exxon or refer to any document of record supporting the MMS
+notification claim.
+Exxon also repeats the arguments it presented in its appeal to the Director.  Exxon notes that its
+royalty reporting consists of two components--valuation and transportation allowances--and that the asserted
+errors stem from its retroactive adjustment of the transportation allowance for 
+its Hondo lease.  Exxon then explains that when it made the transportation allowance adjustments on Form
+MMS-2014, it attempted to set out the transportation adjustments in a straightforward manner, using ARC
+34 with the basic valuation lines TC 01 and TC 06.  Exxon asserts that there are no regulations, guidelines,
+directives, or notices of any kind supporting the MMS position that ARC 34 cannot be used on
+non-transportation lines, and that Exxon should have used ARC 38.
+Exxon argues that the only written guidance for proper ARC designation was the 1982 Handbook
+and that the instructions in the Handbook support its use of ARC 34.  Exxon elaborates:
+113 IBLA 202
+                                                         IBLA 88-181
+As stated in Appendix B.3 [3/] of the Handbook * * *, the MMS instructs that [ARC]
+"34" is to be used "to adjust royalties as a result of a retroactive allowance
+determination by [MMS]."  Nowhere does it state that the MMS prohibits the use of
+the 
+code to adjustments made to valuation lines.  In fact, code "34" appears to be in
+accordance with the instructions and is the most suitable code for retroactive
+transportation adjustments of the type made.  In contrast, [ARC] "38" is ill-suited for
+that type of adjustment.  The instructions for code "38" state that it is to be used "to
+adjust line entries that were previously reported with coding or typographical errors
+when the adjustment does not result in the payment of additional royalties."
+(Emphasis supplied.)  Coding or typographical errors were clearly not the genesis of
+the transportation allowance adjustments and it would be inappropriate, if not
+incorrect, to use code "38" for such adjustments.  Code "34" best reflects that type of
+adjustment, not code "38".
+Thus, the only written guidance on the subject contradicts the position of the
+MMS taken in this appeal.  Even if the MMS had revised its position on the proper
+method of making the adjustment, there is nothing in the record that would indicate the
+Payor Handbook was not providing the proper guidance.  The only rebuttal the MMS
+offers is that it allegedly gave Exxon verbal notice of its error more than two years
+prior to the incorrect adjustment.  Even if such a verbal contact had been made, it does
+not pass muster under the Administrative Procedure Act as adequate notice of policy,
+the violation of which carried a potential $10,000 penalty.  At the very least the MMS
+should have sent a letter to Exxon in 1984 clarifying its interpretation
+     of the appropriate adjustment reason code.  [Emphasis in original.]
+(SOR at 2-3).
+Exxon concludes that the assessments for reporting errors based on 
+the use of the incorrect ARC should be rescinded, and that the assessments, at most, should be confined to
+those lines containing no reported values or quantities.  Exxon further asserts that the $10,000 assessment
+is grossly excessive in relation to the administrative inconvenience the errors caused MMS.  Exxon requests
+that the Deputy Director's decision be reversed and the $10,000 tendered in payment of the assessment be
+refunded.
+In its answer, MMS describes its practice after a payor requests a transportation allowance:
+The MMS grants a tentative allowance which the payor uses on a monthly basis until
+actual cost data are available.  Actual cost data subsequently are used by the payor and
+MMS to compute an actual transportation allowance.  Once an actual allowance is
+                                     
+3/  The descriptions of the adjustment reason codes are actually found 
+in Appendix B.4 of the 1982 Handbook.
+113 IBLA 203
+                                                         IBLA 88-181
+granted, the payor reverses its previously reported transportation allowance entries,
+which were based on the tentative allowance, and enters the approved transportation
+allowance.
+(Answer at 2).  
+MMS states that Exxon's report correctly set out the adjustments to its transportation allowance
+by setting out the transportation allowance based on actual costs and reversing the tentative transportation
+allowance, but was in error because Exxon had also reversed its royalty lines (TC 01 and TC 06) and
+reentered those lines exactly as it had reversed them.  MMS contends that the whole assessment could have
+been avoided because there was no reason to reverse and reenter those royalty lines, because the gross royalty
+value was not changed by the transportation allowance adjustments.  MMS explains that the erroneous
+reporting assessment was made because Exxon used ARC 34, an incorrect code, to justify the adjustments
+when it unnecessarily adjusted its royalty lines (TC 01 and TC 06).  MMS states that it rejected Exxon's
+contention that it used the correct code because TC 01 
+and TC 06 are royalty transactions which are incompatible with a code for allowance transactions.  MMS
+explains the inconvenience resulting from the improper use of ARC numbers by noting that the royalty lines
+were rejected by MMS' computer and MMS had to change the ARC numbers on each lines to 38 before
+reentering the data.  MMS states that by correcting those line items itself, rather than returning the report to
+Exxon, it prevented Exxon's being assessed late reporting or interest charges. 
+MMS asserts that Exxon had actual notice that ARC 34 should not be used with TC 01 and TC
+06 because MMS had corrected this same mistake 
+on Exxon's October 1984 Form MMS-2014.  MMS contends that it made the necessary corrections and sent
+the original and one copy of the Royalty Rejected Line Detail Report to Exxon, with instructions to retain
+the copy for its records and to sign, date, and return the original to MMS with the statement:  "I have
+examined the changes and agree they are accurate and complete."  MMS states that the original was signed
+by Ms. Susan Handley 
+on November 28, 1984, and returned to MMS, and indicates that a copy of 
+the signed report is in the official file.  MMS contends that this signed acknowledgement demonstrates
+Exxon's knowledge of the incompatibility of ARC 34 and TC 01 and TC 06.
+MMS further contends that the 1982 Payor Handbook clearly identified ARC 34 as a code to be
+used only when adjusting allowances, while TC 01 
+and TC 06 are equally clearly identified as involving royalty transactions.  Therefore MMS concludes that
+it gave Exxon sufficient notice that the use of ARC 34 with TC 01 and TC 06 was incorrect.
+In sum, MMS argues that the lines on Form MMS-2014 were incorrectly completed; 30 CFR
+218.40(b) and (c) (1986) 4/ authorized it to assess 
+                                     
+4/  MMS recognizes that 30 CFR 218.40 was revised in 1987 but states that Exxon would have been assessed
+the $10,000 maximum under the revised regulation as well as under the 1986 regulation (Answer at 3 n.1).
+113 IBLA 204
+                                                         IBLA 88-181
+Exxon $10,000 for the erroneous reporting; and, therefore, the Deputy Director's decision must be affirmed.
+[1]  As an initial matter, we are troubled by MMS' failure to give Exxon a sufficient explanation
+of the basis for its conclusion that Exxon had notice of the incompatibility of ARC 34 and TC 01 and TC 06
+prior to addressing that issue in its answer to Exxon's statement of reasons in this appeal.  It is not enough
+that MMS ensures that its decision is supported by a rational basis.  The basis for that decision must be stated
+in the written decision and demonstrated in the administrative record accompanying the decision.  Eddleman
+Community Property Trust, 106 IBLA 376, 377 (1989); Roger K. Ogden, 77 IBLA 4, 7, 90 I.D 481, 483
+(1983).  The recipient of a decision deserves a reasoned and factual explanation of the rationale for the
+decision, and must be given some basis for understanding it and accepting it or, alternatively, for appealing
+and disputing it.  Eddleman Community Property Trust, supra; Southern Union Exploration Co., 51 IBLA
+89, 92 (1980) (and cases cited therein).  
+It is readily apparent from Exxon's submissions on appeal that Exxon did not know that the
+October 1984 Form MMS-2014 corrections were the basis for the MMS holding that Exxon had prior notice.
+The Deputy Director's sole explanation for his finding that "[t]he record supports the finding that Exxon had
+been notified of the incompatibility of TC 01 and ARC 34" 
+is his statement that "[t]he Fiscal Accounting Division further states 
+that Exxon was notified in November 1984 that this type of reporting was inappropriate" (Decision at 2).
+This statement gives no clue regarding 
+how Exxon was given notice, what constituted that notice, or how that document placed Exxon on notice,
+and does not provide an adequate explanation for his determination.
+Our concern goes further than noting that the Deputy Director's decision fails to sufficiently
+apprise Exxon of the basis for the notice conclusion.  The Fiscal Accounting Division field report which was
+the principal source for the MMS determination that Exxon had notice of the incompatibility of ARC 34 and
+TC 01 and TC 06 was never made available 
+to Exxon.  Exxon was prejudiced by MMS' failure to provide necessary information concerning the basis for
+its decision.  See Southern Union Exploration Co., supra at 93.  However, as will be seen, our resolution 
+of this appeal moots the question of how to remedy this prejudice.
+[2]  The regulations in effect when Exxon filed its Form MMS-2014 authorized MMS to assess
+$10 per day "for each report received by the designated due date but which is incorrectly completed."
+30 CFR 218.40(b) (1986).  The regulations further defined a report "as each line item on a Form
+MMS-2014."  30 CFR 218.40(c) (1986).  Thus MMS clearly has the authority to assess Exxon for reporting
+errors, and Exxon does not challenge that general authority.  Rather, Exxon contends that it did not err when
+using ARC 34 with TC 01 and TC 06 because, based on the information it had, its use of that ARC number
+was reasonable and appropriate.
+Appendix B.4 of the 1982 Handbook provides the following descriptions for the relevant
+adjustment reason codes:
+113 IBLA 205
+                                                         IBLA 88-181
+Code 34  Adjustments for Allowances - To adjust royalties as a result of a retroactive
+allowance determination by Minerals Management Service (MMS).
+*         *         *          *          *         *         *
+Code 38  Other Adjustments - To adjust line entries that were previously reported with
+coding or typographical errors when 
+the adjustment does not result in the payment of additional royalties.  [Emphasis
+supplied.]
+(1982 Oil and Gas Payor Handbook at B.4.2).  Exxon notes that its adjustments were not made because of
+previous typographical or coding errors but were the result of retroactive transportation allowance
+adjustments approved by MMS, and contends that MMS' descriptions of ARC 34 and ARC 38 support
+Exxon's initial determination that ARC 34 was the appropriate code to use.  On the other hand, MMS argues
+that the code for adjustments for allowances cannot be used for royalty value lines. 
+Often appellants will argue that a regulation is vague.  In many of those cases we have stated that
+a regulation should be sufficiently clear that there is no basis for an oil and gas lessee's noncompliance with
+the regulation before that regulation is interpreted to the detriment of a lessee.  See, e.g., Dennis W. Belnap,
+112 IBLA 243 (1989); Beard Oil Co., 97 IBLA 66 (1987); James M. Chudnow, 82 IBLA 262 (1984); Charles
+J. Rydzewski, 55 IBLA 373, 88 I.D. 627 (1981); Wallace S. Bingham, 21 IBLA 266, 82 I.D. 337 (1975);
+Mary I. Arata, 4 IBLA 201, 78 I.D. 397 (1971); 
+A. M. Shaffer, 73 I.D. 293 (1966).  If a regulation is ambiguous, any 
+doubt as to its meaning should be resolved favorably to the lessee.  Wallace S. Bingham, supra; Mary I.
+Arata, supra; A. M. Shaffer, supra.
+The need for clarity is even more imperative when MMS attempts to base a significant monetary
+assessment on a lessee's failure to properly apply provisions of the Oil and Gas Payor Handbook because that
+Handbook lacks the force and effect of law enjoyed by a statute or regulation.  See Mesa Petroleum Co.,
+107 IBLA 184, 192 (1989); Chevron U.S.A. Inc., 105 IBLA 21, 26 n.5 (1988).  
+An examination of the descriptions of ARC 34 and ARC 38, as found 
+in the 1982 Handbook leaves little doubt that those descriptions do not unambiguously inform a payor that
+ARC 34 cannot be used with TC 01 and TC 06.  In fact, those descriptions actually support Exxon's choice
+of ARC 34 instead of ARC 38.  As can be seen, MMS' description of ARC 38 clearly states that ARC 38 is
+to be used to adjust line entries that 
+were previously reported with coding or typographical errors.  Exxon was attempting to report adjustments
+to its transportation allowance figures following MMS approval of its actual transportation costs, an entry
+much closer to "a result of a retroactive allowance determination by Minerals Management Service (MMS)"
+than an adjustment for "line entries that were previously reported with coding or typographical errors."  A
+search of the Handbook for a proper code for the entry reported by Exxon could logically
+113 IBLA 206 
+                                                         IBLA 88-181
+lead to the selection of ARC 34.  In addition we find nothing which can be construed as explicitly instructing
+a payor that it is inappropriate to use ARC 34 with TC 01 and TC 06.  Accordingly, we find that, although
+Exxon 
+may have erroneously used ARC 34 with TC 01 and TC 06, the MMS Handbook is ambiguous, and the doubt
+as to the proper use of ARC 34 should be resolved in Exxon's favor.  
+We deem it unnecessary to consider whether the Handbook ambiguity would relieve Exxon of the
+responsibility for using the proper ARC number if it had actual prior notice that it was improper to use ARC
+34 for the transactions reported.  After review of the evidence before us, we are not persuaded by MMS'
+argument that Exxon had actual notice that its use of ARC 34 was wrong.  The only evidence in the record
+supporting this argument consists of three sample pages of the Royalty Rejected Line Detail Report prepared
+in response to Exxon's October 1984 Form MMS-2014, and attached as an exhibit to the Fiscal Accounting
+Division field report.  Although one of those pages does contain a signed acknowledgement that 
+the changes are accurate and complete, the report itself merely states "INCORRECT REASON CODE FOR
+THIS TRANSACTION," and provides no explanation whatsoever for this conclusion.  We also note that,
+when preparing this report, MMS changed some of the ARC's from 34 to 00 and others to 38.  
+There is no explanation whatsoever for this conclusion, and no statement that ARC 34 is incompatible with
+TC 01 and TC 06.  We therefore reverse the assessments based on line item entries found to be incorrect for
+that reason only.
+We note that the ambiguities in the 1982 Oil and Gas Payor Handbook leading to this appeal no
+longer exist.  MMS substantially revised the Handbook in September 1986, and the current Handbook
+discusses the usage 
+of the various transaction codes and lists the adjustment reason codes that may be used with each transaction
+code.  ARC 34 is not listed for use with either TC 01 or TC 06.  (Volume II 1986 Oil and Gas Payor
+Handbook at 3-27 and 3-103).  The Handbook also contains revised descriptions of ARC 34 and ARC 38:
+ARC 34 is to be used "[t]o adjust an allowance as a result of a retroactive allowance determination by MMS,"
+while ARC 38 is to be used "[t]o make adjustments that are MMS-mandated but do not fall within one 
+of the categories above and are not audit related" (Volume II 1986 Oil 
+and Gas Payor Handbook at 4-14 and A3-4).  Thus the requisite clarity of instruction now exists.
+Exxon has not challenged the assessment for reporting unnecessary lines with no quantities and
+values.  We affirm the assessments for 
+those reporting errors.  We note that 30 CFR 218.40(b) was revised in 
+1987 to permit assessments of an amount not to exceed $10 for each incorrect report.  The current regulations
+also authorize MMS to periodically establish the assessment amount for each reporting error based 
+on its experience with costs and improper reporting, and provide for the publication of notice of the
+assessment amounts in the Federal Register.  30 CFR 218.40(e).  On July 22, 1987, MMS published a notice
+establishing the following assessment schedule for erroneous royalty reporting:  $5 per line for 1-100
+erroneous lines; $8 per line for 101-500 erroneous lines; 
+113 IBLA 207
+                                                         IBLA 88-181
+and $10 per line for over 500 erroneous lines.  52 FR 27593 (July 22, 1987).  MMS should apply the revised
+regulation and assessment schedule 
+in its determination of the proper amount of charges for the incorrect lines.  See Conoco, Inc., 102 IBLA 230
+(1988).
+Accordingly, pursuant to the authority delegated to the Board of Land Appeals by the Secretary
+of the Interior, 43 CFR 4.1, the decision appealed from is affirmed in part, reversed in part, and remanded
+for further action consistent with this decision. 
+                                      
+R. W. Mullen
+Administrative Judge
+I concur:
+                              
+David L. Hughes
+Administrative Judge
+113 IBLA 208

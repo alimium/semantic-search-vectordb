@@ -1,0 +1,2513 @@
+Upper Clark Fork River Tributaries Sediment, Metals, and Temperature TMDLs and Framework 
+for Water Quality Restoration – Appendix G 
+ 
+APPENDIX G 
+STREAM TEMPERATURE ASSESSMENT FOR PETERSON CREEK UPPER 
+CLARK FORK TMDL PLANNING AREA 
+ 
+Prepared for: 
+ 
+Deer Lodge Valley Conservation District 
+1 Hollenback Road 
+Deer Lodge, MT 59722 
+ 
+and 
+ 
+Montana Department of Environmental Quality 
+P.O. Box 200901 
+Helena, MT 59620-0901 
+ 
+Prepared by: 
+ 
+PBS&J 
+801 N. Last Chance Gulch, Suite 101 
+Helena, Montana 59601-3360 
+ 
+ 
+October 2008 
+ 
+3/4/10 
+Final 
+G-1 
+Upper Clark Fork River Tributaries Sediment, Metals, and Temperature TMDLs and Framework 
+for Water Quality Restoration – Appendix G 
+ 
+3/4/10 
+Final 
+G-2 
+Upper Clark Fork River Tributaries Sediment, Metals, and Temperature TMDLs and Framework 
+for Water Quality Restoration – Appendix G 
+ 
+TABLE OF CONTENTS 
+ 
+Section 1.0  Introduction................................................................................................................. 5 
+1.1 Montana Water Quality Standards........................................................................................ 5 
+Section 2.0  Temperature Assessment ............................................................................................ 7 
+2.1 Field Data collection............................................................................................................. 7 
+2.1.1 Temperature Measurements........................................................................................... 7 
+2.1.2 Streamflow Measurements............................................................................................. 7 
+2.1.3 Riparian Shading............................................................................................................ 7 
+2.2 QUAL2K Model................................................................................................................... 8 
+2.2.1 Data Sources and Model Assumptions .......................................................................... 8 
+2.2.2 Baseline Scenario......................................................................................................... 15 
+2.2.3 Shade Scenario............................................................................................................. 16 
+2.2.4 Channel Morphology Scenario .................................................................................... 18 
+2.2.5 Water Consumptive Use Scenario ............................................................................... 18 
+2.2.6 Natural Condition Scenario.......................................................................................... 19 
+2.2.7 Naturally Occurring Scenario (ARM 17.30.602) ........................................................ 20 
+2.3 Peterson Creek Modeled Temperature Relative to Montana Standards............................. 21 
+Section 3.0  Conclusions............................................................................................................... 23 
+Section 4.0  References................................................................................................................. 25 
+Attachment A 2007 Temperature Data Summary Upper Clark Fork TMDL Planning Area....... 27 
+Attachment B Streamflow Data Upper Clark Fork TMDL Planning Area .................................. 29 
+Attachment C Solar Pathfinder Data Upper Clark Fork TMDL Planning Area........................... 31 
+Attachment D QUAL2K Model Scenarios Upper Clark Fork TMDL Planning Area ................. 33 
+ 
+LIST OF TABLES  
+Table 2-1. Temperature Data Logger and Streamflow Measurement Sites.................................... 9 
+Table 2-2. Solar Pathfinder Sites. ................................................................................................... 9 
+Table 2-3. Peterson Creek Temperature (PCT) Reach Descriptions............................................ 10 
+Table 2-4. Solar Pathfinder Shade Data Applied in QUAL2K..................................................... 13 
+Table 2-5. Hydrologic Balance for Peterson Creek...................................................................... 14 
+Table 2-6.  Peterson Creek Temperatures Relative to Montana’s Water Quality Standards........ 22 
+ 
+LIST OF FIGURES 
+Figure 2-1.  Peterson Creek Monitoring Sites and Reaches. ........................................................ 12 
+Figure 2-2. QUAL2K Baseline (Existing Conditions) Scenario. ................................................. 15 
+Figure 2-3. QUAL2K Shade Scenario 1....................................................................................... 17 
+Figure 2-4. QUAL2K Shade Scenario 2....................................................................................... 18 
+Figure 2-5. QUAL2K Water Consumptive Use Scenario. ........................................................... 19 
+Figure 2-6. QUAL2K Natural Condition Scenario....................................................................... 20 
+Figure 2-7. QUAL2K Naturally Occurring Scenario. .................................................................. 21 
+ 
+ 
+ 
+ 
+ 
+3/4/10 
+Final 
+G-3 
+Upper Clark Fork River Tributaries Sediment, Metals, and Temperature TMDLs and Framework 
+for Water Quality Restoration – Appendix G 
+ 
+3/4/10 
+Final 
+G-4 
+Upper Clark Fork River Tributaries Sediment, Metals, and Temperature TMDLs and Framework 
+for Water Quality Restoration – Appendix G 
+ 
+SECTION 1.0  
+INTRODUCTION 
+ 
+Temperature impairments were assessed within Peterson Creek using a combination of in-stream 
+temperature measurements, riparian shading assessments, mid-summer streamflow 
+measurements, and modeling.  The Peterson Creek temperature assessment was conducted to aid 
+in the development of Total Maximum Daily Loads (TMDLs) in the Upper Clark Fork TMDL 
+Planning Area (TPA).  Data collected during this assessment were used in the QUAL2K model 
+to assess the influence of shading and streamflow on stream temperatures in Peterson Creek.  
+The results of this assessment were compared to Montana’s water quality standards for 
+temperature to evaluate beneficial use support and potential restoration strategies. 
+ 
+1.1 Montana Water Quality Standards 
+ 
+Montana’s water quality standard for temperature addresses a maximum allowable increase 
+above the “naturally occurring” temperature to protect the existing thermal regime for fish and 
+aquatic life.  For waters classified as B-1, the maximum allowable increase over the naturally 
+occurring temperature (if the naturally occurring temperature is less than 66º Fahrenheit) is 1°F.  
+In the naturally occurring range of 66-66.5 ºF, an increase cannot exceed 67ºF.  If the naturally 
+occurring temperature is greater than 66.5ºF, the maximum allowable increase is 0.5º F [ARM 
+17.30.622(e) and ARM 17.30.623(e)].  Temperature monitoring and modeling indicated that 
+naturally occurring stream temperatures in Peterson Creek are likely greater than 66.5°F during 
+portions of the summer months.  Thus, the maximum allowable increase due to unmitigated 
+human causes is 0.5°F (0.23°C). 
+ 
+3/4/10 
+Final 
+G-5 
+Upper Clark Fork River Tributaries Sediment, Metals, and Temperature TMDLs and Framework 
+for Water Quality Restoration – Appendix G 
+ 
+3/4/10 
+Final 
+G-6 
+Upper Clark Fork River Tributaries Sediment, Metals, and Temperature TMDLs and Framework 
+for Water Quality Restoration – Appendix G 
+ 
+SECTION 2.0  
+TEMPERATURE ASSESSMENT 
+ 
+The Peterson Creek temperature assessment was performed in order to identify existing 
+conditions and to determine if anthropogenic disturbances have led to increased stream water 
+temperatures.  This assessment utilized field data and computer modeling to assess stream 
+temperatures in relation to Montana’s water quality standards. 
+ 
+2.1 Field Data collection 
+ 
+Field data used in this assessment were collected by Montana DEQ staff during the 2007 field 
+season and included temperature measurements, streamflow measurements, and an assessment of 
+riparian shading along Peterson Creek and selected tributaries.  Field methods are described in 
+Upper Clark Fork TMDL Planning Area Temperature and Instantaneous Flow Monitoring 
+Sampling and Analysis Plan (MDEQ 2007). 
+ 
+2.1.1 Temperature Measurements 
+ 
+Temperature monitoring was conducted on Peterson Creek over a two-month timeframe in the 
+summer of 2007.  The study timeframe examined stream temperatures during the period when 
+streamflows tend to be lowest, water temperatures are warmest, and negative affects to the cold 
+water fishery and aquatic life beneficial uses are likely most pronounced.  Temperature 
+monitoring consisted of placing temperature data logging devices at 11 sites in the Peterson 
+Creek watershed during the summer of 2007.  Temperature monitoring sites were selected to 
+bracket stream reaches with similar hydrology, riparian vegetation type, valley type, stream 
+aspect, and channel width so that the temperature data collected during this assessment could be 
+utilized in the QUAL2K model.  A summary of temperature data is presented in Attachment A. 
+ 
+2.1.2 Streamflow Measurements 
+ 
+Streamflow was measured at 11 sites on Peterson Creek and selected tributary streams where 
+temperature data logging devices were deployed.  Streamflow data were collected during 
+temperature data logger deployment and again during retrieval.  Streamflow data collected 
+during this assessment were used in the QUAL2K model to help determine if in-stream 
+temperatures exceed Montana standards.  Streamflow data is presented in Attachment B. 
+ 
+2.1.3 Riparian Shading 
+ 
+Riparian shading was assessed at five sites along Peterson Creek using a Solar Pathfinder which 
+measures the amount of shade at a site in one-hour intervals.  The Solar Pathfinder was utilized 
+to assess riparian shading using the August template for the path of the sun.  Shade was 
+measured three times over a 200-foot reach at each site.  In addition to the Solar Pathfinder 
+readings, the following measurements were performed at each site in which riparian shading was 
+assessed: 
+• Stream azimuth 
+3/4/10 
+Final 
+G-7 
+Upper Clark Fork River Tributaries Sediment, Metals, and Temperature TMDLs and Framework 
+for Water Quality Restoration – Appendix G 
+ 
+• Bankfull width 
+• Wetted width 
+• Dominant tree species 
+ 
+Riparian shading data were used to assess existing and potential riparian shading conditions 
+relative to the level of anthropogenic disturbance at a site.  Measurements obtained with the 
+Solar Pathfinder were utilized in the QUAL2K model to help determine if in-stream 
+temperatures exceed Montana standards.  Solar Pathfinder data are presented in Attachment C. 
+ 
+2.2 QUAL2K Model 
+ 
+The QUAL2K model was used to determine if human caused disturbances within the watershed 
+have increased the water temperature above the “naturally occurring” level and, if so, to what 
+degree.  The QUAL2K model is available at: 
+http://www.epa.gov/ATHENS/wwqtsc/html/qual2k.html.  Stream temperature, riparian shading 
+and streamflow data collected in the summer of 2007 were used to calibrate the QUAL2K model 
+for existing conditions.  The potential to reduce stream temperatures was then modeled based on 
+five scenarios, including: 
+• Baseline scenario (existing conditions) 
+• Increased shade scenario 
+• Decreased water consumptive use scenario 
+• Natural condition scenario (no anthropogenic impacts)  
+• Naturally occurring scenario (full application of BMPs to present uses) 
+ 
+2.2.1 Data Sources and Model Assumptions 
+ 
+Data sources and model assumptions made during this assessment include: 
+ 
+1. Temperature data loggers were placed at 11 sites in the Peterson Creek watershed during 
+the summer of 2007, including eight mainstem locations and three tributaries.  Data 
+loggers were deployed between July 16th and 18th and retrieved on September 26th.  One 
+mainstem temperature data logger was lost (PTR-04) and one tributary data logger did 
+not work properly (PTR-02) resulting in temperature data for seven Peterson Creek sites 
+and two tributary streams (Table 2-1).  The maximum daily temperature and the 7-day 
+average maximum temperature data were reviewed to identify the warmest day of the 
+season.  Maximum daily temperatures occurred between July 19th and 28th, depending on 
+the site, while the 7-day average maximum temperature occurred between July 20th and 
+22nd (Attachment A).  Based on this data set, the QUAL2K model was run for July 21st, 
+2007 conditions.  
+ 
+2. Streamflow data were collected at 11 sites during temperature data logger deployment 
+and retrieval, with eight measurements on Peterson Creek and three measurements on 
+tributary streams (Table 2-1, Attachment B).  Streamflows collected during data logger 
+deployment were applied in the QUAL2K model since the deployment date (July 16th – 
+18th) was near the date for which maximum temperatures were modeled (July 21st).  
+3/4/10 
+Final 
+G-8 
+Upper Clark Fork River Tributaries Sediment, Metals, and Temperature TMDLs and Framework 
+for Water Quality Restoration – Appendix G 
+ 
+Depth and velocity measurements at each streamflow measurement site were used to 
+develop a rating curve for use in the QUAL2K model.  The upper site (PTR-01) was 
+excluded when developing the rating curve for depth since this flow measurement was 
+much lower than all the other measurements.  
+ 
+Table 2-1. Temperature Data Logger and Streamflow Measurement Sites. 
+Temperature Data Logger Site 
+Stream 
+Deployment Flow 
+(cfs) 
+PTR-01 
+Peterson Creek 
+0.1 
+PTR-02 
+Tributary 1, data invalid 
+0.6 
+PTR-03 
+Peterson Creek 
+1.6 
+PTR-04 
+Peterson Creek, data logger lost 
+1.7 
+PTR-05 
+Jack Creek 
+0.6 
+PTR-07 
+Peterson Creek 
+1.7 
+PTR-08 (no data logger) 
+Peterson Creek 
+2.0 
+PTR-09 
+Peterson Creek 
+N/A 
+PTR-11 
+Burnt Hollow Creek 
+0.1 
+PTR-12 
+Peterson Creek 
+2.1 
+PTR-13 
+Peterson Creek 
+0.6 
+PTR-14 
+Peterson Creek 
+0.4 
+ 
+3. Streamside shading was assessed at five sites corresponding to the location of 
+temperature data loggers.  Four sites were located on Peterson Creek, while one site was 
+located on a headwater tributary stream.  Riparian shade was assessed using the August 
+template for the solar pathfinder, which measures the amount of shade at one-hour 
+intervals.  Since the QUAL2K model was run for July 21st, shade measurements based on 
+the August path of the sun may be slightly higher than the actual shade on July 21st due to 
+the fact that sun is slightly lower in the sky during August than during July.  However, 
+based on the relatively small size of the riparian shade dataset, any additional error 
+introduced based on slightly different sun angles in July and August is likely negligible. 
+At each site where shade was assessed, the riparian vegetation type was also described 
+and the average daily shade at each site was calculated (Table 2-2).  Average daily shade 
+ranged from 34% at PTR-08 to 92% at PTR-07.  The majority of the solar pathfinder 
+measurements documented relatively dense shrub cover which was observed along much 
+of Peterson Creek and measured at sites PTR-03, PTR-04 and PTR-07.  Forested 
+conditions in the headwaters were documented at the PTR-02 site, while open pasture 
+conditions in areas of irrigated agriculture were documented at the PTR-08 site.  
+ 
+Average 
+Azimuth 
+Table 2-2. Solar Pathfinder Sites. 
+Temperature 
+Data Logger 
+Site 
+Stream 
+Site Description 
+Average 
+Daily 
+Shade 
+Average 
+Bankfull 
+Width 
+(Feet) 
+Average 
+Wetted 
+Width 
+(Feet) 
+71% 
+183% 
+7.8 
+4.7 
+PTR-02 
+Tributar
+y 1 
+Conifers with graminoid understory, 
+relatively narrow and flat valley, 
+headwater tributary, grazed 
+3/4/10 
+Final 
+G-9 
+Upper Clark Fork River Tributaries Sediment, Metals, and Temperature TMDLs and Framework 
+for Water Quality Restoration – Appendix G 
+ 
+Table 2-2. Solar Pathfinder Sites. 
+Temperature 
+Data Logger 
+Site 
+Stream 
+Site Description 
+Average 
+Daily 
+Shade 
+Average 
+Azimuth 
+Average 
+Bankfull 
+Width 
+(Feet) 
+Average 
+Wetted 
+Width 
+(Feet) 
+87% 
+39% 
+14.0 
+8.5 
+PTR-03 
+Peterson 
+Creek 
+Dense willow and alder in valley 
+bottom, sparse cottonwoods, 
+graminoid understory,  influenced 
+by beaver ponds, grazed 
+77% 
+33% 
+9.8 
+5.1 
+PTR-04 
+Peterson 
+Creek 
+Alders, willow, sparse cottonwood, 
+graminoid understory, conifers on 
+hillslopes, grazed, evidence of 
+pugging and hummocking 
+92% 
+28% 
+8.0 
+6.9 
+PTR-07 
+Peterson 
+Creek 
+Willows with graminoid understory, 
+entrenched gulch, grazed 
+Tall grass hayfield with buffer 
+34% 
+23% 
+8.1 
+5.0 
+PTR-08 
+Peterson 
+Creek 
+ 
+4. Following field data collection, a GIS project was initiated to evaluate riparian conditions 
+along Peterson Creek using National Agricultural Imagery Program (NAIP) color aerial 
+imagery from 2005, along with high-resolution color orthophotographs from May 20th, 
+2004 collected in the vicinity of Deer Lodge.  Information prepared during Montana 
+DEQ’s recent Upper Clark Fork TPA Aerial Assessment Reach Stratification project was 
+also reviewed.  For this project, the 1:24,000 USGS NHD layer was used for Peterson 
+Creek, while the 1:100,000 NHD layer was used to identify tributary streams.  A total of 
+10 reaches were delineated along Peterson Creek based on changes in vegetation type, 
+changes in stream aspect, and tributary inputs.  These 10 reaches were used to break 
+Peterson Creek into 10 stream segments in the QUAL2K model.  QUAL2K model 
+segments were identified as “PCT” in this report, which indicates “Peterson Creek 
+Temperature” reaches (Table 2-3, Figure 2-1).   
+ 
+Table 2-3. Peterson Creek Temperature (PCT) Reach Descriptions. 
+Reach 
+Description 
+Mainstem 
+headwater 
+The Mainstem Headwater Reach extended from the headwaters downstream to the confluence with 
+Tributary 1.  The data logger PTR-01 was located at the break between the Mainstem Headwater 
+Reach and Reach PCT1.  Vegetation included conifers in the overstory with shrubs in the understory. 
+PCT1 
+Reach PCT1 extended from Tributary 1 downstream to a road crossing that is associated with a slight 
+aspect change as well as a change in riparian vegetation.  Water from Tributary 1 was added to this 
+reach at the same temperature as recorded at PTR-01.  Tributary 1 is apparently larger than Peterson 
+Creek at the confluence. Vegetation included conifers in the overstory with shrubs in the understory. 
+PCT2 
+Reach PCT2 extends from the road crossing downstream past data logger PTR-03 to a change in 
+vegetation.  Tributary 2 and Tributary 3 enter this reach upstream of the PTR-03 data logger.  
+Temperatures were elevated at the PTR-03 data logger, so the two tributary streams were added in at 
+the same temperature that was recorded in Jack Creek (PTR-05).  There was an irrigation withdrawal 
+that appeared to be downstream of the PTR-03 logger.  Vegetation included shrubs in the valley 
+bottom and conifers on the hillslopes.  Beaver ponds were observed during the 2007 field assessment. 
+PCT3 
+Reach PCT3 extended from a vegetation break to an aspect break.  There are no data loggers and no 
+tributary inputs.  Vegetation included sparse deciduous trees and shrubs in the valley bottom and 
+conifers on the hillslopes.   
+3/4/10 
+Final 
+G-10 
+Upper Clark Fork River Tributaries Sediment, Metals, and Temperature TMDLs and Framework 
+for Water Quality Restoration – Appendix G 
+ 
+Table 2-3. Peterson Creek Temperature (PCT) Reach Descriptions. 
+Reach 
+Description 
+PCT4 
+Reach PCT4 extended down to the confluence with Jack Creek.  A small input of groundwater was 
+added to this reach.  Vegetation includes deciduous trees and shrubs in the valley bottom and conifers 
+on the hillslopes.  This reach marked the lowest extend of coniferous vegetation. 
+PCT5 
+Reach PCT5 extended from the confluence with Jack Creek downstream to the upstream end of the 
+hayfield and the start of irrigated agriculture.  This reach included data logger PTR-07.  Jack Creek 
+was smaller than Peterson Creek at their confluence.  Temperature data (PTR-05) and flow data from 
+Jack Creek were applied to the model.  Flows in this reach decreased due to irrigation withdrawals as 
+documented by streamflow measurements at data logger PTR-07.  Streamflows then increase again 
+by the lower end of the reach (PTR-08) likely due to irrigation return flows.  Irrigation return flows 
+were modeled at the same temperature as measured in Jack Creek (PTR-05).  Vegetation included 
+shrubs in the valley bottom.   
+PCT6 
+Reach PCT6 included the irrigated hayfield through which this entire reach flows.  Data logger PTR-
+09 was located in this reach along with the PTR-08 shade assessment site.  No irrigation withdrawals 
+were identified in this reach due to a lack of streamflow data.  An assessment of aerial imagery 
+indicated there were irrigation withdrawals within this reach.  Vegetation included open pasture and 
+irrigated agriculture.   
+PCT7 
+Reach PCT7 began at the confluence with Burnt Hollow Creek which was smaller than Peterson 
+Creek.  Reach PCT7 flows through an area of irrigated agriculture and includes PTR-12.  
+Streamflows increased slightly at the upper end of the reach as documented at PTR-12 and this was 
+attributed to downstream irrigation return flows.  Progressing through the reach, streamflow then 
+decreased likely due to irrigation withdrawals.  The measured temperatures at PTR-12 were the 
+highest of the study area. Vegetation included shrubs alternating with open pasture areas and sparse 
+deciduous trees.  Beaver dams were apparent in the 2004 aerial imagery.   
+PCT8 
+Reach PCT8 extended downstream from the I-90 crossing to where the channel became channelized 
+along the east side of Deer Lodge.  No losses or gains in streamflow were identified within this reach.  
+Vegetation included shrubs and sparse deciduous trees.   
+PCT9 
+Reach PCT 9 was channelized along the east side of Deer Lodge.  Vegetation included shrubs and 
+sparse deciduous trees alternative with open pasture areas.   
+3/4/10 
+Final 
+G-11 
+ 
+Upper Clark Fork River Tributaries Sediment, Metals, and Temperature TMDLs and Framework for Water Quality Restoration – 
+Appendix G 
+ 
+Figure 2-1. Peterson Creek Monitoring Sites and Reaches. 
+3/4/10 
+Final 
+G-12 
+Upper Clark Fork River Tributaries Sediment, Metals, and Temperature TMDLs and Framework 
+for Water Quality Restoration – Appendix G 
+ 
+5. Solar pathfinder data collected at five sites in the Peterson Creek watershed were used to 
+assign shading values to assessed reaches in the QUAL2K model.  Reaches in which the 
+solar pathfinder data were applied directly included PCT2, PCT4 and PCT6 based on 
+solar pathfinder sites PTR-03, PTR-04 and PTR-08, respectively.  For reaches in which 
+no solar pathfinder data were collected, shade values were extrapolated from assessed 
+reaches based on similar riparian vegetation characteristics as observed in GIS using 
+color aerial imagery from 2004 and 2005 (Table 2-4).  In addition, reaches PCT5, PCT7 
+and PCT8 were assigned hourly shade values based on the average of shade 
+measurements at sites PTR-07 and PTR-08 since the aerial assessment indicated that 
+these reaches alternated between dense riparian vegetation and open areas.  Combining 
+data from sites PTR-07 and PTR-08 resulted in a reach average shade value of 63% 
+(Attachment C). 
+ 
+Table 2-4. Solar Pathfinder Shade Data Applied in QUAL2K. 
+Reach 
+QUAL2K Reach Identifier 
+Solar Pathfinder 
+Measurement Performed 
+Solar Pathfinder 
+Measurement Applied 
+1 
+Mainstem headwater 
+No 
+PTR-02 
+2 
+PCT1 
+No 
+PTR-02 
+3 
+PCT2 
+PTR-03 
+PTR-03 
+4 
+PCT3 
+No 
+PTR-04 
+5 
+PCT4 
+PTR-04 
+PTR-04 
+6 
+PCT5 
+PTR-07 
+PTR-07/08 
+7 
+PCT6 
+PTR-08 
+PTR-08 
+8 
+PCT7 
+No 
+PTR-07/08 
+9 
+PCT8 
+No 
+PTR-07/08 
+10 
+PCT9 
+No 
+PTR-08 
+ 
+6. Climatic data inputs for the QUAL2K model were obtained from the Pacific Northwest 
+Cooperative Agricultural Weather Network (AgriMet) site in Deer Lodge, Montana 
+(http://www.usbr.gov/pn/agrimet/webaghrread.html) and included air temperature, dew 
+point temperature and wind speed.  Wind speed was reduced to 0 m/s under the 
+assumption that this small stream is relatively sheltered from the wind.  The dew point 
+temperature was adjusted by increasing the relative humidity by 15% based on local 
+conditions within the stream corridor as measured in a similar assessment in the Big Hole 
+River watershed (Flynn et. al. 2008).  Cloud cover was assumed to be 0% in the 
+QUAL2K model.   
+ 
+7. To evaluate tributary and groundwater inputs and water withdrawals along Peterson 
+Creek, a hydrologic balance was created (Table 2-5).  Flows were balanced at the outlet 
+of each reach and at each data logger site where flows were measured.  Where tributaries 
+were present in a reach, increases in streamflow were entirely attributed to the tributary 
+inflows.  When no tributaries were present, inputs were attributed to groundwater 
+discharge in the upper watershed and to irrigation return flows in the lower watershed.  
+Groundwater inputs were assigned a temperature of 11.0°C based on the results of a 
+similar modeling effort in the Big Hole River watershed, which shares a hydrologic 
+boundary with the Upper Clark Fork River watershed in which Peterson Creek is located 
+3/4/10 
+Final 
+G-13 
+Upper Clark Fork River Tributaries Sediment, Metals, and Temperature TMDLs and Framework 
+for Water Quality Restoration – Appendix G 
+ 
+(Flynn et. al. 2008).  Streamflow decreases were considered due to irrigation 
+withdrawals, which are evident in the aerial imagery.  Inflows were treated as follows: 
+• Trib 1 enters at the same temperature as PTR-1 (Peterson mainstem headwater) 
+• Tribs 2 and 3 enter at the same temperature as PTR-05 (Jack Creek) 
+• Trib 4 enters at the same temperature as PTR-11 (Burnt Hollow Creek) 
+• Inflows in Reaches 6 and 8 enter at the same temperature as PTR-11 
+ 
+Table 2-5. Hydrologic Balance for Peterson Creek. 
+Reach ID 
+Hydrologic Balance (cms) 
+0.0010 
+headwaters (GW temp) 
+Mainstem  
+headwaters 
+0.0027 
+groundwater gain 
+0.0037 
+flow at outlet of 1 
+0.0037 
+PTR-01 
+0.0156 
+PTR-02, trib 1 
+PCT1 
+0.0193 
+flow at outlet of 2 
+PCT2 
+0.0163 
+trib 2 
+0.0082 
+trib 3 
+0.0438 
+flow at outlet of 3 
+0.0438 
+PTR-03 
+PCT3 
+0.0438 
+flow at outlet of 4 
+PCT4 
+0.0054 
+groundwater gain 
+0.0492 
+flow at outlet of 5 
+0.0492 
+PTR-04 
+PCT5 
+0.0164 
+PTR-05, Jack Creek 
+0.0656 
+sum of Peterson and Jack Creek 
+0.0209 
+irrigation loss 
+0.0447 
+PTR-07 
+0.0107 
+irrigation return 
+0.0554 
+flow at outlet of 6 
+0.0554 
+PTR-08 
+PCT6 
+0.0554 
+flow at outlet of 7 
+PCT7 
+0.0027 
+PTR-11, Burnt Hollow Creek 
+0.0581 
+sum of Peterson and Burnt Hollow Creek 
+0.0024 
+irrigation return 
+0.0605 
+PTR-12 
+0.0014 
+trib 4 
+0.0619 
+sum of Peterson and trib 4 
+0.0443 
+irrigation loss 
+0.0176 
+flow at outlet of 8 
+0.0176 
+PTR-13 
+PCT8 
+0.0176 
+flow at outlet of 9 
+PCT9 
+0.0057 
+irrigation loss 
+0.0119 
+flow at outlet of 10 
+0.0119 
+PTR-14 
+ 
+3/4/10 
+Final 
+G-14 
+Upper Clark Fork River Tributaries Sediment, Metals, and Temperature TMDLs and Framework 
+for Water Quality Restoration – Appendix G 
+ 
+2.2.2 Baseline Scenario 
+ 
+Once the above calibration steps were performed, the QUAL2K model was run for the baseline 
+scenario which is intended to represent existing conditions in Peterson Creek on July 21st, 2007 
+(Figure 2-2).  This model run utilized all measured field data, with the assumptions described in 
+Section 2.2.1 of this document.  The model failed to accurately predict the dramatic increase in 
+temperatures that were actually measured between sites PTR-01 and PTR-03 at the upper end of 
+Peterson Creek.  Poor model calibration between sites PTR-01 and PTR-03 was thought to be 
+primarily due to the small size of this stream relative to the influence of riparian shading.  
+Hydraulic output in the model accurately reflected measured conditions, indicating that water 
+routing and channel morphology were adequately calibrated.  Several additional model 
+calibration steps were taken in an attempt to increase temperatures between site PTR-01 and 
+PTR-03.  Decreasing shade to 0% was required to accomplish this task.  Since this appeared 
+unrealistic based on a review of aerial imagery and on-the-ground observations, the decision was 
+made to retain the baseline scenario as depicted in Figure 2-2 with the understanding that it does 
+not accurately represent temperature values measured in the field, especially in the upper reaches 
+of Peterson Creek.  Model scenarios were compared to the results of the baseline model and not 
+to the field measured values to assure consistency when evaluating the potential to reduce stream 
+temperatures. 
+ 
+Figure 2-2. QUAL2K Baseline (Existing Conditions) Scenario. 
+Peterson Creek (7/21/2007) Mainstem
+Existing Conditions
+30
+25
+20
+15
+10
+5
+0
+5.00
+10.00
+15.00
+20.00
+25.00
+0.00
+Temp(C) Average
+Mean Temp-data
+Temp(C) Minimum
+Temp(C) Maximum
+Minimum Temp-data
+Maximum Temp-data
+ 
+Point measurements progressing downstream: PTR-01, PTR-03, PTR-07, PTR-09, PTR-12, PTR-13, and PTR-14. 
+Jack Creek confluence above PTR-07.  Burnt Hollow Creek above PTR-12.  I-90 crossing at PTR-13. 
+ 
+The baseline scenario model run indicated that stream temperatures remained relatively cool 
+downstream to the confluence with Jack Creek and the PTR-07 data logger.  In contrast, actual 
+temperature measurements in 2007 indicated water temperature increases near the PTR-03 data 
+logger followed by relatively constant temperatures progressing downstream all the way to the 
+mouth.  Modeled stream temperatures increased between Jack Creek and Burnt Hollow Creek, 
+3/4/10 
+Final 
+G-15 
+Upper Clark Fork River Tributaries Sediment, Metals, and Temperature TMDLs and Framework 
+for Water Quality Restoration – Appendix G 
+ 
+followed by downstream temperatures decreases.  The maximum measured temperature was 
+recorded at the PTR-12 data logger, which was located downstream of the confluence with Burnt 
+Hollow Creek.  Both the modeled and measured temperatures decreased as Peterson Creek 
+approached the I-90 crossing.  This may have been due to what appeared to be a large beaver 
+complex within reach PCT7.  Downstream of the I-90 crossing, both modeled and measured 
+temperatures again increased.  Thus, the results of the baseline modeling effort and 2007 field 
+temperature measurements indicated that Peterson Creek from the Jack Creek confluence and 
+continuing downstream past Burnt Hollow Creek, and Peterson Creek downstream of the I-90 
+crossing, may be negatively influenced by elevated water temperatures. 
+ 
+2.2.3 Shade Scenario 
+ 
+In the shade modeling scenario, areas with presently diminished shade conditions were changed 
+to an unperturbed reference condition based on field measured shade values.  Reaches of 
+Peterson Creek extending from the headwaters to Jack Creek (through reach PCT4) were 
+considered to be at their potential shade levels, with reach average shade values of 71-87%.  
+Reaches of Peterson Creek from the confluence with Jack Creek downstream to the mouth, 
+Reaches PCT5 through PCT9, were assigned an estimated reference shade value of 86% based 
+on the average of the hourly measurements at sites PTR-03, PTR-04 and PTR-07 (Attachment 
+C).  Since no actual measurements were made for reference conditions where dense riparian 
+vegetation covered the channel, the 85% value was applied as an estimate of reference 
+conditions.  If additional data become available for reference conditions, the 85% value may be 
+adjusted accordingly.  All other parameters from the baseline scenario were retained.  The results 
+of shade scenario 1 indicated a dramatic decrease in maximum temperatures, particularly in 
+reaches PCT6 and PCT9 which were generally lacking woody shrub cover (Figure 2-3).  The 
+dramatic modeled temperature reductions were likely influenced by the minimal flow and 
+associated small buffering capacity of this small stream. 
+3/4/10 
+Final 
+G-16 
+Upper Clark Fork River Tributaries Sediment, Metals, and Temperature TMDLs and Framework 
+for Water Quality Restoration – Appendix G 
+ 
+Figure 2-3. QUAL2K Shade Scenario 1. 
+Peterson Creek (7/21/2007) Mainstem
+Shade Scenario 1
+30
+25
+20
+15
+10
+5
+0
+5.00
+10.00
+15.00
+20.00
+25.00
+0.00
+Temp(C) Average
+Mean Temp-data
+Temp(C) Minimum
+Temp(C) Maximum
+Minimum Temp-data
+Maximum Temp-data
+ 
+Point measurements progressing downstream: PTR-01, PTR-03, PTR-07, PTR-09, PTR-12, PTR-13, and PTR-14. 
+Jack Creek confluence above PTR-07.  Burnt Hollow Creek above PTR-12.  I-90 crossing at PTR-13. 
+ 
+To further evaluate the influence of shade, a second scenario was assessed in which the estimated 
+reference value derived from the average hourly measurements at sites PTR-03, PTR-04 and 
+PTR-07 were applied only to reaches PCT6 and PCT9.  These two reaches had extensive areas of 
+open pasture and minimal riparian shrub cover as observed on aerial imagery from 2004 and 
+2005.  All other parameters from the baseline scenario were retained, including shade values 
+along PCT7 since aerial imagery indicated there was a relatively dense band of riparian 
+vegetation along much of this reach.  In addition, a more detailed assessment of riparian 
+vegetation along one 500-foot reach within reach PCT7 in 2007 found that riparian shrub cover 
+along the channel margin averaged 53% and ranged from 35% to 65%.  The second shade 
+scenario also led to a substantial decrease in maximum temperatures (Figure 2-4).  This scenario 
+was determined to best represent the potential to decrease stream temperatures by increasing 
+shade along selected reaches of Peterson Creek. 
+3/4/10 
+Final 
+G-17 
+Upper Clark Fork River Tributaries Sediment, Metals, and Temperature TMDLs and Framework 
+for Water Quality Restoration – Appendix G 
+ 
+Figure 2-4. QUAL2K Shade Scenario 2. 
+Peterson Creek (7/21/2007) Mainstem
+Shade Scenario 2
+30
+25
+20
+15
+10
+5
+0
+5.00
+10.00
+15.00
+20.00
+25.00
+0.00
+Temp(C) Average
+Mean Temp-data
+Temp(C) Minimum
+Temp(C) Maximum
+Minimum Temp-data
+Maximum Temp-data
+ 
+Point measurements progressing downstream: PTR-01, PTR-03, PTR-07, PTR-09, PTR-12, PTR-13, and PTR-14. 
+Jack Creek confluence above PTR-07.  Burnt Hollow Creek above PTR-12.  I-90 crossing at PTR-13. 
+ 
+2.2.4 Channel Morphology Scenario 
+ 
+When applying the QUAL2K model in temperature assessments, a channel morphology scenario 
+that examines the influence of channel over-widening is often applied.  However, field data 
+collected in 2007 documented low width/depth ratios, suggesting there was minimal potential to 
+further reduce stream channel width.  Thus, the channel morphology modeling scenario was not 
+applied to the Peterson Creek temperature assessment. 
+ 
+2.2.5 Water Consumptive Use Scenario 
+ 
+The water consumptive use scenario describes the thermal effect of irrigation and domestic water 
+uses on water temperatures in Peterson Creek.  This scenario was modeled by removing existing 
+water diversions from the study reach as identified in the hydrologic balance (Table 2-5).  The 
+current modeling effort included irrigation withdrawals identified in three reaches: PCT5, PCT7 
+and PCT9.  Warm water irrigation return flows were also removed from reaches PCT5 and 
+PCT7.  Additional irrigation withdrawals not identified through field measurements in 2007 may 
+be present, but were not accounted for in this modeling exercise.  These included observed 
+withdrawals in reaches PCT2 and PCT6.  All other parameters from the baseline scenario were 
+retained.  This scenario indicated that water withdrawals have a lesser potential impact on stream 
+temperatures than riparian shading (Figure 2-5).  The model indicated that slight decreases in 
+temperature could be achieved through water conservation in reach PCT6 upstream of the 
+confluence with Burnt Hollow Creek and reach PCT9 through the City of Deer Lodge.  Due to a 
+lack of measurements of irrigation withdrawals throughout the system, the results of the water 
+consumptive use scenario should be interpreted with caution.  If more detailed flow data for the 
+irrigation network becomes available, this scenario may need to be reevaluated. 
+3/4/10 
+Final 
+G-18 
+Upper Clark Fork River Tributaries Sediment, Metals, and Temperature TMDLs and Framework 
+for Water Quality Restoration – Appendix G 
+ 
+Figure 2-5. QUAL2K Water Consumptive Use Scenario. 
+Peterson Creek (7/21/2007) Mainstem
+Water Consumptive Use Scenario
+30
+25
+20
+15
+10
+5
+0
+5.00
+10.00
+15.00
+20.00
+25.00
+0.00
+Temp(C) Average
+Mean Temp-data
+Temp(C) Minimum
+Temp(C) Maximum
+Minimum Temp-data
+Maximum Temp-data
+ 
+Point measurements progressing downstream: PTR-01, PTR-03, PTR-07, PTR-09, PTR-12, PTR-13, and PTR-14. 
+Jack Creek confluence above PTR-07.  Burnt Hollow Creek above PTR-12.  I-90 crossing at PTR-13. 
+ 
+Note that streamflow measurements in July of 2007 document a maximum flow in Peterson 
+Creek of 2.1 cfs at site PTR-12, with flows then decreasing to 0.4 cfs by the mouth (site PTR-
+14), which is a distance of approximately 2.6 miles.  This section of Peterson Creek may be an 
+appropriate area on which to focus water management activities since flows were observed to 
+decrease by 80% in this reach, which extends from downstream of the confluence with Burnt 
+Hollow Creek to the mouth. 
+ 
+2.2.6 Natural Condition Scenario 
+ 
+The natural condition scenario reflects the temperature regime that would be expected absent of 
+the influence of man.  This allows for the characterization of the extent of the departure from the 
+natural condition.  Factors applied in shade scenario 1 (reference shade) and the water 
+consumptive use scenario (no irrigation withdrawals) were applied to run this scenario.  All other 
+parameters from the baseline scenario were retained.  The natural condition scenario indicated 
+that maximum temperatures at the mouth of Peterson Creek could be approximately 15°F cooler 
+than the modeled maximum temperature of 78.3°F (Figure 2-6).  The measured maximum 
+temperature on July 21st of 2007 was 75.8°F at the mouth (PTR-14), while the natural condition 
+scenario results in a maximum temperature of 62.7°F (Attachment D), suggesting water 
+temperatures could be approximately 13°F cooler at the mouth of Peterson Creek.  The seasonal 
+maximum value at site PTR-14 was 78.0°F on July 22nd (Attachment A). 
+3/4/10 
+Final 
+G-19 
+Upper Clark Fork River Tributaries Sediment, Metals, and Temperature TMDLs and Framework 
+for Water Quality Restoration – Appendix G 
+ 
+Figure 2-6. QUAL2K Natural Condition Scenario. 
+Peterson Creek (7/21/2007) Mainstem
+Natural Condition Scenario
+30
+25
+20
+15
+10
+5
+0
+5.00
+10.00
+15.00
+20.00
+25.00
+0.00
+Temp(C) Average
+Mean Temp-data
+Temp(C) Minimum
+Temp(C) Maximum
+Minimum Temp-data
+Maximum Temp-data
+   
+Point measurements progressing downstream: PTR-01, PTR-03, PTR-07, PTR-09, PTR-12, PTR-13, and PTR-14. 
+Jack Creek confluence above PTR-07.  Burnt Hollow Creek above PTR-12.  I-90 crossing at PTR-13. 
+ 
+2.2.7 Naturally Occurring Scenario (ARM 17.30.602) 
+ 
+The naturally occurring scenario defines water temperature conditions resulting from the 
+implementation of all reasonable land, soil and water conservation practices as outlined in ARM 
+17.30.602.  This scenario identifies the “naturally occurring” temperature in water bodies of 
+interest and establishes the temperatures to which a 0.23°C (0.5°F) temperature increase is 
+allowable.  This, in turn, can be used to identify the impairment status of a water body.  This 
+scenario included improved shading in reaches PCT6 and PCT9 as suggested by shade scenario 2 
+along with a 15% increase in irrigation and domestic water use efficiency.  This was calculated 
+by reducing the three identified irrigation withdrawals by 15%.  The result of the naturally 
+occurring scenario was similar to the result of shade scenario 2, with substantial reductions in 
+temperature predicted in Peterson Creek downstream of the confluence with Jack Creek.  Based 
+on the naturally occurring scenario, a maximum temperature of 68.6°F was predicted at the 
+mouth of Peterson Creek and there is the potential for an approximately 10°F reduction in in-
+stream temperatures relative to the baseline scenario (Attachment D). 
+3/4/10 
+Final 
+G-20 
+Upper Clark Fork River Tributaries Sediment, Metals, and Temperature TMDLs and Framework 
+for Water Quality Restoration – Appendix G 
+ 
+Figure 2-7.  QUAL2K Naturally Occurring Scenario. 
+Peterson Creek (7/21/2007) Mainstem
+Naturally Occurring Scenario
+30
+25
+20
+15
+10
+5
+0
+5.00
+10.00
+15.00
+20.00
+25.00
+0.00
+Temp(C) Average
+Mean Temp-data
+Temp(C) Minimum
+Temp(C) Maximum
+Minimum Temp-data
+Maximum Temp-data
+ 
+Point measurements progressing downstream: PTR-01, PTR-03, PTR-07, PTR-09, PTR-12, PTR-13, and PTR-14. 
+Jack Creek confluence above PTR-07.  Burnt Hollow Creek above PTR-12.  I-90 crossing at PTR-13. 
+ 
+2.3 Peterson Creek Modeled Temperature Relative to Montana Standards 
+ 
+The naturally occurring scenario indicated that water temperatures greater than 66.5°F can be 
+expected in Peterson Creek.  Thus, the maximum allowable increase in temperature due to 
+unmitigated human causes is 0.5°F (0.23°C) (see Section 1.1).  This standard was exceeded at 
+the lower-most four monitoring sites on Peterson Creek, which represents Peterson Creek from 
+downstream of Jack Creek to the confluence with the Clark Fork River (Table 2-6, results for 
+each modeling scenario presented in Attachment D).  The majority of the temperature reduction 
+potential predicted by the QUAL2K model resulted from increased shade, as presented in shade 
+scenario 2 (Figure 2-4), with an additional smaller reduction in temperatures resulting from 
+improved irrigation and domestic water management.  As discussed in Section 2.2.3, the 
+dramatic modeled temperature reductions were likely a result of the minimal flow in this small 
+stream.  Due to the minimal amount of flow, there may be a substantial amount of error in the 
+QUAL2K model.  However, temperature data collected in 2007 and the results of this QUAL2K 
+modeling effort suggest that Peterson Creek fails to meet Montana’s standard for temperature 
+during low flow periods in the middle of summer and that an increase in riparian shading, 
+particularly along reaches PCT6 and PCT9 will likely lead to a decrease in water temperatures. 
+3/4/10 
+Final 
+G-21 
+Upper Clark Fork River Tributaries Sediment, Metals, and Temperature TMDLs and Framework 
+for Water Quality Restoration – Appendix G 
+ 
+ 
+Table 2-6. Peterson Creek Temperatures Relative to Montana’s Water Quality Standards. 
+Field Measured 
+Data 
+QUAL2K Existing 
+Conditions 
+Data  
+Logger 
+Site 
+Departure 
+from Field 
+Data (ºF) 
+QUAL2K 
+Naturally 
+Occurring 
+Scenario 
+Departure 
+from Existing 
+Conditions 
+Model (ºF) 
+Maximum 
+Temperature (ºF) 
+Maximum 
+Temperature (ºF) 
+Maximum 
+Temperature (ºF) 
+PTR-01 
+60.0 
+63.5 
+3.53 
+63.5 
+0.00 
+PTR-03 
+69.4 
+67.5 
+-1.89 
+67.5 
+0.00 
+PTR-07 
+71.0 
+68.4 
+-2.54 
+68.4 
+0.00 
+PTR-09 
+71.9 
+78.2 
+6.23 
+66.9 
+-11.21 
+PTR-12 
+72.4 
+77.3 
+4.86 
+67.6 
+-9.61 
+PTR-13 
+66.6 
+73.6 
+6.97 
+70.1 
+-3.47 
+PTR-14 
+75.8 
+78.3 
+2.43 
+68.6 
+-9.72 
+Bold text indicates violation of Montana’s water quality standard. 
+ 
+3/4/10 
+Final 
+G-22 
+Upper Clark Fork River Tributaries Sediment, Metals, and Temperature TMDLs and Framework 
+for Water Quality Restoration – Appendix G 
+ 
+SECTION 3.0  
+CONCLUSIONS 
+ 
+This assessment indicated that Peterson Creek is impaired due to elevated water temperatures 
+during low flow periods in the middle of summer.  Overall, the results of this study indicated that 
+Peterson Creek downstream of the confluence with Jack Creek should be the focus of restoration 
+efforts directed towards decreasing water temperatures in Peterson Creek.   
+ 
+Major findings and restoration recommendations include: 
+• 
+Temperature data collected in 2007 and the results of this QUAL2K modeling 
+effort suggest that Peterson Creek fails to meet Montana’s standard for 
+temperature during low flow periods in the middle of summer. 
+ 
+• 
+Modeling indicated that increased shading in reaches PCT6 and PCT9 would 
+likely have the greatest impact on water temperatures in Peterson Creek.  Reach 
+PCT6 extends upstream of the Burnt Hollow Creek confluence, while Reach 
+PCT9 flows through the town of Deer Lodge.  In 2007, maximum temperatures 
+were observed at site PTR-12 in reach PCT7, which is located downstream of the 
+Burnt Hollow Creek confluence.  This further supports the need for improved 
+riparian shading upstream of this site.  
+ 
+• 
+Maximum streamflows were observed at PTR-12, which is located downstream of 
+the Burnt Hollow Creek confluence.  Streamflows decreased by 80% between this 
+site and the confluence with the Clark Fork River.  Thus, irrigation efficiency 
+improvements should focus on Peterson Creek downstream of the confluence with 
+Burnt Hollow Creek. 
+ 
+Limitations of this study include a lack of detailed flow measurements for the irrigation network, 
+a lack of reference conditions data for riparian shading, and potential limitations of the QUAL2K 
+model when working with such a small stream.  Thus, the results of this assessment may need to 
+be reevaluated as additional information becomes available. 
+3/4/10 
+Final 
+G-23 
+Upper Clark Fork River Tributaries Sediment, Metals, and Temperature TMDLs and Framework 
+for Water Quality Restoration – Appendix G 
+ 
+3/4/10 
+Final 
+G-24 
+Upper Clark Fork River Tributaries Sediment, Metals, and Temperature TMDLs and Framework 
+for Water Quality Restoration – Appendix G 
+ 
+SECTION 4.0  
+REFERENCES 
+ 
+Flynn, K., Kron, D., Granger, M. 2008.  Modeling Streamflow and Water Temperature in the Big 
+Hole River, Montana – 2006.  Contributing authors K. Flynn, D. Kron and M. Granger, M. 2008. 
+TMDL Technical Report DMS-2008-03.  Montana Department of Environmental Quality.  
+Helena, MT. 
+ 
+MDEQ 2007. Upper Clark Fork TMDL Planning Area Temperature and Instantaneous Flow 
+Monitoring Sampling and Analysis Plan.  Prepared by Montana Department of Environmental 
+Quality.  Helena, MT. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3/4/10 
+Final 
+G-25 
+Upper Clark Fork River Tributaries Sediment, Metals, and Temperature TMDLs and Framework 
+for Water Quality Restoration – Appendix G 
+ 
+3/4/10 
+Final 
+G-26 
+Upper Clark Fork River Tributaries Sediment, Metals, and Temperature TMDLs and Framework 
+for Water Quality Restoration – Appendix G 
+ 
+ATTACHMENT A 
+2007 TEMPERATURE DATA SUMMARY UPPER CLARK FORK TMDL 
+PLANNING AREA 
+3/4/10 
+Final 
+G-27 
+ 
+Upper Clark Fork River Tributaries Sediment, Metals, and Temperature TMDLs and Framework for Water Quality Restoration – 
+Appendix G 
+Site ID
+Site Name
+Lat
+Long
+Start Date
+Stop date
+Seasonal Maximum
+Seasonal Minimum
+Seasonal Max ΔT
+7-Day averages
+Date
+Value
+Date
+Value
+Date
+Value
+Date
+Maximum
+Minimum Δ
+T
+59.8 11.3
+63.1 10.0
+62.6
+7.6
+63.2
+8.6
+62.5 10.0
+57.5 10.6
+50.7 12.6
+59.5 14.5
+60.4 14.8
+Site ID
+Site Name
+Days >
+Days >
+Days >
+Hours >
+Hours >
+Hours > Warmest day of 7-day max
+Agency
+50 F
+59 F
+70 F
+50 F
+59 F
+70 F
+Date
+Maximum
+Minimum
+PTR-05
+617318
+65
+47
+9
+1245.5
+570.5
+32.0
+07/18/07
+72.5
+60.0 DEQ
+PTR-12
+617341
+63
+50
+13
+1406.5
+757.0
+86.5
+07/20/07
+75.8
+62.5 DEQ
+PTR-03
+617386
+64
+47
+7
+1389.5
+680.0
+28.0
+07/19/07
+71.8
+63.6 DEQ
+PTR-07
+617400
+67
+56
+14
+1456.0
+849.0
+76.5
+07/18/07
+73.4
+61.4 DEQ
+PTR-09
+650637
+65
+52
+14
+1407.5
+752.5
+82.5
+07/20/07
+74.4
+62.3 DEQ
+PTR-13
+650641
+64
+42
+3
+1193.5
+327.0
+14.0
+07/19/07
+73.4
+62.3 DEQ
+PTR-01
+650664
+52
+16
+1
+818.0
+56.5
+11.5
+07/17/07
+80.3
+52.4 DEQ
+PTR-11
+650710
+69
+60
+16
+1529.5
+891.0
+100.5
+07/20/07
+76.0
+58.3 DEQ
+PTR-14
+650711
+67
+49
+10
+1326.5
+612.5
+67.5
+07/22/07
+78.0
+57.9 DEQ
+PTR-05
+617318
+46.3176
+112.6628
+07/18/07
+09/25/07
+07/20/07
+72.5
+09/25/07
+38.2
+08/11/07
+14.9
+07/21/07
+71.1
+PTR-12
+617341
+46.37078
+112.69884
+07/19/07
+09/25/07
+07/20/07
+75.8
+09/25/07
+41.5
+07/28/07
+14.1
+07/22/07
+73.1
+PTR-03
+617386
+46.2844
+112.614
+07/18/07
+09/25/07
+07/19/07
+71.8
+09/25/07
+40.1
+07/22/07
+10.2
+07/21/07
+70.1
+PTR-07
+617400
+46.3248
+112.6673
+07/18/07
+09/25/07
+07/20/07
+73.4
+09/25/07
+41.5
+08/11/07
+14.2
+07/21/07
+71.8
+PTR-09
+650637
+46.35066
+112.6822
+07/18/07
+09/25/07
+07/28/07
+74.4
+09/25/07
+40.4
+09/02/07
+15.4
+07/21/07
+72.5
+PTR-13
+650641
+46.3878
+112.7207
+07/18/07
+09/25/07
+07/19/07
+73.4
+09/25/07
+41.0
+09/11/07
+15.7
+07/21/07
+68.1
+PTR-01
+650664
+46.27683
+112.58129
+07/17/07
+09/25/07
+07/17/07
+80.3
+09/25/07
+36.2
+07/17/07
+27.9
+07/20/07
+63.3
+PTR-11
+650710
+46.3625
+112.6857
+07/18/07
+09/25/07
+07/22/07
+76.0
+09/25/07
+43.2
+07/22/07
+18.6
+07/21/07
+74.0
+PTR-14
+650711
+46.38944
+112.73567
+07/19/07
+09/25/07
+07/22/07
+78.0
+09/25/07
+39.3
+07/22/07
+20.1
+07/22/07
+75.2
+ 
+ 
+3/4/10 
+Final 
+G-28 
+Upper Clark Fork River Tributaries Sediment, Metals, and Temperature TMDLs and Framework 
+for Water Quality Restoration – Appendix G 
+ 
+ATTACHMENT B 
+STREAMFLOW DATA UPPER CLARK FORK TMDL PLANNING AREA 
+3/4/10 
+Final 
+G-29 
+Notes 
+Site Description 
+Date 
+Time 
+Flow 
+(cfs) 
+Upper Clark Fork River Tributaries Sediment, Metals, and Temperature TMDLs and Framework for Water Quality Restoration – Appendix G 
+Site Information 
+Deployment 
+Retrieval 
+Site ID 
+Serial # 
+Latitude 
+Longitude 
+Date 
+Time 
+Flow 
+(cfs) 
+PTR-01 
+650664 
+46.2768 
+112.5813 
+7/16/2007 
+11:24 
+0.131 
+just d/s of aspen 
+9/26/2007 
+9:40 
+0.015 
+Brick/logger in some sediment/slight sed in PVC 
+PTR-02 
+650682 
+46.2792 
+112.5790 
+7/16/2007 
+10:40 
+0.554 
+1st clearing, ~0.3 miles from PTR-01, under left bank 
+9/26/2007 
+8:40 
+0.052 
+Clean, bad file - only 10 days of results 
+PTR-03 
+617386 
+46.2844 
+112.6140 
+7/17/2007 
+12:03 
+1.553 
+btwn two cow crossings 
+9/26/2007 
+10:17 
+0.251 
+Logger in some sediment but no sed in PVC 
+PTR-04 
+530261 
+46.3172 
+112.6629 
+7/17/2007 
+13:33 
+1.743 
+Unshaded open bend 
+9/26/2007 
+13:00 
+0.182 
+No retrieval - lost 
+PTR-05 
+617318 
+46.3176 
+112.6628 
+7/17/2007 
+13:11 
+0.581 
+Under an alder tree ~150' u/s of cottonwood stand 
+9/26/2007 
+12:22 
+0.074 
+Some debris in PVC pipe but not clogged 
+PTR-07 
+617400 
+46.3248 
+112.6673 
+7/17/2007 
+16:19 
+1.688 
+just d/s of fence line, ~120' d/s of cattle xing in willow clearing 
+9/26/2007 
+16:40 
+0.308 
+PVC pipe covered w/ layer of sand, not clogged 
+PTR-08 
+n/a 
+46.3316 
+112.6701 
+7/17/2007 
+16:53 
+1.961 
+n/a 
+9/26/2007 
+n/a 
+0.296 
+n/a 
+PTR-09 
+650637 
+46.3507 
+112.6822 
+7/17/2007 
+17:26 
+N/A 
+deployed @ shuman ranch bridge crossing 
+9/26/2007 
+15:12 
+  
+Logger was clean 
+PTR-11 
+650710 
+46.3625 
+112.6857 
+7/17/2007 
+NA 
+0.095 
+~10' d/s of manmade pond on Shiek house, d/s of culvert 
+9/26/2007 
+17:54 
+N/A 
+immeasurable flow but PVC not clogged.  Some algae on brick/PVC 
+PTR-12 
+617341 
+46.3708 
+112.6984 
+7/18/2007 
+8:54 
+2.144 
+Rinsen property wooden bridge xing in cowfield adjacent to house 
+9/26/2007 
+18:15 
+0.326 
+PVC partially filled with fine sediment, but flow passing through 
+PTR-13 
+650641 
+46.3878 
+112.7207 
+7/17/2007 
+19:33 
+0.623 
+~ 10-15' u/s of culvert 
+9/26/2007 
+18:36 
+  
+clean 
+PTR-14 
+650711 
+46.3894 
+112.7357 
+7/18/2007 
+9:52 
+0.420 
+on u/s side of culvert 
+9/26/2007 
+18:50 
+0.072 
+minimal sediment in PVC 
+ 
+ 
+ 
+ 
+3/4/10 
+Final 
+G-30 
+Upper Clark Fork River Tributaries Sediment, Metals, and Temperature TMDLs and Framework 
+for Water Quality Restoration – Appendix G 
+ 
+ 
+ATTACHMENT C 
+SOLAR PATHFINDER DATA UPPER CLARK FORK TMDL PLANNING 
+AREA 
+3/4/10 
+Final 
+G-31 
+ 
+0 PM
+TOTAL
+Transect 1
+8
+5
+Potential
+3
+5
+8
+10
+12
+12
+12
+12
+10
+8
+5
+3
+Upper Clark Fork River Tributaries Sediment, Metals, and Temperature TMDLs and Framework for Water Quality Restoration – 
+Appendix G 
+PTR02-1
+3
+5
+8
+10
+12
+12
+12
+1
+5
+3
+84
+PTR02-2
+Transect 2
+3
+3.5
+0
+0
+0
+1
+12
+12
+10
+8
+5
+3
+58
+PTR02-3
+Transect 3
+3
+5
+8
+9
+3
+0
+0
+0
+5
+8
+5
+3
+49
+PTR02
+Average %
+100%
+90%
+67%
+63%
+42%
+36%
+67%
+56%
+67%
+71%
+100%
+100%
+71%
+PTR03-1
+Transect 1
+3
+5
+6
+10
+12
+12
+10
+0
+0
+7
+5
+3
+73
+PTR03-2
+Transect 2
+3
+5
+6
+2.5
+2
+10.5
+12
+12
+10
+8
+5
+3
+79
+PTR03-3
+Transect 3
+3
+5
+8
+10
+12
+10
+12
+12
+10
+8
+5
+3
+98
+PTR03
+Average %
+100%
+100%
+83%
+75%
+72%
+90%
+94%
+67%
+67%
+96%
+100%
+100%
+87%
+PTR04-1
+Transect 1
+3
+5
+8
+6.5
+1
+0
+0
+0
+3
+8
+4
+2
+41
+PTR04-2
+Transect 2
+3
+5
+8
+10
+12
+12
+12
+12
+10
+8
+5
+3
+100
+PTR04-3
+Transect 3
+3
+5
+0
+0
+3
+12
+12
+12
+10
+8
+5
+3
+73
+PTR04
+Average %
+100%
+100%
+67%
+55%
+44%
+67%
+67%
+67%
+77%
+100%
+93%
+89%
+77%
+PTR07-1
+Transect 1
+3
+5
+7
+5
+7
+7
+10
+8
+7.5
+8
+5
+3
+76
+PTR07-2
+Transect 2
+3
+5
+8
+10
+12
+12
+12
+12
+10
+8
+5
+3
+100
+PTR07-3
+Transect 3
+3
+3.5
+6
+10
+12
+12
+10
+12
+10
+8
+5
+3
+95
+PTR07
+Average %
+100%
+90%
+88%
+83%
+86%
+86%
+89%
+89%
+92%
+100%
+100%
+100%
+92%
+PTR08-1
+Transect 1
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+6
+PTR08-2
+Transect 2
+3
+5
+5
+0
+0
+10.5
+12
+12
+10
+8
+5
+3
+74
+PTR08-3
+Transect 3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+3
+PTR08
+Average %
+89%
+40%
+21%
+0%
+0%
+29%
+33%
+33%
+33%
+33%
+33%
+67%
+34%
+PTR07/08
+Average %
+94%
+65%
+54%
+42%
+43%
+58%
+61%
+61%
+63%
+67%
+67%
+83%
+63%
+PTR03/04/07
+Average %
+100%
+97%
+79%
+71%
+68%
+81%
+83%
+74%
+78%
+99%
+98%
+96%
+85%
+6:00 AM
+7:00 AM
+8:00 AM
+9:00 AM
+10:00 AM
+11:00 AM
+12:00 PM
+1:00 PM
+2:00 PM
+3:00 PM
+4:00 PM
+5:0
+Reach
+ 
+ 
+3/4/10 
+Final 
+G-32 
+Upper Clark Fork River Tributaries Sediment, Metals, and Temperature TMDLs and Framework 
+for Water Quality Restoration – Appendix G 
+ 
+ATTACHMENT D 
+QUAL2K MODEL SCENARIOS UPPER CLARK FORK TMDL 
+PLANNING AREA 
+3/4/10 
+Final 
+G-33 
+Upper Clark Fork River Tributaries Sediment, Metals, and Temperature TMDLs and Framework 
+for Water Quality Restoration – Appendix G 
+ 
+Baseline Scenario
+Q2K Existing Conditions
+Field Measured Data
+Maximum 
+Temperature 
+Maximum 
+Temperature 
+Maximum 
+Temperature 
+Departure 
+from Field 
+Data (ºF)
+Distance 
+(km)
+Maximum 
+Temperature 
+Distance 
+(km)
+Data  
+Logger 
+Site
+(ºC)
+(ºF)
+(ºC)
+(ºF)
+PTR-01
+19.91
+15.54
+60.0
+19.74
+17.50
+63.5
+3.53
+PTR-03
+16.80
+20.79
+69.4
+16.32
+19.74
+67.5
+-1.89
+PTR-07
+10.23
+21.64
+71.0
+10.19
+20.23
+68.4
+-2.54
+PTR-09
+7.07
+22.18
+71.9
+7.47
+25.64
+78.2
+6.23
+PTR-12
+4.43
+22.44
+72.4
+4.91
+25.14
+77.3
+4.86
+PTR-13
+1.54
+19.22
+66.6
+1.48
+23.09
+73.6
+6.97
+PTR-14
+0.12
+24.36
+75.8
+0.20
+25.71
+78.3
+2.43
+Shade Scenario 1
+Maximum 
+Temperature 
+Maximum 
+Temperature 
+Maximum 
+Temperature 
+Maximum 
+Temperature 
+Distance 
+(km)
+Distance 
+(km)
+Q2K Existing Conditions
+Q2K Shade Scenario 1
+Departure 
+from Existing 
+Conditions 
+Model (ºF)
+Data  
+Logger 
+Site
+(ºC)
+(ºF)
+(ºC)
+(ºF)
+-1.76
+-12.76
+-12.38
+-8.41
+-13.37
+PTR-01
+19.74
+17.50
+63.5
+19.74
+17.50
+63.5
+0.00
+PTR-03
+16.32
+19.74
+67.5
+16.32
+19.74
+67.5
+0.00
+PTR-07
+10.19
+20.23
+68.4
+10.19
+19.25
+66.7
+PTR-09
+7.47
+25.64
+78.2
+7.47
+18.55
+65.4
+PTR-12
+4.91
+25.14
+77.3
+4.91
+18.26
+64.9
+PTR-13
+1.48
+23.09
+73.6
+1.48
+18.42
+65.2
+PTR-14
+0.20
+25.71
+78.3
+0.20
+18.28
+64.9
+Shade Scenario 2
+Maximum 
+Temperature 
+Maximum 
+Temperature 
+Maximum 
+Temperature 
+Maximum 
+Temperature 
+Distance 
+(km)
+Distance 
+(km)
+Q2K Existing Conditions
+Q2K Shade Scenario 2
+Departure 
+from Existing 
+Conditions 
+Model (ºF)
+Data  
+Logger 
+Site
+(ºC)
+(ºF)
+(ºC)
+(ºF)
+-11.25
+-9.59
+-3.31
+-9.70
+PTR-01
+19.74
+17.50
+63.5
+19.74
+17.50
+63.5
+0.00
+PTR-03
+16.32
+19.74
+67.5
+16.32
+19.74
+67.5
+0.00
+PTR-07
+10.19
+20.23
+68.4
+10.19
+20.23
+68.4
+0.00
+PTR-09
+7.47
+25.64
+78.2
+7.47
+19.39
+66.9
+PTR-12
+4.91
+25.14
+77.3
+4.91
+19.81
+67.7
+PTR-13
+1.48
+23.09
+73.6
+1.48
+21.25
+70.3
+PTR-14
+0.20
+25.71
+78.3
+0.20
+20.32
+68.6
+Water Consumptive Use Scenario
+Maximum 
+Temperature 
+Maximum 
+Temperature 
+Maximum 
+Temperature 
+Maximum 
+Temperature 
+Distance 
+(km)
+Distance 
+(km)
+Q2K Existing Conditions
+Q2K Water Consumptive Use Scenario
+Departure 
+from Existing 
+Conditions 
+Model (ºF)
+Data  
+Logger 
+Site
+(ºC)
+(ºF)
+(ºC)
+(ºF)
+-0.61
+-1.53
+PTR-01
+19.74
+17.50
+63.5
+19.74
+17.50
+63.5
+0.00
+PTR-03
+16.32
+19.74
+67.5
+16.32
+19.74
+67.5
+0.00
+PTR-07
+10.19
+20.23
+68.4
+10.19
+20.30
+68.5
+0.13
+PTR-09
+7.47
+25.64
+78.2
+7.47
+25.30
+77.5
+PTR-12
+4.91
+25.14
+77.3
+4.91
+25.30
+77.5
+0.29
+PTR-13
+1.48
+23.09
+73.6
+1.48
+23.51
+74.3
+0.76
+PTR-14
+0.20
+25.71
+78.3
+0.20
+24.86
+76.7
+Natural Condition Scenario
+Maximum 
+Temperature 
+Maximum 
+Temperature 
+Maximum 
+Temperature 
+Maximum 
+Temperature 
+Distance 
+(km)
+Distance 
+(km)
+Q2K Existing Conditions
+Natural Condition Scenario
+Departure 
+from Existing 
+Conditions 
+Model (ºF)
+Data  
+Logger 
+Site
+(ºC)
+(ºF)
+(ºC)
+(ºF)
+-1.87
+-13.59
+-13.59
+-10.51
+-15.55
+PTR-01
+19.74
+17.50
+63.5
+19.74
+17.50
+63.5
+0.00
+PTR-03
+16.32
+19.74
+67.5
+16.32
+19.74
+67.5
+0.00
+PTR-07
+10.19
+20.23
+68.4
+10.19
+19.19
+66.5
+PTR-09
+7.47
+25.64
+78.2
+7.47
+18.09
+64.6
+PTR-12
+4.91
+25.14
+77.3
+4.91
+17.59
+63.7
+PTR-13
+1.48
+23.09
+73.6
+1.48
+17.25
+63.1
+PTR-14
+0.20
+25.71
+78.3
+0.20
+17.07
+62.7
+Naturally Occuring Scenario
+Maximum 
+Temperature 
+Maximum 
+Temperature 
+Maximum 
+Temperature 
+Maximum 
+Temperature 
+Distance 
+(km)
+Distance 
+(km)
+Q2K Existing Conditions
+Naturally Occurring Scenario
+Departure 
+from Existing 
+Conditions 
+Model (ºF)
+Data  
+Logger 
+Site
+(ºC)
+(ºF)
+(ºC)
+(ºF)
+PTR-01
+19.74
+17.50
+63.5
+19.74
+17.50
+63.5
+0.00
+PTR-03
+16.32
+19.74
+67.5
+16.32
+19.74
+67.5
+0.00
+PTR-07
+10.19
+20.23
+68.4
+10.19
+20.23
+68.4
+0.00
+PTR-09
+7.47
+25.64
+78.2
+7.47
+19.41
+66.9
+PTR-12
+4.91
+25.14
+77.3
+4.91
+19.80
+67.6
+PTR-13
+1.48
+23.09
+73.6
+1.48
+21.16
+70.1
+PTR-14
+0.20
+25.71
+78.3
+0.20
+20.31
+68.6
+-11.21
+-9.61
+-3.47
+-9.72
+ 
+3/4/10 
+Final 
+G-34 

@@ -1,0 +1,22 @@
+C25
+Measurement of the absolute energy and energy spread of the ESRF electron beam
+using undulator radiation
+Eric Tarazona and P. Elleaume
+ESRF, BP 220, 38043 Grenoble Cedex, France
+Two simple methods of characterization of the energy and energy spread of the electron beam have
+been developed at the ESRF. Both are based on the analysis of the x-ray spectrum from an
+undulator.
+The first allows the absolute energy of the electrons to be determined. It is based on the
+dependence between the harmonics’ wavelengths and the electron beam energy. The x-ray beam is
+monochromatized at 21 keV by a silicon crystal in backscattering geometry. By adjusting the
+magnetic gap, one makes the undulator third harmonic coincide with the energy selected by the
+crystal. The electron beam energy is deduced from the gap value and the knowledge of the
+undulator period and photon wavelength. The main errors come from the uncertainties regarding
+the undulator parameters (magnetic field and period). The effects of the uncertainties in the
+magnetic field are minimized by working at low field (K=0.37). The accuracy currently obtained is
+better than 10-3.
+The energy spread measurement is performed by a second method which is based on the change in
+the shape of the harmonics’ profile with energy spread. It is deduced from the measured ratio
+between the height of the seventh harmonic peak at 29 keV and that of the secondary maximum.
+The measured low current energy spread is 1.1 x 10 -3 +/- 20%. It increases with the single bunch
+current due to turbulent bunch lengthening.

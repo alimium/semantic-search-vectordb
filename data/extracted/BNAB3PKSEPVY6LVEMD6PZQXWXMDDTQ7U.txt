@@ -1,0 +1,912 @@
+8 OCAHO 1003
+ UNITED STATES DEPARTMENT OF JUSTICE
+EXECUTIVE OFFICE FOR IMMIGRATION REVIEW
+OFFICE OF THE CHIEF ADMINISTRATIVE HEARING OFFICER
+____________________________________
+)
+UNITED STATES OF AMERICA,
+)
+Complainant,
+)
+8 U.S.C. § 1324a Proceeding
+)
+v.
+)
+OCAHO Case No. 97A00116
+)
+SPRING & SOON FASHION INC.,
+)
+Judge Robert L. Barton, Jr.
+d/b/a Y PLUS S CORPORATION,
+)
+d/b/a Y PRUS S CORPORATION,
+)
+Respondents.
+)
+____________________________________)
+ORDER GRANTING IN PART COMPLAINANT’S MOTION 
+FOR SUMMARY DECISION, DENYING COMPLAINANT’S
+MOTION TO COMPEL, AND GRANTING COMPLAINANT’S
+MOTION TO SUBSTITUTE COUNSEL
+(July 8, 1998)
+I.
+INTRODUCTION
+This case centers around Complainant’s allegations that Respondent Spring & Soon Fashion
+Inc. (Spring & Soon) violated the Immigration and Nationality Act (INA) by hiring employees
+knowing they were unauthorized to work in the United States and by failing to comply with the
+employment eligibility verification requirements of the INA.  Complainant also seeks to hold
+Respondent Y Plus Corporation d/b/a Y Prus Corporation (Y Plus) responsible for any violations
+actually committed by Spring & Soon.  The main issues in this Order are:  
+(1)  whether Complainant has demonstrated that there are no genuine issues of
+material fact in this case; and
+(2)  whether Complainant has demonstrated that it is entitled to judgment as a matter
+of law against Spring & Soon and/or Y Plus.
+8 OCAHO 1003
+2
+This Order disposes of all outstanding motions.  For the reasons discussed in detail below, I find that
+Complainant has demonstrated that there are no genuine issues of material fact and that it is entitled
+to judgment as a matter of law as to the liability of both Spring & Soon and Y Plus.  However, I find
+that Complainant has not demonstrated that there are no genuine issues of material fact with respect
+to the amount of penalty this case warrants.  As a result, I 
+(1)  GRANT Complainant’s Motion for Summary Decision1 as to liability for both
+Spring & Soon and Y Plus; and
+(2)  DENY Complainant’s Motion for Summary Decision as to the appropriate civil
+money penalty to assess.  
+II.
+BACKGROUND AND PROCEDURAL HISTORY
+On September 27, 1996, the Immigration and Naturalization Service (INS or Complainant)
+served  a  Notice  of  Intent  to  Fine  (NIF)  relating  to  Respondent Spring & Soon Fashion Inc. on
+Mrs. Young S. Sung at the business premises of Y Plus S Corporation, d/b/a Y Prus S Corporation.
+Shofi  Decl.2  ¶  5.   Mrs.  Sung’s  husband,  Mr.  Chang  S.  Sung,  is  listed  as  Spring  &  Soon’s
+1  Complainant has entitled its filing a “Motion for Summary Judgment.”  The OCAHO
+Rules of Practice and Procedure provide for motions for summary decision, see 28 C.F.R.
+§ 68.38 (1997), which are similar to motions for summary judgment under Federal Rule of
+Civil Procedure 56.  I will treat Complainant’s Motion as a motion for summary decision, and
+I will refer to it as such.  
+2  The following abbreviations will be used throughout this Order:
+Shofi Decl.
+Declaration of INS Agent John Shofi, attached to Complainant’s
+Motion to Amend Complaint
+Compl.
+Original Complaint
+Amended Compl.
+Amended Complaint
+C. Mot. Default
+Complainant’s Motion for Default Judgment
+Ans.
+Answer
+Ans. to Amended Compl.
+Answer to Amended Complaint
+C. Mot. SD
+Complainant’s Motion for Summary Decision
+C. Mot. Compel
+Complainant’s Motion to Compel Response to Request for
+Production of Documents and Answer to Interrogatories
+SCO
+Show Cause Order
+R. Response SCO
+Respondents’ Response to Show Cause Order
+C. Request Admiss.
+Complainant’s Request for Admissions, attached to Complainant’s
+Motion for Summary Decision
+8 OCAHO 1003
+3
+incorporator on Spring & Soon’s certificate of incorporation, see C. Request Admiss. Ex. E, and as
+Spring & Soon’s president on its I-9 forms, see id. Ex. A, but Mrs. Sung allegedly identified herself
+as Spring & Soon’s owner at the time of the INS inspection of Spring & Soon’s I-9 forms, see Shofi
+Decl.  ¶  4.   Mrs.  Sung  is  listed  as  Y  Plus’ incorporator  on  its  certificate  of  incorporation,
+see C. Request Admiss. Ex. G, and as Y Plus’ president on its I-9 forms, see id. Ex. J.  
+By letter dated October 21, 1996, Spring & Soon timely requested  a  hearing  in  this  matter
+through  its  then-attorney  Mark  C.  Kalish.  Complainant filed a five-count Complaint with the
+Office of the Chief Administrative Hearing Officer (OCAHO) on May 22, 1997.  That Complaint,
+which echoes the allegations of the NIF, asserts that Spring & Soon hired or continued to employ
+seven  listed  individuals  knowing  that  they  were  unauthorized  to  work  in  the  United  States,
+in   violation   of  section  274A(a)(1)(A)  or  274A(a)(2)  of  the  INA,  as  codified  at  8  U.S.C. §§
+1324a(a)(1)(A) and 1324a(a)(2).  Compl. ¶¶ I.A-E.  Complainant alleges that, on August 8, 1995,
+a Final Order was served on Respondent Spring & Soon for a first violation of section 274A(a)(1)(A)
+and/or 274A(a)(2) of the INA.  Compl. ¶ I.F.  Complainant also alleges that Spring & Soon
+committed various violations of the employment eligibility verification system, all in violation of
+section 274A of the INA, as codified at 8 U.S.C. § 1324a.  See Compl. ¶¶ II-V.  
+On July 23, 1997, Mr. Kalish filed a motion to withdraw his representation of Spring & Soon
+in this proceeding.  In support of his motion, Mr. Kalish stated that, after repeated attempts, he had
+been unable to communicate with his client.  Specifically, Mr. Kalish said that he had had no
+communications with Spring & Soon since approximately January 1997.  Mot. Withdraw ¶ 6.  After
+receiving a copy of the Complaint in late May or early June 1997, Mr. Kalish tried to telephone
+Spring & Soon, but found that telephone service was disconnected.  Id. ¶ 7.  Mr. Kalish stated that,
+on June 16, 1997, he visited Spring & Soon’s business premises at 262 West 38th Street, 15th Floor,
+New York, New York, but that the business no longer was there.  Id. ¶ 8.  Mr. Kalish stated that he
+then  requested  from  directory  assistance  any  listings  for  “Spring  &  Soon  Fashions”  in  any
+of    New   York  City’s  five  boroughs,  but  that  there  were  no  such  listing .  Id. ¶ 9.  Finally,
+Mr. Kalish asserted that, to the best of his knowledge, Spring & Soon no longer was doing business.
+Id.  I granted Mr. Kalish’s motion to withdraw by order dated July 24, 1997.
+Complainant filed its Motion to Amend Complaint and a document entitled “Second
+Amended Complaint”3 on September 3, 1997.  Through its proposed amendment, Complainant
+sought to add Y Plus S Corporation d/b/a Y Prus S Corporation as a respondent on the grounds that
+it was a mere continuation of Respondent Spring & Soon Fashion Inc. and, thus, could be held
+responsible  for  the  debts  and/or liabilities of Spring & Soon.  Also on September 3, Complainant
+3  According to the official case file, no other amended complaint had been filed. 
+Therefore, this was not the second amended complaint but, rather, the first amendment. Thus,
+it will be referred to as the amended complaint.  
+8 OCAHO 1003
+4
+filed its Motion for Default Judgment.  Complainant stated that, as of August 14, 1997, no answer
+had been filed in this case.  Mot. Default ¶ 4.  Therefore, Respondent had “failed to plead or
+otherwise  defend  within  thirty  days  of  the  receipt  of  [the] Complaint as required by 28 C.F.R.
+§ 68.9(a).”  Id. ¶ 5.  Complainant sought default judgment against both Spring & Soon and Y Plus.
+On September 11, 1997, I entered an Order Regarding Complainant’s Motion to Amend and
+Motion for Default.  In that Order, I noted that Complainant had not explained why Spring & Soon
+should be considered as doing business through Y Plus S Corporation d/b/a Y Prus S Corporation,
+other than the fact that it might have the same owner.  I ordered Complainant to file a legal brief no
+later than September 30, 1997, in which it would discuss the facts in the record that supported its
+assertion that Spring & Soon is doing business through Y Plus and the applicable legal principles
+governing that determination.  Since the NIF was not served on Spring & Soon at the address listed
+for it on the Complaint, I ordered Complainant also to discuss in its brief whether the NIF was
+properly served on Spring & Soon.  I granted leave to the Sungs to file a response to Complainant’s
+Motion to Amend, its brief, and its Motion for Default Judgment no later than October 14, 1997. 
+Regarding Complainant’s Motion for Default, I noted that Spring & Soon still had not filed
+an answer as of September 11.  I stated that, if I granted Complainant’s Motion to Amend,
+Respondent would have thirty days to answer the amended complaint; even though Spring & Soon
+had not yet filed an answer to the original Complaint, if an amended complaint is filed, a  respondent
+must receive a chance to answer the complaint as amended.  As a result, I stated that I would defer
+ruling on the Motion for Default until I had ruled on the Motion to Amend.  I explained, however,
+that Spring & Soon was in default with respect to the original Complaint and, if I denied the Motion
+to Amend, Spring & Soon could face a default judgment.  Consequently, I ordered Spring & Soon
+to file an answer to the Complaint immediately upon receipt of my September 11 Order to avoid
+entry of a default judgment.  I also ordered Spring & Soon to explain why it did not file an answer
+to the Complaint in a timely manner.  
+Complainant filed its Memorandum of Law in Support of Motion to Amend Complaint on
+October 14, 1997.4  On October 17, 1997, Raymond J. Aab filed a Notice of Appearance as legal
+counsel for Spring & Soon and also filed Respondent’s Answer to the Complaint and its Opposition
+to Complainant’s Motion to Amend Complaint.  Spring & Soon’s Opposition also responded to
+Complainant’s Motion for Default Judgment.  In its Answer, Spring & Soon responded to the factual
+allegations of the Complaint and asserted as an affirmative defense that the NIF and the Complaint
+in this case were not properly served on Spring & Soon. 
+4  I granted Complainant’s request, communicated by letter on October 10, 1997, to
+extend the previous deadline to October 14.  
+8 OCAHO 1003
+5
+By Order dated December 9, 1997, I granted Complainant’s Motion to Amend Complaint
+by adding Y Plus as a respondent.  Although I did not find that Y Plus was in fact a mere
+continuation of Spring & Soon, I granted Complainant’s Motion to Amend by adding Y Plus as a
+respondent because Complainant had alleged enough information to allow it the opportunity to prove
+its allegations as to Y Plus.  See Order Granting C.’s Mot. Amend at 11.  Also in the December 9
+Order, I addressed the issue of whether the NIF was properly served on Respondent Spring & Soon.
+For the reasons stated in that Order, I found that, even assuming service was not accomplished in
+compliance with the applicable regulation, dismissing the case to make the INS comply with the
+relevant regulation was unwarranted.  See id. at 3-8.  Additionally, I denied Complainant’s Motion
+for Default and gave Respondents until January 8, 1998, to file their answer to the Amended
+Complaint.  
+Respondents filed their Answer to the Amended Complaint on January 12, 1998.  Although
+the certificate of service reveals that this Answer was served by mail on January 7, 1998, “file”
+means that the document must be received in my office by the given deadline, not that it merely must
+be postmarked by then, see 28 C.F.R. § 68.8(b) (1997).  I had explicitly reminded Respondents of
+that provision, see Order Granting C.’s Mot. Amend at 13 n.13, but they still failed to ensure that
+their Answer was filed by the January 8 deadline.  Respondents responded to the allegations
+contained  in  the  Amended  Complaint,  see  Ans.  to  Amended  Compl.  ¶¶  1-15,  and  asserted
+two affirmative defenses.  As a first affirmative defense, Respondents alleged that service of the NIF
+was “not made in compliance with legal requirement.”  Ans. to Amended Compl. ¶ 16.  As a second
+affirmative defense, Respondents alleged that “Y Plus S Corporation and/or Y Prus S Corporation
+is a separate and distinct entity from [Spring & Soon], and [Spring & Soon] is not responsible for
+the liabilities and conduct of Y Plus S Corporation and Y Prus S Corporation and vice versa.”  Ans.
+to Amended Compl. ¶ 17.
+On April 23, 1998, Complainant filed a Motion for Summary Decision and a Motion to
+Compel Response to Request for Production of Documents and Answer to Interrogatories.  In the
+Motion for Summary Decision, Complainant asserted that on March 13, 1998, Complainant served
+requests for admissions on Respondents (which are attached to its Motion), and that Respondents,
+as of April 21, 1998, had not responded to the same.  In the Motion to Compel, Complainant
+similarly asserted that it served Respondents with interrogatories and requests for document
+production on March 13, and that Respondents had failed to respond to those discovery requests as
+of April 21.  
+Respondents were entitled to file a response to Complainant’s Motion for Summary Decision
+on or before May 6, 1998; they also were entitled to file a response to Complainant’s Motion to
+Compel on or before May 7, 1998.  See 28 C.F.R. §§ 68.11(b); 68.8(c)(2) (1997).  Respondents had
+filed no responses to either of those Motions by the appropriate deadlines.  On May 8, 1998, I issued
+a Show Cause Order (SCO) in which I gave Respondents the opportunity to state whether their
+attorney’s office received the requests for admissions and the Motion for Summary Decision, and
+when each was received, and to show cause why I should not deem each of the admissions admitted
+8 OCAHO 1003
+6
+by Respondents pursuant to 28 C.F.R. § 68.21(b).  Respondents filed their Response to the SCO on
+May 21, 1998.  They attached to the Response copies of their answers to Complainant’s requests for
+admissions, as well as their answers to Complainant’s interrogatories and requests for production
+of documents, which had been served on Complainant the previous day, on May 20, 1998.
+Respondents’ counsel stated several reasons for his failure to respond to Complainant’s discovery
+requests in a timely manner, but he never explained why he did not seek an extension of time in
+which to answer discovery.  Despite my explicit requirement in the SCO, Respondents’ counsel also
+failed  to  state  when  his  office  received  Complainant’s  Request  for Admissions and Motion for
+Summary Decision.  Respondents asked that I direct Complainant to accept Respondents’ answers
+to its discovery requests.  See R. Response SCO ¶ 4.  Respondents still have not responded to
+Complainant’s Motion for Summary Decision.  
+On May 27, 1998, Complainant filed a motion to substitute Complainant’s counsel, stating
+that INS Assistant District Counsel Mimi Tsankov, who had been handling this case on
+Complainant’s behalf, no longer works at the INS.  Complainant also entered a notice of appearance
+for INS Assistant District Counsel Paul Szeto.  I noted in my Order Staying Proceeding that
+Respondents were entitled to file a response to the substitution motion on or before June 11, 1998.
+See 28 C.F.R. §§ 68.11(b), 68.8(c)(2) (1997).  Respondents have not filed such a response.  
+By Order dated May 29, 1998, I stayed this proceeding until I ruled on Complainant’s Motion
+for Summary Decision.
+III.
+STANDARDS FOR SUMMARY DECISION
+The Rules of Practice and Procedure that govern this proceeding permit the Administrative
+Law Judge (ALJ or Judge) to “enter a summary decision for either party if the pleadings, affidavits,
+material  obtained  by  discovery  or  otherwise,  or  matters  officially  noticed  show  that  there  is
+no genuine issue as to any material fact and that a party is entitled to summary decision.”  28 C.F.R.
+§ 68.38(c) (1996).  Although OCAHO has its own procedural rules for cases arising under its
+jurisdiction, the OCAHO Rules of Practice specifically authorize the Judge to reference analogous
+provisions  of  the  Federal  Rules  of  Civil  Procedure  and  federal  case  law  interpreting  them
+for  guidance  in  deciding  issues  based  on  the  rules  governing  OCAHO  proceedings.  OCAHO
+Rule 68.38(c) is similar to Federal Rule of Civil Procedure 56(c), which provides for summary
+judgment in cases before the federal district courts.  As such, Rule 56(c) and federal case law
+interpreting it are useful in deciding whether summary decision is appropriate under the OCAHO
+rules.  United States v. Aid Maintenance Co., 6 OCAHO 893, at 3 (1996), 1996 WL 73594, at *35
+(Order Granting in Part and Denying in Part Complainant’s Motion for Partial Summary
+5  If available, parallel Westlaw citations will be given to OCAHO decisions.  OCAHO
+decisions published in Westlaw are located in the “FIM-OCAHO” database.  
+8 OCAHO 1003
+7
+Decision)(citing Mackentire v. Ricoh Corp., 5 OCAHO 191, 193 (Ref. No. 746)6 (1995), 1995 WL
+367112, at *2 and Alvarez v. Interstate Highway Constr., 3 OCAHO 399, 405 (Ref. No. 430) (1992),
+1992 WL 535567, at *5, aff’d, Alvarez v. OCAHO, 996 F.2d 310 (10th Cir. 1993) (table form; text
+available in 1993 WL 213912)); United States v. Tri Component Product Corp., 5 OCAHO 765, 767
+(Ref. No. 821) (1995), 1995 WL 813122, at *2 (Order Granting Complainant’s Motion for Summary
+Decision) (citing same).
+Facts  are  deemed  material  only  if  they  will  affect  the  outcome  of  the  proceeding.  See
+Aid Maintenance, 6 OCAHO 893, at 4, 1996 WL 735954, at *3 (citing Anderson v. Liberty Lobby,
+Inc., 477 U.S. 242 (1986)); Tri Component, 5 OCAHO at 768, 1995 WL 813122, at *3 (citing same
+and United States v. Primera Enters., Inc., 4 OCAHO 259, 260-61 (Ref. No. 615) (1994), 1994 WL
+269753, at *2); United States v. Manos & Assocs., Inc., 1 OCAHO 877, 878 (Ref. No. 130) (1989),
+1989 WL 433857, at * 2 (Order Granting in Part Complainant’s Motion for Summary Decision).
+An issue of material fact is genuine if it has a “real basis in the record.”  Tri Component, 5 OCAHO
+at 768, 1995 WL 813122, at *3 (citing Matsushita Elec. Indus. Co. v. Zenith Radio, 475 U.S. 574,
+586-87 (1986)).  In deciding whether a genuine issue of material fact exists, the court must view all
+facts and all reasonable inferences to be drawn from them “in the light most favorable to the non-
+moving party.”  Id. (citing Matsushita, 475 U.S. at 587 and Primera, 4 OCAHO at 261, 1994 WL
+269753, at *2).
+The party requesting summary decision carries the initial burden of demonstrating the
+absence of any genuine issues of material fact.  Id. (citing Celotex Corp. v. Catrett, 477 U.S. 317,
+323 (1986)).  Additionally, the moving party has the burden of showing that it is entitled to judgment
+as a matter of law.  United States v. Alvand, Inc., 1 OCAHO 1958, 1959 (Ref. No. 296) (1991), 1991
+WL 717207, at *2 (Decision and Order Granting in Part and Denying in Part Complainant’s Motion
+for Partial Summary Decision) (citing Richards v. Neilsen Freight Lines, 810 F.2d 898 (9th Cir.
+1987)).  After the moving party has met its burden, “the opposing party must then come forward with
+‘specific facts showing that there is a genuine issue for trial.’” Tri Component, 5 OCAHO at 768,
+1995 WL 813122, at *2 (quoting Fed. R. Civ. P. 56(e)).  The party opposing summary decision may
+not “rest upon conclusory statements contained in its pleadings.”  Alvand, 1 OCAHO at 1959, 1991
+WL 717207, at *2 (citing Nilsson, Robbins, Dalgarn, Berliner, Carson & Wurst v. Louisiana
+Hydrolec, 854 F.2d 1538 (9th Cir. 1988)).  The Rules of Practice and Procedure governing OCAHO
+proceedings specifically provide: 
+6  Citations to OCAHO precedents in bound Volumes 1-2, Administrative Decisions
+Under Employer Sanctions and Unfair Immigration-Related Employment Practices Laws of the
+United States, and bound Volumes 3-5, Administrative Decisions Under Employer Sanctions,
+Unfair Immigration-Related Employment Practices and Civil Penalty Document Fraud Laws of
+the United States, reflect consecutive decision and order reprints within those bound volumes;
+pinpoint citations to pages within those issuances are to specific pages, seriatim, of the pertinent
+volume.  Pinpoint citations to OCAHO precedents in volumes subsequent to Volume 5, however,
+are to pages within the original issuances. 
+8 OCAHO 1003
+8
+[w]hen a motion for summary decision is made and supported as provided in this
+section, a party opposing the motion may not rest upon the mere allegations or
+denials of such pleading.  Such response must set forth specific facts showing that
+there is a genuine issue of fact for the hearing.
+28 C.F.R. § 68.38(b) (1997).  
+Under the Federal Rules of Civil Procedure, the court may consider any admissions on file
+as part of the basis for summary judgment.  Tri Component, 5 OCAHO at 768, 1995 WL 813122,
+at *3 (citing Fed. R. Civ. P. 56(c)).  Similarly, summary decision may be based on matters deemed
+admitted.  Id. (citing Primera, 4 OCAHO at 261, 1994 WL 269753, at *2 and United States v.
+Goldenfield Corp., 2 OCAHO 162, 165 (Ref. No. 321) (1991), 1991 WL 531744, at *3).  
+IV.
+LEGAL ANALYSIS AND DISCUSSION
+A.
+Requests for Admissions
+Complainant’s  Motion for Summary Decision is based largely on the answers deemed
+admitted to its Request for Admissions.  Requests for admissions are deemed admitted if not
+responded to within thirty days of service.  See 28 C.F.R. § 68.21(b) (1997); see also Fed. R. Civ.
+P. 36(a).7   If  the  requests  for  admission  are  served  by  ordinary  mail,  the  responding party has
+five additional days in which to serve its answers and/or objections.  See 28 C.F.R. § 68.8(c)(2)
+(1997).  The requests automatically are deemed admitted if the party from whom the admissions are
+sought does not respond within the appropriate time limit.  See Beberaggi v. New York City Transit
+Auth., No. 93 Civ. 1737 (SWK), 1994 WL 18556, at *2 (S.D.N.Y. Jan. 19, 1994) (citing, inter alia,
+Donovan v. Carls Drug Co., 703 F.2d 650, 651 (2d Cir. 1983)); American Technology Corp. v. Mah,
+174  F.R.D.  687,  690  (D. Nev. 1997).  A  motion  to  deem  the  requests  admitted  is  not
+necessary.  See Beberaggi, 1994 WL 18556, at *2; Mah, 174 F.R.D. at 690 (denying a motion to
+deem requests for admissions admitted on the grounds that it was unnecessary, given the automatic
+effect of Rule 36(a)).  
+In the present case, Complainant served its Request for Admissions via first class mail on
+March 13, 1998.  Respondents’ answers and/or objections to those requests should have been served
+on or before April 17, 1998, but Respondents did not do so.  In fact, Respondents did not serve their
+7  As the OCAHO rule regarding requests for admissions is very similar to Rule 36,
+federal case law interpreting Rule 36 may be informative in construing the provisions of
+28 C.F.R. § 68.21.  Cf. United States v. Aid Maintenance Co., 6 OCAHO 893, at 3 (1996), 
+1996 WL 73594, at *3 (using Federal Rules of Civil Procedure provisions concerning summary
+judgment and federal case law regarding them as guidelines in interpreting similar OCAHO
+rules governing summary decision).
+8 OCAHO 1003
+9
+answers to the requests for admissions until May 20, 1998, attached as part of its response to my
+May 8 Show Cause Order.  When Respondents failed to respond to Complainant’s Request for
+Admissions in a timely manner, the matters of which Complainant sought admissions automatically
+were deemed admitted.
+Admissions can be withdrawn and/or amended, upon motion.  See 28 C.F.R. § 68.21(d)
+(1997) (“Any matter admitted under this section is conclusively established unless the
+Administrative Law Judge upon motion permits withdrawal or amendment of the admission.”); see
+also Fed. R. Civ. P. 36(b).  In their Response to the SCO, Respondents ask that I order Complainant
+to accept their responses to Complainant’s discovery requests, including their answers to the requests
+for admissions.  See R. Response SCO ¶ 4.  Respondents also state reasons in support of the
+requested relief.  See id. ¶ 3.  I will treat Respondents’ Response to the SCO as a motion to withdraw
+and  to  amend  their  prior  admissions.  See  Rohman  v.  Chemical  Leaman  Tank  Lines,  Inc., 923
+F. Supp. 42, 46 n.2 (S.D.N.Y. 1996) (treating party’s request that its responses to requests for
+admissions be deemed timely filed, made in the party’s counsel’s affirmation in opposition to the
+opponent’s motion for summary judgment, as a formal Rule 36(b) motion when, among other things,
+the grounds upon which the requested relief was sought were “clearly set forth” in the affirmation).
+The OCAHO Rules of Practice provide no standard for permitting the withdrawal and/or
+amendment of admissions made in the context of requests for admissions.  The Federal Rules of
+Civil Procedure, however, provide such a standard.8  See Fed. R. Civ. P. 36(b).  Under the Federal
+Rules, the trial judge “may permit withdrawal or amendment when the presentation of the merits of
+the action will be subserved thereby and the party who obtained the admission fails to satisfy the
+court that withdrawal or amendment will prejudice that party in maintaining the action or defense
+on the merits.”  Fed. R. Civ. P. 36(b) (emphasis added).  “[T]he decision to excuse [a party] from
+its admissions is in the court’s discretion.”  Donovan v. Carls Drug Co., Inc., 703 F.2d 650, 651-52
+(2d Cir. 1983).  “Because the language of the Rule is permissive, the court is not required to make
+an exception to Rule 36 even if both the merits and prejudice issues cut in favor of the party seeking
+exception to the rule.”  Id. at 652; see also American Express Travel Related Servs. Co., Inc. v.
+Ladouceur (In re Ladouceur), No. 95-CV-271 (RSP), 1996 WL 596718, at *3 (N.D.N.Y. Oct. 15,
+1996); O’Neill v. Medad, 166 F.R.D. 19, 22 (E.D. Mich. 1996) (citing Ropfogel v. United States,
+138 F.R.D. 579, 582 (D. Kan. 1991); Carls Drug, 703 F.2d at 652; Coca-Cola Bottling Co. v. Coca-
+Cola Co., 123 F.R.D. 97, 103 (D. Del. 1988); and Kleckner v. Glover Trucking Corp., 103 F.R.D.
+553, 557 (M.D. Pa. 1984)).
+8  The Federal Rules of Civil Procedure “may be used as a general guideline in any
+situation not provided for or controlled by [the OCAHO Rules], the Administrative Procedure
+Act, or by any other applicable statute, executive order, or regulation.”  28 C.F.R. § 68.1 (1997).
+8 OCAHO 1003
+10
+In the Response to the SCO, Respondents’ attorney, Raymond Aab, gave several reasons for
+failing to respond to Complainant’s Request for Admissions in a timely manner.  Mr. Aab stated that
+he was unable to respond to Complainant’s discovery requests sooner because “[t]he requests were
+quite voluminous and the respondent’s principal and person assisting in obtaining the requested
+documents and answers to the discovery requests, Mr. Sung, was unable to obtain much of the
+requested documents until May 19th.”  R. Response SCO ¶ 3(a).  Mr. Aab also stated the “process
+was rendered more problematic, because Mr. Sung speaks only halting English and he needed to
+return to [Respondents’ counsel’s] office three time to assist in the preparation of the respondents’
+responses to the discovery requests before he fully understood.”  Id.  Additionally, Mr. Aab stated
+that he was engaged in  a  three-week criminal  trial  that  “concerned  allegations  of  fraud  and
+involved  very  complicated  issues and facts,” and that his “time was virtually fully occupied with
+that trial,” which did not end until 5:30 p.m. on May 19.  Id. ¶ 3(b).  Mr. Aab, however, did not
+explain why he did not seek relief from the Court to expand the deadline to respond to
+Complainant’s discovery requests.  
+Respondents have not shown good cause for failing to respond to Complainant’s Request for
+Admissions in a timely manner or for failing to request an extension of time in which to respond.
+As of May 20, the date on the Response, Mr. Aab stated that he had “been engaged in a criminal trial
+and proceedings . . . for the past three weeks.”  Id.  Given that time frame, Mr. Aab’s trial would
+have started sometime in the last week of April.  Respondents’ response to the Request for
+Admissions was due April 17.  Mr. Aab’s trial did not begin until more than one week after the
+response was due.  The fact that a trial monopolized Mr. Aab’s time for the three weeks between the
+last week in April and May 20 explains nothing about why Mr. Aab failed to respond to
+Complainant’s Request for Admissions by the middle of April.  Mr. Aab could have asked for an
+extension of time, but he did not.  
+The need to answer other discovery requests also did not excuse Respondents’ obligation to
+respond to Complainant’s Request for Admissions.  Mr. Aab cited a delay in the ability to obtain
+requested documents as a reason for failing to respond to Complainant’s discovery requests in a
+timely fashion.  See id. ¶ 3(a).  Any delay in obtaining the necessary documents, however, did not
+justify a delay in responding to the Request for Admissions.  
+Complainant’s Request for Admissions was not voluminous.  When Respondents finally
+responded to the requests, they denied most of them.  Respondents did not need two months to
+answer the Request for Admissions.  
+Finally, Respondents did not bother to respond to Complainant’s Request for Admissions
+until prompted by my May 8 SCO.  Not only did Mr. Aab let the deadline for responding to the
+Request pass, but he persisted in his lack of attention and action when Complainant filed its Motion
+for Summary Decision, which was based in large part on the admitted requests.  The Motion notified
+Respondents’ counsel that Complainant was seeking judgment based on the matters admitted when
+Respondents failed to answer the Request for Admissions by the deadline.  Despite the seriousness
+of this action, Respondents’ counsel did not immediately answer the Request and move to permit
+8 OCAHO 1003
+11
+Respondents to withdraw and to amend their admissions.  Not only did Respondents fail to act with
+the urgency that this case deserved, but they persisted in their neglect until prompted by my SCO.
+Although Respondents finally answered the Request for Admissions, they never have responded to
+Complainant’s Motion for Summary Decision.  
+Courts have concluded there are situations in which it would not “further the interests of
+justice” to “deem a central fact to have been admitted by the failure of [a] pro se defendant to
+respond” to requests for admissions.  See Local Union No. 38, Sheet Metal Workers’ Int’l Ass’n,
+AFL-CIO v. Tripodi, 913 F. Supp. 290, 294 (S.D.N.Y. 1996).  I generally agree with that philosophy,
+but that factual scenario is not the situation in this case.  Respondents are represented by an attorney
+whose duty it is to advise them in legal matters and actively pursue their interests within the bounds
+of the law.  Allowing Respondents to withdraw and amend their admissions under the present
+circumstances would itself work an injustice by rewarding the glaring disregard of rules designed
+to promote fairness and efficiency in the legal process.  Cf. Alexander v. Commissioner of Internal
+Revenue, 926 F.2d 197, 199 (2d Cir. 1991) (stating, in the context of affirming the trial court’s
+decisions not to permit the late filing of answers to the requests for admissions and to grant summary
+judgment based on matters deemed admitted, that “[i]t is not the role of appellate courts to make
+allowances for the patent disregard of clearly stated trial court rules that are in part designed to
+provide for the expeditious conclusion of litigation”).  All the matters about which Complainant
+sought admissions in its Request for Admissions were admitted when Respondents failed to respond
+to the Request in a timely manner; all those items deemed admitted stay admitted.
+Respondents did not answer the Request for Admissions in time, and, when they did answer,
+did not raise any objections to the requests.  Arguably, any potential objections that Respondents
+might have raised were waived.  Cf. Boyle v. Leviton Mfg. Co., Inc., 94 F.R.D. 33, 36 (S.D. Ind.
+1981) (by answering and not objecting to requests for admissions, party waived objections for
+purposes of later raising them as a bar to being assessed attorney’s fees for failure to admit); Pleasant
+Hill Bank v. United States, 60 F.R.D. 1, 4 n.1 (W.D. Mo. 1973) (by answering request for admission,
+party waived objection that it later raised in brief opposing motion for summary judgment).  
+Even if  objections had not been waived,  the  requests  for  admissions  in  this  case  appear
+to be proper.  A couple of Complainant’s requests, that Y Plus is a successor in interest of Spring
+& Soon and that Y Plus is a mere continuation of Spring & Soon’s business, C. Request Admiss.
+Sec. I ¶¶ 17, 23, presented the potential issue of whether they called for pure conclusions of law.  
+Rule  36  was  amended  in  1970  to  resolve  a  conflict “in the court decisions as to whether
+a  request to admit matters of ‘opinion’ and matters involving ‘mixed law and fact’ is proper under
+the rule.”  Fed. R. Civ. P. 36 advisory committee’s note.  Rule 36 now states that requests for
+admissions  may  “relate  to  statements  or  opinions  of  fact  or  of  the  application  of  law  to
+fact,”  Fed.  R.  Civ. P. 36(a), thereby “eliminat[ing] the requirement that the matters be ‘of fact,’”
+see Fed. R. Civ. P. 36 advisory committee’s note.  
+8 OCAHO 1003
+12
+Requests that call for a pure conclusion of law are improper, but requests that ask for a
+conclusion of law in relation to the facts of the actual case at hand are acceptable.  See Abbott v.
+United States, 177 F.R.D. 92, 93 (N.D.N.Y. 1997); Fed. R. Civ. P. 36 advisory committee’s note
+(“The amended provision does not authorize requests for admissions of law unrelated to the facts
+of the case.”); see also Audiotext Communications Network, Inc. v. US Telecom, Inc., No. Civ. A.
+No. 94-2395-GTV, 1995 WL 625744, at *6 (D. Kan. 1995) (requests that seek application of law
+to the facts of the case are acceptable).  Allowing requests that call for conclusions of law in relation
+to the facts of the case meets the Rule 36 objective of narrowing the disputed issues in the case.  See
+Fed. R. Civ. P. 36 advisory committee’s note (“An admission of a matter involving the application
+of law to fact may, in a given case, even more clearly narrow the issues.”); Leviton Mfg., 94 F.R.D.
+at 35-36.  In a related vein, “[t]here is nothing improper about a request simply because it goes to
+an ultimate fact that may be dispositive of the case . . . .”  Hart v. Dow Chemical, No. 95 C 1811
+1997 WL 627645, at *8 (N.D. Ill. Sept. 30, 1997).
+In Abbott, a party requested admissions of law that were based exclusively on hypothetical
+facts given in the requests.  See Abbott, 177 F.R.D. at 93.  The court ruled that such requests were
+improper:  
+Although admittedly the boundary line is not always plain between
+permissible questions relating to the application of law to fact and objectionable
+questions relating to pure questions of law, the questions posed by plaintiff in this
+case fall outside the bounds of proper discovery.  Most telling is that plaintiffs have
+not posed proper questions requiring application of law to the facts peculiar to this
+case to clarify the government’s legal theories; rather, plaintiffs have posed improper
+hypothetical factual scenarios unrelated to the facts here to ascertain answers to pure
+questions of law.  This they cannot do.  
+Id.  
+In the present case, Complainant has not posed requests for admissions based on hypothetical
+scenarios.  The requests regarding Y Plus’ status as a successor in interest to and mere continuation
+of Spring & Soon involve conclusions of law, but in relation to the facts of this case.  That is
+something Rule 36 clearly permits since its 1970 amendment.9  
+9  Some post-1970 cases still say that requests that call for legal conclusions, even in
+relation to the facts of the case, or that go to central facts in dispute are improper.  See, e.g.,
+Whitaker v. Belt Concepts of America, Inc. (In re Olympia Holding Corp.), 189 B.R. 846, 853
+(Bankr. M.D. Fla. 1995).  Those cases, however, cite to pre-1970 case law, or to other post-1970
+cases that cite to pre-1970 case law, in support of their position.  
+8 OCAHO 1003
+13
+B.
+Liability Issues
+To rule on Complainant’s Motion for Summary Decision, I must examine whether
+Complainant has demonstrated a lack of genuine issue of material fact and is entitled to judgment
+as a matter of law.  “[I]t is well settled that a failure to respond to a request for admissions will
+permit the district court to enter summary judgment if the facts admitted by operation of Rule 36(a)
+are dispositive of the case.”  Pleasant Hill Bank v. United States, 60 F.R.D. 1 (W.D. Mo. 1973)
+(citing, inter alia, Moosman v. Blitz, Inc., 358 F.2d 686, 688 (2d Cir. 1966)); see also Donovan v.
+Carls Drug Co., Inc., 703 F.2d 650, 651 (2d Cir. 1983).  “[A]dmissions under Rule 36, even those
+made upon a party’s default in responding, may serve as the factual predicate for summary
+judgment.”  Pakistan Int’l Airlines v. Travel Link Int’l, Ltd., No. 90 CIV. 1703 (PNL), 1991 WL
+130182, at *2 (S.D.N.Y. July 9, 1991) (citing Carls Drug, 703 F.2d at 651).
+1.
+Liability of Spring & Soon
+a.
+Count I: knowing hire/continue to hire
+In Count I of the Complaint, Complainant alleges that Respondent Spring & Soon hired
+seven named individuals for employment in the United States after November 6, 1986, that those
+seven employees were aliens not authorized for employment in the United States, and that
+Respondent hired those employees knowing that they were aliens not authorized to work in the
+United States, in violation of section 274A(a)(1)(A) of the INA, 8 U.S.C. § 1324a(a)(1)(A).
+Amended Compl. ¶¶ I.A-D.  Alternatively, Complainant alleges that Respondent continued to
+employ the seven individuals knowing that they were aliens not authorized for employment in the
+United States, in violation of section 274A(a)(2) of the INA, 8 U.S.C. § 1324A(a)(2), and 8 C.F.R.
+§  274a.3.   Id.  ¶  I.E.  It  is  unlawful  for  a  person  or  other  entity  to  hire  for  employment in
+the United States an alien knowing the alien is unauthorized for employment in the United States,
+8 U.S.C. § 1324a(a)(1)(A) (1994), and/or to continue to employ an alien already hired knowing the
+alien is unauthorized for employment in the United States, id. § 1324a(a)(2).
+Respondents have admitted that the seven individuals listed in Count I were illegal aliens
+unauthorized to work in the United States at the time of hire, see C. Request Admiss. Sec. V, and
+that Spring & Soon hired them knowing they were unauthorized for employment, see C. Request
+Admiss. Sec. I ¶ 15.  The seven individuals were hired after November 6, 1986, as alleged in the
+Complaint, because Spring & Soon was not incorporated until after that date.  See C. Request
+Admiss. Ex. E10 (Mrs. Sung signed Spring & Soon’s Certificate of Incorporation on October 22,
+1991).
+10  Respondents have admitted that the document attached to Complainant’s Request 
+or Admissions as Exhibit E, Spring & Soon’s Certificate of Incorporation, is genuine.  See
+C. Request Admiss. Sec. VI.  
+8 OCAHO 1003
+14
+In  relation to Count I, Complainant has demonstrated the absence of genuine issues of
+material fact and that it is entitled to judgment as a matter of law.  I find that Spring & Soon violated
+8 U.S.C. § 1324a(a)(1)(A) by knowingly hiring the seven individuals named in Count I.  I GRANT
+Complainant’s  Motion  for  Summary  Decision  with  respect  to  Spring  &  Soon’s  liability  for
+Count I.
+b.
+Count II: failure to prepare/present I-9 forms
+In Count II, Complainant alleges that Respondent hired five individuals for employment in
+the United States after November 6, 1986, and that Respondent failed to prepare the Employment
+Eligibility Verification Form (I-9 form) for those five employees, in violation of section
+274A(a)(1)(B) of the INA, 8 U.S.C. § 1324a(a)(1)(B).  Amended Compl. ¶¶ II.A, B, D.
+Alternatively,  Complainant  alleges  that  Respondent  failed  to  present  the  I-9  forms  for  those
+five individuals at a scheduled inspection, in violation of section 274A(a)(1)(B) of the INA, 8 U.S.C.
+§ 1324a(a)(1)(B).  Id. ¶¶ II.C, E.  An employer must prepare an I-9 form for each employee hired
+after November 6, 1986, see 8 U.S.C. §§ 1324a(a)(1)(B), (b)(1) (1994); 8 C.F.R. §§ 274a.2(a),
+(b)(1)(i),  (b)(1)(ii)  (1996),  and  present  any  such  I-9  forms  at  INS  inspections,  see  8  U.S.C.
+§§ 1324a(a)(1)(B), (b)(3) (1994); 8 C.F.R. § 274a.2(b)(2)(ii) (1997).
+In its Answer to the Amended Complaint, Spring & Soon admits it “employed persons who
+identified themselves as indicated in the Complaint, or by different names.”  Ans. to Amended
+Compl. ¶ 3.  Respondents have admitted that Spring & Soon did not prepare and/or present at the
+January 26, 1996, scheduled inspection I-9 forms for the five listed people.  See C. Request Admiss.
+Sec. 1 ¶¶ 4, 9; Sec. IV.  Spring & Soon admits that it hired the five people name in Count II.  Since
+Spring & Soon was not incorporated until after November 6, 1986, it may be inferred that the hiring
+took place after that date.
+There are no genuine issues of material fact regarding Count II’s allegation of failure to
+prepare and/or present I-9 forms at the scheduled inspection, and Complainant is entitled to judgment
+as a matter of law.  Therefore, I GRANT Complainant’s Motion as to Spring & Soon’s liability for
+Count II.
+c.
+Count III: Sections one and two
+In Count III, Complainant alleges that Respondent hired twenty-three individuals for
+employment in the United States after November 6, 1986, that Respondent failed to ensure that those
+twenty-three individuals properly completed section one of the I-9 form, and that Respondent failed
+to properly complete section two of the I-9 form for those employees, in violation of section
+274A(a)(1)(B) of the INA, 8 U.S.C. § 1324a(a)(1)(B).  Amended Compl. ¶¶ III.A-D.  An employer
+must  ensure  that  its  employees  properly  complete  section  one  of their respective I-9 forms, see
+8 U.S.C. §§ 1324a(a)(1)(B), (b)(2) (1994); 8 C.F.R. § 274a.2(b)(1)(i)(A) (1997), and an employer
+must properly complete section two of the I-9 form, see 8 U.S.C. §§ 1324a(a)(1)(B), (b)(1) (1994);
+8 C.F.R. § 274a.2(b)(1)(ii)(B) (1997).
+8 OCAHO 1003
+15
+Respondents have admitted that the I-9 forms attached as Exhibit A to Complainant’s
+Request for Admissions are genuine and relate to the named individuals.  See C. Request Admiss.
+Sec. II.  The I-9 forms reveal errors in sections one and two for all twenty-three listed people.
+Section one lacks the required attestation11 for all twenty-three people.  One I-9 form, that belonging
+to Bokyon Cheon (¶ III.A.4),  has the “lawful permanent resident” box marked, but the employee
+failed to include the required alien number.  All of the other I-9 forms have no attestation boxes
+marked, and “none” typed or written in the blank for alien numbers.
+In section two, all twenty-three forms lack sufficient documentation in List A or Lists B and
+C.  An employer must verify an employee’s identity and employment eligibility by examining and
+recording information in section two about a List A document,12 or by examining and recording
+information in section two about both a List B document13 and a List C document.14  See 8 U.S.C.
+§ 1324a(b)(1)(A) (1994); 8 C.F.R. § 274a.2(b)(1)(v) (1997).    Two I-9 forms, belonging to Bokyon
+Cheon (¶ III.A.4) and Rosa Maria Fournier (¶ III.A.9), contain social security card information in
+List C, but have no document information in List B and List A.15  One form, belonging to Pedro
+Cabrera (¶ III.A.1), displays “I.D. requested” typed under List A, and Lists B and C are completely
+blank.  All of the remaining I-9 forms in Count III have “I.D. requested” typed in List A and “none”
+typed in Lists B and C.
+The twenty-three individuals named in Count III were hired after November 6, 1986, as
+alleged in the Complaint, because Spring & Soon was not incorporated until after that date, and
+because the dates of hire listed in section two on all the forms fall after that date.  Evidence on the
+11  In section one, the employee must attest, by marking the appropriate box, to one of 
+the following: (1) that he or she is a citizen or national of the United States; (2) that he or she
+is a lawful permanent resident; or (3) that he or she is an alien authorized to work until a
+designated date.  If the employee marks one of the latter two options, then he or she also must
+include his or her alien number in the space provided.  See Form I-9, OMB No. 1115-0136
+(rev. Nov. 21, 1991).  
+12  List A documents establish both identity and employment eligibility.
+ Acceptable List A documents are noted at 8 U.S.C. § 1324a(b)(1)(B) (1994) and
+8 C.F.R. § 274a.2(b)(1)(v)(A) (1997).  
+13 List B documents establish identity only.  Acceptable List B documents are noted at
+8 U.S.C. § 1324a(b)(1)(D) (1994) and 8 C.F.R. § 274a.2(b)(1)(v)(B) (1997).  
+14  List C documents establish employment eligibility only.  Acceptable List C documents
+are noted at 8 U.S.C. § 1324a(b)(1)(C) (1994) and 8 C.F.R. § 274a.2(b)(1)(v)(C) (1997).  
+15  Instead, those two I-9 forms contain the words “I.D. requested” under List A and
+“none” under List B.  
+8 OCAHO 1003
+16
+face of the forms reveals that section one lacks the required attestation and that the documentation
+portion of section two lacks essential document information.  As there are no genuine issues of
+material fact in relation to Count III, and as Complainant is entitled to judgment as a matter of law,
+I GRANT Complainant’s Motion with respect to Spring & Soon’s liability for this count.
+d.
+Count IV: Section two
+In Count IV, Complainant alleges that Respondent hired one individual for employment in
+the United States after November 6, 1986, and failed to properly complete section two of the I-9
+form for that individual, in violation of section 274A(a)(1)(B) of the INA, 8 U.S.C. § 1324a(a)(1)(B).
+Amended Compl. ¶¶ IV.A-C.  An employer must properly complete section two of the I-9 form.  See
+8 U.S.C. §§ 1324a(a)(1)(B), (b)(1) (1994); 8 C.F.R. § 274a.2(b)(1)(ii)(B) (1997).  
+Respondents  have  admitted  that  the  I-9  form  for  this  individual,  attached  as  part  of
+Exhibit A of Complainant’s Request for Admissions, is genuine and relates to the individual.  See
+C. Request Admiss. Sec. II.  Section two of this employee’s I-9 form lacks sufficient documentation.
+Under List A, “petition approved” appears in the space designated for the document title, “I.N.S.”
+appears in the space designated for the issuing authority, and “I.D. requested” appears in the space
+designated for the document number.  A photocopy of a Form I-797 accompanies this I-9 form, but
+attaching a copy of the document to the I-9 form without filling in all the necessary information on
+the face of the I-9 form does not satisfy the documentation recording requirement, see United States
+v. Corporate Loss Prevention Assocs., 6 OCAHO 908, at 6 (February 5, 1997), 1997 WL 131365,
+at *4 (Modification by the Chief Administrative Hearing Officer of Administrative Law Judge’s
+Order).   At  any  rate,  a   Form   I-797  is  not  an  acceptable  List  A  document.   See  8 U.S.C. §
+1324a(b)(1)(B) (1994); 8 C.F.R. § 274a.2(b)(1)(v)(A) (1997).  In addition, this I-9 form contains the
+word “none” in Lists B and C.  
+The employee in question was hired after November 6, 1986, as shown by the facts that the
+date of hire noted in section two of her I-9 form falls after that date, and that Spring & Soon was not
+incorporated until after that date.  Evidence on the face of the I-9 form that necessary elements are
+missing in section two demonstrates that Spring & Soon failed in its duty to properly complete
+section two.  As there are no genuine issues of material fact in relation to Count IV, and as
+Complainant is entitled to judgment as a matter of law, I GRANT Complainant’s Motion as to
+Spring & Soon’s liability for this count.  
+e.
+Count V: Section one
+In Count V, Complainant alleges that Respondent hired one individual for employment in
+the United States after November 6, 1986, and failed to ensure that individual properly completed
+section  one  of   his   I-9   form,   in  violation  of  section  274A(a)(1)(B)  of  the  INA,  8  U.S.C.
+8 OCAHO 1003
+17
+§ 1324a(a)(1)(B).  Amended Compl. ¶¶ V.A-C.  An employer must ensure that its employees
+properly complete section one of their respective I-9 forms.  See 8 U.S.C. §§ 1324a(a)(1)(B), (b)(2)
+(1994); 8 C.F.R. § 274a.2(b)(1)(i)(A) (1997).  
+Respondents  have  admitted  that  the  I-9  form  for  this  individual,  attached  as  part  of
+Exhibit A of Complainant’s Request for Admissions, is genuine and that it relates to the individual.
+See C. Request Admiss. Sec. II.  Section one of this I-9 form lacks the required attestation.  No
+attestation boxes are marked, and “none” appears in the space designated for an alien number.  
+The employee in question was hired after November 6, 1986, as evidenced by the facts that
+the date of hire listed in section two of his I-9 form falls after that date, and that Spring & Soon was
+not incorporated until after that date.  Evidence on the face of the I-9 form that the necessary
+attestation is missing in section one demonstrates that Spring & Soon failed in its duty to make sure
+that the employee properly completed section one.  As there are no genuine issues of material fact
+in relation to Count V, and as Complainant is entitled to judgment as a matter of law, I GRANT
+Complainant’s Motion with respect to Spring & Soon’s liability for this count.  
+2.
+Liability of Y Plus (as successor in interest of Spring & Soon)
+Respondents admit that Y Plus is successor in interest to Spring & Soon.  See C. Request
+Admiss. Sec. I ¶ 17.  A successor corporation generally is not responsible for the debts and liabilities
+of its predecessor.  See R.C.M. Executive Gallery Corp. v. Rols Capital Co., 901 F. Supp. 630, 635
+(S.D.N.Y. 1995); Delgado v. Matrix-Churchill Co., 613 N.Y.S.2d 242, 243 (App. Div. 1994).  Under
+New York state law, there  are  four  exceptions  to  that  general  rule:  (1)  when  the  successor
+corporation expressly or  impliedly  assumes  such  liability;  (2)  when  there  is  a  de  facto
+consolidation  or  merger of the two corporations; (3) when the second corporation is a mere
+continuation of the first; or (4) when the transaction was fraudulently executed to escape such
+obligations.  Delgado, 613 N.Y.S.2d at 243 (citing Grant-Howard Assocs. v. General Housewares
+Corp., 63 N.Y.2d 291, 296, 482 N.Y.S.2d 225 (1984); Schumacher v. Richards Shear Co., 59 N.Y.2d
+239, 244 (1983)).
+At least one federal court questions whether state or federal law should be applied to
+determine successor liability for federal causes of action.16  See Rols Capital, 901 F. Supp. at 634.
+As in Rols Capital, however, that distinction does not matter for present purposes because New York
+state law and federal law recognize the same four exceptions to the general rule of not holding a
+successor corporation liable for the debts of its predecessor.  See id. at 635.  Like the New York
+courts,   federal   courts   will  impose  successor  liability   when   any   of   the   previously   stated
+16  The court in Rols Capital, however, found it unnecessary to decide that question
+because the New Jersey state law that it was applying recognizes the same four exceptions 
+to the general non-liability rule that courts have applied to federal claims.  See Rols Capital, 
+901 F. Supp. at 635.  
+8 OCAHO 1003
+18
+four exceptions are present, see id. at 635-36; Lumbard v. Maglia, Inc., 621 F. Supp. 1529, 1534-35
+(S.D.N.Y. 1985); see also Golden State Bottling Co., Inc. v. NLRB, 414 U.S. 168, 182 n.5 (1973).17
+Respondents have admitted that Y Plus is a mere continuation of Spring & Soon’s business.
+See C. Request Admiss. Sec. I ¶ 23.  Respondents also have admitted sufficient facts that would
+justify the legal conclusion that Y Plus is a mere continuation of Spring & Soon and, thus, will be
+held responsible for Spring & Soon’s liabilities. 
+A variety of factors are considered in determining whether a successor corporation is a mere
+continuation of the predecessor,18 such as the following: 
+(1) continuity of ownership; (2) a cessation of ordinary business and dissolution of
+the predecessor as soon as practically and legally possible; (3) assumption by the
+successor of the liabilities ordinarily necessary for the uninterrupted continuation of
+the business of the predecessor; and (4) a continuity of management, personnel,
+physical location, assets, and general business operation.  
+Lumbard, 621 F. Supp. at 1535 (citing Arnold Graphics Indus., Inc. v. Electronic Tabulating Corp.,
+775 F.2d 38 (2d Cir. 1985)).  Not all of these factors are needed to show that a successor corporation
+is a mere continuation of the predecessor.   Id.  at 1535  (citing Menacho v. Adamson United Co.,
+420 F. Supp. 128, 133 (D.N.J. 1976)). 
+17  Successor liability may be even broader in the federal context.  The Seventh Circuit
+states that, “in order to protect federal rights or effectuate federal policies, [successor liability]
+allows lawsuits against even a genuinely distinct purchaser of a business if (1) the successor
+had notice of the claim before the acquisition; and (2) there was a ‘substantial continuity in the
+operation of the business before and after the sale.’” Chicago Truck Drivers, Helpers &
+Warehouse Workers Union (Independent) Pension Fund v. Tasemkin, Inc., 59 F.3d 48, 49
+(7th Cir. 1995); see also Rols Capital, 901 F. Supp. at 635 n.4 (noting the use of this additional
+exception in the Seventh Circuit and stating that it is used “when the vindication of an important
+statutory policy necessitates the creation of this additional and even broader exception to the
+common-law nonliability rule”). 
+18  Lumbard uses the same factors to determine whether a corporation is a mere
+continuation of another corporation as it does to determine whether the de facto merger exception
+applies, although it notes that another district court tries to draw a distinction between the two in
+that “a de facto merger contemplates a selling corporation and a purchasing corporation, [but] ‘a
+continuation accomplishes . . . something in the nature of a corporate reorganization, rather than
+a mere sale.’” Lumbard, 621 F. Supp. at 1535 n.8 (quoting Ladjevardian v. Laidlaw-Coggeshall,
+Inc., 431 F. Supp. 834, 839 (S.D.N.Y. 1977)).
+8 OCAHO 1003
+19
+Respondents have admitted that Y Plus has the same directors, officers and shareholders as
+Spring & Soon.  See C. Request Admiss. Sec. I ¶¶ 30-32. They also have admitted that Y Plus
+acquired all or most of Spring & Soon’s assets for cash, see id. Sec. I ¶ 18, that Y Plus paid little or
+no consideration for the transfer of assets to itself from Spring & Soon, see id. Sec. I ¶ 22, and that
+Spring & Soon was unable to pay its creditors’ claims following the transfer of assets to Y Plus, see
+id. Sec. I ¶ 21.  
+Respondents have admitted that Y Plus was formed shortly before the time of acquisition of
+Spring & Soon’s assets, see id. Sec. I ¶ 20, and that Spring & Soon ceased business operations and
+dissolved shortly after Spring & Soon transferred its assets to Y Plus, see id. Sec. I ¶ 19.
+Respondents admitted that Y Plus filed for incorporation in New York on February 22, 1996, and
+that Spring & Soon ceased doing business the following month, during March 1996.  See id. Sec.
+I ¶¶ 45-46.  
+Spring & Soon and Y Plus share a common business type and even some employees.  As a
+result of Respondents’ admissions, it is conclusively determined that Y Plus manufactures the same
+or similar product as Spring & Soon and that Y Plus uses Spring & Soon production facilities.  See
+id. Sec. I ¶¶ 24-25.  Specifically, Spring & Soon and Y Plus both engaged and/or engage in the
+business of garment manufacturing.  See id. Sec. I ¶¶ 43-44.  Respondents have admitted that some
+employees that worked for Spring & Soon worked for Y Plus.  See id. Sec. I. ¶ 26.  In particular,
+Respondents admitted that Y Plus hired the following two employees of Spring & Soon: Bernardo
+Perez-R, aka Gilberto Quechol Paccheco, and Maria Rosario Gracia, aka Rosa Garcia-Tenecela.  See
+id. Sec. I ¶ 27.  In addition, Respondents admit that Y Plus uses Spring & Soon’s business goodwill,
+see id. Sec. I ¶ 29, that Y Plus holds itself out as the effective continuation of Spring & Soon, see
+id. Sec. I ¶ 35, and that Y Plus uses the same corporate or product name as Spring & Soon, see id.
+Sec. I ¶ 36.  
+Respondents admit that Mr. Sung owned Spring & Soon, see id. Sec. I ¶ 38.  They also admit
+that  he  holds  or  has  held  stock  in  Y  Plus, see id. Sec. I ¶ 34, and that he works at and has held
+a management position at Y Plus, see id. Sec. I ¶¶ 41-42.  Respondents admit that Mrs. Sung owns
+Y Plus, see id. Sec. I ¶ 37, but also that she held stock in, worked at, and held a management position
+at Spring & Soon, see id. Sec. I ¶¶ 33, 39-40.  
+Additionally, Y Plus filed for incorporation approximately one month after the NIF was
+served on Spring & Soon.  See C. Request Admiss. Sec. I ¶ 45; C. Request Admiss. Ex. G (Y Plus
+Certificate of Incorporation); NIF at 2.  All of the above facts provide ample basis for concluding
+that Y Plus is a mere continuation of Spring & Soon.  
+As a result of Respondents’ admissions, there are no genuine issues of material fact with
+respect to the issue of whether Y Plus is a mere continuation of Spring & Soon and, thus, is
+responsible  for  Spring  &  Soon’s  liabilities.   Complainant  has  demonstrated  that it  is entitled
+to judgment as a matter of law that Y Plus is a mere continuation of Spring & Soon and that Y Plus
+8 OCAHO 1003
+20
+is accountable for Spring & Soon’s liabilities in this case.  Consequently, I GRANT Complainant’s
+Motion for Summary Decision as to Y Plus’ liability for Counts I-V of the Amended Complaint.
+C.
+Penalty Issues
+In its Motion for Summary Decision, Complainant asks me to award a civil money penalty
+in the full amount requested in the Amended Complaint.  See C. Mot. SD at 3.  Interestingly enough,
+Complainant does not ask, in its Motion for Summary Decision, for the imposition of a cease and
+desist order; Complainant seeks such an order in the Amended Complaint.  
+1.
+Substantive violations
+A first-time violator of the knowing hire provision under 8 U.S.C. § 1324a(1)(A) shall
+receive  an  order  to  cease  and  desist  from such violations and to pay a civil money penalty of not
+less than   $250  and  not  more  than  $2,000  for  each  unauthorized  alien  knowingly  hired.   See
+8 U.S.C. § 1324a(e)(4)(A)(i) (1994).  For a violator of the knowing hire provision who previously
+has been subject to one order for a knowing hire or continue to employ violation, the INA mandates
+a cease and desist order and a civil money penalty of not less than $2,000 and not more than $5,000
+for each unauthorized alien knowingly hired.  See id. § 1324a(e)(4)(A)(ii).  
+Complainant seeks a total penalty of $30,800 for the seven violations contained in Count I,
+which it says breaks down into $4,440 for each of the seven violations.  See Amended Compl. at 3.
+First of all, Complainant’s calculation does not compute.  If Complainant is seeking a total civil
+money penalty with respect to Count I of $30,800, then it would be requesting $4,400, not $4,440,
+for each of the seven violations.  If Complainant is seeking $4,440 for each of the seven violations,
+however, then the total requested penalty would be $31,080.
+Secondly, in its Motion, Complainant does not discuss any factors that support the penalty
+amount requested, whether it is $4,400 or $4,440 per violation.  Complainant demonstrates that the
+$2,000 through $5,000 per violation range is appropriate in this case,19 but it does not establish why
+either $4,400 or $4,440 should be the appropriate level within that range.  
+19  Spring & Soon previously has been the subject of a Final Order issued by the INS
+pursuant to a settlement agreement between Spring & Soon and the INS stemming from
+allegations raised against Spring & Soon in a prior investigation.  See C. Request Admiss. Ex. C
+(Final Order), Ex. D (Settlement Agreement).  Respondents have admitted to the genuineness of
+those two documents.  See C. Request Admiss. Sec. VII.  In the Settlement Agreement, Spring &
+Soon and the INS specifically agreed “that future violations of Section 274A of the [INA] by the
+employer will be treated as a second or subsequent offense.”  C. Request Admiss. Ex. D ¶ 3.  The
+Settlement Agreement also provided that the INS Final Order “is a final and unappealable order
+pursuant to [INA] Section 274A(e)(3)(B),” and that it “shall have the same force and effect as an
+Order made after a full hearing.”  C. Request Admiss. Ex. D ¶ 6.  
+8 OCAHO 1003
+21
+2.
+Verification violations
+A  person  or  entity  who  violates  the  employment  eligibility  verification  system  under
+8 U.S.C. § 1324a(1)(B) shall receive “a civil money penalty in an amount of not less than $100 and
+not more than $1,000 for each individual with respect to whom such violation occurred.”  8 U.S.C.
+§ 1324a(e)(5) (1994).  The statute mandates five factors that must be considered when setting a civil
+money penalty for verification violations: (1) size of the business; (2) good faith; (3) seriousness of
+the violations; (4) whether the individual was an unauthorized alien; and (5) history of previous
+violations.  Id.  In assessing civil money penalties for verification, or paperwork, violations, I
+generally have followed the line of OCAHO cases that have applied a mathematical, rather than
+judgmental, approach to setting the penalty.  See United States v. Carter, 7 OCAHO 931, at 46
+(1997), 1997 WL 602725, at *34; United States v. Skydive Academy of Haw. Corp., 6 OCAHO 848,
+at  10  (1996),  1996 WL 312123, at *9-10; United States v. Felipe. Inc., 1 OCAHO 626, 629 (Ref.
+No. 93), 1989 WL 433965, at *4, aff’d by CAHO, 1 OCAHO 726, 732 (Ref. No. 108) (1989), 1989
+WL 433964, at *5 (holding that the mathematical approach is an acceptable, although not exclusive,
+approach to setting civil money penalties in paperwork cases).  The mathematical approach works
+in the following manner:
+[T]he approach [is] to divide $900, the difference between the statutory $1,000
+maximum and statutory $100 minimum, by five for the five statutory criteria
+[established in 8 U.S.C. § 1324a(e)(5)], arriving at a general amount of $180 for each
+penalty factor.  The $180 per factor is not rigidly applied, because certain penalty
+factors may justify a greater penalty amount than others.  
+Carter, 7 OCAHO 931, at 47, 1997 WL 602725, at *34.  
+With respect to Count II, Complainant seeks a civil money penalty of $4,400, or $880 for
+each of the five violations contained therein.  See Amended Compl. at 3.  For Count III, Complainant
+seeks a penalty of $18,780, which  breaks down into a penalty of $660 for each of the three
+violations contained in Amended Complaint paragraphs III.A.4, 9, and 19, and $840 for each of the
+twenty remaining violations in the count.  See id. at 5.  Complainant requests a civil money penalty
+of $820 for the one violation contained in Count IV, see id., and a civil money penalty of $630 for
+the one violation contained in Count V, see id. at 6.  
+Complainant has demonstrated a history of prior violations, see C. Request Admiss. Exs. C,
+D, so aggravation of the civil money penalty is warranted based on that factor.  Respondents have
+admitted that certain individuals were, at the time of hire, illegal aliens unauthorized to work in the
+United States, see C. Request Admiss. Sec. V, so Complainant has met its burden of showing that
+8 OCAHO 1003
+22
+penalty enhancement factor for certain parts of the Complaint.20  Complainant,  however, does not
+address in its Motion for Summary Decision what other factors it alleges warrant enhancement of
+the civil money penalty.  Complainant requests a higher penalty for each paragraph of Counts II-V
+than is warranted by the penalty factors Complainant has shown.  Therefore, Complainant has not
+met its burden of showing that the full requested civil money penalty for those counts is justified.
+Complainant has not demonstrated that it is entitled to the full civil money penalty requested
+in the Amended Complaint, with respect either to the substantive or to the verification violations.
+Complainant’s Motion for Summary Decision is DENIED as to penalty.  
+D.
+Complainant’s Motion to Compel Response to Request for Production of Documents
+and Answer to Interrogatories
+Complainant served its Motion to Compel Response to Request for Production of Documents
+and Answer to Interrogatories on April 22, 1998.  Complainant asserted that it served Respondents
+with interrogatories and requests for document production on March 13, 1998, and that Respondents
+had failed to respond to those discovery requests as of April 21.  C. Mot. Compel ¶¶ 1-3.  Responses
+to those discovery requests were due April 17, 1998.  Although Respondents did not answer the
+interrogatories and request for production of documents on time, they did provide responses attached
+to their Response to the SCO, which was served May 20, 1998.  
+Complainant’s Motion to Compel is DENIED as moot because Respondents now have
+responded to Complainant’s interrogatories and request for production of documents.  Nothing in
+the answers to the interrogatories and request for production of documents will be taken to contradict
+matters established as a result of the deemed admissions.  See 28 C.F.R. § 68.21 (1997) (“Any matter
+20  Specifically, Respondents have admitted that all five of the individuals listed in
+Count II were unauthorized aliens, and that the individuals listed in Count III paragraphs A.5, 
+7, 8, 10, 18, and 20 were unauthorized aliens.  Therefore, aggravation of the civil money
+penalty is warranted for those particular paragraphs in Counts II and III based on the presence
+of unauthorized aliens factor.  Those paragraphs, however, are not the only ones for which
+Complainant seeks a penalty enhanced more than in other paragraphs.  Respondents have
+admitted that twenty-nine named individuals were taken into INS custody and transported from
+Spring & Soon’s place of business as a result of the INS inspection, see C. Request Admiss.
+Sec. I, ¶ 7, but that admission alone does not necessarily mean that all twenty-nine of those
+people were unauthorized aliens.  Also, Complainant has attached documents entitled “Order to
+Show Cause and Notice of Hearing” to some of the I-9 forms that it includes as Exhibit A to its
+Request for Admissions, but Complainant only asked Respondents to admit that the attached
+I-9 forms are genuine and relate to the named individuals, see C. Request Admiss. Sec. II;
+Complainant did not ask Respondents to admit that the documents accompanying the I-9 forms
+and also included in Exhibit A are accurate and genuine copies.  
+8 OCAHO 1003
+23
+admitted under this section is conclusively established unless the Administrative Law Judge upon
+motion permits withdrawal or amendment of the admission.”) (emphasis added); see also Fed. R.
+Civ. P. 36(b) (“Any matter admitted under this rule is conclusively established unless the court on
+motion permits withdrawal or amendment of the admission.”) (emphasis added).  Even though all
+liability issues are established in Complainant’s favor, some of the responses to the interrogatories
+and document production requests still may be useful for the penalty issue.  If Complainant believes
+that any responses to the interrogatories and requests for production of documents are incomplete
+or nonresponsive, it retains the right to file a motion to compel. 
+E.
+Complainant’s Motion to Substitute Counsel
+Complainant filed a motion to substitute counsel, along with a notice of appearance for INS
+Assistant District Counsel Paul Szeto, on May 27, 1998.  Complainant stated that INS District
+Attorney Mimi Tsankov, who had been handling the case, no longer worked for the INS.  Subst.
+Mot. at 1.  I noted in my May 29 Order Staying Proceeding that Respondents were entitled to file a
+response to the substitution motion on or before June 11, 1998.  To date, Respondents have not filed
+such a response.  Because Complainant’s request is reasonable, and because Respondents have
+offered no objection, Complainant’s Motion to substitute counsel is GRANTED.  All further
+documents in this case will be served on Mr. Szeto as listed in the attached certificate of service. 
+V.
+CONCLUSION
+Respondents have admitted all the matters contained in Complainant’s Request for
+Admissions by virtue of the fact that they failed to respond to the Request in a timely manner.  For
+the reasons stated previously in this Order, I will not permit Respondents to withdraw and to amend
+those admissions.  Complainant’s Motion for Summary Decision is GRANTED with respect to
+liability as to both Respondents, but DENIED with respect to penalty.  Complainant’s Motion to
+Compel is DENIED as moot.  Complainant’s motion to substitute counsel is GRANTED.
+The only remaining issues in this case are the penalties to be assessed.  No later than July 20,
+1998, the parties shall file21 either a joint or separate pleadings proposing procedural dates for the
+remainder of this case.  Specifically, the parties shall state whether, as to remaining penalty issues,
+they waive an evidentiary hearing on penalty and wish to submit documentary evidence and briefs.
+If a party wishes to present oral testimony on penalty, then, not later than July 20, 1998, it shall file
+a witness list.  The witness list shall state the name, address (including city and state), title (if
+applicable) and business telephone number of each witness; shall describe the subject matter of the
+testimony and the specific issues on which the witness will testify; shall state the exhibits, if any, that
+shall be offered through each witness; and shall state for each witness the approximate amount 
+21  “File” means that the document must be received in my office by the given date, not
+that it merely must be postmarked by then.  See 28 C.F.R. § 68.8(b) (1997).  
+8 OCAHO 1003
+24
+of  time needed for the direct examination of the witness.  Any modifications to the witness list shall
+not be made later than thirty days before the start of hearing unless good cause is shown and specific
+permission to do so is granted by the judge.
+If a party seeks an evidentiary hearing, it also shall state approximately how much time it
+believes would be needed for the hearing, and it shall propose several dates for the hearing.  If a
+hearing takes place, it will be conducted where the parties are located, in the New York area.  If a
+party prefers to submit the penalty issue on briefs, it shall propose a briefing schedule.  The stay of
+proceeding, entered by Order of May 29, 1998, hereby is lifted.
+___________________________________
+ROBERT L. BARTON, JR.
+ADMINISTRATIVE LAW JUDGE

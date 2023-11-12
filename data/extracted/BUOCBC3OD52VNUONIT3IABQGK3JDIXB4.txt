@@ -1,0 +1,87 @@
+UNITED STATES BANKRUPTCY COURT
+SOUTHERN DISTRICT OF MISSISSIPPI
+IN RE:
+DOUGLAS WADE EDWARDS,
+   CASE NO. 10-51913-NPO
+DEBTOR.
+CHAPTER 13
+MEMORANDUM OPINION 
+OVERRULING OBJECTION TO PROOF OF CLAIM
+On January 10, 2011, this Court conducted a hearing (the “Hearing”) on the Objection to
+Proof of Claim (the “Objection”) (Dkt. No. 23) filed by Douglas Wade Edwards (the “Debtor”), and
+the Response to Objection to Secured Claim (the “Response”) (Dkt. No. 26) filed by Clay Young
+(“Clay Young”) in the above-referenced chapter 13 proceeding.  At the Hearing, J. Thomas Ash
+represented the Debtor, and J. Tyler McCaughn represented Clay Young.  For the following reasons,
+the Court finds that the Objection should be overruled and the secured claim allowed.1
+Jurisdiction
+This Court has jurisdiction of the subject matter and the parties to the proceeding pursuant
+to 28 U.S.C. § 1334.  This is a core proceeding pursuant to 28 U.S.C. § 157(a)(2)(A) and (B).
+Facts
+Attorneys for the Debtor and Clay Young stipulated at the Hearing to the following facts:
+1.
+Clay Young, as an accommodation party, co-signed a note with the Debtor to Pikco
+Finance (“Pikco”) for the financing of a vehicle for the Debtor;
+2.
+The Debtor filed his voluntary petition under chapter 13 of the Bankruptcy Code on
+August 19, 2010;
+1 The following constitutes the findings of fact and the conclusions of law of the Court
+pursuant to Federal Rules of Bankruptcy Procedure 7052 and 9014.
+Page 1 of  3
+3.
+Clay Young satisfied the debt in full by paying Pikco $4,400;
+4.
+Clay Young filed his Proof of Claim on September 10, 2010, claiming to be a secured
+creditor in the amount of $4,400; and
+5.
+The Debtor filed his Objection on November 11, 2010.
+Issue
+The issue, which appears to be an issue of first impression before this Court, is whether Clay
+Young’s Proof of Claim should be allowed as a secured claim.
+Discussion
+Miss. Code Ann. § 75-3-419 (Rev. 2010) governs instruments signed for accommodation in
+Mississippi.  Pertinent subsections of § 75-3-419 provide as follows:
+(a) If an instrument is issued for value given for the benefit of a party to the
+instrument (“accommodated party”) and another party to the instrument
+(“accommodation party”) signs the instrument for the purpose of incurring liability
+on the instrument without being a direct beneficiary of the value given for the
+instrument, the instrument is signed by the accommodation party “for
+accommodation.”
+. . . 
+(f) An accommodation party who pays the instrument is entitled to reimbursement
+from the accommodated party and is entitled to enforce the instrument against the
+accommodated party.  In proper circumstances, an accommodation party may obtain
+relief that requires the accommodated party to perform its obligations on the
+instrument. An accommodated party who pays the instrument has no right of
+recourse against, and is not entitled to contribution from, an accommodation party.
+The Mississippi Supreme Court dealt with an accommodation party’s right of subrogation
+in Murray v. Payne, 437 So. 2d 47 (Miss. 1983).  In Murray, the appellees were sureties on a note,
+and as such, were accommodation parties.  Id. at 52.  The Mississippi Supreme Court held that, “[an
+Page 2 of  3
+accommodation party’s] right of subrogation, recognized by the above statute,2 is his equitable right
+to assert the rights of the creditor against the debtor.  Upon payment, the [accommodation party] is
+said to “stand in the shoes” of the creditor.”  Id.  The Murray court further held that, “[n]ot only is
+the accommodation party entitled to sue the maker of a note to recover the amount that the
+accommodation party ends up paying, but he is also entitled to any collateral securing the note.” 
+Id.  Hence, if the original creditor is a secured creditor, upon payment of the obligation, the
+accommodation party steps into the position of the original creditor as a secured creditor.
+In this case, the Debtor signed a note with Pikco to finance a vehicle.  Clay Young signed
+the note as an accommodation party.  When the Debtor defaulted on payments to Pikco, Clay Young 
+paid Pikco $4,400 to satisfy the debt.  Under Miss. Code Ann. § 75-3-419 (Rev. 2010) and the
+reasoning in Murray, Clay Young “stands in the shoes” of Pikco as a secured creditor.3
+Conclusion     
+For the foregoing reasons, the Court finds that Clay Young, as an accommodation party to
+the note and having satisfied the debt, is a secured creditor.  Accordingly, the Objection should be
+overruled.  A separate order consistent with this Memorandum Opinion will be entered by the Court
+in accordance with Fed.  R.  Bankr.  P.  7054, 9014, and 9021.
+Dated this the 18th day of January, 2011.      
+/ s / Neil P. Olack                                                        
+NEIL P. OLACK
+U. S. BANKRUPTCY JUDGE  
+  
+2 At the time the Murray opinion was written in 1983, the applicable statute was Miss.
+Code Ann. § 75-3-415 (Supp. 1982).  The applicable statute is now Miss. Code Ann. § 75-3-419
+(Rev. 2010) (giving the accommodation party additional rights).
+3 Since no other issue was raised as to Clay Young’s secured claim, and since this chapter
+13 plan proposes to pay all creditors 100%, the Court declines to opine as to the extent to which
+Clay Young’s claim is secured. 
+Page 3 of  3

@@ -1,0 +1,683 @@
+Internal Revenue Service, Treasury
+§ 1.818–2
+ments that are issued, guaranteed, or
+insured by the United States or an in-
+strumentality of the United States
+shall not be treated as government se-
+curities if such debt instruments are
+secured by a mortgage on real property
+(other than real property owned by the
+United States or an instrumentality of
+the United States) or represent an in-
+terest in a pool of debt instruments se-
+cured by such mortgages.
+(iv) This section shall not apply until
+January 1, 1989, with respect to a vari-
+able contract (as defined in section
+817(d)) that (1) provides for the pay-
+ment of an immediate annuity (as de-
+fined in section 72(u)(4)); (2) was out-
+standing on September 12, 1986; and (3)
+the segregated asset account on which
+it was based was, on September 12, 1986,
+wholly invested in deposits insured by
+the Federal Deposit Insurance Corpora-
+tion or the Federal Savings and Loan
+Insurance Corporation.
+[T.D. 8242, 54 FR 8730, Mar. 2, 1989; T.D. 8242,
+54 FR 11866, Mar. 22, 1989]
+§ 1.818–1
+Taxable years affected.
+Sections 1.818–2 through 1.818–8, ex-
+cept as otherwise provided therein, are
+applicable only to taxable years begin-
+ning after December 31, 1957, and all
+references to sections of part I, sub-
+chapter L, chapter 1 of the Code are to
+the Internal Revenue Code of 1954, as
+amended by the Life Insurance Com-
+pany Income Tax Act of 1959 (73 Stat.
+112).
+[T.D. 6558, 26 FR 2785, Apr. 4, 1961 as amended
+by T.D. 7469, 42 FR 12181, Mar. 3, 1977]
+§ 1.818–2
+Accounting provisions.
+ownership and co-ownership of land or
+improvements thereon and leaseholds
+of land or improvements thereon. Such
+term shall not, however, include min-
+eral, oil, or gas royalty interests, such
+as a retained economic interest in coal
+or iron ore with respect to which the
+special provisions of section 631(c)
+apply. The term ‘‘interest in real prop-
+erty’’ also shall include options to ac-
+quire land or improvements thereon,
+and options to acquire leaseholds of
+land or improvements thereon.
+(8) Interest in a commodity. The term
+interest in a commodity shall include the
+ownership and co-ownership of any
+type of personal property other than a
+security, and any leaseholds thereof.
+Such term shall include mineral, oil,
+and gas royalty interests, including
+any 
+fractional 
+undivided 
+interest
+therein. Such term also shall include
+any put, call, straddle, option, or privi-
+lege on any type of personal property
+other than a security.
+(9) Value. The term value shall mean,
+with respect to investments for which
+market quotations are readily avail-
+able, the market value of such invest-
+ments; and with respect to other in-
+vestments, fair value as determined in
+good faith by the managers of the seg-
+regated asset account.
+(10) Terms used in section 851. To the
+extent not inconsistent with this para-
+graph (h) all terms used in this section
+shall have the same meaning as when
+used in section 851.
+(i) Effective date—(1) In general. This
+section is effective for taxable years
+beginning after December 31, 1983.
+(2) Exceptions. (i) If, at all times after
+December 31, 1983, an insurance com-
+pany would be considered the owner of
+the assets of a segregated asset ac-
+count under the principles of Rev. Rul.
+81–225, 1981–2 C.B. 12, this section will
+not apply to such account until Decem-
+ber 15, 1986.
+(ii) This section will not apply to any
+variable contract to which Rev. Rul.
+77–85, 1977–1 C.B. 12, or Rev. Rul. 81–225,
+1981–2 C.B. 12, did not apply by reason
+of the limited retroactive effect of such
+rulings.
+(iii) In determining whether a seg-
+regated asset account is adequately di-
+versified for any calendar quarter end-
+ing before July 1, 1988, debt instru-
+(a) Method of accounting. (1) Section
+818(a)(1) provides the general rule that
+all computations entering into the de-
+termination of taxes imposed by part I,
+subchapter L, chapter 1 of the Code,
+shall be made under an accrual method
+of accounting. Thus, the over-all meth-
+od of accounting for life insurance
+companies shall be the accrual method.
+Except as otherwise provided in part I,
+the term ‘‘accrual method’’ shall have
+the same meaning and application in
+section 818 as it does under section 446
+(relating to general rule for methods of
+accounting) and the regulations there-
+under. For general rules relating to the
+631
+VerDate 11<MAY>2000
+01:46 Apr 14, 2001
+Jkt 194087
+PO 00000
+Frm 00631
+Fmt 8010
+Sfmt 8010
+Y:\SGML\194087T.XXX
+pfrm08
+PsN: 194087T
+26 CFR Ch. I (4–1–01 Edition)
+§ 1.818–2
+taxable year for inclusion of income
+and deduction of expenses under an ac-
+crual method of accounting, see sec-
+tions 451 and 461 and the regulations
+thereunder.
+(2) Section 818(a)(2) provides that, to
+the extent permitted under this sec-
+tion, a life insurance company’s meth-
+od of accounting may be a combination
+of the accrual method with any other
+method of accounting permitted by
+chapter 1 of the Internal Revenue Code
+of 1954, other than the cash receipts
+and disbursements method. Thus, sec-
+tion 818(a)(2) specifically prohibits the
+use by a life insurance company of the
+cash receipts and disbursements meth-
+od either separately or in combination
+with a permissible method of account-
+ing. The term ‘‘method of accounting’’
+includes not only the over-all method
+of accounting of the taxpayer but also
+the accounting treatment of any item.
+For purposes of section 818(a)(2), a life
+insurance company may elect to com-
+pute its taxable income under an over-
+all method of accounting consisting of
+the accrual method combined with the
+special methods of accounting for par-
+ticular items of income and expense
+provided under other sections of chap-
+ter 1 of the Internal Revenue Code of
+1954, other than the cash receipts and
+disbursements method. These methods
+of accounting for special items include
+the accounting treatment provided for
+depreciation (section 167), research and
+experimental 
+expenditures 
+(section
+174), soil and water conservation ex-
+penditures (section 175), organizational
+expenditures (section 248), etc. In addi-
+tion, a life insurance company may,
+where applicable, use the crop method
+of accounting (as provided in the regu-
+lations under sections 61 and 162), and
+the installment method of accounting
+for sales of realty and casual sales of
+personalty (as provided in section
+453(b)). To the extent not inconsistent
+with the provisions of the Internal
+Revenue Code of 1954 or the regulations
+thereunder and the method of account-
+ing adopted by the taxpayer pursuant
+to this section, all computations enter-
+ing into the determination of taxes im-
+posed by part I shall be made in a man-
+ner consistent with the manner re-
+quired for purposes of the annual state-
+ment approved by the National Asso-
+ciation of Insurance Commissioners.
+(3)(i) An election to use any of the
+special methods of accounting referred
+to in subparagraph (2) of this para-
+graph which was made pursuant to any
+provisions of the Internal Revenue
+Code of 1954 or prior revenue laws for
+purposes of determining a company’s
+tax liabilities for prior years, shall
+have the same force and effect in deter-
+mining the items of gross investment
+income under section 804(b) and the
+items of deduction under section 804(c)
+of the Life Insurance Company Income
+Tax Act of 1959 (73 Stat. 112) as if such
+Act had not been enacted.
+(ii) For purposes of determining gain
+or loss from operations under section
+809(b), in computing the life insurance
+company’s share of investment yield
+under section 809(b) (1)(A) and (2)(A),
+an election with respect to any of the
+special methods of accounting referred
+to in subparagraph (2) of this para-
+graph which was made pursuant to any
+provision of the Internal Revenue Code
+of 1954 or prior revenue laws, shall not
+be affected in any way by the enact-
+ment of the Life Insurance Company
+Income Tax Act of 1959 (73 Stat. 112).
+(iii) For purposes of determining gain
+or loss from operations under section
+809(b), in computing the items of gross
+amount under section 809(c) and the de-
+duction items under section 809(d), an
+election to use any of the special meth-
+ods of accounting referred to in sub-
+paragraph (2) of this paragraph must be
+made in accordance with the specific
+statutory provisions of the sections
+containing such elections and the regu-
+lations thereunder. However, where a
+particular election may be made only
+with the consent of the Commissioner
+(either because the time for making
+the election without the consent of the
+Commissioner has expired or because
+the particular section contained no
+provision for making an election with-
+out consent), and the time prescribed
+by the applicable regulations for sub-
+mitting a request for permission to
+make such an election for the taxable
+year 1958 has expired, a life insurance
+company may make such an election
+for the year 1958 at the time of filing
+its return for that year (including ex-
+tensions thereof). For example, a life
+632
+VerDate 11<MAY>2000
+01:46 Apr 14, 2001
+Jkt 194087
+PO 00000
+Frm 00632
+Fmt 8010
+Sfmt 8010
+Y:\SGML\194087T.XXX
+pfrm08
+PsN: 194087T
+Internal Revenue Service, Treasury
+§ 1.818–2
+insurance company may elect any of
+the methods of depreciation prescribed
+in section 167 (to the extent permitted
+under that section and the regulations
+thereunder) with respect to those as-
+sets, or any portion thereof, for which
+no depreciation was allowable under
+prior revenue laws, for example, fur-
+niture and fixtures used in the under-
+writing department. Similarly, a life
+insurance company shall be permitted
+to make an election under section
+461(c) (relating to the accrual of real
+property taxes) with respect to real
+property for which no deduction was
+allowable under prior revenue laws.
+Any such election shall be made in the
+manner and form prescribed in the ap-
+plicable regulations.
+(iv) For purposes of subdivision (ii) of
+this subparagraph, the method used
+under section 1016(a)(3)(C) (relating to
+adjustments to basis) in determining
+the amount of exhaustion, wear and
+tear, obsolescence, and amortization
+actually sustained shall not preclude a
+taxpayer from electing any of the
+methods prescribed in section 167 in ac-
+cordance with the provisions of that
+section and the regulations thereunder
+for determining the amount of such ex-
+haustion, wear and tear, obsolescence,
+and amortization for the year 1958. For
+example, if the amount of depreciation
+actually 
+sustained, 
+under 
+section
+1016(a)(3)(C), on a life insurance com-
+pany’s home office building (other than
+that portion for which depreciation
+was allowable under prior revenue
+laws) is determined on the straight line
+method, the life insurance company
+may elect for the year 1958 to use any
+of the methods prescribed in section 167
+for determining its depreciation allow-
+ance for 1958. However, such election
+shall be binding for 1958, and for all
+subsequent taxable years, unless con-
+sent to change such election, if re-
+quired, is obtained from the Commis-
+sioner in accordance with the provi-
+sions of section 167 and the regulations
+thereunder.
+(4)(i) 
+For 
+purposes 
+of 
+section
+805(b)(3)(B)(i) (relating to the deter-
+mination of the current earnings rate
+for any taxable year beginning before
+January 1, 1958), the determination for
+any year of the investment yield and
+the assets shall be made as though the
+taxpayer had been on the accrual
+method prescribed in subparagraph (1)
+of this paragraph for such year, or the
+accrual method in combination with
+the other methods of accounting pre-
+scribed in subparagraph (2) of this
+paragraph, if these other methods of
+accounting are used by the taxpayer in
+determining the investment yield and
+assets for the taxable year 1958. How-
+ever, where the method used for deter-
+mining the deduction under section 167
+for the year 1958 differs from the meth-
+od used in prior years, the amount of
+the deduction actually allowed or al-
+lowable for such prior years for pur-
+poses of section 1016(a)(2) (relating to
+adjustments to basis) shall be the
+amount to be taken into account in de-
+termining the current earnings rate
+under section 805(b)(3)(B)(i).
+(ii) 
+For 
+purposes 
+of 
+section
+812(b)(1)(C) (relating to operations loss
+carrybacks and carryovers for years
+prior to 1958), the determination for
+those years of the gain or loss from op-
+erations shall be made as though the
+taxpayer had been on the accrual
+method of accounting prescribed in
+subparagraph (1) of this paragraph for
+such year, or the accrual method in
+combination with the other methods of
+accounting prescribed in subparagraph
+(2) of this paragraph, if these other
+methods of accounting are used by the
+taxpayer in the determination of gain
+or loss from operations for the taxable
+year 1958. However, where any adjust-
+ment to basis is required under section
+1016(a)(3)(C) on account of exhaustion,
+wear and tear, obsolescence, amortiza-
+tion, 
+and 
+depletion 
+sustained, 
+the
+amount actually sustained as deter-
+mined under section 1016(a)(3)(C) for
+each of the years involved shall be the
+amount allowed in the determination
+of gain or loss from operations for pur-
+poses of section 812(b)(1)(C).
+(b) Adjustments required if accrual
+method of accounting was not used in
+1957. The items of gross amount taken
+into account under section 809(c) and
+the items of deductions allowed under
+section 809(d) for the taxable year 1958
+shall be determined as though the tax-
+payer had been on the accrual method
+of accounting prescribed in paragraph
+(a) of this section for all prior years.
+Thus, life insurance companies not on
+633
+VerDate 11<MAY>2000
+01:46 Apr 14, 2001
+Jkt 194087
+PO 00000
+Frm 00633
+Fmt 8010
+Sfmt 8010
+Y:\SGML\194087T.XXX
+pfrm08
+PsN: 194087T
+26 CFR Ch. I (4–1–01 Edition)
+§ 1.818–2
+mining any item referred to in section
+810(c) as of the close of any taxable
+year differs from the basis for such de-
+termination as of the close of the pre-
+ceding taxable year. Under an accrual
+method of accounting, a change in the
+basis or method of computing the
+amount of liability of any item re-
+ferred to in section 810(c) occurs in the
+taxable year in which all the events
+have occurred which determine the
+change in the basis or method of com-
+puting the amount of such liability
+and, in which, the amount thereof
+(whether increased or decreased) can be
+determined with reasonable accuracy.
+(2) The application of subparagraph
+(1) of this paragraph may be illustrated
+by the following examples:
+Example 1. Assume that during the taxable
+year 1960, M, a life insurance company, de-
+termines that the amount of its life insur-
+ance reserves held with respect to a par-
+ticular block of contracts is understated on
+the present basis being used in valuing such
+liability and that such liability can be more
+accurately reflected by changing from the
+present basis to a particular new basis. As-
+sume that M uses such new basis in com-
+puting its reserves under such contracts at
+the end of the taxable year 1960. Under the
+provisions of section 818(a) and subparagraph
+(1) of this paragraph, the change in basis for
+purposes of sections 806(b) and 810(d) occurs
+during the taxable year 1960, the year in
+which all the events have occurred which de-
+termine the change in basis and the amount
+of any increase (or decrease) attributable to
+such change can be determined with reason-
+able accuracy. Such change shall be treated
+as having occurred during the taxable year
+1960 whether M determines that its liability
+under such contracts was understated for the
+first time during 1960, or that its liability
+under such contracts has, in fact, been un-
+derstated for a number of prior years.
+Example 2. Assume the facts are the same
+as in example 1, except that during the tax-
+able year 1960 the insurance department of
+State X issues a ruling, pursuant to author-
+ity conferred by statute, requiring M to use
+the particular new basis which more accu-
+rately reflects its liability with respect to
+such contracts and that as a result of such
+ruling, M uses the new basis in computing its
+reserves under such contracts for the taxable
+years 1958, 1959, and 1960. Under the provi-
+sions of section 818(a) and subparagraph (1)
+of this paragraph, the change in basis for
+purposes of sections 806(b) and 810(d) occurs
+during the taxable year 1960, the year in
+which all the events have occurred which de-
+termine that a change in basis should be
+the accrual method for the year 1957
+shall accrue, as of December 31, 1957,
+those items of gross amount which
+would have been properly taken into
+account for the year 1957 if the com-
+pany had been on the accrual method
+described in section 818(a). Likewise,
+life insurance companies not on the ac-
+crual method for the year 1957 shall ac-
+crue, as of December 31, 1957, those
+items of deductions which would have
+been properly allowed for the year 1957
+if the company had been on the accrual
+method described in section 818(a). For
+example, if certain premium amounts
+were received during the year 1958 but
+such amounts would have been prop-
+erly taken into account for the year
+1957 if the taxpayer had been on the ac-
+crual method for the year 1957, then
+the taxpayer will not be required to
+take such premium amounts into ac-
+count for the year 1958. If, for example,
+certain claims, benefits, and losses
+were paid during the year 1958 but such
+items would have been properly taken
+into account for the year 1957 if the
+taxpayer had been on the accrual
+method for the year 1957, then the tax-
+payer will not be permitted to deduct
+such expense items for the year 1958.
+For a special transitional rule applica-
+ble with respect to changes in method
+of accounting required by section 818(a)
+and paragraph (a) of this section, see
+section 818(e) and § 1.818–6.
+(c) Change of basis in computing re-
+serves. (1) Section 806(b) provides that if
+the basis for determining the amount
+of any item referred to in section 810(c)
+as of the close of the taxable year dif-
+fers from the basis for such determina-
+tion as of the beginning of the taxable
+year, then for purposes of subpart B,
+part I, subchapter L, chapter 1 of the
+Code (relating to the determination of
+taxable 
+investment 
+income), 
+the
+amount of such item shall be the
+amount computed on the old basis as of
+the close of the taxable year and the
+amount computed on the new basis as
+of the beginning of the next taxable
+year. Similarly, section 810(d)(1) pro-
+vides rules for determining the amount
+of the adjustment to be made for pur-
+poses of subpart C, part I, subchapter
+L, chapter 1 of the Code (relating to
+the determination of gain or loss from
+operations), if the basis for deter-
+634
+VerDate 11<MAY>2000
+01:46 Apr 14, 2001
+Jkt 194087
+PO 00000
+Frm 00634
+Fmt 8010
+Sfmt 8010
+Y:\SGML\194087T.XXX
+pfrm08
+PsN: 194087T
+Internal Revenue Service, Treasury
+§ 1.818–3
+made and the amount of any increase (or de-
+crease) attributable to such change can be
+determined with reasonable accuracy.
+[T.D. 6558, 26 FR 2785, Apr. 4, 1961]
+§ 1.818–3
+Amortization of premium and
+accrual of discount.
+(a) In general. Section 818(b) provides
+that the appropriate items of income,
+deductions, 
+and 
+adjustments 
+under
+part I, subchapter L, chapter 1 of the
+Code, shall be adjusted to reflect the
+appropriate amortization of premium
+and the appropriate accrual of discount
+on bonds, notes, debentures, or other
+evidences of indebtedness held by a life
+insurance company. Such adjustments
+are limited to the amount of appro-
+priate amortization or accrual attrib-
+utable to the taxable year with respect
+to such securities which are not in de-
+fault as to principal or interest and
+which are amply secured. The question
+of ample security will be resolved ac-
+cording to the rules laid down from
+time to time by the National Associa-
+tion of Insurance Commissioners. The
+adjustment for amortization of pre-
+mium decreases the gross investment
+income, the exclusion and reduction for
+wholly tax-exempt interest, the exclu-
+sion and deduction for partially tax-ex-
+empt interest, and the basis or ad-
+justed basis of such securities. The ad-
+justment for accrual of discount in-
+creases the gross investment income,
+the exclusion and reduction for wholly
+tax-exempt interest, the exclusion and
+deduction for partially tax-exempt in-
+terest, and the basis or adjusted basis
+of such securities. However, for taxable
+years beginning after May 31, 1960, only
+the accrual of discount relating to
+issue discount will increase the exclu-
+sion and reduction for wholly tax-ex-
+empt interest. See section 103.
+(b) Acquisitions before January 1, 1958.
+(1) In the case of any such security ac-
+quired before January 1, 1958, the pre-
+mium is the excess of its acquisition
+value over its maturity value and the
+discount is the excess of its maturity
+value over its acquisition value. The
+acquisition value of any such security
+is its cost (including buying commis-
+sions or brokerage but excluding any
+amounts paid for accrued interest) if
+purchased for cash, or if not purchased
+for cash, its then fair market value.
+The maturity value of any such secu-
+rity is the amount payable thereunder
+either at the maturity date or an ear-
+lier call date. The earlier call date of
+any such security may be the earliest
+interest payment date if it is callable
+or payable at such date, the earliest
+date at which it is callable at par, or
+such other call or payment date, prior
+to maturity, specified in the security
+as may be selected by the life insur-
+ance company. A life insurance com-
+pany which adjusts amortization of
+premium or accrual of discount with
+reference to a particular call or pay-
+ment date must make the adjustments
+with reference to the value on such
+date and may not, after selecting such
+date, use a different call or payment
+date, or value, in the calculation of
+such amortization or discount with re-
+spect to such security unless the secu-
+rity was not in fact called or paid on
+such selected date.
+(2) The adjustments for amortization
+of premium and accrual of discount
+will be determined:
+(i) According to the method regularly
+employed by the company, if such
+method is reasonable, or
+(ii) According to the method pre-
+scribed by this section.
+A method of amortization of premium
+or accrual of discount will be deemed
+‘‘regularly employed’’ by a life insur-
+ance company if the method was con-
+sistently followed in prior taxable
+years, or if, in the case of a company
+which has never before made such ad-
+justments, the company initiates in
+the first taxable year for which the ad-
+justments are made a reasonable meth-
+od of amortization of premium or ac-
+crual of discount and consistently fol-
+lows such method thereafter. Ordi-
+narily, a company regularly employs a
+method in accordance with the statute
+of some State, Territory, or the Dis-
+trict of Columbia, in which it operates.
+(3) The method of amortization and
+accrual prescribed by this section is as
+follows:
+(i) The premium (or discount) shall
+be determined in accordance with this
+section; and
+(ii) The appropriate amortization of
+premium (or accrual of discount) at-
+tributable to the taxable year shall be
+an amount which bears the same ratio
+635
+VerDate 11<MAY>2000
+01:46 Apr 14, 2001
+Jkt 194087
+PO 00000
+Frm 00635
+Fmt 8010
+Sfmt 8010
+Y:\SGML\194087T.XXX
+pfrm08
+PsN: 194087T

@@ -1,0 +1,93 @@
+Belarus - Corporate Taxation Indicators
+ 
+Corporate Income Tax Rate
+Summary of Statistics
+ 
+Economy/Region
+citr
+Std. Dev
+Min
+Max
+Max
+Belarus
+24.00 --
+--
+--
+1
+15.03 5.36
+0.00
+24.00 30
+Central Europe and Central Asia
+Region
+Low-middle-income Economies Group 22.62 10.71
+0.00
+45.00 56
+World
+23.90 9.88
+0.00
+50.00 193
+Corporate Income Tax Revenues
+Summary of Statistics
+ 
+Economy/Region
+city
+Std. Dev
+Min
+Max
+Max
+Belarus
+0.95
+--
+--
+--
+1
+2.08
+1.79
+0.31
+9.10
+28
+Central Europe and Central Asia
+Region
+Low-middle-income Economies Group 3.68
+3.45
+0.01
+21.50 48
+World
+3.32
+3.01
+0.01
+21.50 167
+Corporate Income Tax Revenue Productivity
+Summary of Statistics
+ 
+Std. Dev
+Min
+Max
+Max
+Economy/Region
+citpro
+d
+Belarus
+0.04
+--
+--
+--
+1
+0.14
+0.12
+0.02
+0.49
+27
+Central Europe and Central Asia
+Region
+Low-middle-income Economies Group 0.18
+0.18
+0.00
+0.86
+46
+World
+0.15
+0.16
+0.00
+0.99
+164

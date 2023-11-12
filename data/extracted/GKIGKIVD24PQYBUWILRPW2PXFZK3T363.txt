@@ -1,0 +1,611 @@
+Form B22C (Chapter 13)  (10/05) 
+According to the calculations required by this statement: 
+ 
+In re __________________________________ 
+Debtor(s) 
+ 
+Case Number: _______________________ 
+(If known) 
+� The applicable commitment period is 3 years. 
+� The applicable commitment period is 5 years. 
+� Disposable income is determined under § 1325(b)(3). 
+� Disposable income is not determined under § 1325(b)(3). 
+(Check the boxes as directed in Lines 17 and 23 of this statement.) 
+ 
+STATEMENT OF CURRENT MONTHLY INCOME  
+AND CALCULATION OF COMMITMENT PERIOD AND DISPOSABLE INCOME  
+FOR USE IN CHAPTER 13  
+In addition to Schedules I and J, this statement must be completed by every individual Chapter 13 debtor, whether or not filing 
+jointly.  Joint debtors may complete one statement only. 
+Part I. REPORT OF INCOME 
+1 
+Marital/filing status. Check the box that applies and complete the balance of this part of this statement as directed. 
+a. 
+ Unmarried. Complete only Column A (“Debtor’s Income”) for Lines 2-10.   
+b. 
+ Married. Complete both Column A (“Debtor’s Income”) and Column B (“Spouse’s Income”) for Lines 2-10. 
+Column A 
+Column B 
+Debtor’s 
+Income 
+Spouse’s 
+Income 
+ 
+All figures must reflect average monthly income for the six calendar months prior to filing the 
+bankruptcy case, ending on the last day of the month before the filing.  If you received differ-
+ent amounts of income during these six months, you must total the amounts received during 
+the six months, divide this total by six, and enter the result on the appropriate line. 
+2 
+Gross wages, salary, tips, bonuses, overtime, commissions.   
+$ 
+$ 
+Income from the operation of a business, profession, or farm.  Subtract Line b from 
+Line a and enter the difference on Line 3.  Do not enter a number less than zero.  Do not in-
+clude any part of the business expenses entered on Line b as a deduction in Part IV. 
+3 
+a. 
+Gross receipts 
+$  
+b. 
+Ordinary and necessary business expenses 
+$  
+c. 
+Business income 
+Subtract Line b from Line a 
+ 
+$ 
+$ 
+Rent and other real property income.  Subtract Line b from Line a and enter the difference 
+on Line 4.  Do not enter a number less than zero.  Do not include any part of the operat-
+ing expenses entered on Line b as a deduction in Part IV. 
+4 
+a. 
+Gross receipts 
+$  
+b. 
+Ordinary and necessary operating expenses 
+$  
+c. 
+Rental income 
+Subtract Line b from Line a 
+ 
+$ 
+$ 
+5 
+Interest, dividends, and royalties. 
+$ 
+$ 
+6 
+Pension and retirement income. 
+$ 
+$ 
+7 
+Regular contributions to the household expenses of the debtor or the debtor’s de-
+pendents, including child or spousal support.  Do not include contributions from the 
+debtor’s spouse.  
+$ 
+$ 
+8 
+Unemployment compensation. Enter the amount in the appropriate column(s) of Line 8.  
+However, if you contend that unemployment compensation received by you or your spouse 
+was a benefit under the Social Security Act, do not list the amount of such compensation in 
+Column A or B, but instead state the amount in the space below:  
+ 
+Unemployment compensation claimed to 
+be a benefit under the Social Security Act 
+Debtor $ ________ 
+ 
+Spouse $ _________ 
+ 
+$ 
+$ 
+Income from all other sources. Specify source and amount.  If necessary, list additional 
+sources on a separate page. Total and enter on Line 9.  Do not include any benefits received 
+under the Social Security Act or payments received as a victim of a war crime, crime against 
+humanity, or as a victim of international or domestic terrorism.  
+9 
+a. 
+ 
+$  
+ 
+ 
+$ 
+$ 
+b. 
+ 
+$  
+ 
+10 
+Subtotal. Add Lines 2 thru 9 in Column A, and, if Column B is completed, add Lines 2 
+through 9 in Column B.  Enter the total(s). 
+$ 
+$ 
+ 
+ 
+ $ 
+11 
+Total. If Column B has been completed, add Line 10, Column A to Line 10, Column B, and 
+enter the total.  If Column B has not been completed, enter the amount from Line 10, Col-
+umn A. 
+ 
+Form B 22C (Chapter 13) (10/05)                              
+2
+ 
+Part II. CALCULATION OF § 1325(b)(4) COMMITMENT PERIOD 
+12 
+Enter the amount from Line 11. 
+ 
+13 
+Marital adjustment. If you are married, but are not filing jointly with your spouse, AND if you contend 
+that calculation of the commitment period under § 1325(b)(4) does not require inclusion of the income of 
+your spouse, enter the amount of the income listed in Line 10, Column B that was NOT regularly contrib-
+uted to the household expenses of you or your dependents.  Otherwise, enter zero.  
+ 
+14 
+Subtract Line 13 from Line 12 and enter the result. 
+ 
+15 
+Annualized current monthly income for § 1325(b)(4).  Multiply the amount from Line 14 by 
+the number 12 and enter the result. 
+$ 
+16 
+Applicable median family income. Enter the median family income for applicable state and house-
+hold size.  (This information is available by family size at www.usdoj.gov/ust/ or from the clerk of the 
+bankruptcy court.) 
+ 
+$ 
+a. Enter debtor’s state of residence: _______________   b. Enter debtor’s household size: __________    
+Application of § 1325(b)(4). Check the applicable box and proceed as directed. 
+17 
+ The amount on Line 15 is less than the amount on Line 16.  Check the box for “The applicable commit-
+ment period is 3 years” at the top of page 1 of this statement and complete Part VII of this statement.  Do not com-
+plete Parts III, IV, V or VI. 
+ The amount on Line 15 is not less than the amount on Line 16. Check the box for “The applicable com-
+mitment period is 5 years” at the top of page 1 of this statement and continue with Part III of this statement. 
+ 
+Part III. APPLICATION OF § 1325(b)(3) FOR DETERMINING DISPOSABLE INCOME 
+18 
+Enter the amount from Line 11. 
+$ 
+ 
+$ 
+19 
+Marital adjustment. If you are married, but are not filing jointly with your spouse, enter the amount 
+of the income listed in Line 10, Column B that was NOT regularly contributed to the household expenses of 
+you or your dependents.  If you are unmarried or married and filing jointly with your spouse, enter zero.    
+20 
+Current monthly income for § 1325(b)(3).  Subtract Line 19 from Line 18 and enter the result. 
+ 
+21 
+Annualized current monthly income for § 1325(b)(3).  Multiply the amount from Line 20 by 
+the number 12 and enter the result. 
+$ 
+22 
+Applicable median family income. Enter the amount from Line 16.  
+$ 
+Application of § 1325(b)(3). Check the applicable box and proceed as directed. 
+23 
+ The amount on Line 21 is more than the amount on Line 22. Check the box for “Disposable income is de-
+termined under § 1325(b)(3)” at the top of page 1 of this statement and complete the remaining parts of this state-
+ment. 
+ The amount on Line 21 is not more than the amount on Line 22.  Check the box for “Disposable income 
+is not determined under § 1325(b)(3)” at the top of page 1 of this statement and complete Part VII of this statement.  
+Do not complete Parts IV, V, or VI. 
+ 
+ 
+Part IV. CALCULATION OF DEDUCTIONS ALLOWED UNDER § 707(b)(2) 
+Subpart A: Deductions under Standards of the Internal Revenue Service (IRS) 
+24 
+ 
+$ 
+National Standards: food, clothing, household supplies, personal care, and miscella-
+neous. Enter the “Total” amount from IRS National Standards for Allowable Living Expenses for the appli-
+cable family size and income level.  (This information is available at www.usdoj.gov/ust/ or from the clerk 
+of the bankruptcy court.) 
+25A 
+Local Standards: housing and utilities; non-mortgage expenses. Enter the amount of the 
+IRS Housing and Utilities Standards; non-mortgage expenses for the applicable county and family size.  
+(This information is available at www.usdoj.gov/ust/ or from the clerk of the bankruptcy court). 
+$ 
+Form B 22C (Chapter 13) (10/05)                              
+3
+ 
+Local Standards: housing and utilities; mortgage/rent expense. Enter, in Line a below, the 
+amount of the IRS Housing and Utilities Standards; mortgage/rent expense for your county and family size 
+(this information is available at www.usdoj.gov/ust/ or from the clerk of the bankruptcy court); enter on 
+Line b the total of the Average Monthly Payments for any debts secured by your home, as stated in Line 
+47; subtract Line b from Line a and enter the result in Line 25B.  Do not enter an amount less than 
+zero.   
+25B 
+a. 
+IRS Housing and Utilities Standards; mortgage/rent Expense  
+$  
+b. 
+Average Monthly Payment for any debts secured by your 
+home, if any, as stated in Line 47 
+$ 
+c. 
+Net mortgage/rental expense 
+Subtract Line b from Line a. 
+ 
+$ 
+Local Standards: housing and utilities; adjustment. if you contend that the process set out in 
+Lines 25A and 25B does not accurately compute the allowance to which you are entitled under the IRS 
+Housing and Utilities Standards, enter any additional amount to which you contend you are entitled, and 
+state the basis for your contention in the space below: 
+26 
+___________________________________________________________________
+___________________________________________________________________
+___________________________________________________________________ 
+$ 
+Local Standards: transportation; vehicle operation/public transportation expense.  
+You are entitled to an expense allowance in this category regardless of whether you pay the expenses of 
+operating a vehicle and regardless of whether you use public transportation. 
+ 
+ 
+27 
+Check the number of vehicles for which you pay the operating expenses or for which the operating ex-
+penses are included as a contribution to your household expenses in Line 7.  
+ 0   
+ 1   
+ 2 or more. 
+ 
+ 
+$ 
+Enter the amount from IRS Transportation Standards, Operating Costs & Public Transportation Costs for 
+the applicable number of vehicles in the applicable Metropolitan Statistical Area or Census Region. (This 
+information is available at www.usdoj.gov/ust/ or from the clerk of the bankruptcy court.) 
+Local Standards: transportation ownership/lease expense; Vehicle 1.  Check the number 
+of vehicles for which you claim an ownership/lease expense. (You may not claim an ownership/lease ex-
+pense for more than two vehicles.)    
+ 1   
+ 2 or more.  
+28 
+Enter, in Line a below, the amount of the IRS Transportation Standards, Ownership Costs, First Car (avail-
+able at www.usdoj.gov/ust/ or from the clerk of the bankruptcy court); enter in Line b the total of the Av-
+erage Monthly Payments for any debts secured by Vehicle 1, as stated in Line 47; subtract Line b from 
+Line a and enter the result in Line 28.  Do not enter an amount less than zero.   
+ 
+a. 
+IRS Transportation Standards, Ownership Costs, First Car  
+$  
+ 
+ 
+b. 
+Average Monthly Payment for any debts secured by Vehicle 1, 
+as stated in Line 47 
+$ 
+ 
+$ 
+c. 
+Net ownership/lease expense for Vehicle 1 
+Subtract Line b from Line a. 
+ 
+Local Standards: transportation ownership/lease expense; Vehicle 2. Complete this Line 
+only if you checked the “2 or more” Box in Line 28. 
+Enter, in Line a below, the amount of the IRS Transportation Standards, Ownership Costs, Second Car 
+(available at www.usdoj.gov/ust/ or from the clerk of the bankruptcy court); enter in Line b the total of 
+the Average Monthly Payments for any debts secured by Vehicle 2, as stated in Line 47; subtract Line b 
+from Line a and enter the result in Line 29.  Do not enter an amount less than zero.   
+29 
+ 
+a. 
+IRS Transportation Standards, Ownership Costs, Second Car  
+$  
+ 
+ 
+b. 
+Average Monthly Payment for any debts secured by Vehicle 2, 
+as stated in Line 47 
+$ 
+ 
+$ 
+c. 
+Net ownership/lease expense for Vehicle 2 
+Subtract Line b from Line a. 
+ 
+30 
+ 
+Other Necessary Expenses: taxes. Enter the total average monthly expense that you actually incur 
+for all federal, state, and local taxes, other than real estate and sales taxes, such as income taxes, self 
+employment taxes, social security taxes, and Medicare taxes. Do not include real estate or sales 
+taxes. 
+$ 
+ 
+31 
+ 
+$ 
+Other Necessary Expenses: mandatory payroll deductions. Enter the total average monthly 
+payroll deductions that are required for your employment, such as mandatory retirement contributions, 
+union dues, and uniform costs. Do not include discretionary amounts, such as non-mandatory 
+401(k) contributions.  
+Form B 22C (Chapter 13) (10/05)                              
+4
+ 
+32 
+Other Necessary Expenses: life insurance.  Enter average monthly premiums that you actually 
+pay for term life insurance for yourself.  Do not include premiums for insurance on your depend-
+ents, for whole life or for any other form of insurance.  
+$ 
+ 
+33 
+$ 
+Other Necessary Expenses: court-ordered payments.  Enter the total monthly amount that 
+you are required to pay pursuant to court order, such as spousal or child support payments.  Do not in-
+clude payments on past due support obligations included in Line 49. 
+34 
+Other Necessary Expenses: education for employment or for a physically or mentally 
+challenged child.  Enter the total monthly amount that you actually expend for education that is a 
+condition of employment and for education that is required for a physically or mentally challenged depend-
+ent child for whom no public education providing similar services is available.  
+ 
+ 
+ 
+35 
+Other Necessary Expenses: childcare.  Enter the average monthly amount that you actually ex-
+pend on childcare. Do not include payments made for children’s education. 
+$ 
+ 
+36 
+$ 
+Other Necessary Expenses: health care.  Enter the average monthly amount that you actually 
+expend on health care expenses that are not reimbursed by insurance or paid by a health savings account.  
+Do not include payments for health insurance listed in Line 39. 
+37 
+ 
+$ 
+Other Necessary Expenses: telecommunication services.  Enter the average monthly ex-
+penses that you actually pay for cell phones, pagers, call waiting, caller identification, special long dis-
+tance, or internet services necessary for the health and welfare of you or your dependents.  Do not in-
+clude any amount previously deducted. 
+38 
+Total Expenses Allowed under IRS Standards. Enter the total of Lines 24 through 37. 
+$ 
+Subpart B: Additional Expense Deductions under § 707(b) 
+Note: Do not include any expenses that you have listed in Lines 24-37 
+ 
+Health Insurance, Disability Insurance, and Health Savings Account Expenses.  List the 
+average monthly amounts that you actually expend in each of the following categories and enter the total. 
+ 
+a. 
+Health Insurance 
+$  
+ 
+39 
+b. 
+Disability Insurance 
+$  
+ 
+c. 
+Health Savings Account 
+$  
+ 
+$ 
+ 
+ 
+Total:  Add Lines a, b, and c 
+ 
+ 
+40 
+ 
+$ 
+Continued contributions to the care of household or family members.  Enter the actual 
+monthly expenses that you will continue to pay for the reasonable and necessary care and support of an 
+elderly, chronically ill, or disabled member of your household or member of your immediate family who is 
+unable to pay for such expenses. Do not include payments listed in Line 34. 
+ 
+ 
+41 
+$ 
+Protection against family violence. Enter any average monthly expenses that you actually in-
+curred to maintain the safety of your family under the Family Violence Prevention and Services Act or 
+other applicable federal law. 
+ 
+42 
+ 
+$ 
+Home energy costs in excess of the allowance specified by the IRS Local Standards. 
+Enter the average monthly amount by which your home energy costs exceed the allowance in the IRS Lo-
+cal Standards for Housing and Utilities.  You must provide your case trustee with documentation 
+demonstrating that the additional amount claimed is reasonable and necessary. 
+ 
+ 
+  43 
+ 
+$ 
+Education expenses for dependent children under 18.  Enter the average monthly expenses 
+that you actually incur, not to exceed $125 per child, in providing elementary and secondary education for 
+your dependent children less than 18 years of age. You must provide your case trustee with docu-
+mentation demonstrating that the amount claimed is reasonable and necessary and not already 
+accounted for in the IRS Standards. 
+ 
+44 
+ 
+$ 
+Additional food and clothing expense. Enter the average monthly amount by which your food and 
+clothing expenses exceed the combined allowances for food and apparel in the IRS National Standards, not 
+to exceed five percent of those combined allowances. (This information is available at www.usdoj.gov/ust/ 
+or from the clerk of the bankruptcy court.)  You must provide your case trustee with documentation 
+demonstrating that the additional amount claimed is reasonable and necessary.  
+ 
+45 
+Continued charitable contributions. Enter the amount that you will continue to contribute in the 
+form of cash or financial instruments to a charitable organization as defined in 26 U.S.C. § 170(c)(1)-(2). 
+$ 
+46 
+Total Additional Expense Deductions under § 707(b). Enter the total of Lines 39 through 45. 
+$ 
+Form B 22C (Chapter 13) (10/05)                              
+5
+ 
+Subpart C: Deductions for Debt Payment 
+ 
+Future payments on secured claims. For each of your debts that is secured by an interest in prop-
+erty that you own, list the name of the creditor, identify the property securing the debt, and state the Av-
+erage Monthly Payment.  The Average Monthly Payment is the total of all amounts contractually due to 
+each Secured Creditor in the 60 months following the filing of the bankruptcy case, divided by 60.  Mort-
+gage debts should include payments of taxes and insurance required by the mortgage.  If necessary, list 
+additional entries on a separate page. 
+ 
+47 
+ 
+ 
+Name of Creditor 
+Property Securing the Debt 
+60-month Average Payment 
+ 
+a. 
+ 
+ 
+$ 
+ 
+b. 
+ 
+ 
+$ 
+c. 
+ 
+ 
+$  
+ 
+$ 
+ 
+ 
+ 
+Total:  Add Lines a, b, and c 
+ 
+ 
+ 
+Past due payments on secured claims. If any of the debts listed in Line 47 are in default, and the 
+property securing the debt is necessary for your support or the support of your dependents, you may in-
+clude in your deductions 1/60th of the amount that you must pay the creditor as a result of the default 
+(the “cure amount”) in order to maintain possession of the property.  List any such amounts in the follow-
+ing chart and enter the total. If necessary, list additional entries on a separate page. 
+ 
+ 
+48 
+ 
+ 
+Name of Creditor 
+Property Securing the Debt in Default 
+1/60th of the Cure Amount 
+ 
+a. 
+ 
+ 
+$  
+ 
+b. 
+ 
+ 
+$  
+c. 
+ 
+ 
+$  
+ 
+$ 
+ 
+ 
+  
+Total:  Add Lines a, b, and c 
+ 
+ 
+49 
+Payments on priority claims. Enter the total amount of all priority claims (including priority child 
+support and alimony claims), divided by 60.   
+$ 
+Chapter 13 administrative expenses. Multiply the amount in Line a by the amount in Line b, and 
+enter the resulting administrative expense. 
+   
+a. 
+Projected average monthly Chapter 13 plan payment. 
+$  
+50 
+b. 
+Current multiplier for your district as determined under sched-
+ules issued by the Executive Office for United States Trustees.  
+(This information is available at www.usdoj.gov/ust/ or from the 
+clerk of the bankruptcy court.) 
+x  
+c. 
+Average monthly administrative expense of Chapter 13 case  
+Total: Multiply Lines a and b 
+ 
+$ 
+51 
+Total Deductions for Debt Payment. Enter the total of Lines 47 through 50. 
+$ 
+Subpart D: Total Deductions Allowed under § 707(b)(2) 
+52 
+Total of all deductions allowed under § 707(b)(2). Enter the total of Lines 38, 46, and 51.   
+$ 
+ 
+Part V. DETERMINATION OF DISPOSABLE INCOME UNDER § 1325(b)(2)  
+53 
+Total current monthly income. Enter the amount from Line 20.  
+$ 
+ 
+ 
+54 
+Support income. Enter the monthly average of any child support payments, foster care payments, or 
+disability payments for a dependent child, included in Line 7, that you received in accordance with applica-
+ble nonbankruptcy law, to the extent reasonably necessary to be expended for such child. 
+ $ 
+ 
+ 
+55 
+Qualified retirement deductions.  Enter the monthly average of (a) all contributions or wage de-
+ductions made to qualified retirement plans, as specified in § 541(b)(7) and (b) all repayments of loans 
+from retirement plans, as specified in § 362(b)(19). 
+ $ 
+56 
+Total of all deductions allowed under § 707(b)(2).  Enter the amount from Line 52. 
+ $ 
+57 
+Total adjustments to determine disposable income. Add the amounts on Lines 54, 55, and 56 
+and enter the result. 
+$ 
+58 
+Monthly Disposable Income Under § 1325(b)(2). Subtract Line 57 from Line 53 and enter the 
+$ 
+Form B 22C (Chapter 13) (10/05)                              
+6
+result. 
+ 
+Part VI: ADDITIONAL EXPENSE CLAIMS 
+59 
+Other Expenses. List and describe any monthly expenses, not otherwise stated in this form, that are required for the 
+health and welfare of you and your family and that you contend should be an additional deduction from your current 
+monthly income under § 707(b)(2)(A)(ii)(I).  If necessary, list additional sources on a separate page. All figures should re-
+flect your average monthly expense for each item.  Total the expenses. 
+ 
+ 
+Expense Description 
+Monthly Amount 
+a. 
+ 
+$  
+b. 
+ 
+$  
+c. 
+ 
+$  
+ 
+Total:  Add Lines a, b, and c      $ 
+ 
+ 
+Part VII: VERIFICATION 
+I declare under penalty of perjury that the information provided in this statement is true and correct.  (If this a joint case, 
+both debtors must sign.) 
+ 
+60 
+Date: ________________________ 
+Signature: ________________________ 
+(Debtor) 
+Date: ________________________ 
+Signature: ________________________ 
+(Joint Debtor, if any) 
+ 
+ 

@@ -1,0 +1,523 @@
+SECURITIES AND EXCHANGE COMMISSION 
+(Release No. 34-54941; File No. SR-Phlx-2006-70)  
+December 14, 2006  
+Self-Regulatory Organizations; Philadelphia Stock Exchange, Inc.; Notice of Filing and 
+Immediate Effectiveness of Proposed Rule Change and Amendment No. 1 Thereto To 
+Adopt Fees for the Trading of Equity Securities on XLE 
+Pursuant to Section 19(b)(1) of the Securities Exchange Act of 1934 (“Act”),1 and Rule 
+19b-4 thereunder,2 notice is hereby given that on November 2, 2006, the Philadelphia Stock 
+Exchange, Inc. (“Phlx” or “Exchange”) filed with the Securities and Exchange Commission 
+(“Commission”) the proposed rule change as described in Items I, II, and III below, which Items 
+have been prepared by the Phlx.  On December 12, 2006, the Exchange filed Amendment No. 1 
+to the proposed rule change.3  The Exchange has designated this amended proposal as one 
+establishing or changing a due, fee, or other charge imposed by the Exchange under Section 
+19(b)(3)(A),4 and Rule 19b-4(f)(2) thereunder,5 which renders the proposal effective upon filing 
+with the Commission. The Commission is publishing this notice to solicit comments on the 
+proposed rule change, as amended, from interested persons. 
+1 
+15 U.S.C. 78s(b)(1). 
+2 
+17 CFR 240.19b-4. 
+3 
+In Partial Amendment No. 1, which supplemented the proposal as originally filed, the Exchange 
+made several clarifying changes to further explain the assessment of the proposed fees in 
+connection with its new equity trading system and made other technical changes to the original 
+filing. In addition, the Exchange included a revised Exhibit 5A in Partial Amendment No. 1 to 
+reflect technical and clarifying changes made therein, which, for clarity and ease of reference, 
+replaces the Exhibit 5A contained in the original filing.  The Exchange did not propose any new 
+fees in Partial Amendment No. 1. 
+4 
+15 U.S.C. 78s(b)(3)(A). 
+5 
+17 CFR 240.19b-4(f)(2). 
+I.  
+Self-Regulatory Organization’s Statement of the Terms of Substance of the 
+Proposed Rule Change 
+The Phlx proposes to adopt the proposed fees described below for the trading of equity 
+securities on the Exchange in connection with its new equity system (“XLE”).6  With XLE, the 
+Exchange no longer operates a physical trading floor for equity securities or the Philadelphia 
+Stock Exchange Automated Communication and Execution (“PACE”) system.7  Therefore, the 
+Exchange proposes to adopt a new fee schedule to accommodate the trading of equity securities 
+on XLE and to amend Appendix A of the Exchange’s fee schedule to adopt XLE-related fees, 
+delete obsolete fees, and modify other fees that will no longer apply to equity trading.8  The text 
+of the proposed rule change is available on the Phlx’s Web site at http://www.phlx.com, at the 
+Phlx’s Office of the Secretary, and at the Commission’s Public Reference Room.9 
+II.  
+Self-Regulatory Organization’s Statement of the Purpose of, and Statutory Basis 
+for, the Proposed Rule Change 
+In its filing with the Commission, Phlx included statements concerning the purpose of, 
+and basis for, the proposed rule change and discussed any comments it received on the proposal.  
+The text of these statements may be examined at the places specified in Item IV below.  Phlx has 
+6 
+XLE is designed to provide the opportunity for entirely automated executions to occur within a 
+central matching system accessible by Exchange members and member organizations and their 
+Sponsored Participants.  See Securities Exchange Act Release No. 54538 (September 28, 2006), 
+71 FR 59184 (October 6, 2006) (SR-Phlx-2006-43). 
+7 
+PACE was the Exchange’s order routing, delivery, execution and reporting system for its equity 
+trading floor.  The Commission notes that XLE commenced limited operations on November 10, 
+2006.   
+8 
+Although the fees proposed herein have been filed to become immediately effective, the fees will 
+not become operative until the Exchange discontinues its physical equities trading floor and 
+commences operation of XLE.  See Securities Exchange Act Release No. 54538 (September 28, 
+2006), 71 FR 59184 (October 6, 2006) (SR-Phlx-2006-43) (order approving XLE rules).  The 
+Commission notes that XLE commenced limited operations on November 10, 2006. 
+9 
+The Stock Clearing Corporation of Philadelphia (“SCCP”) filed a separate proposed rule change 
+with the Commission to amend its fee schedule to reflect fees associated with the trade processing 
+of equity securities through SCCP in connection with XLE.  See SR-SCCP-2006-04. 
+2 
+prepared summaries, set forth in Sections A, B, and C below, of the most significant aspects of 
+such statements. 
+A. 
+ Self-Regulatory Organization’s Statement of the Purpose of, and 
+Statutory Basis for, the Proposed Rule Change 
+1. 
+ Purpose 
+The purpose of the proposed rule change is to adopt a fee schedule for the trading of 
+equity securities on the Exchange in connection with XLE. The XLE fee schedule includes 
+transaction fees (execution and routing fees), covered sale fees, and system fees, as well as a 
+market data revenue sharing proposal.  Changes to Appendix A of the Exchange’s fee schedule 
+include permit fees, application fees, and a modified examination fee, as well as the deletion of 
+certain floor-based fees.  All the proposed fees will be assessed on Exchange members or 
+member organizations, which may include Sponsoring Member Organizations,10 (collectively 
+referred to herein as “member organizations”).  Sponsoring Member Organizations are 
+responsible for the fees generated by their Sponsored Participant’s activities. 
+Transaction Fees 
+With respect to securities trading at or above $1.00, the Exchange intends to charge 
+member organizations an execution fee, ranging from $0.0026 to $0.003 per share, depending on 
+the number of total shares executed monthly,11 for orders that remove liquidity from XLE.  
+10 
+A Sponsoring Member Organization is a member organization that has authorized access to XLE 
+for a Sponsored Participant (a person who has access to XLE which is authorized by a Sponsoring 
+Member Organization).  See Phlx Rules 1(jj) and 1(kk). 
+11 
+The “total monthly shares” executed includes executions resulting from removing and providing 
+liquidity on XLE and crosses executed on XLE, as well as shares executed when routed via XLE 
+to an away trading center and executed on that away trading center, except for liquidity provided 
+by incoming NMS Linkage Orders or ITS Commitments.  The total monthly shares will be 
+calculated separately per XLE Participant Organization, which, for purposes of this proposal, 
+refers to Sponsored Participants, Sponsoring Member Organizations, and member organizations 
+without Sponsored Participants.  Thus, Sponsored Participant activity will accrete towards that 
+Sponsored Participant’s volume tier and not towards the Sponsoring Member Organization’s 
+3 
+Additionally, the Exchange intends to offer an execution credit to member organizations, ranging 
+from $0.002 to $0.0026 per share, for orders that provide liquidity to XLE. Any available credits 
+would be applied to the member organization’s monthly invoice.  Excess credits would be 
+carried over into subsequent months or rebated to the applicable member organization, as 
+requested by the member organization. 
+The purpose of adopting the volume tiers in connection with the assessment of 
+transaction fees is to encourage XLE Participant Organizations to send and execute orders on 
+XLE. The volume tiers are based on the monthly shares executed per XLE Participant 
+Organization; for Tier 1 (less than or equal to 10 million shares executed), the Exchange 
+proposes to assess a fee of $0.003 per share executed to remove liquidity and give a credit of 
+$0.002 per share executed for providing liquidity; for Tier 2 (greater than 10 million and less 
+than or equal to 50 million shares executed), the Exchange proposes to assess a fee of $0.0028 
+per share executed to remove liquidity and give a credit of $0.0025 per share executed for 
+providing liquidity; for Tier 3 (greater than 50 million and less than or equal to 200 million 
+shares executed), the Exchange proposes to assess a fee of $0.0027 per share executed to remove 
+liquidity and give a credit of $0.0026 per share executed for providing liquidity; and for Tier 4 
+(greater than 200 million shares executed), the Exchange proposes to assess a fee of $0.0026 per 
+share executed to remove liquidity and give a credit of $0.0026 per share executed for providing 
+liquidity.  For each of the four volume tiers described above, the Exchange proposes to charge a 
+flat routing fee of $0.0036 per share executed when an order is routed via XLE to an away 
+trading center and executed on that away trading center. 
+volume tier.  Once a specific tier has been reached in a month, all transactions for that month will 
+be subject to the fee that corresponds with that volume tier.  See also infra notes 15 and 16. 
+4 
+In addition, in lieu of the above-referenced execution fees, the Exchange proposes to 
+adopt a separate execution fee for securities executed on XLE at a per share price below $1.00 
+that remove liquidity.  For these securities, the Exchange would charge 0.1% (i.e., 10 basis 
+points) of the total dollar value of the transaction.  The Exchange is not proposing an execution 
+fee credit for providing liquidity for shares with a per share price below $1.00.  Such executed 
+volume for securities trading below $1.00 will accrete towards the volume tier breakpoint per 
+XLE Participant Organization. 
+Additional transaction fees are set forth on the proposed fee schedule under the heading 
+“Miscellaneous Transaction Fees.”  Miscellaneous Transaction Fees would be assessed in lieu of 
+the general transaction fees described above.  The Exchange proposes to adopt an execution fee 
+of $0.0023 per share per side for Immediate or Cancel (“IOC”) Cross Orders and Mid-Point 
+Cross Orders entered over technology provided by Phlx.12 The Exchange is not proposing to 
+adopt any transaction fees (i.e., execution fee for removing liquidity or execution credit for 
+providing liquidity) for executions of IOC Cross Orders13 and Mid-Point Cross Orders14 with 
+respect to orders entered over technology that is not provided by the Exchange.  There also 
+would be no execution credit for any IOC Cross or Mid-Point Cross transactions, whether 
+12 
+Phlx intends to provide optional technology to XLE Participants for the entry of two-sided orders 
+into XLE. 
+13 
+IOC Cross Orders are two-sided orders that match immediately and automatically on XLE the 
+identified buy-side with the identified sell-side.  Specifically, an IOC Cross Order is a two-sided 
+order that executes, in its entirety, at the specified price, provided that XLE will cancel an IOC 
+Cross Order at the time of order entry under certain conditions.  See Phlx Rules 185(c) and 
+185(c)(2). 
+14 
+A Mid-Point Cross Order is a two-sided order that executes, in its entirety, at the midpoint of the 
+best Protected Bid and the best Protected Offer in a security. These orders will match 
+immediately and automatically on XLE the identified buy-side with the identified sell-side.  See 
+Phlx Rules 185(c) and 185(c)(1). 
+5 
+entered over technology provided by Phlx or not.15  In addition, in connection with IOC Cross 
+Orders and Mid-Point Cross Orders entered over technology provided by Phlx, there would be a 
+$50 maximum fee per trade side. 
+The execution fee for Odd Lot Orders16 would be $0.003 per share executed, which 
+applies to orders initially entered as Odd Lot Orders and executed in XLE.  There would be no 
+execution credit for orders initially entered as Odd Lot Orders and executed on XLE. Also, for 
+incoming NMS Linkage Orders or ITS Commitments routed to Phlx and executed on XLE, the 
+Exchange proposes to charge $0.003 per share for removing liquidity.17  The Exchange is 
+proposing to delete from its Summary of Equity Charges the Outbound ITS fee and Net Inbound 
+ITS Credit, since the Exchange will no longer assess an Outbound ITS fee or give a Net Inbound 
+ITS Credit. 
+Covered Sale Fee 
+The Exchange will continue to charge a Covered Sale Fee.  Each member and member 
+organization engaged in executing sale transactions on the Exchange or executing transactions, 
+which were routed over the Intermarket Trading System or pursuant to the NMS Linkage Plan, 
+15 
+Executed volume for IOC Cross and Mid-Point Cross Orders, whether entered over technology 
+provided by the Exchange or not, will accrete towards the volume tier breakpoint per XLE 
+Participant Organization that is a party to the execution.   
+16 
+An Odd Lot Order means an order for less than a round lot, which is defined for purposes of XLE 
+as a unit of trading that is 100 shares.  See Phlx Rules 1(w) and 1(gg).  Executed volume for 
+orders initially entered as Odd Lot Orders and executed on XLE will accrete towards the volume 
+tier breakpoint per XLE Participant Organization.  
+17 
+This fee will be assessed on the member organization sponsoring the NMS Linkage Order or ITS 
+Commitment or, if there is no member organization sponsoring the NMS Linkage Order or ITS 
+Commitment, on the exchange or the Participant in the National Association of Securities 
+Dealers, Inc. Alternative Display Facility (“ADF Participant”) sending the ITS Commitment or 
+NMS Linkage Order.  The arrangement to charge other exchanges or ADF Participants was part 
+of separate proposed rule changes that were approved by the Commission.  See Securities 
+Exchange Act Release Nos. 54548 (September 29, 2006), 71 FR 59159 (October 6, 2006) (SR-
+Phlx-2006-58) and 54555 (October 2, 2006), 71 FR 59577 (October 10, 2006) (SR-Phlx-2006­
+60). 
+6 
+on another exchange or on a Participant in NASD’s Alternative Display Facility during any 
+computational period shall pay a Covered Sale Fee equal to (i) the Section 31 fee rate multiplied 
+by (ii) the member’s aggregate dollar amount of covered sales.18 
+System Fees 
+The Exchange proposes to charge a monthly FIX19 Computer-to-Computer Interface  
+(CTCI) Port Fee20 of $100.00 per port. At this time, however, the Exchange does not intend to 
+charge for monthly Drop Copy Feeds,21 Monthly Phlx Systems,22 or Depth of Book Data 
+Feeds.23 
+Marketing Data Revenue Sharing 
+In addition, the Exchange is proposing to adopt a quarterly market data revenue sharing 
+program that would provide for 50% of gross market data revenue to be shared with the member 
+organization responsible for providing the liquidity portion of the trade. Sponsored Participant 
+trades will be credited to the applicable Sponsoring Member Organization.  Any market data 
+revenue would be paid to the applicable member organization on a quarterly basis. 
+18 
+See Phlx Rule 607 and Securities Exchange Act Release No. 54555 (October 2, 2006), 71 FR 
+59577 (October 10, 2006) (SR-Phlx-2006-60) (amending Phlx Rule 607). See also Partial 
+Amendment No. 1, supra note 3 (making conforming edits to the Covered Sale Fee rule text to 
+reflect the amended version of Phlx Rule 607).  A Sponsoring Member Organization is 
+responsible for the Covered Sale Fees generated in connection with its Sponsored Participant’s 
+sale transactions.   
+19 
+The Financial Information eXchange (“FIX”) Protocol is a messaging standard developed 
+specifically for the real-time electronic exchange of securities transactions. 
+20 
+A port is defined as an Internet Protocol (“IP”) address assigned by the Exchange for connectivity 
+to XLE. 
+21 
+The Drop Copy Feed provides real-time information concerning trades executed by an XLE 
+Participant Organization and will be provided on a subscription basis.  
+22 
+The Monthly Phlx Systems Fee refers to the use of optional Phlx technology to enter in two-sided 
+orders and related clearing information. 
+23 
+The Depth of Book feed displays every order, except the undisplayed portion of a Reserve Order, 
+within XLE at each price level and will be provided, on a subscription basis, at no charge to 
+anyone who subscribes to receive this information. 
+7 
+The market data revenue sharing will apply to all securities: Tape A, Tape B, and Tape C. 
+Although there is a difference in the manner in which the underlying Tape A and Tape B, 
+revenue versus Tape C revenue is distributed to Phlx and the other national securities 
+exchanges24 there is no difference in the manner in which member organizations will share in 
+Tape A and B revenue versus Tape C revenue because the proposed rule language bases the 
+credits on revenue attributable to the executions of a member organization.  Thus, a member 
+organization responsible for providing the liquidity portion of the trade will receive 50% of the 
+revenue attributable to its executions reported to each of the three tapes.25 
+Deleting Obsolete Fees 
+In connection with adopting the XLE fee schedule for the trading of equity securities on 
+the Exchange, the Exchange proposes to delete the obsolete fees currently listed on the Summary 
+of Equity Charges,26 which includes deleting references to license fees assessed in connection 
+with the trading of certain products.  Although the Exchange may currently, or in the future, be a 
+party to a license fee agreement with a licensor in connection with the trading of certain 
+products, the Exchange does not propose to assess license fees in connection with XLE at this 
+time.  The Exchange would submit a separate proposed rule change if it decides to assess license 
+fees in the future.  
+24 
+Tape A and Tape B revenue is currently distributed to Phlx and national securities exchanges 
+based on the number of trades reported, while Tape C revenue is distributed based on an average 
+of number of trades and number of shares reported.   
+25 
+The Exchange states that the proposed market data revenue sharing program is similar to 
+programs implemented by other self-regulatory organizations.  See, e.g., Securities Exchange Act 
+Release No. 53860 (May 24, 2006), 71 FR 31250 (June 1, 2006) (SR-NSX-2006-07).  
+26 
+The Covered Sale Fee, however, will continue to be assessed in connection with XLE. 
+8 
+The Exchange also proposes to delete references to SCCP customer and specialist fees on 
+the Exchange’s Nasdaq-100 Index Tracking StockSM Fee Schedule27 to reflect changes that were 
+proposed in a separate SCCP fee filing.28 
+Appendix A 
+Appendix A of the Exchange’s fee schedule contains general fees that are currently 
+assessed on members, foreign currency options (“FCO”) participants, member organizations, or 
+FCO participant organizations that are not transaction-based, such that many of the fees relate to 
+gaining access to trading on the Exchange or being physically present on the trading floor.  As 
+set forth below, the Exchange intends to adopt, modify, or delete, as appropriate, several fees to 
+accommodate the trading of equity securities on XLE. 
+The Exchange proposes to adopt permit fees related to the trading of equity securities on 
+XLE. Currently, the Exchange assesses a permit fee to access trading on the Exchange.  Permit 
+fees are assessed based on how each permit is used.  Specifically, the Exchange will charge an 
+Order Flow Provider a permit fee of $200 per month to submit orders to XLE only and $300 per 
+month to submit orders to more than one trading venue (i.e., XLE, foreign currency options 
+trading floor, or options trading floor).  Members who are registered as Market Maker 
+Authorized Traders29 will be charged $1,200 per month for the first permit and $1,000 per month 
+27 
+The Nasdaq-100®, Nasdaq-100 Index®, Nasdaq®, The Nasdaq Stock Market®, Nasdaq-100 
+Shares,SM Nasdaq-100 Trust,SM Nasdaq-100 Index Tracking Stock,SM and QQQSM are trademarks 
+or service marks of The Nasdaq Stock Market, Inc. (“Nasdaq”) and have been licensed for use for 
+certain purposes by the Philadelphia Stock Exchange pursuant to a License Agreement with 
+Nasdaq. The Nasdaq-100 Index® (the “Index”) is determined, composed and calculated by 
+Nasdaq without regard to the Licensee, the Nasdaq-100 Trust,SM or the beneficial owners of 
+Nasdaq-100 Shares.SM  Nasdaq has complete control and sole discretion in determining, 
+comprising or calculating the Index or in modifying in any way its method for determining, 
+comprising or calculating the Index in the future. 
+28 
+See SR-SCCP-2006-04. 
+29 
+The term “Market Maker Authorized Trader” means a Participant Authorized User who is a 
+member and who performs market making activities pursuant to Phlx Rules 170 et. seq.  A 
+9 
+for each additional permit for members in the same member organization.  If a member 
+organization only sponsors a Sponsored Participant and does not have any other trading 
+functions, the permit holder associated with that member organization will be charged a permit 
+fee of $1,200 per month and $1,000 per month for additional permits for members in the same 
+member organization. 
+The permit fees will be assessed consistent with current practices.  For example, any 
+member who is associated with one or more member organizations and uses a permit in more 
+than one category will pay the higher of the applicable fees each month for such permit.30  In 
+addition, permits may not be transferred from one permit holder associated with one member 
+organization to a permit holder associated with a different member organization, thus a Transfer 
+Fee is inapplicable for permits relating to XLE trading.31 
+Excess permit fees32 will continue to apply, but will be expanded to include XLE users.  
+Therefore, permit holders may be designated as “excess” permit holders in cases where permit 
+holders in the same organization, other than the permit holder who qualifies the member 
+organization, are either: (1) not floor brokers, specialists, ROTs (including RSQTs and SQTs), 
+Off-Floor Traders, Market Maker Authorized Traders, or an XLE Sponsoring Member 
+Organization whose only function is to sponsor a Sponsored Participant; or (2) not associated 
+with a member organization that meets the definition of an Order Flow Provider, which now 
+Participant Authorized User means an individual authorized by a member organization or a  
+Sponsored Participant to enter orders, on its behalf, on XLE.  See Phlx Rules 1(m) and 1(x).  
+30 
+See Securities Exchange Act Release No. 49157 (January 30, 2004), 69 FR 5883 (February 6, 
+2004) (SR-Phlx-2004-02). 
+31 
+Permits, however, may be transferred within a member organization without incurring a Transfer 
+Fee. See Securities Exchange Act Release No. 49157 (January 30, 2004), 69 FR 5883 (February 
+6, 2004) (SR-Phlx-2004-02). 
+32 
+See Securities Exchange Act Release Nos. 49856 (June 15, 2004), 69 FR 34411 (June 21, 2004) 
+(SR-Phlx-2004-32) and 53043 (December 29, 2005), 71 FR 959 (January 6, 2006) (SR-Phlx­
+2005-72). 
+10 
+includes submitting orders to XLE.  The rate remains unchanged.  Thus, member organizations 
+that have excess permit holders will continue to be assessed $200 for each “excess” permit. 
+The Exchange also proposes to charge Sponsoring Member Organizations an application 
+fee of $1,850.00 for each Sponsored Participant that it proposes to sponsor to help offset the 
+costs associated with the processing of the application, including administrative costs associated 
+with reviewing the application and creating the appropriate accounts.33 
+The Account Fee also will continue to apply to member organizations that trade on XLE.  
+Currently, the Exchange charges member organizations a monthly fee of $50.00 for each account 
+beyond the number of permits billed to that member organization.34  Therefore, if a member 
+organization sponsors a Sponsored Participant and establishes a new account, each account 
+beyond the number of permits billed to that member organization would be subject to the $50.00 
+fee. 
+In addition, any equity floor-based fees, such as post and booth space fees, would no 
+longer apply to members or member organizations due to the fact that there will no longer be a 
+physical equity trading floor.35  The Exchange will not assess these equity floor-based fees for 
+33 
+This fee is the same amount as the Exchange’s current application ($350.00) and initiation fees 
+($1,500) combined for members and member organizations. 
+34 
+Each account may have 22 suffixes or sub-accounts.  For example, account number 202 can 
+actually be used as accounts 202-A, 202-B, etc.  There is no additional charge for suffixes 
+assigned within the same account.  See Securities Exchange Act Release No. 53046 (January 3, 
+2006), 71 FR 1459 (January 9, 2006) (SR-Phlx-2005-89). 
+35 
+Examples of these floor-based fees include trading post/booth space, controller space, floor 
+facility, direct wire to the floor, telephone system line extension, trading floor personnel 
+registration, computer equipment services, repairs or replacements, and computer relocation 
+requests. These fees will remain on Appendix A to reflect that they will still be assessed on 
+members, participants, and member or participant organizations on the options and/or foreign 
+currency options trading floors. 
+11 
+any part of the month in which XLE is launched.36  These fees will remain on the fee schedule as 
+applicable to the Exchange’s other trading floors. 
+The Exchange proposes to delete from the fee schedule any fees applicable only to the 
+equity trading floor, such as the stock execution machine registration fee, due to the fact that 
+there will no longer be a physical equity trading floor.  Additionally, the Exchange proposes to 
+delete all Remote Specialist fees,37 since Remote Specialists will not exist in XLE.  
+Apart from the launch of XLE and merely to update the fee schedule, the Exchange also 
+proposes to delete the “Equity, Option or FCO Transmission Charge” and the “FCO Pricing 
+Tape” fees because the Exchange will no longer be providing these services.  Thus, a charge for 
+these services will not be assessed. 
+The Exchange also proposes to delete its Off-Floor Examinations Fee of $30.00 per 
+month per off-floor trader and, in turn, amend its Examinations Fee.  The implementation of a 
+tiered monthly Examinations Fee will replace the Off-Floor Examinations Fee.  Currently, the 
+Exchange assesses a monthly fee of $30.00 per off-floor trader for off-floor traders associated 
+with member organizations for whom the Exchange is the Designated Examining Authority 
+(“DEA”).38  With the closing of the Exchange’s equity trading floor, traders that previously 
+physically traded on the floor of the Exchange (and for whom the Exchange was the DEA for 
+their member organization) will no longer be considered “on-floor traders,” but will now be 
+36 
+For example, if XLE is launched in mid-November, no equity floor-based fees from Appendix A 
+will be assessed for the month of November. 
+37 
+Specifically, these fees include the Remote Specialist System Fee, Remote Specialist Security 
+Routing Fee, Remote Specialist Telecommunications Installation Fee, Remote Specialist 
+Telecommunications Fee, Remote Specialist Equipment Installation Fee, and Remote Specialist 
+Equipment Rental Fee. 
+38 
+See Securities Exchange Act Release No. 53643 (April 13, 2006), 71 FR 20151 (April 19, 2006) 
+(SR-Phlx-2006-23). 
+12 
+designated as “off-floor traders” and therefore would now fall under and be assessed the Off-
+Floor Examinations Fee.39 
+To address the unintended consequences that XLE would now cover additional traders 
+that previously were not covered under the Off-Floor Examinations Fee, the Exchange is 
+proposing to delete the Off-Floor Examinations Fee and adopt a tiered Examinations Fee based 
+on the number of off-floor traders in a member organization.40  Specifically, a member 
+organization will be assessed a monthly fee of $2,100 for one to ten off-floor traders; $2,600 for 
+eleven to fifty off-floor traders; $5,000 for fifty-one to two hundred off-floor traders; and 
+$12,500 for over two hundred off-floor traders in the same member organization.  The following 
+member organizations will continue to be exempt from the Examinations Fee, consistent with 
+current practice:  (1) inactive organizations;41 and (2) organizations operating through one or 
+more Phlx trading venues that demonstrated that 25% or more of its revenue as reflected on the 
+most recently submitted FOCUS Report or transactions as reflected on its purchase and sales 
+blotter are derived from securities transactions on the Phlx.  The Exchange proposes to eliminate 
+the following exemptions to clarify and simplify the application of the Examinations Fee: (1) the 
+exemption category for member organizations for any month where they incur transaction or 
+clearing fees charged directly by the Exchange or by its registered clearing subsidiary, provided 
+39 
+The Examinations Fee is applicable to member/participant organizations for whom the Exchange 
+is the DEA, unless an exemption to the assessment of the Examinations Fee applies.  See, e.g., 
+Securities Exchange Act Release Nos. 46392 (August 21, 2002), 67 FR 55294 (August 28, 2002) 
+(SR-Phlx-2002-45) and 42562 (March 22, 2000), 65 FR 16445 (March 28, 2000) (SR-Phlx-00­
+18). 
+40 
+For purposes of assessing the proposed tiered Examinations Fee, Sponsored Participants are not 
+included in the calculation of the number of off-floor traders in a Sponsoring Member 
+Organization. 
+41 
+In connection with amending the Examinations Fee as described above, the definition of an 
+inactive organization is being modified slightly so that it will be defined as an organization that 
+had no securities transaction revenue, as determined by FOCUS reports or other financial filings, 
+as long as the organization continues to have no such revenue each month. 
+13 
+that the fees exceed the examination fee for that month and (2) the exemption for member 
+organizations affiliated with a member organization exempt from the Examination Fee due to the 
+exemption listed immediately above or the exemption if that member organization is affiliated 
+with a member organization operating from the Phlx trading floor or as a Remote Specialist 
+which have demonstrated that at least 25 % or more of their income as reflected on the most 
+recently submitted FOCUS Report was derived from floor activities or remote specialist 
+activities. 
+The proposed revised Examinations Fee, which would apply to many of the members 
+currently covered by the Off-Floor Examinations Fee, should more efficiently and effectively 
+assess member organizations for recovery of regulatory-related costs related to conducting 
+examinations and should clarify how the Examinations Fee will be assessed in connection with 
+the member organizations that trade equity securities on XLE.42 
+Finally, the Exchange proposes to renumber the footnotes on the Exchange’s fee schedule 
+to reflect the changes described above. 
+2. 
+Statutory Basis 
+The Phlx believes that the proposed rule change to amend its schedule of fees is 
+consistent with Section 6(b) of the Act,43 in general, and furthers the objectives of Section 
+6(b)(4) of the Act,44 in particular, in that it is designed to assure the equitable allocation of 
+reasonable fees and other charges among its members and other persons using its facilities.   
+42 
+The proposed Examinations Fee would be implemented the first full month after XLE is 
+launched. For example, if XLE is launched in mid-November, the current off-floor Examinations 
+Fee will apply for the month of November and the Examinations Fee set forth in this proposal 
+would be assessed beginning with the month of December. 
+43 
+15 U.S.C. 78f(b). 
+44 
+15 U.S.C. 78f(b)(4). 
+14 
+B.  
+Self-Regulatory Organization’s Statement on Burden on Competition 
+The Phlx does not believe that the proposed rule change will impose any burden on 
+competition that is not necessary or appropriate in furtherance of the purposes of the Act. 
+C. 
+ Self-Regulatory Organization’s Statement on Comments on the 
+Proposed Rule Change Received from Members, Participants or Others 
+No written comments were solicited or received with respect to the proposed rule change. 
+III. 
+Date of Effectiveness of the Proposed Rule Change and Timing for Commission 
+Action 
+The foregoing rule change has become effective pursuant to Section 19(b)(3)(A) of the 
+Act45 and subparagraph (f)(2) of Rule 19b-4 thereunder,46 since it establishes or changes a due, 
+fee or other charge imposed by the Exchange. 
+At any time within 60 days of the filing of such proposed rule change, the Commission 
+may summarily abrogate such rule change if it appears to the Commission that such action is 
+necessary of appropriate in the public interest, for the protection of investors, or otherwise in the 
+furtherance of the purposes of the Act.47 
+IV. 
+Solicitation of Comments 
+Interested persons are invited to submit written data, views, and arguments concerning 
+the foregoing, including whether the proposed rule change is consistent with the Act.  Comments 
+may be submitted by any of the following methods:  
+45 
+15 U.S.C. 78s(b)(3)(A). 
+46 
+17 CFR 240.19b-4(f)(2). 
+47 
+The effective date of the original proposed rule change is November 2, 2006 and the effective 
+date of Amendment No. 1 is December 12, 2006.  For purposes of calculating the 60-day period 
+within which the Commission may summarily abrogate the proposed rule change under Section 
+19(b)(3)(C) of the Act, the Commission considers the period to commence on December 12, 2006 
+the date on which Phlx filed Amendment No. 1.  See 15 U.S.C. 78s(b)(3)(C). 
+15 
+Electronic Comments: 
+• Use the Commission’s Internet comment form (http://www.sec.gov/rules/sro.shtml); or 
+• Send an e-mail to rule-comments@sec.gov. Please include File Number SR-Phlx-2006­
+70 on the subject line. 
+Paper Comments: 
+• Send paper comments in triplicate to Nancy M. Morris, Secretary, Securities and 
+Exchange Commission, 100 F Street, NE, Washington DC 20549–1090. 
+All submissions should refer to File Number SR-Phlx-2006-70.  This file number should be 
+included on the subject line if e-mail is used. To help the Commission process and review your 
+comments more efficiently, please use only one method.  The Commission will post all 
+comments on the Commission’s Internet Web site (http://www.sec.gov/rules/sro.shtml). Copies 
+of the submission, all subsequent amendments, all written statements with respect to the 
+proposed rule change that are filed with the Commission, and all written communications 
+relating to the proposed rule change between the Commission and any person, other than those 
+that may be withheld from the public in accordance with the provisions of 5 U.S.C. 552, will be 
+available for inspection and copying in the Commission’s Public Reference Room.  Copies of 
+such filing also will be available for inspection and copying at the principal office of the Phlx.  
+All comments received will be posted without change; the Commission does not edit personal 
+identifying information from submissions.  You should submit only information that you wish to  
+16 
+make available publicly.  All submissions should refer to File No. SR-Phlx-2006-70 and should 
+be submitted on or before [insert date 21 days from date of publication in the Federal Register]. 
+For the Commission, by the Division of Market Regulation, pursuant to delegated 
+authority.48
+ 
+ 
+ 
+ 
+ 
+ 
+Florence
+ 
+E.
+ 
+Harmon
+ 
+Deputy Secretary 
+48 
+17 CFR 200.30-3(a)(12). 
+17 

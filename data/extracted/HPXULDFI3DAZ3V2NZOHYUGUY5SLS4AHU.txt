@@ -1,0 +1,12 @@
+Utah GIS Portal
+SGID ArcSDE Server Downtime
+ Contributed by AGRC Systems Admin
+21, Feb. 2008
+Last Updated 24, Feb. 2008
+The SGID ArcSDE database server will be down for maintenance Sunday 2-24-08 from 06:30 to 08:30 am.
+The Department of Technology Servcices will be performing maintenance on the servers which house the SGID ArcSDE
+Database Server on Sunday, February 24th from 6:30 am to 8:30 am.  The SGID ArcSDE Server and all services that use
+data from the SGID will be unavailable during this time period.  Image Server and FTP services will be available as usual.
+http://gis.utah.gov
+Powered by Joomla!
+Generated: 9 July, 2010, 10:45

@@ -1,0 +1,1128 @@
+September 11, 2015 
+ 
+ 
+East Building, PHH-30 
+U.S. Department 
+1200 New Jersey Avenue S.E. 
+of Transportation 
+Washington, D.C.  20590 
+ 
+Pipeline and Hazardous 
+Materials Safety Administration 
+ 
+ 
+DOT-SP 14149 
+(TWENTIETH REVISION) 
+ 
+ 
+EXPIRATION DATE: October 31, 2018  
+ 
+ 
+(FOR RENEWAL, SEE 49 CFR 107.109) 
+ 
+1. 
+GRANTEE: Digital Wave Corporation 
+Englewood, CO 
+ 
+2. 
+PURPOSE AND LIMITATION: 
+ 
+a.  This special permit authorizes the use of DOT 
+Specification 3AL cylinders and cylinders manufactured under 
+DOT-SP 12440 for the transportation in commerce of the 
+compressed gases described in paragraph 6 below, when 
+retested by a 100% ultrasonic examination in lieu of the 
+internal visual and the hydrostatic retest. This special 
+permit provides no relief from the Hazardous Materials 
+Regulations (HMR) other than as specifically stated herein. 
+The most recent revision supersedes all previous revisions.  
+ 
+b.  The safety analyses performed in development of this 
+special permit only considered the hazards and risks 
+associated with transportation in commerce. 
+ 
+c.  Party status will not be granted to this special permit. 
+ 
+3. 
+REGULATORY SYSTEM AFFECTED:  49 CFR Parts 106, 107 and 171-
+180. 
+ 
+4. 
+REGULATIONS FROM WHICH EXEMPTED:  49 CFR §§ 172.203(a) and 
+172.301(c) in that marking the special permit number is 
+waived; and § 180.205 in that the ultrasonic examination 
+(UE) is performed in lieu of the specified internal visual 
+examination and hydrostatic pressure test for DOT 3AL 
+cylinders made from AA 6061 and cylinders manufactured under 
+DOT-SP 12240 and that ultrasonic examination (UE) and eddy 
+ 
+Continuation of DOT-SP 14149 (20th Rev.) 
+Page 2 
+ 
+September 11, 2015 
+current examination (EE) is performed in lieu of the 
+specified internal visual examination and hydrostatic 
+pressure test for DOT 3AL cylinders made from AA 6351. 
+ 
+NOTE:  This does not relieve the holder of this special 
+permit from securing and maintaining a valid approval for 
+retesting cylinders from the Associate Administrator for 
+Hazardous Materials Safety. 
+ 
+5. 
+BASIS:  This special permit is based on Digital Wave 
+Corporation’s (DWC) application dated February 23, 2015 
+submitted in accordance with § 107.105 and the public 
+proceeding thereon.  
+ 
+6. 
+HAZARDOUS MATERIALS (49 CFR 172.101): 
+ 
+Hazardous Materials Description 
+Proper Shipping Name 
+Packing 
+Group 
+ 
+Identifi-
+cation 
+Number 
+Hazard 
+Class/ 
+Division 
+As 
+Appropriate 
+N/A 
+2.1, 2.2, 
+or 2.3 as 
+appropriate 
+Liquefied or non-liquefied 
+compressed gases, or mixtures 
+of such compressed gases, 
+classed as Division 2.1, 
+(flammable gas) Division 2.2, 
+(nonflammable gas) or Division 
+2.3, (gases which are Toxic by 
+Inhalation (TIH)) which are 
+authorized in the Hazardous 
+Materials Regulations for 
+transportation in DOT 3AL 
+cylinders and cylinders 
+manufactured under DOT-SP 
+12440.  
+ 
+7. 
+SAFETY CONTROL MEASURES: 
+ 
+a.  PACKAGING -  Packaging prescribed is a DOT Specification 
+3AL cylinder, manufactured from aluminum alloy 6061 or 6351, 
+or a cylinder manufactured under DOT-SP 12440 that is 
+subjected to periodic retesting, reinspection and marking 
+prescribed in § 180.205, except that the cylinder is examined 
+by an ultrasonic method in lieu of the hydrostatic pressure 
+test and internal visual inspection. Each cylinder must be 
+ 
+Continuation of DOT-SP 14149 (20th Rev.) 
+Page 3 
+ 
+September 11, 2015 
+subjected to an external visual examination and retested and 
+marked in accordance with the UE procedure described herein  
+and DWC January 25, 2005 application for special permit on 
+file with the Office of Hazardous Materials Safety Approvals 
+and Permits Division (OHMSAPD).   
+ 
+Additionally, DOT cylinders made of aluminum alloy 6351 must 
+be examined by the eddy current (EE) procedure described 
+herein and DWC January 25, 2005 application for special permit 
+on file with OHMSAPD. A cylinder that has been exposed to fire 
+or to excessive heat may not be retested under the terms of 
+this special permit. 
+ 
+b. Equipment and Performance.   
+ 
+(1) Ultrasonic System - The ultrasonic equipment 
+performance must conform to the DWC’s February 1, 2005 
+application on file with OHMSAPD and as prescribed in 
+this special permit. The UE equipment incorporates a 
+single-channel or a multi-channel immersion system 
+arranged to perform straight and angle beam 
+examinations. The ultrasonic pulses must enter into the 
+cylinder wall in both longitudinal, both 
+circumferential directions and normal to the cylinder 
+wall to ensure 100 percent coverage of the cylinder 
+wall. The system must be set-up to perform longitudinal 
+ultrasonic angle beams from the cylinder shoulder down 
+to the cylinder base area and from the cylinder base up 
+to the cylinder shoulder. Also the system must be set-
+up to perform circumferential ultrasonic angle beams in 
+both clockwise and counterclockwise rotation around the 
+cylinder. All defects (such as isolated pits, line 
+corrosion, sidewall defects (e.g. cracks, folds) and 
+line corrosion must be detected. The transducer or 
+cylinder must be arranged so that the ultrasonic beams 
+enter into the cylinder wall and measure thickness and 
+detect the sidewall flaws. The immersion UE system must 
+have a high speed board to digitize and capture each A-
+scan during examination of the cylinder. Gain control 
+accuracy must be checked for a new Ultrasonic System 
+with equipment that is calibrated in accordance with 
+industry standards for checking gain linearity accuracy 
+as published in the ASTM-E317 standard. Search units of 
+2.25 to 10 MHz nominal frequency and 1/4" to a 1" 
+diameter must be used during ultrasonic examination. A 
+manual contact shear or longitudinal search unit may be 
+used for confirmation and sizing of an indicated 
+defect. If manual UE is used, it must be performed  
+ 
+Continuation of DOT-SP 14149 (20th Rev.) 
+Page 4 
+ 
+September 11, 2015 
+under direct supervision of a Senior Review 
+Technologist by a minimum Level II operator and in 
+accordance with American Society of Testing Materials 
+(ASTM) practice E 213. 
+ 
+(2) Eddy Current Equipment - Equipment, such as Visual 
+Plus or Visual Eddy, must be capable of detecting the 
+notches on the standard reference ring.  
+ 
+c. Standard References 
+ 
+(1) 
+UE Reference Cylinder - A cylinder or a cylinder 
+section must be used as a standard reference and must 
+have similar acoustic properties, surface finish and 
+metallurgical condition as the cylinders under test.   
+The standard reference, (reference cylinder) must have a 
+known minimum design wall thickness (tm) which is less 
+than or equal to the cylinder under test. The standard 
+reference cylinder for cylinders less than or equal to 6-
+inches in diameter must have the same nominal diameter as 
+the cylinder being tested with a tolerance of +0%/-30%.   
+ 
+Cylinders greater than 6-inches in diameter must conform 
+to the allowable size ranges shown in the following 
+table: 
+ 
+ 
+ 
+Standard Reference 
+ 
+Cylinder Size Ranges 
+is being retested by UE 
+ 
+ 
+ 
+Outside Diameter (OD-inches) 
+Minimum OD-
+inches 
+Maximum OD-
+Inches 
+ 
+ 
+ 
+10.50 
+11.25 
+13.50 
+13.88 
+15.00 
+18.00 
+7 
+7.50 
+9.00 
+9.25 
+10.00 
+12.00 
+ 
+6.30 
+6.75 
+8.10 
+8.33 
+9.00 
+10.80 
+ 
+ 
+Prior to placing the simulated defects, such as minimum 
+wall thickness, the average minimum wall thickness for 
+the standard reference must be determined by means of an 
+independent method. 
+ 
+Continuation of DOT-SP 14149 (20th Rev.) 
+Page 5 
+ 
+September 11, 2015 
+ 
+ 
+(2)  The standard reference (reference cylinder) must be 
+prepared to include the following artificial defects: 
+ 
+ 
+ 
+ 
+(i)  The artificial defect for area corrosion will 
+be 0.70 square inch (in2) and the remaining wall 
+thickness must be at least the design minimum wall 
+for a cylinder being tested. 
+ 
+(ii)  The artificial defect for isolated pits in 
+cylinders less than or equal to 4 inches in diameter 
+consisting of an internal flat bottom hole (FBH) of 
+1/8 inch diameter and 1/3tm in depth. 
+ 
+(iii)  The artificial defect for isolated pits in 
+cylinders greater than 4 inches in diameter 
+consisting of an internal FBH of 1/4 inch diameter 
+and 1/3tm in depth. 
+ 
+(iv)  The artificial defect for line corrosion 
+consisting of two circumferential (one internal and 
+one external) and two longitudinal(one internal and 
+one external) notches. These notches shall be 
+electro discharge machine (EDM), measuring 0.10 tm in 
+depth, 1 inch in length and less than or equal to 
+0.010 inch width. 
+ 
+(3)  A certification statement signed by a DWC senior 
+review technologist (SRT) must be available for all 
+standard references at each site where retesting is 
+performed. The certification statement must include a 
+standard reference drawing for each size of cylinder. A 
+standard reference drawing must include dimensions and 
+the locations of each simulated defect. 
+ 
+(4)  Eddy Current Reference Ring - The reference ring 
+must be produced to represent one or more DOT 3AL 
+cylinders. The reference ring must include artificial 
+notches that simulate neck crack (SLC). The size of 
+artificial notch (depth and length) must be obtained 
+from the EE equipment manufacturer. A certification 
+statement signed by a DWC senior review technologist 
+(SRT) must be available for all EE reference rings at 
+each site where retesting is performed. The 
+certification statement must include a standard 
+reference drawing for each reference ring. The standard 
+reference drawing must include the depth of each notch, 
+diameter and type of DOT 3AL cylinder for which the 
+reference ring is used. 
+ 
+Continuation of DOT-SP 14149 (20th Rev.) 
+Page 6 
+ 
+September 11, 2015 
+ 
+d. System Standardization (Calibration) 
+ 
+(1)  Ultrasonic Examination (UE) System Standardization. 
+Prior to retesting each specific cylinder design and 
+type, the UE system must be standardized for testing by 
+using a standard reference. The standard reference must 
+be similar (material of construction, size, wall 
+thickness, etc.) to the identified cylinders to be 
+tested. Standardization of the UE system must be 
+performed by using a relevant reference cylinder that is 
+described in paragraph 7.c. of this special permit. The 
+standardization of the UE system is as follows:   
+ 
+(i)  A reference cylinder with an artificial defect 
+made to represent area corrosion must be placed in 
+the UE system. The UE system must be standardized to 
+indicate rejection for an area equal or greater than 
+the machined surface for the cylinder (0.70 in2). 
+Where the wall thickness is reduced below tm, a 
+straight ultrasound beam must be used to measure the 
+wall thickness of the machined area. 
+ 
+(ii)  A reference cylinder with a FBH made to 
+represent an isolated pit must be placed in the UE 
+system. The FBH must be detected by a minimum of two 
+shear wave beams that strike the FBH from opposite 
+sides (e.g. the first shear wave direction is from 
+top to bottom of the cylinder and the second 
+shear wave direction is from the bottom to top).  
+The UE gain must be increased until the signal from 
+FBH is maximized at 80 percent of the screen height. 
+ 
+(iii)  A reference cylinder with circumferential 
+notches made to represent line corrosion must be 
+placed in the UE system. Each internal and external 
+notch must be detected by a minimum of one shear 
+wave beam. The UE gain must be increased until the 
+signal from each notch is maximized at 80 percent of 
+the screen height. 
+ 
+(iv)  A reference cylinder with longitudinal notches 
+to represent a longitudinal sidewall crack (LSC) 
+must be placed in the UE system. Each internal and 
+external notch must be detected by a minimum of two 
+shear wave beams that strike the LSC from opposite 
+directions (e.g. the first shear wave direction is 
+clockwise and second shear wave direction is 
+ 
+Continuation of DOT-SP 14149 (20th Rev.) 
+Page 7 
+ 
+September 11, 2015 
+counterclockwise). The UE gain must be increased 
+until the signal from the notch is maximized at 80 
+percent of the screen height.  
+  
+(2) Eddy Current Examination (EE) Equipment 
+Standardization - The EE equipment must be standardized 
+for each type of DOT 3AL cylinder, using the standard 
+reference ring that includes simulated neck crack 
+notch. The EE system is considered standardized when 
+the probe is threaded into the mid-length of 
+standardization ring and the sensitivity adjusted to 
+produce a spike that crossed the gate (2 screen high) 
+as it passes over the simulated neck crack notch.   
+The details of the equipment standardization for each 
+type of DOT 3AL cylinder must be obtained from the 
+manufacturer’s instruction manual included as part of 
+this standardization procedure. 
+ 
+e.  Test Procedures. 
+ 
+(1) During the test, each cylinder must be examined by 
+the standardized (calibrated) UE system using a relevant 
+set-up that is described in paragraph 7.d. of this 
+special permit. 
+ 
+(2) 
+For each cylinder tested, all 5 scan passes must 
+be performed as they are described in paragraph 7.d. 
+ 
+(3)  A UE system that is set-up to perform a 5 pass 
+scan may perform a 3 pass scan if the longitudinal and 
+circumferential (clockwise) angle beam scans do not 
+detect a rejectable flaw. 
+  
+(4)  A copy of the operating test procedure (as 
+authorized in writing by the AAHMS) for performing UE, EE 
+and enhanced visual inspection of cylinder necks under 
+the terms of this special permit must be at each facility 
+performing ultrasonic examination. At a minimum, this 
+procedure must include: 
+ 
+(i)  A description of the test set-up; test 
+parameters; transducer model number, frequency, and 
+size; transducer assembly used; system 
+standardization procedures and threshold gain used 
+during the test; and other pertinent information.  
+ 
+Continuation of DOT-SP 14149 (20th Rev.) 
+Page 8 
+ 
+September 11, 2015 
+ 
+(ii) Requirement for the equipment standardization 
+to be performed at the end of the test interval 
+(cal-out), after 200 cylinders or four hours, which 
+ever occurs first. This cal-out can be considered 
+the cal-in for the next interval during continuous 
+operation. Cylinders examined during the interval 
+between cal-in and cal-out must be quarantined until 
+an acceptable cal-out has been performed. An 
+acceptable cal-out occurs when the calibration 
+cylinder is examined and all required features are 
+revealed without changing examination settings. If 
+an acceptable cal-out does not occur, if any 
+equipment that affects the UE results are replaced 
+or altered (such as a search unit or coaxial cable 
+etc.) or when a loss of power occurs, all cylinders 
+examined since the last successful calibration must 
+be re-examined. Additionally, standardization of 
+test equipment shall be performed when any of the 
+following occurs: the beginning of each work shift; 
+when the cylinder under test has dimensions that 
+exceed the allowable ranges of the reference 
+cylinder; when there is a change of operator(s); if 
+any equipment that affects the UE results are 
+replaced or altered (such as a search unit or 
+coaxial cable etc.) or when a loss of power occurs; 
+and at the end of each work shift. 
+ 
+ 
+ 
+ 
+(5)  A written copy of the most recent approved operating 
+ 
+ 
+test procedures must be provided to a DOT representative 
+ 
+ 
+when requested. Any change to the written procedures or 
+ 
+ 
+in UE or EE equipment (software or hardware), other than 
+ 
+ 
+as supplied by the original equipment manufacturer, must 
+ 
+ 
+be submitted to and approved by AAHMS prior to  
+ 
+ 
+ 
+implementation. 
+ 
+ 
+(6)  The equipment may not allow testing of a cylinder 
+unless the system has been properly standardized 
+(calibrated). 
+ 
+(7)  The rotational speed of a reference cylinder must be 
+such that all simulated defects are adequately detected, 
+measured and recorded. 
+ 
+(8)  The rotational speed of the cylinder under UE must 
+not exceed the rotational speed used during the 
+standardization. 
+ 
+ 
+Continuation of DOT-SP 14149 (20th Rev.) 
+Page 9 
+ 
+September 11, 2015 
+(9)  The pulse rate must be adjusted to ensure a minimum 
+of 10% over-lapped for each helix. 
+ 
+(10) The area of ultrasonic examination (UE) coverage 
+must be 100% of the cylindrical section. The coverage 
+must extend at least three inches into the sidewall-to-
+base transition taper. 
+ 
+(11) The area of eddy current and enhanced visual 
+examination coverage must be 100% of the threaded neck of 
+the cylinder. 
+  
+(12)  The external surface of the cylinder to be examined 
+must be free of loose material such as scale and dirt. 
+ 
+f.  Acceptance/Rejection Criteria 
+ 
+(1)  UE Acceptance/Rejection Criteria.  A cylinder must 
+be rejected based on any of the following: 
+ 
+(i)  The wall thickness is less than the design 
+minimum wall thickness for the area described in 
+the standardization section herein, paragraph 7.d. 
+ 
+(ii)  If any of the flaws such as the isolated 
+pit, circumferential line corrosion or 
+longitudinal sidewall crack (LSC) which meet the 
+rejection criteria and produce a signal with an 
+amplitude which crosses the reference threshold 
+set in the standardization section (paragraph 
+7.d.). 
+ 
+(2)  EE and Enhanced Visual Examination 
+Acceptance/Rejection Criteria of the Neck Crack 
+(Sustain Load Crack). 
+ 
+(i) 
+EE Reject Criteria - One-quarter screen 
+height indications on two consecutive revolutions 
+of the probe at approximately the same bore 
+location are cause for visual follow up inspection 
+for final disposition. 
+ 
+(ii) Enhanced Visual Examination/Verification -
+Enhanced visual inspection shall be performed 
+before and after eddy current examination or when 
+required by eddy current examination. The 
+inspection is performed with the use of 
+supplemental tools, which typically include an 
+ 
+Continuation of DOT-SP 14149 (20th Rev.) 
+Page 10 
+ 
+September 11, 2015 
+inspection light and mirror. The light is a high 
+intensity type and the mirror a 2-inch diameter 2X 
+dental mirror. 
+ 
+(A)  Visual Examination Reject Criteria 
+ 
+(1)  Neck Cracks:  Cylinders with neck 
+cracks must be condemned. Repair of neck 
+cracks is not allowed. 
+ 
+(2)  Folds:  Condemn all cylinders with 
+folds that enter into more than one 
+continuous full neck thread. 
+ 
+(3)  Valleys:  Cylinders with one or 
+more valleys are acceptable for use, 
+provided the valley(s) does not enter 
+into the minimum number of required 
+threads. Seven full threads for tapered 
+threads and six full threads for 
+straight threads. 
+ 
+(4)  Threads:  Cylinders must be 
+condemned if seven continuous full 
+threads for tapered threads or six 
+continuous full threads for straight 
+threads are not present. A thread shall 
+be considered full if its root and crest 
+display no significant visual difference 
+to that of the uppermost cylinder 
+thread. Threads that do not meet this 
+criteria are considered to be incomplete 
+or a partial thread.  
+ 
+(5)  Tool Stop Mark:  A neck with a tool 
+stop mark is to be distinguished from a 
+crack. Cylinders with tool stop marks 
+are acceptable for use. 
+ 
+g. Rejected cylinders:  When a cylinder is rejected, the 
+retester must stamp a series of X’s over the DOT specification 
+number and marked service pressure, or stamp “CONDEMNED” on 
+the shoulder, top head, or neck using a steel stamp, and must 
+notify the cylinder owner, in writing, that the cylinder is 
+rejected and may not be filled with hazardous material for 
+transportation in commerce.   
+ 
+Continuation of DOT-SP 14149 (20th Rev.) 
+Page 11 
+ 
+September 11, 2015 
+ 
+(1)  Alternatively, at the direction of the owner, the 
+retester may render the cylinder incapable of holding 
+pressure. 
+ 
+(2)  If a condemned cylinder contains hazardous materials 
+and the testing facility does not have the capability of 
+safely removing the hazardous material, the retester must 
+stamp the cylinder “CONDEMNED” and affix conspicuous 
+labels on the cylinder(s) stating: “UE REJECTED DOT-SP 
+14149. RETURNING TO ORIGIN FOR PROPER DISPOSITION”. The 
+retester may only offer the condemned cylinders for 
+transportation by a motor vehicle operated by a private 
+carrier to a facility, identified to, and acknowledged in 
+writing with OHMSAPD that is capable of safely removing 
+the hazardous material. A current copy of this special 
+permit must accompany each shipment of condemned 
+cylinders transported for the disposal of hazardous 
+material. 
+ 
+h.  Marking. 
+Each cylinder passing requalification under the 
+provisions of this special permit must be marked as prescribed 
+in accordance with § 180.213. In addition, each cylinder must 
+be marked UE, in characters not less than 1/4" high for a 
+cylinder with a diameter equal to or greater than 4 inches and 
+1/8" high for a cylinder with a diameter less than 4 inches. 
+DOT 3AL cylinders that were manufactured from AA 6351 and 
+examined by eddy current examination must be marked with UE/EE 
+in characters described herein. The UE/EE may be replaced by 
+UEEE for cylinders with a diameter less than 4 inches. The 
+marking must be at a location close to the retester's marking. 
+ 
+i. 
+UE Report.  A report must be generated for each cylinder 
+that is examined. The SRT must prepare and submit the reports 
+required below and annually certify that the UE program is 
+being operated in accordance with the requirements of this 
+special permit. The UE, EE and visual inspection report must 
+include the following: 
+ 
+(1)  UE and EE equipment, model and serial number 
+(2) Transducer specification, size, frequency and 
+manufacturer 
+(3) Specification of each standard reference used to 
+perform UE and EE. UE standard reference must be 
+identified by serial number or other stamped 
+identification marking. 
+(4)  Cylinder serial number and type 
+(5)  UE technician’s name and certification level 
+ 
+Continuation of DOT-SP 14149 (20th Rev.) 
+Page 12 
+ 
+September 11, 2015 
+(6)  Examination Date  
+(7)  Location and type of each defect on the cylinder  
+(e.g. longitudinal line corrosion 5 inches from 
+base) 
+(8)  Dimensions (area, depth and remaining wall 
+thickness) and brief description of each defect 
+(9)  Acceptance/rejection results  
+ 
+(10) The reports must be on file at each test facility, 
+ 
+ 
+and copies provided to a DOT official when 
+ 
+ 
+requested. 
+ 
+j. Personnel Qualification:  Each person who performs 
+retesting, and evaluates and certifies retest results must 
+meet the following qualification requirements: 
+ 
+       (1) 
+Project Manager/Director of Product Technology - 
+is the senior manager of DWC responsible for 
+compliance with DOT regulations including this 
+special permit. Additionally, the project manager 
+must ensure that each operator and senior review 
+technologist maintains the required certifications 
+described herein. 
+ 
+(2) The personnel responsible for performing cylinder 
+ 
+retesting under this special permit must be 
+ 
+qualified to an appropriate Ultrasonic Testing 
+ 
+Certification Level (Level I, II or III) in 
+ 
+accordance with the American Society for 
+ 
+Nondestructive Testing (ASNT) Recommended Practice 
+ 
+SNT-TC-1A depending upon the assigned 
+ 
+responsibility as described below: 
+ 
+(i)  System startup and calibration must be 
+performed by a Level II operator. A Level II 
+operator may review and certify test results. 
+However, written procedures for 
+accepting/rejecting a cylinder must be provided by 
+the senior review technologist. Based upon written 
+criteria, the Level II Operator may authorize 
+cylinders that pass the retest to be marked in 
+accordance with paragraph 7.h. of this special 
+permit. A person with Level I certification may 
+perform a system startup, check calibration, and 
+perform ultrasonic testing under the direct 
+guidance and supervision of a Senior Review 
+Technologist or a Level II Operator, either of 
+whom must be physically present at the test site 
+so as to be able to observe testing conducted 
+ 
+Continuation of DOT-SP 14149 (20th Rev.) 
+Page 13 
+ 
+September 11, 2015 
+under this special permit. 
+ 
+(ii)  Senior Review Technologist (SRT) - is a 
+person who provides written UE procedure, 
+supervisory training, examinations (Level I and 
+II) and technical guidance to operators, and 
+reviews and verifies the retest results. A SRT 
+must have a thorough understanding of the DOT 
+Regulations (49 CFR) pertaining to the 
+requalification and reuse of DOT cylinders that 
+are authorized under both this special permit and 
+ASNT Recommended Practice SNT-TC-1A and must 
+possess either: 
+ 
+A. A Level III certification from ASNT in 
+Ultrasonic Testing; or, 
+ 
+B. A Professional Engineer (PE) License 
+with a documented experience for a minimum 
+of 2 years experience in Non-Destructive 
+Evaluation (NDE) of pressure vessels or 
+pipelines using the ultrasonic examination 
+technique; or, 
+ 
+C. A PhD degree in a discipline 
+of Engineering/Physics with documented 
+evidence of experience in Non-Destructive 
+Evaluation (NDE) of pressure vessels or 
+pipelines using the ultrasonic examination 
+technique or research/thesis work 
+and authoring/co-authoring of technical 
+papers published, in recognized technical 
+journals, in the fields of ultrasonic 
+testing methods. 
+ 
+D. The SRT must prepare and submit the 
+reports required in paragraphs 7.i. and 
+annually verify that the UE program is 
+being operated in accordance with the 
+requirements of this special permit. 
+ 
+The most recent copies of certification (e.g. ASNT Level 
+III, P.E.) must be available for inspection at each 
+requalification facility. 
+ 
+Continuation of DOT-SP 14149 (20th Rev.) 
+Page 14 
+ 
+September 11, 2015 
+ 
+k.  OPERATIONAL CONTROLS. 
+ 
+(1) 
+No person may perform inspection and testing of 
+cylinders subject to this special permit unless: 
+ 
+(i)  That person is an employee or agent of DWC and 
+has a current copy of this special permit at the 
+location of such inspection and testing; and 
+ 
+(ii)  That person complies with all the terms and 
+conditions of this special permit; and  
+ 
+(iii) That person is listed on Attachment 1 of 
+this special permit.  
+ 
+(2)  The marking of the retester's symbol on the 
+cylinders certifies compliance with all of the terms and 
+conditions of this special permit and the HMR. 
+ 
+(3)  Each facility approved by OHMSPA to test cylinders 
+under the terms of this special permit must have a 
+resident operator with at least an ASNT Level II 
+Certification in UT. 
+ 
+(4) The UE and EE equipment and operating procedures 
+identified in this special permit are only authorized for 
+use when the approved SRT is available (or alternatively 
+available by telephone or other electronic means) at each 
+facility operating under the special permit. 
+ 
+(5)  Notwithstanding the requirements of a RIN Approval 
+for notification of address and personnel changes, any 
+change in Project manager or SRT, with appropriate 
+documentation (i.e. ANST certification), must be 
+submitted to and acknowledged in writing by OHMSPA 
+immediately. 
+ 
+8. 
+SPECIAL PROVISIONS: 
+ 
+a.  The ultrasonic examination (UE) data, results, and 
+additional technical information deemed pertinent in 
+successful application of the UE must be  recorded and kept 
+at each facility for a minimum of 5 years after completion 
+of UE. For any rejected cylinder, the defect causing the 
+rejection must be fully characterized and profiled. That is, 
+the specific type of defect should be identified (i.e. 
+isolated pits, line corrosion or SBT crack) and the specific 
+ 
+Continuation of DOT-SP 14149 (20th Rev.) 
+Page 15 
+ 
+September 11, 2015 
+size of the defect should be determined (i.e. length, depth, 
+width, diameter, area, etc.). The record includes cylinder 
+type, size, minimum design wall thickness, age, etc. of the 
+rejected cylinder.   
+ 
+b.  Shippers (offerors) may use the cylinders specified and 
+tested in accordance with the provisions of this special 
+permit for the transportation in commerce of those hazardous 
+materials specified herein, provided no modifications or 
+changes are made to the cylinders. All terms of this special 
+permit and other applicable requirements contained in 49 CFR 
+Parts 100-185 must be met. 
+ 
+c. 
+Transportation of Division 2.1 (flammable gases) and 
+Division 2.3 (gases which are poisonous by inhalation) are not 
+authorized aboard cargo vessel or aircraft unless specifically 
+authorized in the Hazardous Materials Table (§ 172.101). 
+ 
+d. 
+Transportation of oxygen is only authorized by aircraft 
+when in accordance with § 175.501. 
+ 
+e. 
+Upon approval of this special permit Digital Wave may 
+continue to requalify cylinders as described herein. However, 
+PHMSA will visit the Digital Wave facility at which time 
+Digital Wave must demonstrate that the system performs as 
+stated in the application. 
+ 
+9. 
+MODES OF TRANSPORTATION AUTHORIZED:  Motor vehicle, rail 
+freight, cargo vessel, cargo aircraft only and passenger-
+carrying aircraft, as currently authorized by the regulations 
+for the hazardous materials being transported. 
+ 
+10. MODAL REQUIREMENTS:  None, other than as required by the HMR. 
+ 
+11. COMPLIANCE:  Failure by a person to comply with any of the 
+following may result in suspension or revocation of this 
+special permit and penalties prescribed by the Federal 
+hazardous materials transportation law, 49 U.S.C. 5101 et 
+seq: 
+ 
+o 
+All terms and conditions prescribed in this special 
+permit and the Hazardous Materials Regulations, 49 CFR 
+Parts 171-180.  
+ 
+o 
+Persons operating under the terms of this special 
+permit must comply with the security plan requirement 
+in Subpart I of Part 172 of the HMR, when applicable. 
+ 
+Continuation of DOT-SP 14149 (20th Rev.) 
+Page 16 
+ 
+September 11, 2015 
+o   Registration required by § 107.601 et seq., when 
+ 
+applicable. 
+ 
+Each "Hazmat employee", as defined in § 171.8, who performs 
+a function subject to this special permit must receive 
+training on the requirements and conditions of this special 
+permit in addition to the training required by §§ 172.700 
+through 172.704. 
+ 
+No person may use or apply this special permit, including 
+display of its number, when this special permit has expired 
+or is otherwise no longer in effect. 
+ 
+Under Title VII of the Safe, Accountable, Flexible, 
+Efficient Transportation Equity Act: A Legacy for Users 
+(SAFETEA-LU)—“The Hazardous Materials Safety and Security 
+Reauthorization Act of 2005” (Pub. L. 109-59), 119 Stat. 
+1144 (August 10, 2005), amended the Federal hazardous 
+materials transportation law by changing the term 
+“exemption” to “special permit” and authorizes a special 
+permit to be granted up to two years for new special permits 
+and up to four years for renewals. 
+ 
+12. REPORTING REQUIREMENTS:  Shipments or operations conducted 
+under this special permit are subject to the Hazardous 
+Materials Incident Reporting requirements specified in 49 
+CFR §§ 171.15 Immediate notice of certain hazardous 
+materials incidents, and 171.16 Detailed hazardous materials  
+incident reports. In addition, the grantee(s) of this 
+special permit must notify the Associate Administrator for 
+Hazardous Materials Safety, in writing, of any incident 
+involving a package, shipment or operation conducted under 
+terms of this special permit.  
+ 
+Issued in Washington, D.C.:   
+ 
+for Dr. Magdy El-Sibaie 
+Associate Administrator for Hazardous Materials Safety 
+ 
+Address all inquiries to:  Associate Administrator for Hazardous 
+Materials Safety, Pipeline and Hazardous Materials Safety 
+Administration, Department of Transportation, Washington, D.C.  
+20590.  Attention:  PHH-31. 
+ 
+Continuation of DOT-SP 14149 (20th Rev.) 
+Page 17 
+ 
+September 11, 2015 
+ 
+Copies of this special permit may be obtained by accessing the 
+Hazardous Materials Safety Homepage at 
+http://hazmat.dot.gov/sp_app/special_permits/spec_perm_index.htm 
+Photo reproductions and legible reductions of this special permit 
+are permitted. Any alteration of this special permit is prohibited. 
+  
+PO:  Toughiry/SG 
+ 
+I011 – Praxair, Canada, Inc. 
+41 Consolidated Drive 
+Paris, ON N3L 3G2 
+ 
+I129 – Airweld, Inc. 
+94 Marine Street 
+Farmingdale, NY  11735 
+ 
+H569 – ACS UE Testing LLC 
+1680 Tide Court, Suite B 
+Woodland, CA  95776 
+ 
+H447 – ACS UE Testing LLC 
+460 Horizon Drive, Suite 200 
+Suwanee, GA  30024 
+ 
+H614 – ACS UE Testing LLC 
+1080 Mount Vernon, Suite 103 
+Riverside, CA  91507 
+ 
+H547 – ACS UE Testing LLC 
+16 Creek Parkway 
+Boothwyn, PA  19061 
+ 
+H859 – ACS UE Testing LLC 
+15320 W. 101st Terrace 
+Lenexa, KS  66215 
+ 
+H906 – ACS UE Testing LLC 
+7353 Company Drive 
+Indianapolis, IN  46237 
+ 
+H833 – DeLLILE Oxygen Company 
+772 Marion Road 
+Columbus, OH  43207 
+ 
+B804 – OXARC, Inc. 
+716 South Oregon Avenue 
+Pasco, WA  99301 
+ 
+I140 – Central Welding 
+13326 38th Avenue N.E. 
+Marysville, WA  98271 
+ 
+B888 - Praxair P.R.B.V 
+P.O. Box 307, Int. Routes 189 and 931 
+Bo. Navaro Gurabo, P.R. 07788 U.S.  
+Continuation of DOT-SP 14149 (20th Rev.) 
+Page 18 
+ 
+September 11, 2015 
+Attachment 1 
+ 
+Only the following locations have been authorized by OHMSPA to 
+perform requalification functions described in this special 
+permit.  Each authorization is valid only when the associated RIN 
+approval and this special permit remain current.  As acknowledged 
+by the list of names and locations below, the grantee of this 
+special permit must notify OHMSPA of any change in approval 
+status, company name, address, or new test facility additions 
+within 20 days of that change. 
+ 
+ 
+ 
+G691 - Gateway  
+200 Plaza St.  
+Highland IL 62249  
+ 
+B793 - Praxair Disbribution Mid-Atlantic 
+ 
+LLC dba GTS Welco 
+One Steel Road East 
+Morrisville, PA  19067 
+ 
+H854---Kansan Co., Ltd. 
+3156 Kuragano  
+Takasaki Gumma 370-1201  
+Japan 
+ 
+I069 – Cryogenic Solutions, LLC. 
+1936 S. Lynhurst Drive, Suite P 
+Indianapolis, IN  46241 
+ 
+I095 – ACS UE Testing LLC 
+1660 Highway 301 South 
+Dunn, NC  28334 
+ 
+I115 – Shesam, Inc. DBA Wilson Supply 
+15401 McMullen Highway 
+Cumberland, MD  21502 
+ 
+C419 – Norco, Inc. 
+898 W. Gowen Rd. 
+Boise, ID  83705 
+ 
+D491 – Sky Cylinder Testing, Inc 
+2220 Lexington Road 
+Evansville, IN 
+ 
+ 
+B921 – Fire King of Seattle, Inc. 
+240 S. Holden Street 
+Seattle, WA  98108 
+ 
+H848 – Cylinder Sally, Inc. 
+1920 De La Cruz Boulevard 
+Santa Clara, CA  95050 
+ 
+A103 – Praxair Distribution, Inc. 
+2771 S. Maple Avenue 
+Fresno, CA  93275 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Continuation of DOT-SP 14149 (20th Rev.) 
+Page 19 
+ 
+September 11, 2015 
+I253 - Praxair Distribution, Inc. 
+59624 Linden Rd. 
+South Bend, IN  46614 
+ 
+I171 – Praxair Indianapolis, Inc 
+1400 Polco Street 
+Indianapolis, IN   46222 
+ 
+B363 – West Air gases 
+2300 Haffley Ave. 
+National City, CA  91950 
+ 
+C036 – Purity Cylinder Gases 
+2940 Clydon St. SW 
+Wyoming, MI  49519-2106 
+ 
+I146 – Hydrostat Inc. 
+330 1st Ave. SE 
+Rice, MN  56367 
+ 
+I152 – Community Surgical Supply 
+1520 Rt. 37 W, Ste. 5 
+Toms River, NJ  08755 
+ 
+D061 – Sky Cylinder Testing South 
+871 Wheeler St. NW 
+Atlanta, GA  77066 
+ 
+I304 – Coastal Welding Supply 
+2155 Interstate 10 East 
+Beaumont, TX  77701 
+ 
+I172 – Argyle Welding Supply 
+550 N. Telshor Blvd. 
+Las Cruces, NM  88011 
+ 
+I315 – ACS UE Testing LLC 
+1201 Douglas Ave. 
+Kansas City, KS  66103 
+ 
+I384 – ACS UE Testing LLC 
+3147 Progress Circle 
+Mira Loma, CA  91752 
+ 
+I364 – Praxair Houston 
+10205 Sweetwater Lane 
+Houston, TX 77037 
+ 
+G510 – Gas Innovations 
+18005 E. Hwy 225 
+LaPorte, TX 77571 
+ 
+G676 – ACS UE Testing LLC 
+7910 Shaffer Pkwy 
+Littleton, CO 80127 
+ 
+B492 – General Distributing Company 
+430 17th Ave. N.E. 
+P.O. Box 2606 
+Great Falls, MT 59404 
+ 
+I539 – A-OX Welding Supply Company, Inc. 
+P.O. Box Drawer 86667 
+Sioux Falls, SD 57118-6667 

@@ -1,0 +1,380 @@
+ 
+DEPARTMENT OF TRANSPORTATION 
+FEDERAL AVIATION ADMINISTRATION 
+E22NE 
+Revision - 2 
+ALFA ROMEO 
+AR318-02 
+ 
+March 26, 2007 
+ 
+TYPE CERTIFICATE DATA SHEET NO. E22NE 
+ 
+Engines of models described herein conforming with this data sheet (which is part of Type Certificate No. E22NE) and other 
+approved data on file with the Federal Aviation Administration, meet the minimum standards for use in certificated aircraft in 
+accordance with pertinent aircraft data sheets and applicable portions of the Civil Air Regulations provided they are installed, 
+operated and maintained as prescribed by the approved manufacturer's manuals and other approved instructions. 
+ 
+Type Certificate Holder: 
+Alfa Romeo Avio S.p.A. 
+ 
+Pomigliano d'Arco (Napoli) 
+ 
+Italia 
+ 
+Model: 
+AR318-02 
+ 
+Type: 
+The AR318-02 is a single-shaft turboprop engine comprising a single stage centrifugal 
+compressor, a reverse flow annular combustion chamber, and a two stage axial turbine.  
+An integral main reduction and accessory gearbox is driven by a forward extension of the 
+compressor shaft and has provisions for a starter-generator unit, fuel pump and control 
+system, propeller governor, oil pump and aircraft accessories.  One aircraft bleed air port 
+is provided. 
+ 
+Ratings: (see Note 1) 
+SHP (KW) 
+     Maximum Continuous, sea level static 
+    563  
+(420) 
+     Takeoff (5 minutes), sea level static 
+    607  
+(453) 
+ 
+ 
+ 
+Limitations: (see Note 2)  Gas Generating operating speed 
+RPM 
+     Takeoff (5 minutes) rating (maximum) 
+38,095 
+(100%) 
+     Maximum continuous rating (maximum) 
+37,523 
+(98.5%) 
+     Flight idle (minimum) 
+36,190 
+(95%) 
+ 
+ 
+ 
+Temperature Limitations: (see Note 3) Max. permissible interstage turbine temp. 
+ITT 
+     Takeoff (5 minutes) rating 
+1313°F 
+(712°C) 
+     Maximum continuous rating 
+1284°F 
+(696°C) 
+     Maximum transient starts 
+1382°F 
+(750°C) 
+ 
+ 
+ 
+Fuel Temperature: Measured at engine pump inlet 
+ 
+ 
+     Minimum at start 
+ - 31°F 
+(- 35°C) 
+     Maximum 
+ 104°F 
+(40°C) 
+ 
+ 
+ 
+Oil Temperature: Measured at supply oil pump inlet 
+ 
+ 
+     Minimum at start 
+   - 4°F 
+(- 20°C) 
+     Maximum 
+ 131°F 
+(55°C) 
+ 
+ 
+ 
+Output Shaft Torque Limitations: 
+ 
+ 
+     Takeoff (5 minutes) 
+1589   (lb.-ft.) 
+     Maximum continuous 
+1496   (lb.-ft.) 
+ 
+ 
+ 
+Fuel and Oil Pressure Limitations: 
+ 
+ 
+     Fuel (measured at engine FCU pump inlet) 
+ 
+ 
+        Minimum 
+  7 psig 
+ 
+        Maximum 
+50 psig 
+ 
+   The engine will operate satisfactorily with fuel pressure at the fuel control inlet 5 psi above the vapor pressure of the fuel inlet temperature. 
+     Oil (measured at oil filter outlet) 
+ 
+ 
+Page No. 
+1 
+2 
+3 
+Rev No. 
+2 
+1 
+2 
+Reformatted 8/94. 
+E22NE 
+2 
+        Minimum 
+60 psig 
+ 
+        Maximum 
+70 psig 
+ 
+ 
+ 
+ 
+Ambient Temperature Limitation: 
+Permissible ambient temperature range for engine start: 
+     Sea Level 
+- 4°F to 104°F (- 20°C to 40°C) 
+     10,000 ft. 
+- 4°F to   86°F (- 20°C to 30°C) 
+   NOTE: Additional data on engine start are specified in Alfa Romeo Avio AR318-02 Operating and Installation Instructions Manual. 
+ 
+Fuel Control System: 
+(a)  Fuel control unit (FCU), Lucas Ltd. type PGC 302 
+ 
+(b)  Speed and temperature amplifier (ECU), Lucas Ltd. type STA-550 
+Accessory Provisions: 
+ 
+ 
+Drive 
+ 
+Type 
+ 
+Rotation 
+ 
+*Speed 
+ 
+Maximum Torque 
+Maximum Overhang 
+ 
+Moment 
+ 
+ 
+ 
+ 
+ 
+ 
+(N.m) 
+(lb.-in.) 
+(N.m) 
+(lb.-in.) 
+ 
+Starter/Generator 
+Lear Siegler 
+CW 
+0.256 
+9.10 
+80.52 
+13.78 
+122 
+ 
+Fuel Pump 
+Lucas 
+PGC 302 
+CW 
+0.162 
+1.96 
+17.36 
+  6.21 
+  55 
+ 
+Propeller Governor 
+Woodward 
+82010-080 
+CW 
+0.102 
+1.63 
+14.44 
+  1.29 
+      11.45 
+388 lbs. (176 kg.) 
+ 
+Oil Pump 
+ 
+CW 
+0.262 
+1.64 
+14.52 
+  1.80 
+    15.9 
+ 
+ 
+ 
+*Speed = ratio to engine 
+ 
+ 
+ 
+ 
+Torque Measurement System: 
+(a)  Torque signal conditioning unit (SCU), Simmonds Precision, type 473265-001. 
+ 
+(b)  Torque and speed sensor, Simmonds Precision, type 473216. 
+ 
+Propeller Governor: 
+Woodward, type 8210-080 
+ 
+Interstage Temperature Sensor: 
+Smiths Industries, type 3101-RTH-1 
+ 
+Low Oil Pressure Switch: 
+Smiths Industries, type 4502/KPS/6/35 
+ 
+Ignition System: 
+Three torch ignitors, Lucas, type 08107 
+ 
+Two ignitor plugs, Auburn, type YB63-1 
+ 
+Ignition box, Simmons Precision, type 49930 
+ 
+Starter Generator: 
+Lear Siegler, type 23046-028 
+ 
+ 
+Fuel: (See NOTE 4) 
+Type:  JP-1 (Aviation Kerosene), JP-4 
+ 
+Oil: (See NOTE 5) 
+Type (synthetic, conforming to MIL-L-23699C):  Shell ASTO 500 
+ 
+Principal Dimensions: 
+Length  41.3 in. (1049 mm) 
+ 
+Width   21.57 in. (548 mm) 
+ 
+Center of Gravity Locations: 
+Complete engine with accessories except spinner and propeller. 
+ 
+Forward of engine gearbox/front mount pad: 
+7.32 in. (186 mm) 
+ 
+On the left side of propeller shaft center line, rear view: 
+0.27 in. (6.8 mm) 
+ 
+Weight: 
+Basic engine weight: 
+356 lbs. (161.5 kg.) 
+ 
+Dry (includes FCU, oil pump, levers, oil/fuel pipes;  excludes 
+propeller, spinner, propeller governor, starter generator, 
+unfeathering pump): 
+ 
+Propeller, spinner, propeller governor, starter generator, 
+unfeathering pump: 
+150 lbs. (68 kg.) 
+ 
+ 
+Certification Basis: 
+Federal Aviation Regulations (FAR's) 21.29 and 33 through Amendment 9, inclusive.  
+Pursuant to FAR 21.29 (a) (1) (ii) the type certificate was issued in validation of Registro 
+Aeronautico Italiano (RAI) certification to RAI requirements, Part 233 (Amendment 9). 
+ 
+Date of type certification application:  April 21, 1982. 
+E22NE 
+3 
+The aviation authority for Italy, Ente Nazioonale per l’Aviazione Civile (ENAC) (formerly Registro Aeronautico Italiano), 
+originally type certificated this engine. The FAA validated this product under U.S. Type Certificate Number E22NE. Effective 
+September 28, 2003, the European Aviation Safety Agency (EASA) began oversight of this product on behalf of Italy. 
+ 
+Import Requirements: 
+To be considered eligible for installation on U.S. registered aircraft, each new engine to be exported to 
+the United States with ENAC or EASA airworthiness approval shall have a Joint Aviation Authorities 
+(JAA) or EASA Form 1, Authorized Release Certificate.  The JAA or EASA Form 1 should state that 
+the engine conforms to the type design approved under the U.S. Type Certificate E22NE is in a 
+condition for safe operation and has undergone a final operational check. 
+ 
+  
+NOTE 1. 
+Engine ratings are based on calibrated test stand performance under the following conditions: 
+ 
+- Nominal output shaft speed of 2,006 rpm. 
+ 
+- Static sea level standard conditions of 59°F (15°C) and 29.92 in. Hg (1 atm). 
+ 
+- Air intake: air intake box and mounting shroud, P/N 180.30.72.100 E02, intake flare, P/N L22091 (DLF 10311). 
+ 
+- Exhaust configuration, P/N LF 133203. 
+ 
+- No external air bleed or accessory drive power for aircraft accessories. 
+ 
+- Additional performance parameters are contained in Alfa Romeo Avio AR318-02 Operating and Installation  
+ 
+  Instructions Manual. 
+ 
+NOTE 2. 
+100% output shaft speed equals 2,006 rpm, corresponding to 38,095 turbine rpm. 
+ 
+NOTE 3. 
+The interstage inlet gas temperature (ITT) is measured by eight (8) thermocouples mounted in a radial plane at the 
+second stage turbine nozzle. 
+ 
+NOTE 4. 
+Approved fuels and additives are listed in Alfa Romeo Avio AR318-02 Operating and Installation Instructions 
+Manual. 
+ 
+NOTE 5. 
+Any derogation from oil type specified herein must be declared in approved Alfa Romeo Service Instructions. 
+ 
+NOTE 6. 
+The installation of engine must be such that ingestion of birds is prevented. 
+ 
+NOTE 7. 
+Life limited parts and accountability methods are identified in Alfa Romeo Avio AR318-02 Continued 
+Airworthiness Instructions, RAI approved.  The time of first overhaul is equal to 750 hours. 
+ 
+NOTE 8. 
+AR318-02 manual approved under RAI requirements as equivalent to FAR 33.4 and 33.5 (Amendment 9) 
+requirements are as follows: 
+- Installation Instructions 
+ 
+AR318-02 Installation Instruction Manual 
+- Operation Instructions  
+AR318-02 Operating Instructions Manual 
+- Maintenance 
+AR318-02 Maintenance Manual 
+- Overhaul 
+AR318-02 Overhaul Manual 
+- Performance 
+AR318-02 Technical specification document 
+ 
+NOTE 9. 
+Overhaul of engine must comply with the AR318-02 Overhaul Manual. 
+ 
+NOTE 10. 
+The air inlet pressure distortion limits are defined in AR318-02 Operating and Installation Manual. 
+ 
+ 
+NOTE 11.     Each of the documents listed below must state that it is approved by the European Aviation Safety Agency (EASA)  
+or, for approvals made before September 28, 2003 by Ente Nazionale per l’Aviazione Civile (ENAC) or 
+Registro Aeronautico Italiano (RAI). Any such documents including those approved under a delegated 
+authority, are accepted by the FAA and are considered FAA approved.  
+ • Service bulletins,  
+ • Structural repair manuals,  
+ • Vendor manuals,  
+ • Aircraft flight manuals, and  
+ • Overhaul and maintenance manuals.  
+  
+These approvals pertain to the type design only. 
+ 
+ 
+...END... 

@@ -1,0 +1,99 @@
+Document�Level�Adjustment�Business�Rules�
+General Information 
+To correct incorrectly recorded costs, adjustments should be made at the document or detail level to provide 
+an adequate audit trail. 
+Document Level Adjustments (DLA’s) should be used to correct fully disbursed obligations and no match 
+transactions.  Please note the DLA process transfers costs, not resources. The process transfers dollar 
+amounts as paid costs. For partially disbursed obligations, modifications should be processed through the 
+normal obligation channels (Contracts/ Grants through AGO and Legacy/ Interagency Agreements through 
+the Finance Office). Amounts in undelivered orders cannot be transferred using the DLA process. Bankcard 
+reconciliation errors can also be adjusted using DLAs. 
+Required Approvals 
+ALL DLA’S regardless of the amount must be reviewed and approved with signatures by the 
+Originator’s Supervisor or equivalent before being submitted to AOD for posting.  [See CBS 
+Document Level Adjustment Approval Form] 
+DLA’S regardless of the amount between two different fund codes and or program codes, or any 
+document level adjustment of $500K or more MUST be reviewed and approved with signatures by the LO/SO 
+Budget Execution Lead AND the LO Chief Financial Officer (CFO) or Staff Office Director, AND the NOAA or 
+BIS Budget Execution Office (BEX) before being submitted to AOD for posting. [See CBS Document Level 
+Adjustment Approval Form] 
+Transfers between Organizations and/or Financial Management Centers (FMCs): Any DLA that is 
+transferring costs between organizations and/or FMCs requires the signed approval of the affected 
+organization.  The originator of the DLA must obtain the signed approval form from the affected 
+organization which contains a statement that they concur with the DLA action and it is appropriate for 
+approval. [See CBS Document Level Adjustment Approval Form] 
+Business Rules for Document Level Adjustments 
+The following NOAA Business Rules apply when processing DLAs using the CBS Payment Management 
+PM006- Advice of Correction Transaction Screen. See the Document Level Adjustment Standard Operating 
+Procedures for internal finance office adjustments. 
+FROM and TO Fund Code Fiscal Year must Match.  Both the ‘FROM’ and ‘TO’ sides of a transaction 
+must cite the same Fund Code Fiscal Year (FCFY).  Costs from one FCFY may not be transferred into another 
+FCFY. For example, costs recorded against FCFY 2011 may not be transferred into FCFY 2012. The only 
+exceptions are: 
+ FCFY Exception 1: No Match Overruns- FCFY can only move forward from a prior FCFY to the
+current FCFY. [Exception must be noted in business rules violation justification]
+ FCFY Exception 2: Interest Penalties- For object class 43-01, FCFY can only move forward from a
+prior FCFY to the current FCFY. [This exception should be exercised if no other recourse is
+available. Exception must be noted in business rules violation justification]
+Last updated 8/25/2016
+ Page 1
+Document�Level�Adjustment�Business�Rules�
+The ‘FROM’ and ‘TO’ Dollar Amounts must Match.  The DLA dollar amounts must be equal on 
+the ‘FROM’ and ‘TO’ sides of the DLA. 
+Object Class Codes 31.1x and 32.xx :  DLA’s that contain object class codes 31.1x will not be processed 
+without approval from the Office of the Chief Administrative Officer (OCAO) Project Planning and 
+Management Division (PPMB). DLA’s that contain the object class code 32.xx will not be processed 
+without approval from the OCAO Real Property Management Division (RPMD). 
+Prior Year Adjustments: Only changes to the object class will be made.  Any other changes will be made 
+on a case by case basis, a request for a business rule exception along with the justification for the exception 
+must be noted in the reason for adjustment section of the DLA approval form. 
+Over/Under Object Class Codes are Not Allowed.  DLA’s will not be processed for any of the 
+over/under distribution object class codes 77-87-89-99, 77-88-79-99, 77-88-89-99, 77-89-89-99, 
+77-11- 89-99, or 77-12-89-99. 
+Leave/Benefit Surcharge Object Class Codes are Not Allowed.  DLA’s are not allowed for any of the 
+following surcharge object classes: 11-60-00-00 or 12-10-00-00. Using these object classes would cause 
+a duplication of surcharges. 
+Overhead Surcharge Object Class Codes are Not Allowed.  DLA’s will NOT be processed for any of 
+the following surcharge object classes:  77-87-00-00, 77-88-00-00, 77-88-19-00, 77-89-00-00, 
+77-11-00-00, 77-12-25-17, or 77-12-25-35. Contact NOAA or BIS BEX for guidance on making 
+adjustments to these object classes. 
+Accounting Data must be Valid.  The system requires that each DLA transaction include active 
+accounting data. This includes the Fund Code, Fiscal Year, Program Code, Project Code, Task Code, 
+Organization Code, and Object Class Code. 
+ALL DLA’S must have a clear crosswalk between the ‘From’ and ‘To’ side of the 
+transaction. Only one of the following combinations will be accepted: 
+ One ‘From’ Line Item to One ‘To’ Line Item
+ One ‘From’ Line Item to Multiple ‘To’ Line Items:
+ Transaction amounts must match the amount recorded in CBS. If partial amounts are being adjusted,
+the ‘To’ lines will reflect the amounts that change and the amounts that are not changing.
+The following document types will NOT be processed: 
+ GJ
+ ST
+ Grants
+ Labor Charges
+Last updated 8/25/2016
+ Page 2
+Document�Level�Adjustment�Business�Rules�
+DLA Submission Package Guidance 
+All DLA requests MUST be submitted to your servicing finance office; either DLASubmissions@noaa.gov 
+(Eastern Operations Branch) or WOBDLASubmissions@noaa.gov (Western Operations Branch). Please 
+note the date in the subject line. The email MUST include the following supporting documentation: 
+If any of the required supporting documentation is not included the entire DLA batch will be 
+disapproved and returned. 
+ Signed CBS Document Level Adjustment Approval Form
+ A clear and concise reason for the DLA (on the DLA Approval Form) which references the supporting
+documentation provided.
+ Document Level Adjustment Request Form
+ Adequate supporting documentation consisting of budget reports and/or any other
+documentation (i.e., invoices, contracts, etc.) that provides sufficient justification for the DLA.
+This documentation should be available for audit by internal and external auditors when
+necessary.
+Documentation Retention Requirements  
+The Office Originating the DLA and AOD Must Retain the Following Documentation: 
+ Signed CBS Document Level Adjustment Approval Form
+ Document Level Adjustment Request Form
+ Adequate supporting documentation consisting of budget reports and/or any other documentation (i.e.,
+invoices, contracts, etc.) that provides sufficient justification for the DLA. This documentation should be
+available for audit by internal and external auditors when necessary.
+Last updated 8/25/2016
+ Page 3

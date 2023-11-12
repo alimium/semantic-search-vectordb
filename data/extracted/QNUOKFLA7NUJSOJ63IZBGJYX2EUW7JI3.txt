@@ -1,0 +1,246 @@
+114 
+Group II 
+COHERENT INSTABILITIES IN THE 20 TeV RING*) 
+-
+E.D. Courant 
+Brookhaven National Laboratory, Upton, NY and State University of New York, Stony Brook, 
+NY, USA. 
+C. Pellegrini 
+Brookhaven National Laboratory, Upton, NY, USA 
+ABSTRACT 
+We discuss some of the limits on the average and peak current in the 
+20 TeV ring, produced by coherent .instabilities. 
+We also discuss 
+some effects of synchrotron radiation. 
+1. 
+INTRODUCTION 
+We investigate the limitations on the performance of the 20 TeV proton ring due to co-
+l
+herent instabilities. This investigation uses a simple model 
+) to describe the stability 
+1imits, based on the asstunption that all low frequency instabilities, w < c/d, where d is 
+the vacUlUn tank dimension, can be cured by feedback. 
+To stabilize high frequency effects 
+one has to rely on Landau damping. 
+We discuss the limitations on the beam intensity and beam configuration obtained from 
+this model. 
+We also discuss some of the effects introduced by synchrotron radiation. 
+2. 
+STABILITY CRITERIA 
+As discussed in Ref. (1) we use two stability conditions, one for longitudinal effects, 
+the microwave instability, and the other for transverse effects. They can be written as 
+(1) 
+e I
+ZT 
+R 
+P 
+eff 
+(2)
+--'Zr"7f-v'E""---
+~ /).v 
+where lill/E is the beam energy spread, I is the peak current in a btmch, a. is the momentum 
+p 
+compaction factor, E is the beam energy, e is the electron charge, v the betatron frequency, 
+R the machine radius, /).V the betatron frequency spread providing Landau damping, (Z/n)eff is 
+the longitudinal coupling impedance of the btmch to the surrotmding environment and 
+(3) 
+115 
+p and pp machines 
+y being the beam particle energy in rest energy lIDits, a the beam radius, d the vacuum tank 
+radius and 2 0 the vacuum impedance. 
+The last tenn in (3) describes the space charge effects 
+and can be neglected for our 20 TeV ring. 
+For a beam having B blIDches, each of length L we introduce the total longitudinal emit-
+tance 
+6 11 ;; B 6E L/C 
+(4) 
+the total average current 
+(5) 
+and a bunch factor 
+(6) 
+With the help of (4), (5) and (6) we can rewrite (1) and (2) as 
+2 
+(2) 
+a.c 6 11 
+eI 
+-
+<--~­
+(7)
+T neff -
+(2nR)2F E
+B
+(8) 
+In (8) we neglected the space charge contribution to the transverse impedance. 
+One can see from (7), (8) that a small F
+B� is convenient to raise the longitudinal in-
+stability limit and a large FB to raise the transverse limit. 
+The opt:imum value is obtained� 
+when the two limits are equal or 
+a. )% 
+(9)
+-(-21T-R-)-*--E ( 1TV 6v 
+• 
+For FB < Fi we are limited by the transverse instability and for FB > F; by the longitudinal 
+one. 
+Of course if Fi > 1 the transverse effect is always the limiting one. 
+Using (9) we can write (7) and (8) as 
+L.I 
+* 
+2) 
+c 6 II (d/R) (1Ta.V AV) % FB 
+e IT (ii 
+~ 
+2 R
+F 
+(10)
+eff 
+rr 
+B 
+e I 
+(~) 
+< cEil (d/R) (mlv6v) Y2 ~ • 
+(11)
+T neff -
+2nR 
+FB 
+3. 
+APPLICATION TO 'I1IE 20 TeV RING 
+We want to evaluate (10), (11) for the 20 TeV ring. 
+Since a. ::: 1/v2 there is only a 
+weak dependence on v and we will only evaluate (10), (11) for the case of the 'weak focusing 
+ring". 
+We use the following values: 
+116 
+Group II 
+2~R = 5.7 x 10~ m 
+-
+v 
+= 60 
+a 
+= 3.4 x 10-~ 
+IT = 0.84 A 
+Rid = 2.27 x 105 
+t:.v = 0.01 
+where the current corresponds to a total of 10 1 5 circulating protons. 
+We obtain: 
+Fi = 0.08 
+at E = 1 TeV 
+(12) 
+and 
+F* = 4 X 10- 3 
+at E = 20 TeV • 
+(13)
+B. 
+Equations (10), (11) become 
+(14) 
+The small values of Fi mean that we are mainly limited by the longitudinal instability. 
+In fact for a coasting beam at 1 TeV and for the assumed e1\ the energy spread is very small 
+lillIE ::: 2.6 x 10- 5 • 
+For FB = Fi = 0.08 the energy spread is increased to 3.3 x 10- ~ • 
+For a total circulating current of 0.84 A we have from (14) that the effective longitu-
+dinal coupling impedance must satisfy the condition 
+( ~) 
+$3.5Q. 
+(IS) 
+neff 
+This condition need only be satisfied in the frequency range w ~ cld where feedback cannot 
+be used. 
+.An impedance of the order of a few ohm has been obtained in the electron-positron 
+storage ring, PETRA. 
+4. 
+SYNQIROTRON RADIATION EFFECTS 
+2 
+) 
+The synchrotron radiation energy loss per turn U0, can be obtained from
+(16) 
+where p is the bending radius, ro the classical proton radius and mc 2 the proton rest energy. 
+For an energy of 20 TeV, y = 2.13 X 10", p = 6.68 x 10 3 m we have 
+Uo = 1.82 X 105 eV • 
+(17) 
+For a total current IT = 0.84 A the radiated power is 
+W = 152 kW • 
+(18) 
+117 
+p and pp machines 
+To evaluate the damping times we assume that the radial and vertical betatron damping 
+Th' 
+.
+th 
+. 
+b 2)
+times are equal to twice the synchrotron damp1ng 
+" 
+t~e, L S• 
+1S 1S 
+en g1ven y 
+= 2TIR ~ = 2.09 x 10~ s = 5.8 hrs • 
+(19)
+LS 
+C Uo 
+The equi1ibritml energy spread produced by radiation damping and quantlDll fluctuations 
+is given by 
+(20) 
+where 
+(21) 
+At 20 TeV we obtain 
+E 
+::: 415 eV 
+(22) 
+c 
+aE 
+3 OS X 10- 6 • 
+(23)
+-r= . 
+The energy spread is smaller than the value detennined by the longitudinal emittance 8 II , 
+which is 2.6 x 10- 5 for a coasting beam and 6.5 x 10- 3 fOT a beam with a btmching factor 
+F = 4 x 10-:3 and at 20 TeV. 
+Hence, according to our present tmderstanding of the microwave
+B 
+instability, as soon as the energy spread starts to decrease the btmch should become tmStable 
+and the energy spread should remain at the value corresponding to the threshold of the in-
+stability. 
+The radial betatron emittance as determined by radiation alone is given by2) 
+2 
+E = TIy 2R (aE)
+= 5.2 x 10- 8 m rad 
+x 
+v 3 
+E 
+and is again much smaller than the emittance at injection, E 
+tV 2TI x 10- 5 m rad. 
+The reduc-
+x 
+tion in transverse emittance produced by radiation might become important in a p-p configura-
+tion, where the reduction in beam transverse size would increase the beam-beam ttme shift, 
+!:lv, and the ltuninosity by a factor equal to the emittance ratio or about 1200. Again we ex-
+pect that the beam-beam interaction will start to blow up the beams long before such a large 
+increase is reached. 
+However we can assume that the p-p system will adjust itself to the 
+optimum value of !:lv. 
+Also the radiation damping might be helpful in cOtmteracting slow 
+diffusion processes. 
+s. 
+CONCLUSIONS 
+The results obtained in Section 3 show that coherent instabilities should not prevent 
+us from reaching the design intensity of 1015 circulating protons. However to reach this 
+goal one will have to use feedback to control the low frequency instabilities and to reduce 
+the longitudinal coupling impedance to a few ohm. 
+Also when these conditions are satisfied 
+one requires a very small blll1ching factor to avoid a blow up of the longitudinal phase space. 
+Of course, a much more detailed analysis will be needed when the ring is designed. 
+118 
+Group II 
+Synchrotron radiation effects are not negligible and can influence the beam properties 
+in the storage configuration after a time of the order of ten hours. 
+*
+*
+* 
+REFERENCES 
+1) 
+C.� Pellegrini and M. Sands, Phenomenological analysis of current limits in storage 
+rings, to be published in Nuc1. Instnnn. and Methods. 
+2) 
+M.� Sands, in Physics of Storage Rings, Internat. School of Phys. E. Fermi, Varenna, 
+1969 Cede B. Touschek). 
+-�
+-�

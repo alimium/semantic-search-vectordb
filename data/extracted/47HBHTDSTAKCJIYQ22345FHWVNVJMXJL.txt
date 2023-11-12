@@ -1,0 +1,204 @@
+Rev C NNSLD Card
+Item#
+Mfr Part Number
+SM? Mfr
+Description
+Qty
+Schem Ref
+1
+ADSP-2181KS-133
+Y
+Analog Devices
+16 bit fixed point DSP
+1 U3
+2
+SG615P
+Y
+Epson
+16.000 Mhz SM Oscillator
+1 U5
+3
+MC74ACT139D
+Y
+Motorola
+Dual 1of 4 Decoder
+1 U1
+4
+PCS-032SMU-2
+Y
+Augat
+32 pin PLCC socket
+2 U2,U4
+5
+X28C64AJ-15
+Y
+Xicor
+64Kbit EEPROM
+1 U4
+6
+MAX1232CSA
+Y
+Maxim
+Power Monitor
+1 U6
+7
+MAX233AEWP
+Y
+Maxim
+RS232 Interface
+1 U7
+8
+EPC1-PC8
+N
+Altera
+10K-series boot EPROM
+1 U8
+9
+10X-1-102
+N
+Bourns
+1K x 9R/10P Resistor SIP
+1 RN1
+10
+N
+10K 5% 1/4W CFR
+1 R2
+11
+EP12-S-D1-A-B-E
+N
+C&K
+SPST Momentary Pushbutton Switch
+1 S1
+12
+DS1000M-100
+N
+Dallas Semi
+5-tap 100ns Delay Line
+1 U13
+13
+SL-132-T-12
+N
+Samtec
+8 pin DIP socket, very low profile
+2 U11,U8
+14
+X24C04P
+N
+Xicor
+512 x 8 Serial EEPROM
+1 U11
+15
+S5933QE
+Y
+AMCC
+PCI Controller
+1 U10
+16
+EPF10K30RC208-3 Y
+Altera
+FPGA
+1 U9
+17
+TAJ-D-336-M-016
+Y
+AVX
+33uF 16V Tantalum Capacitor
+1 C1
+18
+1206-5-C-104-K-A
+Y
+AVX
+1206 .1uF ML Capacitor
+24 Cx
+19
+NNSLD Rev C
+NA
+Unicircuit
+PCB
+1 (NR)
+20
+N
+470 ohm 5% 1/4W CFR
+3 R2,R2,R4
+21
+5350T1
+N
+Chicago Miniature
+Red LED
+1 DL1
+22
+5350T7
+N
+Chicago Miniature
+Yellow LED
+1 DL2
+23
+5350T5
+N
+Chicago Miniature
+Green LED
+1 DL3
+24
+SN74BCT245DW
+Y
+Texas Instruments
+Bidirectional Buffer
+5 U17,U18,U19,U20,U21
+25
+10K-1-103
+N
+Bournes
+10K x 9R/10P Resistor SIP
+1 RN3
+26
+71436-2164
+Y
+Molex
+PMC IEEE1386 Brd-brd Plug
+3 J1,J2,J4
+27
+787171-4
+N
+AMP
+I/O Connector, 40 pins
+1 J6
+28
+SG615P
+Y
+Epson
+40.000 Mhz SM Oscillator
+1 U22
+29
+Am28F020-150JC
+N
+AMD
+2Mbit Flash ROM
+1 U2
+30
+COM20020-5LJP
+Y
+SMC
+Arcnet controller
+1 U14
+31
+N
+390 ohm 5% 1/4W CFR
+1 R1
+32
+N
+10K 5% 1/8W CFR
+1 Tack-on
+33
+20835-892
+N
+Scroff
+PMC front panel, blank
+1 (NR)
+34
+21100-624
+N
+Scroff
+M2.5 x 6MM screw
+2 (NR)
+2/10/99 3:15 PM
+Page 1

@@ -1,0 +1,2542 @@
+ANNOUNCEMENT AND REPORT  
+CONCERNING  
+ADVANCE PRICING AGREEMENTS 
+ 
+ 
+March 31, 2003  
+ 
+ 
+This Announcement is issued pursuant to § 521(b) of Pub. L. 106-170, the Ticket to Work and 
+Work Incentives Improvement Act of 1999, requiring that the Secretary of the Treasury annually 
+report to the public concerning Advance Pricing Agreements (APAs) and the APA Program.  
+The first report covered calendar years 1991 through 1999.  Subsequent reports covered calendar 
+years 2000 and 2001.  This fourth report describes the experience of the APA Program during 
+calendar year 2002 consistent with the mandate of § 521(b).  This document does not provide 
+guidance regarding the application of the arm’s length standard; rather, it reports on the structure 
+and activities of the APA program. 
+ 
+ 
+Mindy Piatoff 
+Acting Director, Advance Pricing Agreement Program 
+ 
+ 
+ 
+Background 
+ 
+Internal Revenue Code (IRC) § 482 provides that the Secretary may distribute, apportion, or 
+allocate gross income, deductions, credits, or allowances between or among two or more 
+commonly controlled businesses if necessary to reflect clearly the income of such businesses.  
+Under the regulations, the standard to be applied in determining the true taxable income of a 
+controlled business is that of a business dealing at arm’s length with an unrelated business. The 
+arm’s length standard also has been adopted by the international community and is incorporated 
+into the transfer pricing guidelines issued by the Organization for Economic Cooperation and 
+Development (OECD).  OECD, TRANSFER PRICING GUIDELINES FOR MULTINATIONAL 
+ENTERPRISES AND TAX ADMINISTRATORS (1995).  Transfer pricing issues by their nature are 
+highly factual and have traditionally been one of the largest issues identified by the IRS in its 
+audits of multinational corporations.  The APA Program is designed to resolve actual or potential 
+transfer pricing disputes in a principled, cooperative manner, as an alternative to the traditional 
+examination process.  An APA is a binding contract between the IRS and a taxpayer by which 
+the IRS agrees not to seek a transfer pricing adjustment under IRC § 482 for a covered 
+transaction if the taxpayer files its tax return for a covered year consistent with the agreed 
+transfer pricing method (TPM).  In year 2002, the IRS and taxpayers executed 85 APAs and 
+amended 9 APAs. 
+ 
+Since 1991, with the issuance of Rev. Proc. 91-22, 1991-1 C.B. 526, the IRS has offered 
+taxpayers through the APA Program the opportunity to reach an agreement in advance of filing a 
+ 
+ 
+1 
+tax return on the appropriate TPM to be applied to related party transactions.  In 1996, the IRS 
+issued internal procedures for processing APA requests.  Chief Counsel Directives Manual 
+(CCDM), ¶¶ 42.10.10 – 42.10.16 (November 15, 1996).  Also in 1996, the IRS updated Rev. 
+Proc. 91-22 with the release of Rev. Proc. 96-53, 1996-2 C.B. 375.  The APA Program continues 
+to operate under the provisions of Rev. Proc. 96-53, which provides taxpayers with instructions 
+of how to apply for an APA, and what to expect in the processing of the case.  In addition, in 
+1998, the IRS published Notice 98-65, 1998-2 C.B. 803, which set forth streamlined APA 
+procedures for Small Business Taxpayers (SBTs).  That Notice also expanded the availability of 
+the lowest APA user fee in an effort to attract taxpayers who may not have the resources to do 
+the sophisticated economic studies normally required in APA submissions.  
+ 
+Advance Pricing Agreements 
+ 
+An APA generally combines an agreement between a taxpayer and the IRS on an appropriate 
+TPM for the transactions at issue (Covered Transactions) with an agreement between the U.S. 
+and one or more foreign tax authorities (under the authority of the mutual agreement process of 
+our income tax treaties) that the TPM is correct. With such a “bilateral” APA, the taxpayer 
+ordinarily is assured that the income associated with the Covered Transactions will not be subject 
+to double taxation by the IRS and the foreign tax authority.  It is the policy of the United States, 
+as reflected in § 7 of Rev. Proc. 96-53 to encourage taxpayers that enter the APA program to 
+seek bilateral or multilateral APAs when competent authority procedures are available with 
+respect to the foreign country or countries involved.  However, the IRS may execute an APA 
+with a taxpayer without reaching a competent authority agreement (a “unilateral” APA). 
+ 
+A unilateral APA is an agreement between a taxpayer and the IRS establishing an approved TPM 
+for U.S. tax purposes.  A unilateral APA binds the taxpayer and the IRS, but obviously does not 
+prevent foreign tax administrations from taking different positions on the appropriate TPM for a 
+transaction.  As stated in Rev. Proc. 96-53, should a transaction covered by a unilateral APA be 
+subject to double taxation as the result of an adjustment by a foreign tax administration, the 
+taxpayer may seek relief by requesting that the U.S. Competent Authority consider initiating a 
+mutual agreement proceeding, provided there is an applicable income tax treaty in force with the 
+other country. 
+ 
+When a unilateral APA involves taxpayers operating in a country that is a treaty partner, 
+information relevant to the APA (including a copy of the APA and APA annual reports) may be 
+provided to the treaty partner under normal rules and principles governing the exchange of 
+information under income tax treaties. 
+ 
+The APA Program 
+ 
+APAs are negotiated with the taxpayer by an IRS team headed by an APA team leader.  As of 
+December 31, 2002, the APA program had 17 team leaders.  The team leader is responsible for 
+organizing the IRS APA team.  The IRS APA team arranges meetings with the taxpayer, secures 
+whatever information is necessary from the taxpayer to analyze the taxpayer’s related party 
+transactions and the available facts under the arm’s length standard of IRC § 482 and the 
+regulations thereunder (Treas. Reg.), and negotiates with the taxpayer. 
+ 
+ 
+2 
+ 
+The APA team generally includes an economist, an international examiner, LMSB field counsel, 
+and, in a bilateral case, a U.S. Competent Authority analyst who leads the discussions with the 
+treaty partner. The economist may be from the APA Program or the IRS field organization.  As 
+of December 31, 2002, the APA Program had 7 economists.  The APA team may also include an 
+LMSB International Technical Advisor, other LMSB exam personnel, and an Appeals officer. 
+ 
+ 
+The APA Process 
+ 
+The APA process is voluntary.  Taxpayers submit an application for an APA, together with a 
+user fee as set forth in Rev. Proc. 96-53.  The APA process can be broken into five phases:  (1) 
+application; (2) due diligence; (3) analysis; (4) discussion and agreement; and (5) drafting, 
+review, and execution. 
+ 
+(1) 
+Application 
+ 
+In many APA cases, the taxpayer’s application is preceded by a pre-file conference with the APA 
+staff in which the taxpayer can solicit the informal views of the APA Program.  Pre-file 
+conferences can occur on an anonymous basis, although a taxpayer must disclose its identity 
+when it applies for an APA.  Taxpayers must file the appropriate user fee on or before the due 
+date of the tax return for the first taxable year that the taxpayer proposes to be covered by the 
+APA.  Many taxpayers file a user fee first and then follow up with a full application later.  The 
+procedures for pre-file conferences, user fees, and delayed applications can be found in Rev. 
+Proc. 96-53. 
+ 
+The APA application can be a relatively modest document for a small business taxpayer.  Notice 
+98-65 describes the special APA procedures for small businesses.  For most taxpayers, however, 
+the APA application is a substantial document filling several binders. The APA Program makes 
+every effort to reach agreement on the basis of the information provided in the taxpayer's 
+application. 
+  
+The application is assigned to an APA team leader who is responsible for the case.  The APA 
+team leader’s first responsibility is to organize the APA team.  This involves contacting the 
+appropriate LMSB International Territory Manager to secure the assignment of an international 
+examiner to the APA case and the LMSB Counsel’s office to secure a field counsel lawyer.   In a 
+bilateral case, the U.S. Competent Authority will assign a U.S. Competent Authority analyst to 
+the team.   In a large APA case, the international examiner may invite his or her manager and 
+other LMSB personnel familiar with the taxpayer to join the team.  When the APA may affect 
+taxable years in Appeals, the appropriate appellate conferee will be invited to join the team.  In 
+all cases, the team leader contacts the Manager, LMSB International Technical Advisors, to 
+determine whether to include a technical advisor on the team.  The IRS APA team will generally 
+include a technical advisor if the APA request concerns cost-sharing, intangibles or services. The 
+APA team leader then distributes copies of the APA application to all team members and sets up 
+an opening conference with the taxpayer.  The APA office strives to hold this opening 
+conference within 45 days of the assignment of the case to a team leader.  At the opening 
+ 
+ 
+3 
+conference, the APA team leader proposes a case plan designed to complete the recommended 
+U.S. negotiating position for a bilateral APA within 9 months from the date the full application 
+was filed and to complete a unilateral APA within 12 months from the application date.  In 2002, 
+the median for completing negotiating positions was 12.0 months (average 13.7), and the median 
+for completing unilateral APAs was 15.9 months (average 20.2). 
+ 
+(2) 
+Due Diligence 
+ 
+The APA team must satisfy itself that the relevant facts submitted by the taxpayer are complete 
+and accurate.  This due diligence aspect of the APA is vital to the process.  It is because of this 
+due diligence that the IRS can reach advance agreements with taxpayers in the highly factual 
+setting of transfer pricing.  Due diligence can proceed in a number of ways.  Typically, the 
+taxpayer and the APA team will agree to dates for future meetings during the opening 
+conference. In advance of the opening conference, the APA team leader will submit a list of 
+questions to the taxpayer for discussion. The opening conference may result in a second set of 
+questions.  These questions are developed by the APA team and provided to the taxpayer through 
+the APA team leader.  It is important to note that this due diligence is not an audit and is focused 
+on the transfer pricing issues associated with the transactions in the taxpayer’s application, or 
+such other transactions that the taxpayer and the IRS may agree to add. 
+ 
+(3)  
+Analysis  
+ 
+A significant part of the analytical work associated with an APA is done typically by the APA or 
+IRS field economist assigned to the case.  The analysis may result in the need for additional 
+information.  Once the IRS APA team has completed its due diligence and analysis, it begins 
+negotiations with the taxpayer over the various aspects of the APA including the selection of 
+comparable transactions, asset intensity and other adjustments, the TPM, which transactions to 
+cover, the appropriate critical assumptions, the APA term, and other key issues.  The APA team 
+leader will discuss particularly difficult issues with his or her managers, but generally the APA 
+team leader is empowered to negotiate the APA. 
+ 
+(4)  
+Discussion and Agreement 
+ 
+This phase differs for bilateral and unilateral cases.  In a bilateral case, the discussions proceed in 
+two parts and involve two IRS offices -- the APA Program and the U.S. Competent Authority.  
+In the first part, the APA team will attempt to reach a consensus with the taxpayer regarding the 
+recommended position that the U.S. Competent Authority should take in negotiations with its 
+treaty partner.  This recommended U.S. negotiating position is a paper drafted by the APA team 
+leader and signed by the APA Director that provides the APA Program’s view of the best TPM 
+for the covered transaction, taking into account IRC § 482 and the regulations thereunder, the 
+relevant tax treaty, and the U.S. Competent Authority’s experience with the treaty partner. 
+ 
+The experience of the APA office and the U.S. Competent Authority is that APA negotiations 
+are likely to proceed more rapidly with a foreign competent authority if the taxpayer fully 
+supports the U.S. negotiating position.  Consequently, the APA Office works together with the 
+taxpayer in developing the recommended U.S. negotiating position.  On occasion, the APA team 
+ 
+ 
+4 
+will agree to disagree with a taxpayer.  In these cases, the APA office will send a recommended 
+U.S. negotiating position to the U.S. Competent Authority that includes elements with which the 
+taxpayer does not agree.  This disagreement is noted in the paper.  The APA team leader also 
+solicits the views of the field members of the APA team, and, in the vast majority of APA cases, 
+the international examiner, LMSB field counsel, and other IRS field team members concur in the 
+position prepared by the APA team leader. 
+ 
+Once the APA Program completes the recommended U.S. negotiating position, the APA process 
+shifts from the APA Program to the U.S. Competent Authority.  The U.S. Competent Authority 
+analyst assigned to the APA takes the recommended U.S. negotiating position and prepares the 
+final U.S. negotiating position, which is then transmitted to the foreign competent authority.  The 
+negotiations with the foreign competent authority are conducted by the U.S. Competent 
+Authority analyst, most often in face-to-face negotiating sessions conducted periodically 
+throughout the year.  At the request of the U.S. Competent Authority analyst, the APA team 
+leader may continue to assist the negotiations. 
+ 
+In unilateral APA cases, the discussions proceed solely between the APA Program and the 
+taxpayer.  In a unilateral case, the taxpayer and the APA Program must reach agreement to 
+conclude an APA.  Like the bilateral cases, the APA team leader almost always will achieve a 
+consensus with the IRS field personnel assigned to the APA team regarding the final APA.  The 
+APA Program has a procedure in which the IRS field personnel are solicited formally for their 
+concurrence in the final APA.  This concurrence, or any items in disagreement, is noted in a 
+cover memorandum prepared by the APA team leader that accompanies the final APA sent 
+forward for review and execution. 
+ 
+(5) 
+Drafting, Review, and Execution 
+ 
+Once the IRS and the taxpayer reach agreement, the drafting of the final APA generally takes 
+little time because the APA Program has developed standard language that is incorporated into 
+every APA.  The current version of this language is found in Attachment A.  APAs are reviewed 
+by the Branch Chief and the APA Director.  In addition, the team leader prepares a summary 
+memorandum for the Associate Chief Counsel (International) (ACC(I)).  On March 1, 2001, the 
+ACC(I) delegated to the APA Director the authority to execute APAs on behalf of the IRS.  See 
+Chief Counsel Notice CC-2001-016.  The APA is executed for the taxpayer by an appropriate 
+corporate officer. 
+ 
+Model APA at Attachment A 
+[§ 521(b)(2)(B)] 
+ 
+Attachment A contains the current version of the model APA language.  As part of its continuing 
+effort to improve its work product, the APA Program has revised the model language to reflect 
+the program’s collective experience with substantive and drafting issues.   
+ 
+ 
+ 
+5 
+The Current APA Office Structure, Composition, and Operation 
+ 
+In 2002, the APA Office consisted of four branches with Branches 1 and 3 staffed with APA 
+team leaders and Branch 2 staffed with economists and a paralegal.1  Branch 4, the APA West 
+Coast branch, opened an additional office in Laguna Niguel and moved its headquarters there.  
+Its staffing is indicated in the chart below.   
+ 
+Overall, the APA staff decreased from 38 to 34 as a result of attrition and transfers to other Chief 
+Counsel functions.  The number of APA team leaders decreased from 22 to 17, while the number 
+of economists remained constant at 7.  Despite the decrease in the number of APA team leaders, 
+the combination of the APA Program’s extensive training and smaller caseloads per APA team 
+leader increased productivity and the currency of the APA inventory. 
+ 
+As of December 31, 2002, the APA staff was as follows: 
+  
+Director’s Office 
+1 Acting Director (also Chief, Branch 1) 
+1 Special Counsel to the Director 
+1 Secretary to the Director 
+Branch 1 
+1 Branch Chief  
+1 Secretary 
+8 Team Leaders 
+Branch 2 
+1 Branch Chief 
+1 Paralegal 
+7 Economists 
+Branch 3 
+1 Branch Chief 
+1 Secretary 
+7 Team Leaders 
+Branch 4 
+1 Branch Chief  
+  (Laguna Niguel)  
+1 Secretary  
+  (San Francisco) 
+2 Team Leaders  
+   (San Francisco) 
+ 
+ 
+APA Training 
+ 
+In 2002, the APA Office continued to emphasize training as a high priority, dedicating two half-
+days each month to full staff training sessions.  These training sessions regarded APA-related 
+current developments, new APA office practices and procedures, and international tax law 
+issues.  Updated APA New Hire Training materials were published and provided to the APA 
+staff, and to the public through the APA internet site on the IRS Digital Daily (www.irs.gov).   
+ 
+                                                             
+1 Branch 3 includes one team leader with the principal responsibility for annual report review and Branch 2 includes 
+one economist who spends approximately 35% of his time reviewing annual reports.  
+ 
+ 
+6 
+APA Program Statistical Data 
+[§ 521(b)(2)(C) and (E)] 
+ 
+The statistical information required under § 521(b)(2)(C) is contained in Tables 1 and 9 below; 
+the information required under § 521(b)(2)(E) is contained in Tables 2 and 3 below: 
+ 
+Table 1: APA Applications, Executed APAs, and Pending APAs 
+ 
+ 
+ 
+Unilateral 
+Bilateral 
+Multilateral 
+Year 
+Total 
+Cumulative 
+Total 
+APA applications filed 
+during year 2002 
+50 
+57 
+ 
+107 
+676 
+ 
+434 
+ 
+27 
+179 
+ 
+582 
+163 
+ 
+ 
+7 
+ 
+85 
+349 
+APAs executed  
+• Year 2002 
+• 1991–2001 
+APA renewals executed 
+during year 2002 
+9 
+12 
+ 
+21 
+91 
+7 
+2 
+ 
+9 
+21 
+ 
+Revised or Amended 
+APAs executed during 
+year 20023 
+Pending requests for 
+APAs 
+48 
+155 
+ 
+203 
+ 
+Pending requests for 
+new APAs 
+39 
+111 
+ 
+150 
+ 
+Pending requests for 
+renewal APAs 
+9 
+44 
+ 
+53 
+ 
+APAs canceled or 
+revoked4 
+0 
+0 
+ 
+0 
+5 
+APAs withdrawn5 
+7 
+19 
+ 
+26 
+80 
+ 
+  
+                                                             
+2 Approximately half of the 58 bilateral APAs executed in 2002 regarded companies carrying on limited business 
+activities.  These APAs were negotiated based on a bilateral competent authority agreement that established 
+streamlined resolution guidelines. 
+3 In 2002, the APA Office and taxpayers agreed to amend nine APAs (seven unilateral and two bilateral).  In six of 
+these, the taxpayer reorganized its business.  In three, the changes reflected technical corrections or modifications to 
+minor aspects of the APA. 
+4 In the history of the APA Program, five APAs have been canceled and no APAs have been revoked.   
+5 Reasons for withdrawals included jurisdictional issues, inventory corrections, taxpayer reorganizations, and 
+changes in facts and circumstances. 
+ 
+ 
+7 
+TABLE 2:  MONTHS TO COMPLETE APAS 
+ 
+Months to Complete Advance Pricing Agreements in Year 2002 
+Combined Unilateral, Bilateral, Multilateral: Average 
+25.0 
+Combined Unilateral, Bilateral, Multilateral: Median 
+23.4 
+ 
+Unilateral New 
+Unilateral Renewal 
+Unilateral Combined 
+Average 
+21.0 
+Average 
+19.1 
+Average 
+20.2 
+Median 
+15.9 
+Median 
+16.4 
+Median 
+15.9 
+ 
+Bilateral/Multilateral New 
+Bilateral/Multilateral 
+Renewal 
+Bilateral/Multilateral 
+Combined6 
+Average 
+24.6 
+Average 
+36.7 
+Average 
+27.3 
+Median 
+20.6 
+Median 
+34.4 
+Median 
+25.3 
+ 
+TABLE 3: APA COMPLETION TIME – MONTHS PER APA7 
+ 
+Months 
+Number of 
+APAs 
+Months 
+Number of 
+APAs 
+Months 
+Number of 
+APAs 
+Months Number of 
+APAs 
+1 
+1 
+21 
+4 
+41 
+0 
+61 
+0 
+2 
+0 
+22 
+0 
+42 
+1 
+62 
+1 
+3 
+1 
+23 
+4 
+43 
+0 
+63 
+2 
+4 
+2 
+24 
+0 
+44 
+0 
+64 
+0 
+5 
+5 
+25 
+3 
+45 
+1 
+65 
+0 
+6 
+4 
+26 
+2 
+46 
+1 
+66 
+0 
+7 
+5 
+27 
+1 
+47 
+1 
+67 
+0 
+8 
+5 
+28 
+3 
+48 
+0 
+68 
+0 
+9 
+1 
+29 
+3 
+49 
+1 
+69 
+0 
+10 
+3 
+30 
+0 
+50 
+1 
+70 
+0 
+11 
+1 
+31 
+0 
+51 
+1 
+71 
+0 
+12 
+1 
+32 
+1 
+52 
+0 
+72 
+0 
+13 
+0 
+33 
+0 
+53 
+0 
+73 
+1 
+14 
+2 
+34 
+3 
+54 
+0 
+74 
+0 
+15 
+0 
+35 
+1 
+55 
+0 
+75 
+0 
+16 
+2 
+36 
+2 
+56 
+3 
+76 
+0 
+17 
+0 
+37 
+2 
+57 
+0 
+77 
+0 
+18 
+1 
+38 
+1 
+58 
+0 
+78 
+1 
+19 
+0 
+39 
+1 
+59 
+0 
+79 
+0 
+20 
+4 
+40 
+1 
+60 
+0 
+80 
+0 
+                                                             
+6 The average time required to conclude a bilateral APA has historically been split roughly equally between the APA 
+and U.S. Competent Authority Offices. 
+7 Most of the APAs completed in six months or less related to companies carrying on limited business activities.  
+These APAs were negotiated based on a bilateral competent authority agreement that established streamlined 
+resolution guidelines. 
+ 
+ 
+8 
+TABLE 4: RECOMMENDED NEGOTIATING POSITIONS 
+ 
+Recommended Negotiating Positions Completed in Year 2002 
+85 
+ 
+ 
+TABLE 5: MONTHS TO COMPLETE RECOMMENDED NEGOTIATING POSITIONS 
+ 
+New 
+Renewal 
+Combined 
+Average 
+12.3 
+Average 
+18.2 
+Average 
+13.7 
+Median 
+11.5 
+Median 
+21.0 
+Median 
+12.0 
+ 
+TABLE 6: RECOMMENDED NEGOTIATING POSITIONS COMPLETION TIME – 
+MONTHS PER APA8 
+ 
+Months 
+Number 
+Months 
+Number  
+Months 
+Number  
+Months 
+Number  
+1 
+0 
+11 
+2 
+21 
+4 
+31 
+1 
+2 
+2 
+12 
+7 
+22 
+2 
+32 
+0 
+3 
+2 
+13 
+4 
+23 
+2 
+33 
+0 
+4 
+1 
+14 
+4 
+24 
+5 
+34 
+0 
+5 
+13 
+15 
+2 
+25 
+1 
+35 
+0 
+6 
+3 
+16 
+0 
+26 
+0 
+36 
+0 
+7 
+3 
+17 
+0 
+27 
+1 
+37 
+1 
+8 
+4 
+18 
+6 
+28 
+2 
+38 
+0 
+9 
+5 
+19 
+4 
+29 
+0 
+39 
+0 
+10 
+2 
+20 
+1 
+30 
+1 
+40 
+0 
+ 
+TABLE 7: SMALL BUSINESS TAXPAYER APAS 9 
+ 
+Small Business Taxpayer APAs Completed in Year 2002 
+6 
+Renewals  
+3 
+New  
+3 
+Unilateral 
+5 
+Bilateral 
+1 
+ 
+TABLE 8: MONTHS TO COMPLETE SMALL BUSINESS TAXPAYER APAS  
+ 
+New 
+Renewal 
+Combined 
+Average 
+12.2 
+Average 
+8.1 
+Average 
+10.2 
+Median 
+8.4 
+Median 
+6.5 
+Median 
+7.7 
+                                                             
+8 A large number of the negotiating positions completed in six months or less related to companies carrying on 
+limited business activities.  These negotiating positions were associated with a bilateral competent authority 
+agreement that established streamlined resolution guidelines. 
+9 Small Business Taxpayer APAs are processed under the special procedures set forth in Notice 98-65.  
+ 
+ 
+9 
+TABLE 9: INDUSTRIES COVERED 
+ 
+Industry Involved - NAICS Codes10 
+Number 
+Computer and electronic product manufacturing - 334 
+ 19-21 
+Electronic equipment, appliance and component manufacturing - 335 
+ 16-18 
+Miscellaneous manufacturing - 339 
+ 7-9 
+Transportation equipment manufacturing - 336 
+ 7-9 
+Apparel manufacturing - 315 
+ 4-6 
+Wholesale trade, durable goods - 421 
+ 4-6 
+Wholesale trade, nondurable goods - 422 
+ 4-6 
+Machinery manufacturing - 333 
+ 1-3 
+Clothing and clothing accessories stores - 448 
+ 1-3 
+Motor vehicle and parts dealers - 441 
+ 1-3 
+Air transportation - 481 
+ 1-3 
+Mining (except oil and gas) - 211 
+ 1-3 
+Food manufacturing - 311 
+ 1-3 
+Beverage and tobacco manufacturing - 312 
+ 1-3 
+Paper manufacturing - 322 
+ 1-3 
+Chemical manufacturing - 325 
+ 1-3 
+Nonmetallic mineral product manufacturing - 327 
+ 1-3 
+Primary metal manufacturing - 331 
+ 1-3 
+Food and beverage stores - 445 
+ 1-3 
+Sporting goods, hobby, book and music stores - 451 
+ 1-3 
+Broadcasting and telecommunications - 513 
+ 1-3 
+Securities, commodity contracts and other intermediary and related activities - 523 
+ 1-3 
+Publishing industries - 511 
+ 1-3 
+ 
+Trades or Businesses 
+[§ 521(b)(2)(D)(i)] 
+ 
+The nature of the relationships between the related organizations, trades, or businesses covered 
+by APAs executed in Year 2002 is set forth in Table 10 below: 
+ 
+TABLE 10:  NATURE OF RELATIONSHIPS BETWEEN RELATED ENTITIES 
+ 
+Relationship 
+Number of APAs 
+Foreign Parent – U.S. Subsidiary (-ies) 
+49 
+U.S. Parent – Foreign Subsidiary (-ies) 
+33 
+Partnership 
+2 
+Other 
+1 
+                                                             
+10 The categories in this table are drawn from the North American Industry Classification System (NAICS), which 
+has replaced the U.S. Standard Industrial Classification (SIC) system.  NAICS was developed jointly by the U.S., 
+Canada, and Mexico to provide new comparability in statistics about business activity across North America. 
+ 
+ 10 
+Covered Transactions 
+[§ 521(b)(2)(D)(ii)] 
+ 
+The controlled transactions covered by APAs executed in Year 2002 are set forth in Table 11 and 
+ Table 12 below: 
+TABLE 11:  TYPES OF COVERED TRANSACTIONS 
+ 
+Transaction Type 
+Number  
+Sale of tangible property into the US 
+37 
+Performance of services by Non-US entity 
+35 
+Performance of services by US entity 
+26 
+Sale of tangible property from the US 
+18 
+Use of intangible property by Non-US entity 
+11 
+Use of intangible property by US entity 
+5 
+Other 
+6 
+ 
+TABLE 12: TYPES OF SERVICES INCLUDED IN COVERED TRANSACTIONS 
+ 
+Intercompany Services Involved in the Covered Transactions 
+Number  
+Manufacturing services11 
+30 
+Distribution 
+13 
+Technical support services 
+12 
+Sales support 
+10 
+Logistical support 
+9 
+Administrative 
+9 
+Marketing 
+9 
+Product support 
+8 
+Management 
+7 
+Research and development 
+6 
+Accounting 
+5 
+Contract research & development 
+4 
+Testing and installation services 
+4 
+Warranty services 
+4 
+Headquarters costs 
+4 
+Assembly 
+3 
+Communication service 
+3 
+Legal 
+3 
+Repair 
+3 
+Billing services 
+2 
+Purchasing 
+2 
+                                                             
+11 Business activities addressed by a bilateral competent authority agreement that established streamlined guidelines 
+for resolution. 
+ 
+ 11 
+Business Functions Performed and Risks Assumed 
+ [§ 521(b)(2)(D)(ii)] 
+ 
+The general descriptions of the business functions performed and risks assumed by the 
+organizations, trades, or businesses whose results are tested in the covered transactions in the 
+APAs executed in Year 2002 are set forth in Tables 13 and 14 below: 
+ 
+TABLE 13:  FUNCTIONS PERFORMED BY THE TESTED PARTY 
+ 
+Functions performed 
+Number  
+Distribution functions 
+55 
+Product assembly and/or packaging 
+52 
+Marketing functions 
+40 
+Managerial, legal, accounting, finance, personnel, and other support services 
+37 
+Manufacturing 
+35 
+Product testing and quality control 
+27 
+Technical training and tech support for sales staff (including sub-distributors) 
+26 
+Purchasing and materials management 
+24 
+Transportation and warehousing 
+23 
+Research and development 
+22 
+Product service (repairs, etc.) 
+21 
+Product design and engineering 
+18 
+Licensing of intangibles 
+13 
+Process engineering 
+10 
+Consulting services 
+10 
+Customer service 
+2 
+Mining and extraction 
+2 
+ 
+ 
+TABLE 14:  RISKS ASSUMED BY THE TESTED PARTY 
+ 
+Risks Assumed 
+Number  
+Market risks, including fluctuations in costs, demand, pricing, & inventory 
+63 
+General business risks (e.g., related to ownership of PP&E) 
+62 
+Credit and collection risks 
+45 
+Financial risks, including interest rates & currency 
+38 
+Product liability risks 
+19 
+R&D risks 
+18 
+ 
+ 
+ 12 
+Discussion 
+ 
+The vast majority of APAs have covered transactions that involve numerous business functions 
+and risks. For instance, with respect to functions, companies that manufacture products have 
+typically conducted research and development, engaged in product design and engineering, 
+manufactured the product, marketed and distributed the product, and performed support 
+functions such as legal, finance, and human resources services. Regarding risks, companies have 
+been subject to market risks, R&D risks, financial risks, credit and collection risks, product 
+liability risks, and general business risks. In the APA evaluation process a significant amount of 
+time and effort is devoted to understanding how the functions and risks are allocated amongst the 
+controlled group of companies that are party to the covered transactions. 
+ 
+In its APA submission, the taxpayer must provide a functional analysis. The functional analysis 
+identifies the economic activities performed, the assets employed, the economic costs incurred, 
+and the risks assumed by each of the controlled parties. The importance of the functional analysis 
+derives from the fact that economic theory posits that there is a positive relationship between risk 
+and expected return and that different functions provide different value and have different 
+opportunity costs associated with them. It is important that the functional analysis go beyond 
+simply categorizing the tested party as, say, a distributor. It should provide more specific 
+information since, in the example of distributors, not all distributors undertake similar functions 
+and risks. 
+ 
+Thus, the functional analysis is critical in determining the TPM (including the selection of 
+comparables). Although functional comparability is an essential factor in evaluating the 
+reliability of the TPM (including the selection of comparables), the APA evaluation process also 
+involves consideration of economic conditions such as the economic condition of the particular 
+industry. 
+ 
+In evaluating the functional analysis, the APA program considers contractual terms between the 
+controlled parties and the consistency of the conduct of the parties with respect to the allocation 
+of risk. In accord with the section 482 regulations, the APA program also gives consideration to 
+the ability of controlled parties to fund losses that might be expected to occur as the result of the 
+assumption of risk. Another relevant factor considered in evaluating the functional analysis is the 
+extent to which each controlled party exercises managerial or operational control over the 
+business activities that directly influence the amount of income or loss realized. The section 482 
+regulations posit that parties at arm's length will ordinarily bear a greater share of those risks 
+over which they have relatively more control. 
+ 
+ 
+Related Organizations, Trades, or Businesses Whose Prices or Results are 
+Tested to Determine Compliance with APA Transfer Pricing Methods 
+[§ 521(b)(2)(D)(iii)] 
+ 
+The related organizations, trades, or businesses whose prices or results are tested to determine 
+compliance with TPMs prescribed in APAs executed in Year 2002 are set forth in Table 15 
+below: 
+ 
+ 13 
+TABLE 15: RELATED ORGANIZATIONS, TRADES, OR BUSINESSES WHOSE PRICES 
+OR RESULTS ARE TESTED 
+ 
+Type of Organization 
+Number  
+Non-US provider of services 
+34 
+Multiple tested parties12 
+30 
+US distributor 
+26 
+US provider of services 
+21 
+US manufacturer 
+11 
+Non-US distributor 
+5 
+Non-US manufacturer 
+2 
+Non-US licensee of intangible property 
+2 
+Other 
+7 
+    
+Transfer Pricing Methods and the Circumstances Leading to the Use of Those 
+Methods 
+[§ 521(b)(2)(D)(iv)] 
+ 
+The TPMs used in APAs executed in Year 2002 are set forth in Tables 16–20 below: 
+ 
+TABLE 16: TRANSFER PRICING METHODS USED FOR TRANSFERS OF TANGIBLE 
+AND INTANGIBLE PROPERTY 
+ 
+TPM used 
+Number13 
+Residual profit split 
+14 
+CPM: PLI is operating margin 
+10 
+CPM: PLI is Berry Ratio 
+10 
+CUT (intangibles only) 
+8 
+Resale Price Method (tangibles only) 
+8 
+CPM: PLI is markup on total costs 
+6 
+Unspecified method  
+6 
+CPM: PLI is Gross margin   
+5 
+Cost Plus Method (tangibles only) 
+5 
+CPM: PLI is other 
+4 
+CUP (tangibles only) - based on published market data 
+3 
+CUP (tangibles only) - not based on published market data 
+2 
+Other 
+3 
+                                                             
+12 “Multiple tested parties” includes covered transactions that utilize profit splits, CUPs, and CUTs. 
+13 Profit Level Indicators (“PLIs”) used with the Comparable Profit Method of Treas. Reg. § 1.482-5, and as used in 
+these TPM tables, are as follows:  (1) operating margin (ratio of operating profit to sales); (2) Berry ratio (gross 
+profit to operating expenses); (3) markup on total costs (comparative markup on total costs); and (4) gross margin 
+(ratio of gross profit to sales). 
+ 
+ 
+ 14 
+TABLE 17: TRANSFER PRICING METHODS USED FOR SERVICES 
+ 
+TPM used 
+Number   
+Cost plus a markup 
+37 
+Cost with no markup 
+9 
+CPM: PLI is markup on total costs 
+7 
+CPM: PLI is other 
+4 
+CPM: PLI is Berry Ratio 
+2 
+CPM: PLI is operating margin 
+2 
+Other 
+5 
+ 
+ 
+Discussion 
+ 
+The TPMs used in APAs completed during Year 2002 were based on the section 482 regulations.  
+Under Treas. Reg. § 1.482-3, the arm’s length amount for controlled transfers of tangible 
+property may be determined using the Comparable Uncontrolled Price (CUP) method, the Resale 
+Price Method, the Cost Plus Method, the Comparable Profits Method (CPM), or the Profit Split 
+method.  Under Treas. Reg. § 1.482-4, the arm’s length amount for controlled transfers of 
+intangible property may be determined using the Comparable Uncontrolled Transaction (CUT) 
+method, CPM, or the Profit Split Method.  An “Unspecified Method” may be used for both 
+tangible and intangible property if it provides a more reliable result than the enumerated methods 
+under the best method rule of Treas. Reg. § 1.482-1(c).  For transfers involving the provision of 
+services, Treas. Reg. § 1.482-2(b) provides that services performed for the benefit of another 
+member of a controlled group should bear an arm’s length charge, either deemed to be equal to 
+the cost of providing the services (when non-integral) or which should be an amount that would 
+have been charged between independent parties.   
+ 
+In addition, Treas. Reg. § 1.482-2(a) provides rules concerning the proper treatment of loans or 
+advances, and Treas. Reg. § 1.482-7 provides rules for qualified cost sharing arrangements under 
+which the parties agree to share the costs of development of intangibles in proportion to their 
+shares of reasonably anticipated benefits.  APAs involving cost sharing arrangements generally 
+address both the method of allocating costs among the parties as well as determining the 
+appropriate amount of the “buy-in” payment due for the transfer of intangibles to the controlled 
+participants.   
+ 
+In reviewing the TPMs applicable to transfers of tangible and intangible property reflected in 
+Table 16, the majority of the APAs followed the specified methods.  However, there are several 
+distinguishing points that should be made.  The Regulations note that for transfers of tangible 
+property, the Comparable Uncontrolled Price (CUP) method will generally be the most direct 
+and reliable measure of an arm’s length price for the controlled transaction if sufficiently reliable 
+comparable transactions can be identified.  Treas. Reg. § 1.482-3(b)(2)(ii)(A).  It was the 
+experience of the APA Program in Year 2002 that in the cases that come into the APA Program, 
+sufficiently reliable CUP transactions are difficult to find.  In APAs executed in Year 2002, there 
+were five covered transactions that used the CUP method; three looked to published market data 
+and two used internal data on transactions between the taxpayer and unrelated parties.   
+ 
+ 15 
+Similar to the CUP method, for transfers of intangible property, the CUT method will generally 
+provide the most reliable measure of an arm’s length result if sufficiently reliable comparables 
+may be found.  Treas. Reg. § 1.482-4(c)(2)(ii).  It has generally been difficult to identify external 
+comparables, and APAs using the CUT method tend to rely on internal transactions between the 
+taxpayer and unrelated parties.  In Year 2002, there were eight covered transactions that utilized 
+the CUT TPM.   
+ 
+The Cost Plus Method (tangibles only) and Resale Price Method were applied in Year 2002 in 
+five and eight APAs respectively.  See Treas. Reg. § 1.482-3(c), (d).   
+ 
+The CPM is frequently applied in APAs.  This is because reliable public data on comparable 
+business activities of independent companies may be more readily available than potential CUP 
+data, and comparability of resources employed, functions, risks, and other relevant 
+considerations is more likely to exist than comparability of product.  The CPM also tends to be 
+less sensitive than other methods to differences in accounting practices between the tested party 
+and comparable companies, e.g., classification of expenses as cost of goods sold or operating 
+expenses.  Treas. Reg. § 1.482-3(c)(3)(iii)(B), and -3(d)(3)(iii)(B).  In addition, the degree of 
+functional comparability required to obtain a reliable result under the CPM is generally less than 
+required under the Resale Price or Cost Plus methods, because differences in functions 
+performed often are reflected in operating expenses, and thus taxpayers performing different 
+functions may have very different gross profit margins but earn similar levels of operating profit.  
+Treas. Reg. § 1.482-5(c)(2). 
+ 
+Table 16 reflects 35 uses of the CPM (with varying PLIs) in covered transactions involving 
+tangible or intangible property.  The CPM was also used in some APAs concurrently with other 
+methods.   
+ 
+The CPM has proven to be versatile in part because of the various PLIs that can be used in 
+connection with the method.  Reaching agreement on the appropriate PLI has been the subject of 
+much discussion in many of the cases, and it depends heavily on the facts and circumstances.  
+Some APAs have called for different PLIs to apply to different parts of the covered transactions 
+or with one PLI used as a check against the primary PLI.   
+ 
+The CPM also was used regularly with services as the covered transactions in APAs executed in 
+Year 2002.  There were a total of fifteen services covered transactions using the CPM method 
+with various PLIs according to the specific facts of the taxpayers involved.  Table 17 reflects the 
+methods used to determine the arm’s length results for APAs involving services transactions.   
+ 
+In Year 2002, there were fourteen APAs involving tangible or intangible property that used the 
+residual profit split, Treas. Reg. § 1.482-6(c)(3).  In residual profit split cases, routine 
+contributions by the controlled parties are allocated routine market returns, and the residual 
+income is allocated among the controlled taxpayers based upon the relative value of their 
+contributions of intangible property to the relevant business activity.   
+ 
+ 16 
+Critical Assumptions 
+[§ 521(b)(2)(D)(v)] 
+ 
+Critical Assumptions used in APAs executed in Year 2002 are described in Table 18 below: 
+ 
+TABLE 18:  CRITICAL ASSUMPTIONS 
+ 
+Critical Assumptions involving the following: 
+Number of APAs 
+Material changes to the business 
+84 
+Material changes to tax and/or financial accounting practices 
+83 
+Assets will remain substantially same 
+31 
+Consistency requirements, etc., for manufacturing services 
+30 
+Catastrophic events 
+11 
+Changes in affiliated companies 
+5 
+Major regulatory changes 
+5 
+Other financial ratio 
+5 
+Major contract remains in force 
+5 
+Material sales fluctuations 
+4 
+Marketing conditions substantially same 
+3 
+Currency fluctuations 
+2 
+Changes in other duties or tariffs 
+2 
+New import/export non-tariff barriers 
+2 
+Other 
+7 
+ 
+ 
+Discussion 
+ 
+APAs include critical assumptions upon which their respective TPMs depend.  A critical 
+assumption is any fact (whether or not within the control of the taxpayer) related to the taxpayer, 
+a third party, an industry, or business and economic conditions, the continued existence of which 
+is material to the taxpayer's proposed TPM.  Critical assumptions might include, for example, a 
+particular mode of conducting business operations, a particular corporate or business structure, or 
+a range of expected business volume.  Rev. Proc. 96-53, § 5.07. Failure to meet a critical 
+assumption may render an APA inappropriate or unworkable. 
+ 
+A critical assumption may change (and/or fail to materialize) due to uncontrollable changes in 
+economic circumstances, such as a fundamental and dramatic change in the economic conditions 
+of a particular industry.  In addition, a critical assumption may change (and/or fail to materialize) 
+due to a taxpayer's actions that are initiated for good faith business reasons, such as a change in 
+business strategy, mode of conducting operations, or the cessation or transfer of a business 
+segment or entity covered by the APA. 
+ 
+If a critical assumption has not been met, the APA may be revised by agreement of the parties.  
+If such agreement cannot be achieved, the APA may be canceled.  If a critical assumption has 
+not been met, it requires taxpayer's notice to and discussion with the Service, and, in the case of a 
+bilateral APA, competent authority consideration.  Rev. Proc. 96-53, § 11.07. 
+ 
+ 17 
+ 
+Sources of Comparables, Selection Criteria, and the Nature of Adjustments to 
+Comparables and Tested Parties 
+[§ 521(b)(2)(D)(v), (vi), and (vii)] 
+ 
+The sources of comparables, selection criteria, and rationale used in determining the selection 
+criteria for APAs executed in Year 2002 are described in Tables 19 through 21 below.  Various 
+formulas for making adjustments to comparables are included as Attachment B. 
+ 
+TABLE 19:  SOURCES OF COMPARABLES   
+ 
+Comparable Sources 
+Number of Times 
+This Source Used 
+Compustat 
+81 
+Disclosure 
+50 
+Moody's 
+12 
+Trade publication 
+5 
+Mergent 
+2 
+Bureau Van Dijk's JADE (Japan) 
+2 
+Other 
+9 
+ 
+ 
+TABLE 20: COMPARABLE SELECTION CRITERIA 
+ 
+Selection Criteria Considered 
+Number of Times 
+This Criterion Used 
+Comparable functions 
+90 
+Comparable risks 
+65 
+Comparable industry 
+64 
+Comparable products 
+57 
+Comparable intangibles  
+27 
+Comparable contractual terms 
+4 
+ 
+ 
+ 18 
+TABLE 21: ADJUSTMENTS TO COMPARABLES OR TESTED PARTIES 
+ 
+Adjustment 
+Number of Times 
+This Adjustment 
+Used 
+Balance sheet adjustments 
+-- 
+  Receivables 
+40 
+  Inventory 
+38 
+  Payables 
+38 
+  Property, plant, equipment 
+12 
+  Non-interest bearing liabilities 
+2 
+  Other 
+3 
+Accounting adjustments 
+-- 
+  LIFO to FIFO inventory accounting14 
+51 
+  Accounting reclassifications (e.g., from COGS to operating expenses) 
+9 
+  Depreciation 
+5 
+  Other 
+2 
+Profit level indicator adjustments (used to "back into" one PLI from 
+another) 
+-- 
+  Operating expense 
+2 
+  Other 
+2 
+Miscellaneous adjustments 
+-- 
+  Goodwill value or amortization 
+23 
+  Foreign exchange 
+10 
+  Other 
+8 
+ 
+Discussion 
+ 
+At the core of most APAs are comparables.  The APA program works closely with taxpayers to 
+find the best and most reliable comparables for each covered transaction.  In some cases, CUPs 
+or CUTs can be identified.  In other cases, comparable business activities of independent 
+companies are utilized in applying the CPM or residual profit split methods.  Generally, in the 
+APA Program's experience since 1991, CUPs and CUTs have been most often derived from the 
+internal transactions of the taxpayer.   
+ 
+For profit-based methods in which comparable business activities or functions of independent 
+companies are sought, the APA Program typically has applied a three-part process.  First, a pool 
+of potential comparables has been identified through broad searches.  From this pool, companies 
+having transactions that are clearly not comparable to those of the tested party have been 
+eliminated through the use of quantitative and qualitative analyses, i.e., quantitative screens and 
+business descriptions.  Then, based on a review of available descriptive and financial data, a set 
+                                                             
+14 The majority of these LIFO to FIFO inventory accounting adjustments regard business activities addressed by a 
+bilateral competent authority agreement that established streamlined resolution guidelines. 
+ 
+ 19 
+of comparable transactions or business activities of independent companies has been finalized.  
+The comparability of the finalized set has then been enhanced through the application of 
+adjustments.     
+ 
+Sources of Comparables 
+ 
+Comparables used in APAs can be U.S. or foreign.  This depends on the relevant market, the 
+type of transaction being evaluated, and the results of the functional and risk analyses.  In 
+general, comparables have been located by searching a variety of databases that provide data on 
+U.S. publicly traded companies and on a combination of public and private non-U.S. companies.  
+Table 19 shows the various databases and other sources used in selecting comparables for the 
+APAs executed in Year 2002.   
+ 
+Although comparables were most often identified from the databases cited in Table 19, in some 
+cases comparables were found from other sources, such as comparables derived internally from 
+taxpayer transactions with third parties. 
+ 
+Selecting Comparables 
+ 
+Initial pools of potential comparables generally are derived from the databases using a 
+combination of industry and keyword identifiers. Then, the pool is refined using a variety of 
+selection criteria specific to the transaction or business activity being tested and the TPM being 
+used. 
+ 
+The listed databases allow for searches by industrial classification, by keywords, or by both.  
+These searches can yield a number of companies whose business activities may or may not be 
+comparable to those of the entity being tested.  Therefore, comparables based solely on industry 
+classification or keyword searches are rarely used in APAs.  Instead, the pool of comparables is 
+examined closely, and companies are selected based on a combination of screens, business 
+descriptions, and other information found in the companies’ Annual Reports to shareholders and 
+filings with the U.S. Securities and Exchange Commission (SEC).   
+ 
+Business activities are required to meet certain basic comparability criteria to be considered 
+comparables.  Functions, risks, economic conditions, and the property (product or intangible) and 
+services associated with the transaction must be comparable.  Determining comparability can be 
+difficult – the goal has been to use comparability criteria restrictive enough to eliminate business 
+activities that are not comparable, but yet not so restrictive as to have no comparables remaining.  
+The APA Program normally has begun with relatively strict comparability criteria and then has 
+relaxed them slightly if necessary to derive a pool of reliable comparables.  A determination on 
+the appropriate size of the comparables set, as well as the business activities that comprise the 
+set, is highly fact specific and depends on the reliability of the results. 
+ 
+In addition, the APA Program, consistent with the section 482 regulations, generally has looked 
+at the results of comparables over a multi-year period.  Sometimes this has been three years, but 
+it has been more or less, depending on the circumstances of the controlled transaction.  Using a 
+shorter period might result in the inclusion of comparables in different stages of economic 
+ 
+ 20 
+development or use of atypical years of a comparable subject to cyclical fluctuations in business 
+conditions.   
+ 
+Many covered transactions have been tested with comparables that have been chosen using 
+additional criteria and/or screens. These include sales level criteria and tests for financial distress 
+and product comparability.  These common selection criteria and screens have been used to 
+increase the overall comparability of a group of companies and as a basis for further research.  
+The sales level screen, for example, has been used to remove companies that, due to their size, 
+might face fundamentally different economic conditions from those of the transaction or business 
+activities being tested.  In addition, APA analyses have incorporated selection criteria related to 
+removing companies experiencing "financial distress" due to concerns that companies in 
+financial distress often have experienced unusual circumstances that would render them not 
+comparable to the business activity being tested.  These criteria include:  an unfavorable auditor's 
+opinion, bankruptcy, and in certain circumstances, operating losses in a given number of years. 
+ 
+An additional important class of selection criteria is the development and ownership of 
+intangible property.  In some cases in which the business activity being tested is a manufacturer, 
+several criteria have been used to ensure, for example, that if the controlled entity does not own 
+significant manufacturing intangibles or conduct research and development (R&D), then neither 
+will the comparables.  These selection criteria have included determining the importance of 
+patents to a company or screening for R&D expenditures as a percentage of sales.  Again, 
+quantitative screens related to identifying comparables with significant intangible property 
+generally have been used in conjunction with an understanding of the comparable derived from 
+publicly available business information. 
+ 
+Selection criteria relating to asset comparability and operating expense comparability have also 
+been used at times.  A screen of property, plant, and equipment (PP&E) as a percentage of sales 
+or assets, combined with a reading of a company's SEC filings, has been used to help ensure that 
+distributors (generally lower PP&E) were not compared with manufacturers (generally higher 
+PP&E), regardless of their industry classification.  Similarly, a test involving the ratio of 
+operating expenses to sales has helped to determine whether a company undertakes a significant 
+marketing and distribution function.   
+ 
+Table 22 shows the number of times various screens were used in APAs executed in Year 2002: 
+ 
+ 
+ 21 
+TABLE 22: COMPARABILITY SCREENS 
+ 
+Comparability Screen Used 
+Number of Times 
+Used 
+Comparability screens used 
+-- 
+  Sales 
+20 
+  R&D/ sales 
+18 
+  Foreign sales/ total sales 
+10 
+  SG&A/ sales 
+10 
+  Non-startup or start-up 
+4 
+  PP&E/ sales 
+4 
+  PP&E/ total assets 
+3 
+  Operating expenses/ sales 
+2 
+Financial distress 
+-- 
+  Losses in one or more years 
+23 
+  Bankruptcy 
+22 
+  Unfavorable auditor's opinion 
+12 
+ 
+ 
+Adjusting Comparables 
+ 
+After the comparables have been selected, the regulations require that "[i]f there are material 
+differences between the controlled and uncontrolled transactions, adjustments must be made if 
+the effect of such differences on prices or profits can be ascertained with sufficient accuracy to 
+improve the reliability of the results."  Treas. Reg. § 1.482-1(d)(2).  In almost all cases involving 
+income-statement-based PLIs, certain "asset intensity" or "balance sheet" adjustments for factors 
+that have generally agreed-upon effects on profits are calculated.  In addition, in specific cases, 
+additional adjustments are performed to improve reliability. 
+ 
+The most common balance sheet adjustments used in APAs are adjustments for differences in 
+accounts receivable, inventories, and accounts payable.  The APA Program generally has 
+required adjustments for receivables, inventory, and payables based on the principle that there is 
+an opportunity cost for holding assets.  For these assets it is generally assumed that the cost is a 
+short-term debt interest rate.  
+ 
+To compare the profits of two business activities with different relative levels of receivables, 
+inventory, or payables, the APA Program estimates the carrying costs of each item and adjusts 
+profits accordingly.  Although different formulas have been used in specific APA cases, 
+Attachment B presents one set of formulas used in many APAs.  Underlying these formulas are 
+the notions that (1) balance sheet items should be expressed as mid-year averages, (2) formulas 
+should try to avoid using data items that are being tested by the TPM (for example, if sales are 
+controlled, then the denominator of the balance sheet ratio should not be sales), (3) a short-term 
+interest rate should be used, and (4) an interest factor should recognize the average holding 
+period of the relevant asset. 
+ 
+ 
+ 22 
+The APA Program also requires that data be compared on a consistent accounting basis.  For 
+example, although financial statements may be prepared on a first-in first-out (FIFO) basis, 
+cross-company comparisons are less meaningful if one or more of the comparables use LIFO 
+inventory accounting methods.  This adjustment directly affects costs of goods sold and 
+inventories, and therefore affects both profitability measures and inventory adjustments. 
+ 
+Still important in some cases is the adjustment for differences in relative levels of PP&E between 
+a tested business activity and the comparables.  Ideally, comparables and the business activity 
+being tested will have fairly similar relative levels of PP&E, since major differences can be a 
+sign of fundamentally different functions and risks.  Typically, the PP&E adjustment is made 
+using a medium term interest rate. 
+ 
+Additional adjustments used less frequently include those for differences in other balance sheet 
+items, operating expenses, R&D, or currency risk.  Accounting adjustments, such as 
+reclassifying items from cost of goods sold to operating expenses, for example, are also made 
+when warranted to increase reliability.  Often, data is not available for both the controlled and 
+uncontrolled transactions in sufficient detail to allow for these types of adjustments. 
+ 
+The adjustments made to comparables or tested parties in APAs executed in Year 2002 are 
+reflected in table 21 above. 
+ 
+Nature of Ranges and Adjustment Mechanisms 
+[§ 521(b)(2)(D)(viii)–(ix)] 
+ 
+The types of ranges and adjustment mechanisms used in APAs executed in Year 2002 are 
+ described in Table 23 and 24 below.   
+TABLE 23: TYPES OF RANGES 
+ 
+Type of Range 
+Number15  
+Interquartile range 
+39 
+Specific point within CPM range  
+10 
+Specific point (royalty) 
+7 
+Floor (i.e., result must be no less than x) 
+4 
+Specific point (CUP) 
+2 
+Other 
+10 
+ 
+TABLE 24: ADJUSTMENTS WHEN OUTSIDE OF THE RANGE 
+ 
+Adjustment mechanism 
+Number  
+Taxpayer makes an adjustment:  to closest edge 
+32 
+Taxpayer makes an adjustment:  to specified point 
+20 
+Taxpayer makes an adjustment:  to median 
+10 
+Other 
+5 
+                                                             
+15 Numbers do not include TPMs with cost or cost-plus methodologies. 
+ 
+ 23 
+Discussion 
+ 
+Treas. Reg. § 1.482-1(e)(1) states that sometimes a pricing method will yield "a single result that 
+is the most reliable measure of an arm's length result."  Sometimes, however, a method may yield 
+"a range of reliable results," called the "arm's length range."  A taxpayer whose results fall within 
+the arm's length range will not be subject to adjustment. 
+ 
+Under Treas. Reg. § 1.482-1(e)(2)(i), such a range is normally derived by considering a set of 
+more than one comparable uncontrolled transaction of similar comparability and reliability.  If 
+these comparables are of very high quality, as defined in the Regulations, then under Treas. Reg. 
+§ 1.482-1(e)(2)(iii)(A), the arm's length range includes the results of all of the comparables (from 
+the least to the greatest).  However, the APA Program has only rarely identified cases meeting 
+the requirements for the full range.  If the comparables are of lesser quality, then under Treas. 
+Reg. § 1.482-1(e)(2)(iii)(B), "the reliability of the analysis must be increased, when it is possible 
+to do so, by adjusting the range through application of a valid statistical method to the results of 
+all of the uncontrolled comparables."  One such method, the "interquartile range," is ordinarily 
+acceptable, although a different statistical method "may be applied if it provides a more reliable 
+measure." The "interquartile range" is defined as, roughly, the range from the 25th to the 75th 
+percentile of the comparables' results. See Treas. Reg. § 1.482-1(e)(2)(iii)(C).  The interquartile 
+range was used 39 times in Year 2002. 
+ 
+Nineteen covered transactions reflected on Table 23 specified a single, specific result, or "point."  
+Ten of these covered transactions involved a CPM in which the taxpayer agreed to a specific 
+result.  Some APAs specify not a point or a range, instead using a "floor" that requires the tested 
+party's result be greater than or equal to some particular value.  Four APAs executed in Year 
+2002 used a floor.   
+ 
+Some APAs look to a tested party’s results over a period of years (multi-year averaging) to 
+determine whether a taxpayer has complied with the APA.  In 2002, rolling multi-year averaging 
+was used for twelve covered transactions.  Eleven of those used three-year averages, and the 
+other one used a five-year average.  Cumulative multi-year averages were used for two covered 
+transactions.  Of those two transactions, one used a five-year average, and one used a seven-year 
+average.  Additionally, nine covered transactions used term averages. 
+ 
+Adjustments 
+ 
+Under Treas. Reg. § 1.482-1(e)(3), if a taxpayer's results fall outside the arm's length range, the 
+Service may adjust the result "to any point within the arm's length range."  Accordingly, an APA 
+may permit or require a taxpayer and its related parties to make an adjustment after the year's end 
+to put the year's results within the range, or at the point specified by the APA.  Similarly, to 
+enforce the terms of an APA, the Service may make such an adjustment.  When the APA 
+specifies a range, the adjustment is sometimes to the closest edge of the range, and sometimes to 
+another point such as the median of the interquartile range.  Depending on the facts of each case, 
+such automatic adjustments are not always permitted.  APAs may specify that in such a case 
+there will be a negotiation between the competent authorities involved to determine whether and 
+to what extent an adjustment should be made.  APAs may permit automatic adjustments unless 
+ 
+ 24 
+the result is far outside the range specified in the APA.  Thus APAs provide flexibility and 
+efficiency, permitting adjustments when normal business fluctuations and uncertainties push the 
+result somewhat outside the range. 
+ 
+In order to conform the taxpayer's books to these tax adjustments, the APA usually permits a 
+"compensating adjustment" as long as certain requirements are met.  Such compensating 
+adjustments may be paid between the related parties with no interest, and the amount transferred 
+will not be considered for purposes of penalties for failure to pay estimated tax.  See § 11.02 
+Rev. Proc. 96-53. 
+ 
+APA Term and Rollback Lengths 
+[§ 521(b)(2)(D)(x)] 
+ 
+The various term lengths for APAs executed in Year 2002 are set forth in Table 25 below: 
+ 
+TABLE 25: TERMS OF APAS  
+ 
+APA Term in Years 
+Number of APAs 
+1 
+3 
+2 
+1 
+3 
+5 
+4 
+11 
+5 
+50 
+6 
+7 
+7 
+4 
+8 
+2 
+9 
+1 
+10 
+1 
+ 
+Number of rollback years to which an APA TPM was applied in Year 2002 is set forth in Table 
+26 below: 
+ 
+TABLE 26: NUMBER OF YEARS COVERED BY ROLLBACK OF APA TPM  
+ 
+Number of Rollback Years 
+Number of APAs 
+1 
+1 
+2 
+3 
+3 
+5 
+4 
+2 
+5 or more 
+4 
+ 
+ 
+ 
+ 25 
+Nature of Documentation Required 
+[§ 521(b)(2)(D)(xi)] 
+ 
+APAs executed in Year 2002 required that taxpayers provide various documents with their 
+annual reports.  These documents are described in Table 27 below: 
+ 
+TABLE 27: NATURE OF DOCUMENTATION REQUIRED 
+ 
+Documentation 
+Number of Times 
+This Documentation 
+Required16 
+Description of, reason for, and financial analysis of, any Compensating 
+Adjustments with respect to APA Year, including means by which any 
+Compensating Adjustment has been or will be satisfied 
+85 
+84 
+Statement identifying all material differences between Taxpayer's 
+business operations during APA Year and description of Taxpayer's 
+business operations contained in Taxpayer's request for APA, or if there 
+have been no such material differences, a statement to that effect 
+84 
+Statement identifying all material changes in Taxpayer's accounting 
+methods and classifications, and methods of estimation, from those 
+described or used in Taxpayer's request for APA, or if there have been 
+none, statement to that effect 
+Financial analysis demonstrating Taxpayer's compliance with TPM 
+84 
+Description of any failure to meet Critical Assumptions or, if there have 
+been none, a statement to that effect 
+84 
+Financial statements as prepared in accordance with US GAAP 
+73 
+Certified public accountant's opinion that financial statements present 
+fairly financial position of Taxpayer and the results of its operations, in 
+accordance with US GAAP 
+73 
+Organizational chart 
+60 
+Financial statements as prepared in accordance with a foreign GAAP 
+30 
+Various work papers 
+30 
+Certified public accountant's opinion that financial statements present 
+fairly financial position of Taxpayer and the results of its operations, in 
+accordance with a foreign GAAP 
+24 
+Book to tax reconciliations 
+10 
+Certified public accountant's review of financial statements 
+4 
+United States income tax return 
+3 
+Schedule of costs and expenses (e.g., intercompany allocations) 
+3 
+Other 
+23 
+ 
+                                                             
+16 The first seven categories of documentation listed in this table were drawn from the standard APA language used 
+in 2002.  The facts and circumstances of some APAs may eliminate the need for some standard documentation 
+requirements. 
+ 
+ 26 
+Approaches for Sharing of Currency or Other Risks 
+[§ 521(b)(2)(D)(xii)] 
+ 
+During Year 2002, there were 38 tested parties that faced financial risks, including interest rate 
+and currency risks.  Eleven APAs provide specific approaches for dealing with currency risk, 
+including adjustment mechanisms and critical assumptions.   
+ 
+Efforts to Ensure Compliance with APAs 
+[§ 521(b)(2)(F)] 
+ 
+As described in Rev. Proc. 96-53, section 11, APA taxpayers are required to file annual reports 
+to demonstrate compliance with the terms and conditions of the APA.  The filing and review of 
+annual reports is a critical part of the APA process.  Through annual report review, the APA 
+program monitors taxpayer compliance with the APA on a contemporaneous basis.  Annual 
+report review provides current information on the success or problems associated with the 
+various TPMs adopted in the APA process. 
+ 
+All reports received by the APA Office are tracked by one designated APA team leader who also 
+has the primary responsibility for annual report review.  One of the economists also spends a 
+significant amount of time reviewing annual reports.  Other APA team leaders also assist in this 
+review, especially when the team leader who negotiated the case is available, since that person 
+will already be familiar with the relevant facts and terms of the agreement.  Once received by the 
+APA Office, the annual report is sent out to the district personnel with exam jurisdiction over the 
+taxpayer.   
+ 
+The statistics for the review of APA annual reports are reflected in Table 28 below.  As of 
+December 31, 2002, there were 101 pending annual reports.  In Year 2002, there were 330 
+reports closed.   
+ 
+TABLE 28: STATISTICS OF ANNUAL REPORTS 
+ 
+Number of APA annual reports pending as of December 31, 2002 
+101 
+Number of APA annual reports closed in Year 2002 
+33017 
+Number of APA annual reports requiring adjustment in Year 2002 
+5 
+Number of taxpayers involved in adjustments 
+2 
+Number of APA annual reports required to be filed in Year 2002 
+199 
+Number of APA annual reports actually filed in Year 2002 
+189 
+Number of APA annual report cases over one year old 
+37 
+     
+                                                             
+17 This number differs from previously published figures because of annual reports closed but not yet entered on the 
+system used to compile those statistics.  
+ 
+ 27 
+ATTACHMENT A 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ADVANCE PRICING AGREEMENT 
+between 
+[Insert Taxpayer=s Name] 
+and 
+THE INTERNAL REVENUE SERVICE 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 28 
+  
+ 
+ 
+ADVANCE PRICING AGREEMENT 
+between 
+[Insert Taxpayer=s Name] 
+and 
+THE INTERNAL REVENUE SERVICE 
+ 
+  
+ 
+ 
+PARTIES 
+ 
+The Parties to this Advance Pricing Agreement (APA) are the Internal Revenue 
+Service (IRS) and [Insert Taxpayer=s Name], EIN ________ (Taxpayer). 
+ 
+RECITALS 
+ 
+Taxpayer=s principal place of business is [City, State].  [Insert general description 
+of taxpayer and other relevant parties] . 
+ 
+This APA contains the Parties= agreement on the best method for determining 
+arm=s-length prices of the Covered Transactions under I.R.C. section 482, any 
+applicable tax treaties, and the Treasury Regulations. 
+ 
+Unless otherwise specified, terms in the plural include the singular and vice 
+versa.  Appendix D contains definitions for capitalized terms not elsewhere defined in 
+this APA. 
+ 
+{If renewal, add} [Taxpayer and IRS previously entered into an APA covering 
+taxable years ending _____ to ______, executed on ________.] 
+ 
+AGREEMENT 
+ 
+The Parties agree as follows: 
+ 
+1. 
+Covered Transactions.  This APA applies to the Covered Transactions, as 
+defined in Appendix A. 
+ 
+2. 
+Transfer Pricing Method.  Appendix A sets forth the Transfer Pricing Method 
+(TPM) for the Covered Transactions. 
+ 
+ 
+ 
+29 
+3. 
+Term.  This APA applies to Taxpayer=s taxable years ending __________ 
+through ________ (APA Term). 
+ 
+4. 
+Operation. 
+ 
+a. 
+Revenue Procedure 96-53 governs the interpretation, legal effect, and 
+administration of this APA. 
+ 
+b. 
+Nonfactual oral and written representations, within the meaning of 
+sections 10.04 and 10.05 of Revenue Procedure 96-53 (including any proposals to use 
+particular TPMs), made in conjunction with this request constitute statements made in 
+compromise negotiations within the meaning of Rule 408 of the Federal Rules of 
+Evidence. 
+ 
+5. 
+Compliance. 
+ 
+a. 
+For each taxable year covered by this APA (APA Year), if Taxpayer 
+complies with the terms and conditions of this APA, then the IRS will not make or 
+propose any allocation or adjustment under I.R.C. section 482 to the Covered 
+Transactions. 
+ 
+b. 
+If Taxpayer does not comply, then the IRS may: 
+ 
+i. 
+enforce the terms and conditions of this APA and make or propose 
+allocations or adjustments under I.R.C. section 482 consistent with 
+this APA; 
+ 
+ii. 
+cancel or revoke this APA under section 11.05 or 11.06 of Revenue 
+Procedure 96-53;  or 
+ 
+iii. 
+revise this APA, if the Parties agree. 
+ 
+c. 
+Taxpayer must timely file an Annual Report for each APA Year in 
+accordance with Appendix C and section 11.01 of Revenue Procedure 96-53.  The IRS 
+may request additional information reasonably necessary to clarify or complete the 
+Annual Report.  Taxpayer will provide all requested information within 30 days.  
+Additional time may be allowed for good cause. 
+ 
+d. 
+The IRS will determine whether Taxpayer has complied with this APA 
+based on Taxpayer=s U.S. Returns, Financial Statements, and other APA Records, for 
+the APA Term and any other year necessary to verify compliance.  For Taxpayer to 
+comply with this APA, an independent certified public accountant must {use the 
+following or an alternative} render an opinion that the Taxpayer=s Financial Statements 
+present fairly, in all material respects, Taxpayer=s financial position under U.S. GAAP. 
+ 
+ 
+ 
+30 
+e. 
+In accordance with section 11.04 of Revenue Procedure 96-53, Taxpayer 
+will (1) maintain its APA Records, and (2) make them available to IRS in connection with 
+an examination under section 11.03.  Compliance with this subparagraph constitutes 
+compliance with the record-maintenance provisions of I.R.C. sections 6038A and 6038C 
+for the Covered Transactions for any taxable year during the APA Term. 
+ 
+f. 
+If Taxpayer=s actual transactions do not result in compliance with the TPM, 
+Taxpayer: 
+ 
+i. 
+Must report its taxable income in an amount that is consistent with 
+the TPM and all other requirements of this APA on its timely filed 
+U.S. Return.  However, for any APA Year, if Taxpayer=s timely filed 
+U.S. Return is filed no later than 60 days after the effective date of 
+this APA, then Taxpayer may instead report its taxable income in 
+an amount that is consistent with the TPM and all other 
+requirements of this APA on an amended U.S. Return filed no later 
+than 120 days after the effective date of this APA. 
+ 
+ii. 
+May make compensating adjustments under Revenue Procedure 
+96-53, section 11.02, subject to any modifications or restrictions in 
+Appendix A or elsewhere in this APA. 
+ 
+g. 
+{Insert when U.S. Group or Foreign Group contains more than one 
+member.} [This APA addresses the arm=s-length nature of prices charged or received in 
+the aggregate between Taxpayer[s] and Foreign Participants.  Except as explicitly 
+provided, this APA does not address and does not bind the IRS with respect to prices 
+charged or received, or the relative amounts of income or loss realized, by particular 
+legal entities that are members of U.S. Group or that are members of Foreign Group.] 
+ 
+h. 
+The True Taxable Income within the meaning of Treasury Regulations 
+section 1.482-1(a)(1) of a member of an affiliated group filing a U.S. consolidated return 
+will be determined under the I.R.C. section 1502 Treasury Regulations. 
+ 
+i. 
+{Optional for US Parent Signatories} To the extent that Taxpayer=s 
+compliance with this APA depends on certain acts of Foreign Group members, 
+Taxpayer will ensure that each Foreign Group member will perform such acts. 
+ 
+6. 
+Critical Assumptions.  This APA=s critical assumptions, within the meaning of 
+Revenue Procedure 96-53, section 5.07, appear in Appendix B.  Revenue Procedure 
+96-53, section 11.07, governs if any critical assumption has not been met. 
+ 
+7. 
+Disclosure.  This APA, and any background information related to this APA or the 
+APA Request, are: (1) considered Areturn information@ under I.R.C. section 
+6103(b)(2)(C); and (2) not subject to public inspection as a Awritten determination@ under 
+I.R.C. section 6110(b)(1).  Section 521(b) of Pub. L. 106-170 provides that the 
+Secretary of the Treasury must prepare a report for public disclosure that includes 
+ 
+ 
+31 
+certain specifically designated information concerning all APAs, including this APA, in a 
+form that does not reveal taxpayers= identities, trade secrets, and proprietary or 
+confidential business or financial information. 
+ 
+8. 
+Disputes.  If a dispute arises concerning the interpretation of this APA, the 
+Parties will seek a resolution by the IRS Associate Chief Counsel (International), to the 
+extent reasonably practicable, before seeking alternative remedies.  If any dispute 
+arises that is not related to interpreting this APA, the Parties will seek to resolve the 
+dispute in a manner consistent with Revenue Procedure 96-53, section 11.03(4). 
+ 
+9. 
+Materiality.  In this APA the terms Amaterial@ and Amaterially@ will be interpreted 
+consistently with the definition of Amaterial facts@ in Revenue Procedure 96-53, section 
+11.05(1). 
+ 
+10. 
+Section Captions.  This APA=s section captions, which appear in italics, are for 
+convenience and reference only.  The captions do not affect in any way the 
+interpretation or application of this APA. 
+ 
+11. 
+Entire Agreement and Severability.  This APA is the complete statement of the 
+Parties= agreement.  The Parties will sever, delete, or reform any invalid or 
+unenforceable provision in this APA to approximate the Parties= intent as nearly as 
+possible. 
+ 
+12. 
+Successor in Interest.  This contract binds, and inures to the benefit of, any 
+successor in interest to Taxpayer. 
+ 
+13. 
+Notice.  Any notices required by this APA or Revenue Procedure 96-53 must be 
+in writing.  Taxpayer will send notices to the IRS at the address and in the manner set 
+forth in Revenue Procedure 96-53, section 5.13(2).  The IRS will send notices to: 
+ 
+ 
+Taxpayer Corporation 
+Attn: Jane Doe, Sr. Vice President (Taxes) 
+1000 Any Road 
+Any City, USA 10000 
+(phone: _________) 
+ 
+ 
+14. 
+Effective date and Counterparts.  This APA is effective starting on the date, or 
+later date of the dates, upon which all Parties execute this APA.  The Parties may 
+execute this APA in counterparts, with each counterpart constituting an original. 
+ 
+ 
+ 
+ 
+32 
+WITNESS, 
+ 
+The Parties have executed this APA on the dates below. 
+ 
+[Taxpayer Name in all caps] 
+ 
+By: 
+___________________________ 
+ 
+ 
+Date:_______, 20___ 
+Jane Doe 
+Sr. Vice President (Taxes) 
+ 
+IRS 
+ 
+By: 
+___________________________ 
+ 
+ 
+Date:_______, 20___ 
+Mindy Piatoff 
+Acting Director, Advance Pricing Agreement Program 
+ 
+ 
+33 
+APPENDIX A 
+ 
+COVERED TRANSACTIONS AND TRANSFER PRICING METHOD (TPM) 
+_____________________________________________________________________ 
+_____________________________________________________________________ 
+ 
+1. 
+Covered Transactions. 
+ 
+[Define the Covered Transactions.] 
+ 
+2. 
+TPM. 
+ 
+{Note: If appropriate, adapt language from the following examples.} 
+ 
+$ 
+CUP Method 
+ 
+The TPM is the comparable uncontrolled price (CUP) method.  The 
+price charged for _________ must equal between _______ and 
+___________ (the Arm=s Length Range).  Taxpayer must realize, 
+recognize, and report results on its U.S. Returns that clearly reflect such 
+pricing. 
+ 
+$ 
+Resale Price Method (RPM) 
+ 
+The TPM is the resale price method (RPM).  Taxpayer must realize, 
+recognize, and report results on its U.S. Returns that clearly reflect a 
+gross margin (defined as gross profit divided by sales revenue as those 
+terms are defined in Treasury Regulations sections 1.482-5(d)(1) and (2)) 
+of between ____% and ___ % (the Arm=s Length Range) for the Covered 
+Transactions. 
+ 
+$ 
+Cost Plus Method  
+ 
+The TPM is the cost plus method.  Taxpayer must realize, 
+recognize, and report results on its U.S. Returns that clearly reflect a ratio 
+of gross profit to production costs (within the meaning of Treasury 
+Regulations sections 1.482-3(d)(1) and (2)) of between ___% and ___% 
+(the Arm=s Length Range) for the Covered Transactions. 
+ 
+$ 
+CPM with Berry Ratio PLI 
+The TPM is the comparable profits method (CPM).  Taxpayer must 
+realize, recognize, and report results on its U.S. Returns that clearly reflect 
+a gross profit to operating expenses ratio (as those terms are defined in 
+Treasury Regulations sections 1.482-5(d)(2) and (3)) of between ____ and 
+___ (the Arm=s Length Range) for the Covered Transactions. 
+ 
+ 
+34 
+$ 
+CPM using an Operating Margin PLI 
+ 
+The TPM is the comparable profits method (CPM).  The profit level 
+indicator is an operating margin.  Taxpayer=s reported operating profit 
+(within the meaning of Treasury Regulations sections 1.482-5(d)(5)) must 
+clearly reflect an operating margin (defined as the ratio of operating profit 
+to sales revenue as those terms are defined in Treasury Regulations 
+section 1.482-5(d)(1) and (4)) of between ____% and ___ % (the Arm=s 
+Length Range) for the Covered Transactions. 
+ 
+$ 
+CPM using a Three-year Rolling Average Operating 
+Margin PLI 
+ 
+The TPM is the comparable profits method (CPM).  The profit level 
+indicator is an operating margin.  Taxpayer=s Three-Year Rolling Average 
+operating margin is defined as follows for any APA Year:  the sum of 
+Taxpayer=s reported operating profit (within the meaning of Treasury 
+Regulations section 1.482-5(d)(5)) for that APA Year and the two 
+preceding years, divided by the sum of Taxpayer=s sales revenue (within 
+the meaning of Treasury Regulations section 1.482-5(d)(1)) for that APA 
+Year and the two preceding years.  Taxpayer=s Three-Year Rolling 
+Average operating margin must be between ____% and ____% (the Arm=s 
+Length Range.) 
+ 
+$ 
+Residual Profit Split Method 
+ 
+The TPM is the residual profit split method.  Taxpayer must realize, 
+recognize, and report results on its U.S. Returns that clearly reflect the 
+following: [insert description of profit-split mechanism]. 
+ 
+[Insert additional provisions as needed.] 
+ 
+3. 
+Adjustments. 
+ 
+{For use with a CPM} 
+ 
+For each APA Year, if Taxpayer=s year-end [Three-Year Rolling Average] 
+{specify PLI used} for the Covered Transactions is not in compliance with the TPM, 
+Taxpayer will make an adjustment that brings its [Three-Year Rolling Average] {specify 
+PLI used} to {if the TPM specifies a point value, use that; if the TPM specifies an Arm=s 
+Length Range, use the nearest edge of the Arm=s Length Range or a point such as the 
+median within the Arm=s Length Range}. 
+ 
+[Insert additional provisions as needed.] 
+ 
+ 
+35 
+APPENDIX B 
+ 
+CRITICAL ASSUMPTIONS 
+ 
+_____________________________________________________________________ 
+_____________________________________________________________________ 
+ 
+ 
+This APA=s critical assumptions are: 
+1. 
+The business activities, functions performed, risks assumed, assets 
+employed, and financial and tax accounting methods and classifications [and methods 
+of estimation] of Taxpayer in relation to the Covered Transactions will remain materially 
+the same as described or used in Taxpayer=s APA Request.  A mere change in 
+business results will not be a material change. 
+ 
+[Insert additional provisions as needed.] 
+ 
+ 
+ 
+36 
+APPENDIX C 
+ 
+APA RECORDS AND ANNUAL REPORT 
+ _____________________________________________________________________ 
+_____________________________________________________________________ 
+ 
+ 
+APA RECORDS 
+ 
+The APA Records will consist of: 
+ 
+1. 
+All documents listed below for inclusion in the Annual Report, as well as all 
+documents, notes, work papers, records, or other writings that support the 
+information provided in such documents. 
+ 
+2. 
+[Insert here other records as required.] 
+ _____________________________________________________________________ 
+_____________________________________________________________________ 
+ 
+ 
+ANNUAL REPORT 
+ 
+The Annual Report will include a cover sheet and a table of contents.  The cover sheet 
+will specify: 
+ 
+i. 
+the Parties to the APA 
+ii. 
+the APA Term (defined in section 3 of this APA) 
+iii. 
+the APA=s effective date (defined in section 14 of this APA) 
+iv. 
+whether the APA is a renewal, and if so the term of the prior APA 
+v. 
+whether the APA has been amended, and if so the amendment=s effective 
+date 
+vi. 
+any information needed to distinguish the APA at issue from any other 
+APAs involving the same parties 
+vii. 
+any changes to the Taxpayer notice information in section 13 of this APA 
+ 
+The table of contents and the Annual Report will be organized as listed below.  
+Taxpayer must include the following items in its Annual Report for each APA Year. 
+ 
+1. 
+Statements that fully identify, describe, analyze, and explain: 
+ 
+a. 
+All material differences between any of Taxpayer=s business operations 
+(including functions, risks, markets, contractual terms, economic conditions, property or 
+services, and assets employed) during the APA Year and the description of the 
+business operations contained in the APA Request.  If there have been no material 
+differences, the Annual Report will include a statement to that effect. 
+ 
+ 
+ 
+37 
+b. 
+All material changes in Taxpayer=s accounting methods and 
+classifications, and methods of estimation, from those described or used in Taxpayer=s 
+request for this APA.  If there have been no such material changes, the Annual Report 
+will include a statement to that effect. 
+ 
+c. 
+Any failure to meet any critical assumption.  If there have been no failures, 
+the Annual Report will include a statement to that effect. 
+ 
+d. 
+Any change to any entity classification for federal income tax purposes 
+(including any change that causes an entity to be disregarded for federal income tax 
+purposes) of any Worldwide Group member that is a party to the Covered Transactions 
+or is otherwise relevant to the TPM. 
+ 
+e. 
+Any changes to Taxpayer=s financial accounting methods that were made 
+to conform to U.S. GAAP changes and that affect the Covered Transactions. 
+ 
+f. 
+The amount, reason for, and financial analysis of any compensating 
+adjustments under paragraph 5(f)(2) of this APA for the APA Year, including but not 
+limited to: 
+ 
+i. 
+the amounts paid or received by each affected entity; 
+ 
+ii. 
+the character (such as capital, ordinary, income, expense) and 
+country source of the funds transferred, and the specific affected 
+line item(s) of any affected U.S. Return; and 
+ 
+iii. 
+the date(s) and means by which the payments are or will be made. 
+ 
+g. 
+The amounts, description, reason for, and financial analysis of any book-
+tax differences relevant to the TPM for the APA Year, as reflected on Schedule M-1 of 
+the U.S. Return for the APA Year. 
+ 
+2. 
+The Financial Statements, and any necessary account detail to show compliance 
+with the TPM, with a copy of each independent certified public accountant's opinion 
+required by paragraph 5(d) of this APA. 
+ 
+3. 
+A financial analysis that reflects Taxpayer=s TPM calculations for the APA Year.  
+The calculations must reconcile with and reference the Financial Statements in 
+sufficient account detail to allow the IRS to determine whether Taxpayer has complied 
+with the TPM. 
+ 
+4. 
+An organizational chart for the Worldwide Group, revised annually to reflect all 
+ownership or structural changes of entities that are parties to the Covered Transactions 
+or are otherwise relevant to the TPM. 
+ 
+ 
+38 
+APPENDIX D 
+ 
+DEFINITIONS 
+ _____________________________________________________________________ 
+_____________________________________________________________________ 
+ 
+ 
+The following definitions control for all purposes of this APA.  The definitions 
+appear alphabetically below: 
+ 
+ 
+ 
+Term 
+ 
+Definition 
+ 
+Annual Report 
+ 
+A report within the meaning of Revenue Procedure 96-53, 
+section 11. 
+ 
+APA 
+ 
+This Advance Pricing Agreement, which is an Aadvance pricing 
+agreement@ within the meaning of Revenue Procedure 96-53, 
+section 1. 
+ 
+APA Records 
+ 
+The records specified in Appendix C. 
+ 
+APA Request 
+ 
+Taxpayer=s request for this APA dated _________, including 
+any amendments or supplemental or additional information 
+thereto. 
+ 
+This term is defined in Appendix A. 
+ 
+Covered 
+Transaction 
+ 
+Financial 
+Statements 
+ 
+The financial statements prepared in accordance with U.S. 
+GAAP and stated in U.S. dollars. 
+ 
+Foreign Group 
+ 
+Worldwide Group members that are not U.S. persons. 
+ 
+[name the foreign entities involved in Covered Transactions]. 
+ 
+Foreign 
+Participants 
+ 
+I.R.C. 
+ 
+The Internal Revenue Code of 1986, 26 U.S.C., as amended. 
+ 
+Pub. L. 106-170 
+ 
+The Ticket to Work and Work Incentives Improvement Act of 
+1999. 
+ 
+Rev. Proc. 96-53, 1996-2 C.B. 375. 
+ 
+Revenue 
+Procedure 96-53 
+ 
+Transfer Pricing 
+Method (TPM) 
+ 
+A transfer pricing method within the meaning of Treasury 
+Regulations section 1.482-1(b) and Revenue Procedure 96-53, 
+section 3.02. 
+ 
+U.S. GAAP 
+ 
+U.S. generally-accepted accounting principles. 
+ 
+ 
+39 
+ 
+Term 
+ 
+Definition 
+ 
+U.S. Group 
+ 
+Worldwide Group members that are U.S. persons. 
+ 
+U.S. Return 
+ 
+For each taxable year, the Areturns with respect to income 
+taxes under subtitle A@ that Taxpayer must Amake@ in 
+accordance with I.R.C. section 6012.  {Or substitute for 
+partnership:  For each taxable year, the Areturn@ that Taxpayer 
+must Amake@ in accordance with I.R.C. section 6031.} 
+ 
+Worldwide Group 
+ 
+Taxpayer and all organizations, trades, businesses, entities, or 
+branches (whether or not incorporated, organized in the United 
+States, or affiliated) owned or controlled directly or indirectly by 
+the same interests. 
+ 
+ 
+ 
+ 
+40 
+ATTACHMENT B 
+ 
+FORMULAS FOR BALANCE SHEET ADJUSTMENTS 
+ 
+Definitions of Variables: 
+ 
+AP 
+= 
+average accounts payable 
+AR = 
+average trade accounts receivable, net of allowance for bad debt 
+cogs = 
+cost of goods sold 
+INV = 
+average inventory, stated on FIFO basis 
+opex = 
+operating expenses (general, sales, administrative, and depreciation expenses) 
+PPE = 
+property, plant, and equipment, net of accumulated depreciation 
+sales = 
+net sales 
+tc 
+= 
+total cost (cogs + opex, as defined above) 
+h 
+= 
+average accounts payable or trade accounts receivable holding period, 
+ 
+ 
+stated as a fraction of a year 
+i 
+= 
+interest rate 
+t 
+= 
+entity being tested  
+c 
+= 
+comparable 
+ 
+Equations: 
+ 
+If Cost of Goods Sold is controlled (generally, sales in denominator of PLI): 
+ 
+Receivables Adjustment (“RA”): 
+RA = {[(ARt / salest) x salesc] - ARc} x {i/[1+(i x hc)]} 
+Payables Adjustment (“PA”):  
+PA = {[(APt / salest) x salesc] - APc} x {i/[1+(i x hc)]} 
+Inventory Adjustment (“IA”):  
+IA = {[(INVt / salest) x salesc] - INVc } x i 
+PP&E Adjustment (“PPEA”):  
+PPEA = {[(PPEt / salest) x salesc] - PPEc} x i 
+ 
+If Sales are controlled (generally, costs in the denominator of PLI):18 
+ 
+Receivables Adjustment (“RA”): 
+RA =  {[(ARt / tct) x tcc] - ARc} x {i/[1+(i x hc)]} 
+Payables Adjustment (“PA”):  
+PA = {[(APt / tct) x tcc] - APc} x {i/[1+(i x hc)]} 
+Inventory Adjustment (“IA”):  
+IA = {[(INVt / tct) x tcc] - INVc } x i 
+PP&E Adjustment (“PPEA”):  
+PPEA = {[(PPEt / tct) x tcc] - PPEc} x i 
+ 
+ 
+ 
+Then Adjust Comparables as Follows: 
+adjusted salesc = salesc + RA 
+adjusted cogsc  = cogsc + PA - IA 
+adjusted opexc  = opexc - PPEA 
+ 
+ 
+                                                             
+18 Depending on the specific facts, the equations below may use total costs (“tc”) or cost of goods sold (“cogs”).  
+ 
+ 
+41 

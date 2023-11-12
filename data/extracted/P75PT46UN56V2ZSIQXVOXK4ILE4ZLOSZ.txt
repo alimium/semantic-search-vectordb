@@ -1,0 +1,670 @@
+PUBLICATIONS
+Journal of Geophysical Research: Atmospheres
+RESEARCH ARTICLE
+10.1002/2016JD025273
+Multiyear study of the dependence of sea salt aerosol
+on wind speed and sea ice conditions
+in the coastal Arctic
+N. W. May1, P. K. Quinn2, S. M. McNamara1, and K. A. Pratt1,3
+Special Section:
+The Arctic: An AGU Joint
+Special Collection
+1Department of Chemistry, University of Michigan, Ann Arbor, Michigan, USA, 2Paciﬁc Marine Environmental Laboratory,
+National Oceanic and Atmospheric Administration, Seattle, Washington, USA, 3Department of Earth and Environmental
+Sciences, University of Michigan, Ann Arbor, Michigan, USA
+Key Points:
+• Local sea ice coverage and wind
+speed are controlling factors for Arctic
+sea salt concentrations
+• Sea salt aerosol is produced from sea
+ice leads at wind speeds > 4 m/s
+• The inﬂuence of long-range
+transported sea salt aerosol was
+greatest during periods of lower
+winds and increased sea ice coverage
+Supporting Information:
+• Supporting Information S1
+Abstract Thinning of Arctic sea ice gives rise to ice fracturing and leads (areas of open water surrounded
+by sea ice) that are a potential source of sea salt aerosol. Atmospheric particle inorganic ion concentrations,
+local sea ice conditions, and meteorology at Barrow, AK, from 2006 to 2009, were combined to investigate
+the dependence of submicron (aerodynamic diameter < 1 μm) and supermicron (aerodynamic diameter
+1–10 μm) sea saltmassconcentrationsonsea icecoverageandwind speed. Consistentwitha wind-dependent
+source, supermicron sea salt mass concentrations increased in the presence of nearby leads and wind speeds
+greater than 4 m s�1. Increased supermicron and submicron sea salt chloride depletion was observed for
+periods of low winds or a lack of nearby open water, consistent with transported sea salt inﬂuence. Sea salt
+aerosol produced from leads has the potential to alter cloud formation, as well as the chemical composition
+of the Arctic atmosphere and snowpack.
+Correspondence to:
+K. A. Pratt,
+prattka@umich.edu
+1. Introduction
+Citation:
+May, N. W., P. K. Quinn, S. M. McNamara,
+and K. A. Pratt (2016), Multiyear study of
+the dependence of sea salt aerosol on
+wind speed and sea ice conditions in
+the coastal Arctic, J. Geophys. Res.
+Atmos., 121, 9208–9219, doi:10.1002/
+2016JD025273.
+Received 25 APR 2016
+Accepted 25 JUL 2016
+Accepted article online 29 JUL 2016
+Published online 13 AUG 2016
+Rapid sea ice loss is dramatically changing the Arctic surface [Serreze and Stroeve, 2015]. Mean
+September coverage of Arctic sea ice decreased by �13.3% decade�1 for the period of 1979–2014
+[Serreze and Stroeve, 2015], and complete summertime loss of sea ice is expected within 50 years
+[Overland and Wang, 2013]. In the winter-spring, the Arctic is becoming increasingly dominated by
+ﬁrst-year sea ice cover [Maslanik et al., 2011]. Thinner ﬁrst-year sea ice is less structurally stable and more
+prone to fracturing, likely resulting in the formation of leads (transient areas of open water surrounded
+by sea ice), as well as more pancake ice [Stroeve et al., 2012]. Increasing sea salt aerosol production is
+expected from the newly exposed ocean surface [Browse et al., 2014; Struthers et al., 2011]. Sea ice loss
+is also expected to increase the emissions of marine primary organic aerosol and dimethyl sulﬁde, as well as
+lead to changes in aerosol processing and removal in the Arctic boundary layer through changing
+meteorology [Browse et al., 2014].
+Atmospheric aerosols represent the largest source of uncertainty in global radiative forcing predictions
+[Boucher et al., 2013]. An increase in sea salt aerosol emissions will increase Arctic aerosol optical depth,
+increasing the magnitude of aerosol direct radiative forcing (cooling) [Struthers et al., 2011]. Sea salt aerosols
+can also indirectly alter radiative forcing by acting as cloud condensation nuclei (CCN) [Wise et al., 2009].
+Simulations by Browse et al. [2014] suggested that the CCN response to increased sea salt aerosol from the
+Arctic Ocean is weak due to efﬁcient scavenging of particles and decreased new particle formation from a
+greater condensation sink. However, the predicted CCN response was spatially nonuniform, with coastal
+Arctic regions predicted to have a larger CCN response than the central Arctic Ocean [Browse et al., 2014].
+Further, deposition of sea salt aerosol to the snow surface contributes to springtime atmospheric reactive
+bromine chemistry and ozone depletion [Pratt et al., 2013; Simpson et al., 2005]. However, due to limited
+Arctic aerosol measurements, the contributions and radiative impacts of sea salt aerosol under changing
+sea ice conditions are uncertain.
+©2016. American Geophysical Union.
+All Rights Reserved.
+Under open ocean conditions, sea salt aerosol mass concentrations typically increase with increasing wind
+speed [Lewis and Schwartz, 2004] and decreasing water temperature [Salter et al., 2015]. Airborne sea salt
+aerosol particles are formed by two distinct processes when bubbles on the seawater surface burst
+[Blanchard and Woodcock, 1957]. The fragmentation of the top of the bubble membrane produces ﬁlm drops.
+After the bubble membrane top bursts, droplets of water are ﬂung upward from the bubble bottom,
+MAY ET AL.
+ARCTIC SEA SALT AEROSOL
+9208
+Journal of Geophysical Research: Atmospheres
+10.1002/2016JD025273
+producing jet drops. Particles result from ﬁlm and jet drops after evaporation, with ﬁlm drops mainly resulting
+in submicron particles and jet drops generally resulting in supermicron particles [O’Dowd et al., 1997]. Over
+the open ocean, the bubble-bursting production of sea salt aerosol is driven by wind-induced wave breaking
+that entrains air underneath the ocean surface. However, there is still uncertainty regarding the mechanism
+of aerosol production from leads. Nilsson et al. [2001] and Leck et al. [2002] measured wind-dependent
+number ﬂuxes of particles, likely produced through the bubble-bursting mechanism, from open leads at a
+rate ~10 times less than the open ocean, which was attributed to the decreased fetch over the open leads.
+However, Nilsson et al. [2001] found that an additional particle emission mechanism was needed to explain
+the particle number ﬂuxes at low wind speeds. Studies conducted under lower wind speed conditions have
+proposed emission mechanisms, including the transport of bubbles to the surface by increased turbulence
+caused by supercooling conditions [Grammatika and Zimmerman, 2001], gas released from melting ice
+[Leck and Bigg, 1999; Nilsson et al., 2001], phytoplankton respiration [Johnson and Wangersky, 1987], and a
+surface heat ﬂux-driven mechanism [Norris et al., 2011].
+Sea salt aerosol is a signiﬁcant contributor to Arctic particle mass [Quinn et al., 2002]. Given the impacts of sea
+salt aerosol on climate and the changing sea ice surface, it is imperative to evaluate the contribution of sea
+salt aerosol produced from leads. Previous Arctic spring [Radke et al., 1976; Scott and Levin, 1972] and summer
+[Held et al., 2011a; Held et al., 2011b; Leck and Persson, 1996; Leck and Bigg, 1999; Leck and Svensson, 2015;
+Leck et al., 2002; Nilsson et al., 2001] short-term intensive studies measured the direct ﬂux of particles from
+leads over the pack ice. However, signiﬁcant uncertainty remains regarding the extent leads currently
+inﬂuence Arctic particle mass concentrations over multiple seasons and at coastal locations. Therefore, to
+build on previous work on the production of aerosols from leads and to probe the wind dependence of
+sea salt aerosol production from Arctic leads across multiple seasons and years, we present an examination
+of sea salt concentrations near Barrow, Alaska, under varying local sea ice and wind speed conditions from
+April 2006 to December 2009.
+2. Methods
+2.1. Meteorology
+Wind speed and wind direction data were available with 1 min resolution for the National Oceanic and
+Atmospheric Administration (NOAA) Barrow Observatory (71°32′30″N, 156°61′14″W) at 10 m above ground.
+Given that wind speeds ≥ 4 m s�1 over open ocean are typically associated with the formation of bubbles
+responsible for sea salt aerosol production [Monahan and O’Muircheartaigh, 1986], wind speed data were
+divided into three average wind speed categories: (1) “low” < 4 m s�1, (2) “moderate” 4–7 m s�1, and (3)
+“high” >7 m s�1. As there are no direct measurements of wind speed over the adjacent Arctic Ocean avail-
+able, it is assumed that local measured wind speed is representative of the wind speed over the nearby
+sea ice and open water. The local wind speeds observed in this study are consistent with previous obser-
+vations of Arctic wind speeds over sea ice [Tjernström et al., 2012], with low or moderate wind speeds pre-
+sent for 22% and 62% of supermicron, respectively, and 29% and 48%, respectively, of submicron particle
+sampling periods.
+2.2. Sea Ice Radar
+The coverage of local near-shore sea ice at Barrow, AK was determined by examination of radar backscatter
+maps (http://seaice.alaska.edu/gi/data/barrow_radar) produced from a Furuno 10 kW, X-band marine radar,
+which provides high spatial resolution sea ice imaging during both light and dark periods (Figure 1). The
+radar operated atop a building in downtown Barrow (71°17′33″ N, 156°47′17″W) 22.5 m above sea level, with
+a range of up to 11 km to the northwest [Druckenmiller et al., 2009; Eicken et al., 2011]. While the radar only
+covered sea ice conditions to the northwest in this analysis, any lead activity observed within the 11 km range
+analyzed in this study was assumed to reﬂect lead activity along the coast to the southwest and northeast, as
+observed frequently by Mahoney et al. [2014]. Radar backscatter maps were manually analyzed to divide the
+observed local sea surface into three categories: (1) full sea ice cover present, when local sea ice cover was
+complete and no areas of exposed ocean surface were present; (2) leads present, when local sea ice cover
+with areas of exposed ocean surface was present: and (3) open ocean, when no major local sea ice cover
+was observed on the radar map (Figure 1).
+MAY ET AL.
+ARCTIC SEA SALT AEROSOL
+9209
+Journal of Geophysical Research: Atmospheres
+10.1002/2016JD025273
+2.3. Aerosol Chemical Composition
+Atmospheric particles were sampled at
+the NOAA Barrow Observatory 10 m
+above the surface from April 2006 to
+December 2009. Real-time wind direc-
+tion was used to sample only from the
+clean air sector (0°–129°) to avoid inﬂu-
+ence from local pollution [Quinn et al.,
+2002]. The Beaufort and Chukchi Seas
+are 2–25 km upwind of the aerosol sam-
+pling site in the clean air sector, so all air
+sampled is assumed to be of direct mar-
+ine origin. A Berner-type multijet cas-
+cade impactor operating at a sample
+ﬂow rate of 30 L min�1 with 50% cut
+points at aerodynamic diameters (D50)
+of 10 μm and 1 μm was used to collect
+particles
+with
+aerodynamic
+dia-
+meters < 1 μm (referred to as submi-
+cron particles) and 1–10 μm (referred
+to as supermicron particles). Particles
+with diameters < 1 μm passed through
+an impactor to a rotating ﬁlter carousel
+housing eight Millipore Fluoropore ﬁl-
+ters (1.0 mm pore size). For every revolu-
+tion of the rotating submicron ﬁlter
+carousel, seven ﬁlters were sampled
+individually, with sampling time varying
+depending on season and particle load-
+ings, and one ﬁlter, exposed to ambient
+air for 10 s, served as a blank. Particles
+with aerodynamic diameters between
+1 and 10 μm were collected on Tedlar
+ﬁlms over the course of one revolution
+of the rotating submicron ﬁlter carousel,
+with one additional ﬁlm collected as a
+blank for every supermicron sample
+Figure 1. Representative radar backscatter
+maps of local near-shore sea surface at
+Barrow, AK. The yellow arrow indicates
+direction of north, the aerosol sampling
+location is marked by a yellow circle, and the
+radar backscatter location is marked with a
+yellow square. Land is colored green, white is
+indicative of sea ice, and black is shown for
+open water. Sea ice conditions include (a) full
+sea ice coverage, indicated by the full
+coverage of the white signal indicative of sea
+ice; (b) leads present, identiﬁed from the area
+of dark signal in the upper left indicative of
+open ocean present in the middle of the
+white signal indicative of sea ice; and (c) open
+ocean, identiﬁed from the full coverage of the
+dark signal indicative of open ocean.
+MAY ET AL.
+ARCTIC SEA SALT AEROSOL
+9210
+Journal of Geophysical Research: Atmospheres
+10.1002/2016JD025273
+collected. To minimize bounce of large particles onto downstream submicron ﬁlters, a 12 mm grease cup
+coated with silicone grease and a ﬁlm coated with silicone spray were placed on the 10 μm jet [Quinn
+et al., 2002]. Sample air was heated to maintain a stable reference relative humidity (RH) of 40% despite
+changes in ambient RH. The stable sampling RH allows for a constant instrumental size segregation, and
+all measurements are reported at the reference RH [Quinn et al., 2002]. Submicron and supermicron particle
+sampling periods ranged from 1 to 11 days and 5 to 35 days, respectively. After collection, sealed ﬁlters and
+ﬁlms were shipped to the NOAA Paciﬁc Marine Environmental Laboratory for analysis.
+For inorganic ion analysis, ﬁlters and ﬁlms were ﬁrst wetted with 1 mL of spectral grade methanol. Five milli-
+liters of distilled deionized water was then added to the solution, and the samples were extracted by sonicat-
+ing for 30 min. Concentrations of major cations (Na+, NH4
++, K+, Mg2+, and Ca2+) and anions (CH3SO3
+�, Cl�,
+Br�, NO3
+�, SO4
+2�, and C2O₄2�) extracted from each submicron and supermicron particle sample were mea-
+sured by ion chromatography [Quinn et al., 1998]. Details of the inlet, sampling procedures, and chemical ana-
+lyses can be found in Delene and Ogren [2002] and Quinn et al. [2002]. Based on the aerosol sampling ﬂow rate
+(30 L min�1) and typical sampling time, the detection limits calculated as 2 times the standard deviation of
+the blank for the major sea salt ions of interest, Na+ and Cl�, were both 0.0002 μg m�3. For periods that were
+below the detection limit, a value of half the detection limit (0.0001 μg m�3) was substituted for calculations.
+Periods below the detection limit constituted 0% of supermicron and 12% submicron sampling periods for
+Na+ and 3% of supermicron and 20% submicron sampling periods for Cl�. Na+ mass concentration is a con-
+servative tracer for sea salt mass [Legrand et al., 2016] and will be discussed henceforth in the place of sea salt
+mass to avoid biases from varying chloride depletion. While sea spray aerosol is a complex mixture of inor-
+ganic salts and organic compounds, the distribution of which alters the chemical and physical properties
+of the particle, sea spray aerosol is primarily (>60%) composed of inorganic salt [Quinn et al., 2015]. All Na+
+is assumed to be derived from seawater [Quinn et al., 2002], as Sirois and Barrie [1999] showed that the major-
+ity of Na+ in the Arctic is associated with sea salt aerosol. Error was calculated as the standard error of the
+mean and is not shown for periods when only one sampling period fell into the given sea surface and wind
+speed category.
+3. Results and Discussion
+3.1. Sea Salt Mass Concentrations
+A clear dependence of supermicron (1–10 μm) Na+ (sea salt) mass concentrations on the combination of local
+sea ice coverage and wind speed was observed (Figure 2a). There was little difference in the supermicron Na+
+mass concentrations observed for periods with no leads present and low (<4 m s�1) (0.04 ± 0.01 μg m�3) or
+moderate (4–7 m s�1) (0.03 μg m�3) wind speeds compared to periods with leads and low wind speeds
+(0.026 ± 0.009 μg m�3). However, for periods characterized by moderate wind speeds, supermicron Na+ mass
+concentrations were higher when leads were present (0.11 ± 0.03 μg m�3) compared to when full sea ice
+cover was present (0.03 μg m�3). Unfortunately, no supermicron sampling periods of full sea ice coverage
+with high wind speeds (>7 m s�1) were present for comparison to periods of leads present with high
+wind speeds.
+When leads were present, supermicron Na+ mass concentrations were 4 and 10 times greater for periods with
+moderate (0.11 ± 0.03 μg m�3) and high (0.3 ± 0.1 μg m�3) wind speeds, respectively, in comparison to low
+wind speeds (0.03 ± 0.01 μg m�3) (Figure 2a). This is consistent with wind-driven sea salt aerosol number
+ﬂuxes from leads observed directly by Nilsson et al. [2001] and Leck et al. [2002]. Local leads, when observed
+by the sea ice radar, are the most likely source for the wind-dependent supermicron Na+ mass observed in
+this study, as the lifetime of supermicron aerosols in the boundary layer is typically < 12 h [Williams et al.,
+2002]. The short lifetime of these supermicron particles limits the distance from which the majority of these
+particles could have originated, for the wind speeds observed, to a scale of a few hundred kilometers, which
+would fall within the area of Arctic sea ice coverage in the winter-spring and for which the sea ice radar is
+representative of ice fracturing conditions [Mahoney et al., 2014].
+The highest supermicron Na+ mass concentrations are expected for open ocean and high wind speeds, as sea
+salt aerosol production generally increases with increasing wind speed and fetch [Lewis and Schwartz, 2004].
+While no supermicron particle sampling periods occurred for open ocean and low wind speeds, periods of
+MAY ET AL.
+ARCTIC SEA SALT AEROSOL
+9211
+Journal of Geophysical Research: Atmospheres
+10.1002/2016JD025273
+Figure 2. Average mass concentrations of Na+ for the (a) supermicron (1–10 μm), (b) submicron particle (<1 μm) and
+(c) total size ranges, and (d) the fraction of the total Na+ mass that was observed in the supermicron size range, separated
+into nine bins based on local sea ice extent and wind speed. Sea ice extent categories include full ice, leads present, and open
+water. Wind speed categoriesinclude low (<4 m s�1), mid (4–7 m s�1), and high (>7 m s�1). All error bars were calculated as
+the standard error of the mean, and the numbers above each category indicate the number of samples in that category.
+open ocean with moderate wind speeds showed supermicron Na+ mass concentrations (0.5 ± 0.1 μg m�3)
+5 times greater than for periods when leads were present with moderate winds. Previously, sea salt
+aerosol number ﬂuxes over leads were measured to be 10 times smaller than those over the open ocean
+at similar wind speeds, an observation which was attributed to the smaller fetch and area of exposed
+water [Leck et al., 2002; Nilsson et al., 2001]. Therefore, these long-term measurements show that while
+a smaller source than open water, leads are a signiﬁcant wind-dependent source of supermicron sea salt
+particle mass in the Arctic. The supermicron Na+ mass concentration for high wind speeds (0.3 μg m�3)
+was slightly lower than for periods of open ocean with moderate winds (0.5 ± 0.1 μg m�3), contrary to
+that expected based on the dependence of sea salt aerosol mass over open ocean on wind speed
+[Lewis and Schwartz, 2004]. However, only one open ocean aerosol sampling period was characterized
+by sustained high winds, imparting uncertainty in the trend that can be attributed to the small sample
+size and natural variability in meteorological conditions that would impact sea salt aerosol concentra-
+tions through deposition and marine boundary layer mixing [Lewis and Schwartz, 2004]. However, it is
+important to note that despite these confounding factors there are statistically signiﬁcant trends
+overall in the dependence of supermicron sea salt concentrations on local sea ice extent and local
+wind speed.
+MAY ET AL.
+ARCTIC SEA SALT AEROSOL
+9212
+Journal of Geophysical Research: Atmospheres
+10.1002/2016JD025273
+There was no overall dependence of submicron (<1 μm) Na+ mass concentrations on local sea ice coverage
+and wind speed (Figure 2b). Unlike supermicron Na+ mass concentrations, submicron Na+ mass concentra-
+tions did not increase substantially when leads were present. The average submicron Na+ mass concentration
+when leads were present was 0.25 ± 0.03 μg m�3, compared to 0.21 ± 0.06 μg m�3 when leads were not pre-
+sent. In further contrast to supermicron Na+ mass concentrations, a wind speed dependence in submicron
+Na+ mass concentration was not observed when leads were present (Figure 2b). In fact, open ocean periods
+with low or moderate wind speeds resulted in the lowest observed submicron Na+ mass concentrations
+(0.03 ± 0.02 μg m�3 and 0.11 ± 0.03 μg m�3, respectively). The lack of correlation of submicron Na+ mass
+concentrations with local sea ice coverage and wind speed is most likely due to the longer atmospheric
+residence time of submicron sea salt particles, compared to supermicron sea salt particles [Gong et al.,
+2002; Williams et al., 2002]. The shorter residence time of supermicron sea salt aerosol decreases the inﬂuence
+of long-range transport, which signiﬁcantly inﬂuenced the observed submicron sea salt aerosol, as discussed
+in section 3.2. The long-range transport of submicron sea salt aerosol produced from high-latitude open
+ocean sources to the Arctic could therefore have a signiﬁcant inﬂuence on submicron Na+ mass concentra-
+tions, as previously concluded [Barrie and Barrie, 1990; Barrie et al., 1994; Quinn et al., 2002; Sirois and Barrie,
+1999; Sturges and Barrie, 1988].
+During periods of full sea ice cover and open ocean, submicron Na+ mass concentrations exhibited a
+correlation with wind speed. For full sea ice periods, submicron Na+ mass concentrations increased from
+low (0.19 ± 0.05 μg m�3) and moderate (0.2 ± 0.1 μg m�3) to high wind speed (0.3 μg m�3), although the
+increase from moderate to high wind speed was not statistically signiﬁcant, in part due to the availability of
+only one sampling period at high wind speed for comparison (Figure 2b). Under full ice conditions, a non–wave
+breaking source of Na+, as discussed in section 3.4, could potentially contribute, in addition to long-range
+transport, as discussed in section 3.2. For open ocean periods, submicron Na+ showed a greater dependence
+on local meteorology. Submicron Na+ mass concentrations increased from low (0.03 ± 0.01 μg m�3) to moder-
+ate (0.11 ± 0.03 μg m�3) and high (0.2 ± 0.1 μg m�3) wind speeds. However, the increase from moderate to
+high wind speeds was not statistically signiﬁcant. The higher sea salt concentrations under these open ocean
+conditions, along with the decrease in the fraction of aged submicron sea salt periods discussed in section 3.2,
+suggests the inﬂuence of submicron sea salt production from local wind-driven wave breaking processes.
+Overall, the supermicron fraction of the total Na+ mass concentration increased with decreasing sea ice cov-
+erage and, in the presence of leads, increasing wind speed (Figures 2c and 2d). Supermicron Na+ mass con-
+centrations comprised less than 20% of the total Na+ mass concentrations for periods with full sea ice cover
+and with leads and low winds. In the presence of leads, the supermicron Na+ mass fraction increased with
+increasing wind speed. At moderate wind speeds the supermicron Na+ mass concentration comprised
+40% of the total Na+ mass concentration for periods with leads, ~4 times greater than periods with leads
+and low wind speeds. Then, for periods with leads and high wind speeds, the supermicron Na+ mass fraction
+increased to 50% of the total Na+ mass concentration. Finally, the supermicron Na+ mass fraction was the
+most dominant for periods with open ocean, comprising 60–80% of the total Na+ mass concentration. The
+dependence of supermicron Na+ mass fraction on local sea ice coverage and wind speed highlights that
+the supermicron sea salt aerosol population is more directly inﬂuenced by local sea ice coverage and wind
+speed than the submicron sea salt aerosol population, as expected due to the longer atmospheric residence
+time of submicron sea salt particles [Gong et al., 2002; Williams et al., 2002].
+3.2. Contributions of Aged Sea Salt Aerosol
+Cl�/Na+ molar ratios were calculated to investigate sea salt aerosol lifetime and chemical processing, a mea-
+sure of the inﬂuence of long-range transport. Sea salt aerosol retains the Cl�/Na+ molar ratio of seawater
+(1.16) when introduced into the atmosphere [Keene et al., 1986]. This ratio is altered in the atmosphere
+through the displacement of chlorine through reaction with acidic gases, such as H2SO4, or aqueous oxida-
+tion of SO2(g) [Keene et al., 1998]. The extent of aging is thus dependent on atmospheric residence time, as
+well as the original particle mass and acidic precursor concentrations in the atmosphere [Leck et al., 2002].
+Previous work has shown that ﬁne sea salt aerosol (aerodynamic diameter < 2.5 μm) are more likely to have
+greater chloride depletion than those of larger diameter coarse (aerodynamic diameter > 2.5 μm) sea salt
+aerosol [Barrie et al., 1994; Hara et al., 2002; Leck et al., 2002]. In addition, previous work has shown that sea
+MAY ET AL.
+ARCTIC SEA SALT AEROSOL
+9213
+Journal of Geophysical Research: Atmospheres
+10.1002/2016JD025273
+Figure 3. The fraction of sampling periods with a Cl� enrichment factor < 0.75, corresponding to aged sea salt for
+(a) supermicron and (b) submicron size ranges, divided into categories based on sea ice conditions and wind speed,
+similar to Figure 2.
+salt aerosols exhibit greater depletion following polar sunrise when production of sulfuric acid from the
+oxidation of SO2(g) occurs in the Arctic troposphere [Sirois and Barrie, 1999]. Using Cl�/Na+ molar ratios
+(Figure S1 in the supporting information), fractions of sampling periods dominated by “aged” sea salt were
+calculated for each sea ice and wind speed category (Figure 3). Aged sea salt was deﬁned as having a Cl�
+enrichment factor < 0.75. Cl� enrichment factor is determined by dividing the Cl�/Na+ ratio of the aerosol
+sample by the Cl�/Na+ ratio of bulk seawater [Newberg et al., 2005]. Therefore, an enrichment factor < 0.75
+corresponds to the depletion of 25% or more of Cl� from sea salt aerosol and represents particles that have
+undergone signiﬁcant atmospheric processing. Sampling periods with a Cl�/Na+ enrichment factor > 0.75
+were considered to consist primarily of “fresh” sea salt produced from local sources.
+The average fraction of aged submicron sea salt periods (0.74 ± 0.07) across all local sea ice coverage and wind
+speed categories was higher than the fraction of aged supermicron sea salt periods (0.39 ± 0.06) (Figure 3). The
+median Cl�/Na+ molar ratios for submicron and supermicron sea salt aerosol sampling periods also exhibited a
+dependence on local sea ice coverage and wind speed (Figure S2). Overall, the median Cl�/Na+ molar ratio of
+submicron sea salt periods (0.62) was lower than the median Cl�/Na+ molar ratio for supermicron sampling
+periods (0.86) (Figure S2). This indicates that the atmospheric processing undergone by the submicron sea salt
+resulted in a greater Cl� depletion than the supermicron sea salt, as expected since smaller particles have a
+longer residence time [Williams et al., 2002] and a higher surface area to volume ratio [McInnes et al., 1994].
+MAY ET AL.
+ARCTIC SEA SALT AEROSOL
+9214
+Journal of Geophysical Research: Atmospheres
+10.1002/2016JD025273
+The highest fractions (0.7–0.8) of aged sea salt sampling periods were observed when full sea ice cover with
+low and moderate wind speeds were present, consistent with the lack of a local sea salt source (Figure 3). The
+fractions of aged submicron and supermicron sea salt periods when leads or open ocean were present with
+low wind speed were similarly high (0.6–0.8). That some of the highest fractions of aged sea salt were
+observed under low wind conditions across all sea ice coverage categories indicates that the sea salt
+observed during low wind periods, regardless of sea ice coverage, experienced increased atmospheric
+processing, likely due to long-range transport.
+For periods with leads present, the fraction of aged submicron and supermicron sea salt periods, respectively,
+decreased from low (0.77 ± 0.06; 0.7 ± 0.2) to moderate (0.74 ± 0.05; 0.39 ± 0.09) to high wind speeds (0.64
+± 0.06; 0.1 ± 0.1), consistent with greater contributions from a wind-dependent local sea salt aerosol source
+(Figure 3). However, this potential decrease in the fraction of aged submicron sea salt periods with increased
+wind speed, when leads were present, was partly within error. When open ocean was present, the fraction of
+aged submicron sea salt periods decreased, partly within error, with increasing wind speed (low wind
+speed = 0.8 ± 0.2; moderate wind speed = 0.75 ± 0.07; high wind speed = 0.3 ± 0.1), again consistent with a
+wind-dependent local sea salt aerosol source. These trends in sea salt aging are consistent with local sea salt
+aerosol production increasing with decreasing local sea ice coverage and increasing wind speed. This further
+supports wind-driven sea salt aerosol production, dominated by supermicron particles, from leads.
+3.3. Difference in Particle Production From Leads Versus Open Ocean
+In addition to differences in particle lifetime between submicron and supermicron sea salt aerosol [Williams
+et al., 2002], differences in the production mechanisms of submicron and supermicron sea salt aerosol from
+leads likely also contributed to the observed trends in aged fractions and sea salt mass fractions. Leck et al.
+[2002] and Nilsson et al. [2001] hypothesized that compared to open ocean production, ﬁlm drop particle pro-
+duction from leads depends less on wind speed than jet drop particle production. As a result, the sea salt
+aerosol size distribution over pack ice is dominated by a larger particle diameter lognormal mode at
+~2 μm, while over open ocean, a smaller particle diameter lognormal mode centered at 100 nm dominates
+[Nilsson et al., 2001]. This is consistent with the lognormal size distribution of sea salt aerosol resulting from
+ﬁlm and jet drops centered at ~100–200 nm and ~1–2 μm dry diameters, respectively, measured by O’Dowd
+et al. [1997]. Thus, the larger contribution of fresh supermicron sea salt, compared to submicron sea salt,
+observed during periods with leads and moderate to high winds (Figure 3) is consistent with the hypothesis
+that jet drops are the dominant production mechanism of sea salt aerosol from leads. Additionally, the
+increased presence of smaller particles over open ocean observed by Nilsson et al. [2001] is evident in this
+study by the increased presence of fresh submicron sea salt during periods of open ocean and high wind
+speeds (Figure 3). These results therefore suggest that the differences in wind-driven production of sea salt
+aerosol from leads, compared to open ocean, shift the mass distribution of sea salt aerosol in the Arctic
+toward larger sizes when leads are present. This could impact radiative forcing and cloud processes in the
+Arctic as CCN efﬁciency is size dependent [Dusek et al., 2006].
+3.4. Non–Wave Breaking Particle Sources
+Sea salt aerosol production from local leads and open ocean appears to be the dominant contributor to sea
+salt mass concentrations in this study. However, submicron sea salt mass concentrations, sampled under con-
+ditions where local sea salt aerosol production are not expected (e.g., 0.21 ± 0.06 μg m�3 when full sea ice
+cover was present), were equal to or greater than those from other categories where local sea salt production
+are expected (e.g., 0.12 ± 0.03 μg m�3 when open ocean was present). This suggests that there were sea salt
+aerosol sources even when no exposed ocean surface was present (Figure 2b). Frost ﬂowers, highly saline ice
+crystals grown on rapidly freezing open leads, are a potential source for wind-driven sea salt aerosol
+production when no open ocean is present [Rankin et al., 2000]. However, as discussed in the supporting
+information, the contribution from wind-blown frost ﬂowers to the measured sea salt aerosol concentrations
+was likely minor as there were no full sea ice cover sampling periods with SO4
+2�/Na+ molar ratios indicative
+of frost ﬂowers (<0.02) (Figure S3) [Douglas et al., 2012]. In comparison, SO4
+2�/Na+ molar ratios for fresh
+seawater and fresh sea salt aerosol are ~0.06 [Keene et al., 2007]. However, sulfate isotope analysis would
+be necessary to fully determine the inﬂuence of frost ﬂowers, as anthropogenic sulfates can mask the
+sulfate depleted frost ﬂower sea salt [Norman et al., 1999; Seguin et al., 2014]. High winds can also loft
+saline snow particles, which are suggested to form aerosols by sublimation [Lieb-Lappen and Obbard, 2015;
+MAY ET AL.
+ARCTIC SEA SALT AEROSOL
+9215
+Journal of Geophysical Research: Atmospheres
+10.1002/2016JD025273
+Yang et al., 2008]. The increase in submicron Na+ mass concentrations from low wind speed (0.19± 0.05μg m�3),
+to moderate wind speed (0.2 ± 0.1μg m�3), to high wind speed (0.3 μg m�3) for periods with full sea ice cover
+was not also observed in the supermicron Na+ mass concentrations. Therefore, additional detailed ﬁeld
+measurements of aerosol size and chemical composition are required to examine the potential size-dependent
+production of aerosols from blowing snow. However, this increase in submicron Na+ mass concentration was
+within error. In addition, the Cl�/Na+ ratio of blowing snow in Barrow, AK, is expected to be similar to the ocean
+water ratio [Jacobi et al., 2012], such that any fresh sea salt observed during full ice periods can potentially be
+attributed to this source. Therefore, with less than 30% of the full sea ice cover submicron and supermicron
+sampling periods characterized by fresh sea salt, the contribution from blowing snow production to the observed
+Na+ mass concentrations is likely minor with transported sea salt aerosol representing a greater contribution.
+3.5. Seasonality of Sea Salt Aerosol Production
+The Arctic sea ice coverage undergoes seasonal changes, with growth during winter, loss during summer,
+and pack ice movement due to winds and currents [Mahoney et al., 2014]. In this study, particle sampling
+periods with local full sea ice cover occurred during the months of November through June (Figure S4).
+For these months, 11–36% and 0–25% of all submicron and supermicron particle sampling periods, respec-
+tively, corresponded to local full sea ice coverage. For Barrow, AK, Quinn et al. [2002] previously observed a
+winter maximum in submicron sea salt aerosol, attributed to long-range transport from high-latitude regions
+of the Paciﬁc and Atlantic Oceans with seasonally high winds. This is consistent with the observations of the
+highest fractions of aged sea salt and submicron Na+ mass concentrations during sampling periods with full
+sea ice cover, suggesting that the winter sea salt aerosol population had the longest transport time from its
+source. As expected, open ocean near Barrow was observed between July and November (Figure S4). The
+minimum fractions of aged sea salt and maximum supermicron Na+ mass concentrations were observed
+during these periods of local open ocean, suggesting the sea salt aerosol population during summer had
+the shortest transport time from its source. The lower particle dry deposition velocity, and resulting longer
+particle lifetime, over sea ice compared to over open ocean in the Arctic [Nilsson and Rannik, 2001] likely also
+contributed to the higher fraction of aged sea salt and higher submicron Na+ mass concentrations during
+sampling periods with full sea ice cover compared to periods of local open ocean. Nearby leads were
+observed to be present between October and July and were the dominant sea ice category over the entire
+study (Figure S3). Supermicron particle sampling periods with leads present comprised 50–91% of the
+supermicron particle sampling periods months of October to July. Submicron particle sampling periods with
+leads present comprised 64–91%, and 5%, of submicron particle sampling periods November to July, and
+October, respectively. This suggests that sea salt aerosol production from leads currently impacts sea salt
+aerosol mass concentrations, especially in the supermicron particle size range, in the Arctic atmosphere
+throughout the majority of the year.
+4. Conclusions
+This three-year study at Barrow, AK allowed a comprehensive investigation into the inﬂuences of sea ice cov-
+erage and wind speed on sea salt mass concentrations in the coastal Arctic. Wind-driven production of sea
+salt aerosol from leads contributes signiﬁcantly to sea salt aerosol mass concentrations in the Arctic, but to
+a lesser extent than wind-driven production of sea salt aerosol from open ocean. This is consistent with pre-
+vious short-term summertime number ﬂux measurements of sea salt aerosol over open leads, where sea salt
+aerosol emissions were ~10 times smaller than the open ocean [Leck et al., 2002; Nilsson et al., 2001]. The inﬂu-
+ence of sea salt aerosol production from open leads was most apparent in the supermicron size range, as evi-
+denced by the strong dependence on wind speed of supermicron sea salt mass concentrations, which
+increased by a factor of 10 from periods with low wind speed to periods with high wind speeds, when leads
+were present. The increase in supermicron Na+ mass concentration from 0.035 ± 0.007 μg m�3, when leads
+were not present, to 0.12 ± 0.02 μg m�3 when leads were present, provides further evidence of the inﬂuence
+of sea salt aerosol production from leads. There was evidence of wind-driven submicron sea salt production
+from local leads, but submicron sea salt, depleted in chloride, from long-range transport comprised the
+majority (~70%) of the submicron sea salt mass. The inﬂuence of long-range transport was greatest when
+local sea salt aerosol production would not be expected, including periods of low winds and full sea ice cover.
+MAY ET AL.
+ARCTIC SEA SALT AEROSOL
+9216
+Journal of Geophysical Research: Atmospheres
+10.1002/2016JD025273
+This improves our knowledge of complex atmosphere-sea ice feedbacks [Shepson et al., 2012]. Supermicron
+sea salt aerosol production from leads could increase direct radiative forcing, as supermicron sea salt can con-
+tribute signiﬁcantly to scattering in the remote marine boundary layer [Quinn et al., 1998]. This supermicron
+sea salt aerosol could also impact indirect radiative forcing and cloud properties as giant CCN (2–10 μm),
+which can induce the formation of larger cloud droplets and accelerate precipitation in the presence of smal-
+ler particles [Yin et al., 2000]. The CCN response to supermicron sea salt aerosol produced from leads may be
+reduced by the efﬁcient removal of large particles in the highly scavenging nature of the Arctic atmosphere,
+particularly in summer [Browse et al., 2012]. Supermicron sea salt aerosol emissions from leads would also
+increase the atmospheric condensation sink, which is predicted to suppress particle nucleation from
+dimethyl sulﬁde and reduce total CCN concentrations [Browse et al., 2014]. Increased emissions of supermi-
+cron sea salt aerosol from leads thus could play an important role in controlling the CCN response to changes
+in sea ice [Browse et al., 2014]. Supermicron sea salt aerosol could also alter snowpack and atmospheric
+halogen photochemistry, and therefore atmospheric oxidation [Simpson et al., 2005]. The impacts of wind-
+driven production of sea salt aerosol from leads could be particularly evident in winter and early spring when
+sea ice coverage is at its maximum and submicron sea salt mass concentrations are typically higher than
+supermicron sea salt mass concentrations due to a lack of local open ocean source [Quinn et al., 2002].
+Given decreasing multiyear sea ice extent and increasing ice fracturing [Stroeve et al., 2012], wind-driven
+production of supermicron sea salt aerosol from leads could therefore increase the supermicron sea salt
+aerosol mass fraction in the Arctic in the winter-spring, changing the annual contributions of sea salt aerosol
+to the Arctic winter and early spring [Sirois and Barrie, 1999] may further increase the atmospheric sea salt
+mass burden [Browse et al., 2012]. To fully understand the inﬂuence of sea salt aerosol produced from leads,
+measurements of sea salt aerosol concentrations with higher time resolution must be combined with sea ice
+coverage measurements that take into account a larger area. Furthermore, to understand the long-term
+impacts of changing sea ice on the Arctic, decadal comparisons between sea ice conditions and sea salt
+aerosol are necessary.
+References
+Acknowledgments
+The University of Michigan College of
+Literature, Science, and the Arts is
+thanked for funding this analysis. Hajo
+Eicken of the Sea Ice Group at the
+Geophysical Institute at the University
+of Alaska Fairbanks is thanked for dis-
+cussions regarding, and assistance in
+obtaining, the sea ice radar backscatter
+maps. We thank the NOAA personnel at
+Barrow, AK for sample collection and
+Kristen Schulz (NOAA PMEL) for sample
+analysis. NOAA Barrow Observatory
+meteorological and aerosol data are
+available online (http://www.esrl.noaa.
+gov/gmd/obop/brw/), and Barrow sea
+ice radar backscatter maps can be found
+online at http://seaice.alaska.edu/gi/
+data/barrow_radar. The PMEL contribu-
+tion number is 4408.
+Barrie, L. A., and M. J. Barrie (1990), Chemical components of lower tropospheric aerosols in the high arctic: Six years of observations, J. Atmos.
+Chem., 11, 211–226.
+Barrie, L. A., R. Staebler, D. Toom, B. Georgi, G. Denhartog, S. Landsberger, and D. Wu (1994), Arctic aerosol size-segregated chemical
+observations in relation to ozone depletion during Polar Sunrise Experiment 1992, J. Geophys. Res., 99(D12), 25,439–25,451, doi:10.1029/
+94JD01514.
+Blanchard, D. C., and A. H. Woodcock (1957), Bubble formation and modiﬁcation in the sea and its meteorological signiﬁcance, Tellus, 9(2),
+145–158, doi:10.1111/j.2153-3490.1957.tb01867.x.
+Boucher, O., et al. (2013), Clouds and aerosols, in Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth
+Assessment Report of the Intergovernmental Panel on Climate Change, edited by T. F. Stocker et al., pp. 571–658, Cambridge Univ. Press,
+Cambridge, U. K., and New York.
+Browse, J., K. S. Carslaw, S. R. Arnold, K. Pringle, and O. Boucher (2012), The scavenging processes controlling the seasonal cycle in Arctic
+sulphate and black carbon aerosol, Atmos. Chem. Phys., 12(15), 6775–6798, doi:10.5194/acp-12-6775-2012.
+Browse, J., K. S. Carslaw, G. W. Mann, C. E. Birch, S. R. Arnold, and C. Leck (2014), The complex response of Arctic aerosol to sea-ice retreat,
+Atmos. Chem. Phys., 14(14), 7543–7557, doi:10.5194/acp-14-7543-2014.
+Delene, D. J., and J. A. Ogren (2002), Variability of aerosol optical properties at four North American surface monitoring sites, J. Atmos. Sci.,
+59(6), 1135–1150, doi:10.1175/1520-0469(2002)059<1135:voaopa>2.0.co;2.
+Douglas, T. A., et al. (2012), Frost ﬂowers growing in the Arctic ocean-atmosphere-sea ice-snow interface: 1. Chemical composition,
+J. Geophys. Res., 117, D00R09, doi:10.1029/2011JD016460.
+Druckenmiller, M. L., H. Eicken, M. A. Johnson, D. J. Pringle, and C. C. Williams (2009), Toward an integrated coastal sea-ice observatory:
+System components and a case study at Barrow, Alaska, Cold Reg. Sci. Technol., 56(2–3), 61–72, doi:10.1016/j.coldregions.2008.12.003.
+Dusek, U., et al. (2006), Size matters more than chemistry for cloud-nucleating ability of aerosol particles, Science, 312(5778), 1375–1378,
+doi:10.1126/science.1125261.
+Eicken, H., J. Jones, R. Mv, C. Kambhamettu, F. J. Meyer, A. Mahoney, and M. L. Druckenmiller (2011), Environmental security in arctic
+ice-covered seas: From strategy to tactics of hazard identiﬁcation and emergency response, Mar. Technol. Soc. J., 45(3), 37–48.
+Gong, S. L., L. A. Barrie, and M. Lazare (2002), Canadian Aerosol Module (CAM): A size-segregated simulation of atmospheric aerosol
+processes for climate and air quality models—2. Global sea-salt aerosol and its budgets, J. Geophys. Res., 107(D24), 4779, doi:10.1029/
+2001JD002004.
+Grammatika, M., and W. B. Zimmerman (2001), Microhydrodynamics of ﬂotation processes in the sea surface layer, Dyn. Atmos. Oceans,
+34(2–4), 327–348, doi:10.1016/S0377-0265(01)00073-2.
+Hara, K., K. Osada, K. Matsunaga, Y. Iwasaka, T. Shibata, and K. Furuya (2002), Atmospheric inorganic chlorine and bromine species in Arctic
+boundary layer of the winter/spring, J. Geophys. Res., 107(D18), 4361, doi:10.1029/2001JD001008.
+Held, A., I. M. Brooks, C. Leck, and M. Tjernström (2011a), On the potential contribution of open lead particle emissions to the central Arctic
+aerosol concentration, Atmos. Chem. Phys., 11, 3093-3105, doi:10.5194/acp-11-3093-2011.
+Held, A., D. A. Orsini, P. Vaattovaara, M. Tjernström, and C. Leck (2011b), Near-surface proﬁles of aerosol number concentration and
+temperature over the Arctic Ocean, Atmos. Meas. Tech., 4(8), 1603–1616, doi:10.5194/amt-4-1603-2011.
+MAY ET AL.
+ARCTIC SEA SALT AEROSOL
+9217
+Journal of Geophysical Research: Atmospheres
+10.1002/2016JD025273
+Jacobi, H. W., D. Voisin, J. L. Jaffrezo, J. Cozic, and T. A. Douglas (2012), Chemical composition of the snowpack during the OASIS spring
+campaign 2009 at Barrow, Alaska, J. Geophys. Res., 117, D00R13, doi:10.1029/2011JD016654.
+Johnson, B. D., and P. J. Wangersky (1987), Microbubbles: Stabilization by monolayers of adsorbed particles, J. Geophys. Res., 92(C13),
+14,641–14,647, doi:10.1029/JC092iC13p14641.
+Keene, W. C., A. A. P. Pszenny, J. N. Galloway, and M. E. Hawley (1986), Sea-salt corrections and interpretation of constituent ratios in marine
+precipitation, J. Geophys. Res., 91(D6), 6647–6658, doi:10.1029/JD091id06p06647.
+Keene, W. C., R. Sander, A. A. P. Pszenny, R. Vogt, P. J. Crutzen, and J. N. Galloway (1998), Aerosol pH in the marine boundary layer, J. Aerosol
+Sci., 29(3), 339–356, doi:10.1016/s0021-8502(97)10011-8.
+Keene, W. C., et al. (2007), Chemical and physical characteristics of nascent aerosols produced by bursting bubbles at a model air-sea
+interface, J. Geophys. Res., 112, D21202, doi:10.1029/2007JD008464.
+Leck, C., and C. Persson (1996), Seasonal and short-term variability in dimethyl sulﬁde, sulfur dioxide and biogenic sulfur and sea salt aerosol
+particles in the arctic marine boundary layer during summer and autumn, Tellus B, 48(2), doi:10.3402/tellusb.v48i2.15891.
+Leck, C., and E. K. Bigg (1999), Aerosol production over remote marine areas—A new route, Geophys. Res. Lett., 26(23), 3577–3580,
+doi:10.1029/1999GL010807.
+Leck, C., and E. Svensson (2015), Importance of aerosol composition and mixing state for cloud droplet activation over the Arctic pack ice in
+summer, Atmos. Chem. Phys., 15(5), 2545–2568, doi:10.5194/acp-15-2545-2015.
+Leck, C., M. Norman, E. K. Bigg, and R. Hillamo (2002), Chemical composition and sources of the high Arctic aerosol relevant for cloud
+formation, J. Geophys. Res., 107, 4135, doi:10.1029/2001JC001463.
+Legrand, M., X. Yang, S. Preunkert, and N. Theys (2016), Year-round records of sea salt, gaseous, and particulate inorganic bromine in the
+atmospheric boundary layer at coastal (Dumont d’Urville) and central (Concordia) East Antarctic sites, J. Geophys. Res. Atmos., 121,
+997–1023, doi:10.1002/2015JD024066.
+Lewis, E. R., and S. E. Schwartz (2004), Sea Salt Aerosol Production: Mechanisms, Methods, Measurements, and Models—A Critical Review, AGU,
+Washington, D. C.
+Lieb-Lappen, R. M., and R. W. Obbard (2015), The role of blowing snow in the activation of bromine over ﬁrst-year Antarctic sea ice, Atmos.
+Chem. Phys., 15(13), 7537–7545, doi:10.5194/acp-15-7537-2015.
+Mahoney, A. R., H. Eicken, A. G. Gaylord, and R. Gens (2014), Landfast sea ice extent in the Chukchi and Beaufort Seas: The annual cycle and
+decadal variability, Cold Reg. Sci. Technol., 103, 41–56, doi:10.1016/j.coldregions.2014.03.003.
+Maslanik, J., J. Stroeve, C. Fowler, and W. Emery (2011), Distribution and trends in Arctic sea ice age through spring 2011, Geophys. Res. Lett.,
+38, L13502, doi:10.1029/2011GL047735.
+McInnes, L. M., D. S. Covert, P. K. Quinn, and M. S. Germani (1994), Measurements of chloride depletion and sulfur enrichment in individual
+sea-salt particles collected from the remote marine boundary layer, J. Geophys. Res., 99(D4), 8257, doi:10.1029/93JD03453.
+Monahan, E. C., and I. G. O’Muircheartaigh (1986), Whitecaps and the passive remote sensing of the ocean surface, Int. J. Remote Sens., 7(5),
+627–642, doi:10.1080/01431168608954716.
+Newberg, J. T., B. M. Matthew, and C. Anastasio (2005), Chloride and bromide depletions in sea-salt particles over the northeastern Paciﬁc
+Ocean, J. Geophys. Res., 110, D06209, doi:10.1029/2004JD005446.
+Nilsson, E. D., and Ü. Rannik (2001), Turbulent aerosol ﬂuxes over the Arctic Ocean: 1. Dry deposition over sea and pack ice, J. Geophys. Res.,
+106, 32,125-32,137, doi:10.1029/2000JD900605.
+Nilsson, E. D., U. Rannik, E. Swietlicki, C. Leck, P. P. Aalto, J. Zhou, and M. Norman (2001), Turbulent aerosol ﬂuxes over the Arctic Ocean: 2.
+Wind-driven sources from the sea, J. Geophys. Res., 106(D23), 32,139–32,154, doi:10.1029/2000JD900747.
+Norman, A. L., L. A. Barrie, D. Toom-Sauntry, A. Sirois, H. R. Krouse, S. M. Li, and S. Sharma (1999), Sources of aerosol sulphate at Alert:
+Apportionment using stable isotopes, J. Geophys. Res., 104(D9), 11,619–11,631, doi:10.1029/1999JD900078.
+Norris, S. J., I. M. Brooks, G. de Leeuw, A. Sirevaag, C. Leck, B. J. Brooks, C. E. Birch, and M. Tjernström (2011), Measurements of bubble size
+spectra within leads in the Arctic summer pack ice, Ocean Sci., 7(1), 129–139, doi:10.5194/os-7-129-2011.
+O’Dowd, C. D., M. H. Smith, I. E. Consterdine, and J. A. Lowe (1997), Marine aerosol, sea-salt, and the marine sulphur cycle: A short review,
+Atmos. Environ., 31(1), 73–80, doi:10.1016/s1352-2310(96)00106-9.
+Overland, J. E., and M. Wang (2013), When will the summer Arctic be nearly sea ice free?, Geophys. Res. Lett., 40, 2097–2101, doi:10.1002/
+grl.50316.
+Pratt, K. A., et al. (2013), Photochemical production of molecular bromine in Arctic surface snowpacks, Nat. Geosci., 6(5), 351–356,
+doi:10.1038/ngeo1779.
+Quinn, P. K., D. J. Coffman, V. N. Kapustin, T. S. Bates, and D. S. Covert (1998), Aerosol optical properties in the marine boundary layer during
+the ﬁrst Aerosol Characterization Experiment (ACE 1) and the underlying chemical and physical aerosol properties, J. Geophys. Res.,
+103(D13), 16,547–16,563, doi:10.1029/97JD02345V.
+Quinn, P. K., D. B. Collins, V. H. Grassian, K. A. Prather, and T. S. Bates (2015), Chemistry and related properties of freshly emitted sea spray
+aerosol, Chem. Rev., 115(10), 4383–4399, doi:10.1021/cr500713g.
+Quinn, P. K., T. L. Miller, T. S. Bates, J. A. Ogren, E. Andrews, and G. E. Shaw (2002), A 3-year record of simultaneously measured aerosol
+chemical and optical properties at Barrow, Alaska, J. Geophys. Res., 107, 4130, doi:10.1029/2001JD001248.
+Radke, L. F., P. V. Hobbs, and J. E. Pinnons (1976), Observations of cloud condensation nuclei, sodium-containing particles, ice nuclei and the
+light-scattering coefﬁcient near Barrow, Alaska, J. Appl. Meteorol., 15(9), 982–995, doi:10.1175/1520-0450(1976)015<0982:ooccns>2.0.
+co;2.
+Rankin, A. M., V. Auld, and E. W. Wolff (2000), Frost ﬂowers as a source of fractionated sea salt aerosol in the polar regions, Geophys. Res. Lett.,
+27(21), 3469–3472, doi:10.1029/2000GL011771.
+Salter, M. E., P. Zieger, J. C. Acosta Navarro, H. Grythe, A. Kirkevåg, B. Rosati, I. Riipinen, and E. D. Nilsson (2015), An empirically derived
+inorganic sea spray source function incorporating sea surface temperature, Atmos. Chem. Phys., 15(19), 11,047–11,066, doi:10.5194/acp-
+15-11047-2015.
+Scott, W. D., and Z. Levin (1972), Open channels in sea ice (leads) as ion sources, Science, 177(4047), 425–426, doi:10.1126/
+science.177.4047.425.
+Seguin, A. M., A.-L. Norman, and L. Barrie (2014), Evidence of sea ice source in aerosol sulfate loading and size distribution in the Canadian
+High Arctic from isotopic analysis, J. Geophys. Res. Atmos., 119, 1087–1096, doi:10.1002/2013JD020461.
+Serreze, M. C., and J. Stroeve (2015), Arctic sea ice trends, variability and implications for seasonal ice forecasting, Philos. Transact. A Math.
+Phys. Eng. Sci., 373(2045), doi:10.1098/rsta.2014.0159.
+Shepson, P. B., et al. (2012), Changing polar environments: Interdisciplinary challenges, Eos Trans. AGU, 93(11), 117, doi:10.1029/
+2012EO110001.
+MAY ET AL.
+ARCTIC SEA SALT AEROSOL
+9218
+Journal of Geophysical Research: Atmospheres
+10.1002/2016JD025273
+Simpson, W., L. Alvarez-Aviles, T. A. Douglas, M. Sturm, and F. Domine (2005), Halogens in the coastal snow pack near Barrow, Alaska:
+Evidence for active bromine air-snow chemistry during springtime, Geophys. Res. Lett., 32, L04811, doi:10.1029/2004GL021748.
+Sirois, A., and L. A. Barrie (1999), Arctic lower tropospheric aerosol trends and composition at Alert, Canada: 1980–1995, J. Geophys. Res.,
+104(D9), 11,599, doi:10.1029/1999JD900077.
+Stroeve, J., M. Serreze, M. Holland, J. Kay, J. Malanik, and A. Barrett (2012), The Arctic’s rapidly shrinking sea ice cover: A research synthesis,
+Clim. Change, 110(3–4), 1005–1027, doi:10.1007/s10584-011-0101-1.
+Struthers, H.,A.M.L.Ekman,P.Glantz,T.Iversen,A.Kirkevag,E.M.Martensson,O.Seland,andE.D.Nilsson(2011),Theeffectofseaicelossonsea
+salt aerosol concentrations and the radiative balance in the Arctic, Atmos. Chem. Phys., 11(7), 3459–3477, doi:10.5194/acp-11-3459-2011.
+Sturges, W. T., and L. A. Barrie (1988), Chlorine, bromine and iodine in Arctic aerosols, Atmos. Environ., 22(6), 1179–1194, doi:10.1016/0004-
+6981(88)90349-6.
+Tjernström, M., et al. (2012), Meteorological conditions in the central Arctic summer during the Arctic Summer Cloud Ocean Study (ASCOS),
+Atmos. Chem. Phys., 12(15), 6863–6889, doi:10.5194/acp-12-6863-2012.
+Williams, J., M. de Reus, R. Krejci, H. Fischer, and J. Ström (2002), Application of the variability-size relationship to atmospheric aerosol studies:
+estimating aerosol lifetimes and ages, Atmos. Chem. Phys., 2(2), 133–145, doi:10.5194/acp-2-133-2002.
+Wise, M. E., E. J. Freney, C. A. Tyree, J. O. Allen, S. T. Martin, L. M. Russell, and P. R. Buseck (2009), Hygroscopic behavior and liquid-layer
+composition of aerosol particles generated from natural and artiﬁcial seawater, J. Geophys. Res., 114, D03201, doi:10.1029/2008JD010449.
+Yang, X., J. A. Pyle, and R. A. Cox (2008), Sea salt aerosol production and bromine release: Role of snow on sea ice, Geophys. Res. Lett., 35,
+L16815, doi:10.1029/2008GL034536.
+Yin, Y., Z. Levin, T. G. Reisin, and S. Tzivion (2000), The effects of giant cloud condensation nuclei on the development of precipitation in
+convective clouds—A numerical study, Atmos. Res., 53(1–3), 91–116, doi:10.1016/s0169-8095(99)00046-0.
+MAY ET AL.
+ARCTIC SEA SALT AEROSOL
+9219

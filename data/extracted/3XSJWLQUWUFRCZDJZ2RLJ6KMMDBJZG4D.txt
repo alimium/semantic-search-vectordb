@@ -1,0 +1,1217 @@
+Trend Study 23-3-08
+Study site name:  Thompson Basin .  
+Vegetation type:  Juniper-Pinyon .
+Compass bearing:  frequency baseline 155 degrees magnetic. (Lines 2 & 3 155°M)
+Frequency belt placement: line 1 (11 & 95ft), line 2 (34 & 71ft), line 3 (59ft).  No rebar.
+LOCATION DESCRIPTION
+From the Monroe City cemetery, go 3.05 miles north and east to a gravel road on the right.  Turn here and go
+1.0 miles to the Thompson Basin Road.  Turn right and proceed 1.9 miles to a cattleguard.  Continue 1.0 mile
+up the road and stop.  There is a witness post on the right side of the road.  Fifty feet up the hill, there should
+be a juniper with the center trunk cut out.  The 0-foot baseline stake is on the other side of this tree,
+approximately 60 feet from the road.  The 0-foot stake is a 3/4" rebar tagged #7041.  
+Map Name:  Monroe 
+Diagrammatic Sketch
+Township  25S , Range  2W , Section  6 
+GPS:  NAD 83, UTM 12S 407744 E, 4279268 N 
+328
+DISCUSSION
+Thompson Basin - Trend Study No. 23-3
+Study Information
+This study is located on a moderately steep slope above Thompson Basin [elevation: 6,880 feet (2,097 m),
+slope: 25%, aspect: northeast].  An area below the transect was chained approximately 25 years ago by the US
+Forest Service.  A fire also burned through the area approximately 30 years ago.  Thompson Basin has been
+noted historically as a concentration area for deer during the winter.  A DWR pellet group transect, which
+intersects the trend study, indicated a 5-year average of 32 deer days use/acre (80 ddu/ha) between 1980 and
+1985 (Jense et al. 1985).  The 6-year average from 1986 to 1991 was 9 deer days use/acre (21 ddu/ha) (Jense et
+al. 1991).  A pellet group transect sampled along the study baseline estimated deer use at 21 days use/acre (52
+ddu/ha) in 1998, 26 days use/acre (65 ddu/ha) in 2003, and 20 days use/acre (50 ddu/ha) in 2008.  Elk use was
+estimated at 12 days use/acre (30 edu/ha) in 1998, 9 days use/acre (23 edu/ha) in 2003, and 15 days use/acre
+(38 edu/ha) in 2008.  Cattle use was estimated at 1 day use/acre (2 cdu/ha) in 2008.  In the past, the area was
+heavily grazed by sheep, however, the Forest Service has closed the area to livestock grazing to protect
+watershed values.
+Soil
+The soil is a sandy clay loam with a neutral reaction (pH 6.6).  Relative combined vegetation and litter cover
+decreased from 62% in 1998 to 49% in 2003 and 2008, while relative combined rock and pavement cover
+remained rather stable at 31%-36%.  Relative bare ground cover increased from 7% in 1998 to 19% by 2008. 
+The erosion condition class was rated as stable in 2003 and moderate in 2008 due to surface rock, litter, and
+soil movement, as well as the formation of pedestals and flow patterns.  There are a few large, active gullies on
+the hillside and in the valley.  
+Browse
+Mountain big sagebrush (Artemisia tridentata ssp. vaseyana) is the only abundant source of preferred browse,
+although true mountain mahogany (Cercocarpus montanus) and Mormon tea (Ephedra viridis) are present in
+low densities.  Sagebrush quadrat cover has remained stable at 4%-5% since 1998.  Density decreased from
+1,000 plants/acre in 1998 and 2003 to 840 plants/acre in 2008.  Decadence has been high in all sample years at
+30%-55% of the population.  Young recruitment increased slightly from less than 10% of the population
+before 2003 to 14% in 2008.  Plants displaying poor vigor increased from 0% of the population in 1985 to
+32% in 1991, decreased to 10% in 1998, then increased to 29% by 2008.  Browse use has been mostly light-
+moderate in all sample years.  Annual leader growth averaged 1.5 inches (3.8 cm) in 2003 and 0.7 inches (1.9
+cm) in 2008.  
+Pinyon pine (Pinus edulis) and Utah juniper (Juniperus osteosperma) combined canopy cover was 23% in
+1998, 34% in 2003, and 27% in 2008.  Point-centered quarter data estimated pinyon density at 72 trees/acre in
+1998 and 63 trees/acre in 2003 and 2008.  Average trunk diameter was 4.2 inches (10.7 cm) in 1998 and
+approximately 5 inches (12.7 cm) in 2003 and 2008.  Juniper density was 99 trees/acre in 1998, 97 trees/acre
+in 2003, and 104 trees/acre in 2008.  Trunk diameter averaged 9.9 inches (25.1 cm) in 1998, 8.4 inches (21.4
+cm) in 2003, and 9.6 inches (24.3 cm) in 2008.
+Herbaceous Understory
+Total grass cover was 12% in 1998, 6% in 2003, and 7% in 2008.  Perennial grasses dominate the understory. 
+Bluebunch wheatgrass (Agropyron spicatum), mutton bluegrass (Poa fendleriana), and Sandberg bluegrass
+(Poa secunda) combined provided 94%-98% of the total grass cover since 1998.  Bottlebrush squirreltail
+(Sitanion hystrix) and Indian ricegrass (Oryzopsis hymenoides) were also present but less frequent.  Cheatgrass
+(Bromus tectorum) was sampled in less than 25% of the quadrats since 1998, and provided little cover.
+329
+Forbs are sparse and provided 1%-3% cover since 1998.  Desert phlox (Phlox austromontana) provided the
+majority of the forb cover.  Longleaf phlox (Phlox longifolia), rockcress (Arabis sp.), and tansymustard
+(Descurainia pinnata) were also relatively abundant.
+1991 TREND ASSESSMENT
+The browse trend is slightly down.  Sagebrush density decreased from 1,599 plants/acre to 1,466 plants/acre,
+and decadence increased from 33% of the population to 55%.  Young recruitment remained stable at 9% of the
+population.  Plants exhibiting poor vigor increased from 0% of the population to 32%.  The trend for grass is
+up.  The sum of nested frequency for perennial grasses increased substantially.  Bluebunch wheatgrass,
+Sandberg bluegrass, mutton bluegrass, and bottlebrush squirreltail increased significantly in nested frequency. 
+The trend for forbs is up.  The sum of nested frequency for perennial forbs greatly increased.  Desert phlox
+increased significantly in nested frequency.
+browse - slightly down (-1)
+grass - up (+2)
+forb - up (+2)
+1998 TREND ASSESSMENT
+The browse trend is stable.  Browse density changes may have been related to the larger sample area in 1998,
+therefore, the trend was determined using other parameters.  Sagebrush decadence remained high, although it
+decreased from 55% of the population to 30%.  Young recruitment decreased slightly from 9% of the
+population to 6%.  Plants displaying poor vigor decreased from 32% of the population to 10%.  The trend for
+grass is down.  The sum of nested frequency for perennial grasses decreased 27%.  Bluebunch wheatgrass,
+Sandberg bluegrass, and bottlebrush squirreltail decreased significantly in nested frequency.  The trend for
+forbs is down.  The sum of nested frequency for perennial forbs decreased 52%.  Longleaf phlox decreased
+significantly in nested frequency.  The winter range condition, determined by the Desirable Components Index
+(DCI), was rated as very poor due to low preferred browse and perennial forb cover, despite moderate
+perennial grass cover.
+winter range condition (DCI) - very poor (31) Mid-level potential scale
+browse - stable (0)
+grass - down (-2)
+forb - down (-2)
+2003 TREND ASSESSMENT
+The browse trend is stable.  Sagebrush density remained similar to 1998 at 1,000 plants/acre.  However,
+decadence increased from 30% of the population to 42%.  Young recruitment also slightly increased from 6%
+of the population to 10%.  Plants displaying poor vigor increased from 10% of the population to 24%.  The
+trend for grass is slightly down.  The sum of nested frequency for perennial grasses decreased 17%.  Mutton
+bluegrass decreased significantly in nested frequency, and that for Sandberg bluegrass increased significantly. 
+The trend for forbs is stable.  The sum of nested frequency for perennial forbs increased slightly.  The DCI
+rating remained very poor.
+winter range condition (DCI) - very poor (20) Mid-level potential scale
+browse - stable (0)
+grass - slightly down (-1)
+forb - stable (0)
+2008 TREND ASSESSMENT
+The browse trend is slightly down.  Sagebrush density decreased 16%, and decadence remained high at 40% of
+the population.  Young recruitment increased slightly from 10% of the population to 14%.  Plants displaying
+poor vigor continued to increase, from 24% of the population to 29%.  The trend for grass is stable.  The sum
+of nested frequency for perennial grasses changed little.  Mutton bluegrass increased significantly in nested
+frequency, while that for Sandberg bluegrass decreased significantly.  The trend for forbs is stable.  The sum
+of nested frequency for perennial forbs decreased slightly.  Tansymustard decreased significantly in nested
+frequency.  The DCI rating remained very poor.
+330
+winter range condition (DCI) - very poor (19) Mid-level potential scale
+browse - slightly down (-1)
+grass - stable (0)
+forb - stable (0)
+HERBACEOUS TRENDS -- 
+Management unit 23 , Study no: 3
+Species
+Nested Frequency
+Average Cover %
+T
+y
+p
+e
+'85
+'91
+'98
+'03
+'08
+'98
+'03
+'08
+G Agropyron spicatum
+a41
+c203
+b124
+b151
+b143
+4.71
+2.65
+4.00
+G Bromus tectorum (a)
+-
+-
+36
+44
+55
+.19
+.18
+.33
+G Oryzopsis hymenoides
+-
+-
+-
+2
+-
+-
+.03
+.01
+G Poa fendleriana
+a41
+c128
+c162
+a7
+b70
+6.05
+.04
+1.47
+G Poa secunda
+a17
+c138
+b85
+c148
+b88
+1.00
+2.59
+.57
+G Sitanion hystrix
+a4
+b43
+a1
+a1
+a14
+.00
+.00
+.11
+Total for Annual Grasses
+0
+0
+36
+44
+55
+0.18
+0.18
+0.33
+Total for Perennial Grasses
+103
+512
+372
+309
+315
+11.77
+5.31
+6.17
+Total for Grasses
+103
+512
+408
+353
+370
+11.96
+5.50
+6.50
+F Antennaria rosea
+1
+3
+-
+-
+1
+-
+-
+.03
+F Arabis sp.
+-
+17
+8
+11
+8
+.02
+.07
+.02
+F Castilleja chromosa
+-
+8
+-
+-
+-
+-
+-
+-
+F Collinsia parviflora (a)
+-
+-
+-
+51
+-
+-
+.21
+-
+F Crepis acuminata
+-
+5
+-
+-
+-
+-
+-
+-
+F Descurainia pinnata (a)
+-
+-
+a-
+b92
+a12
+-
+.75
+.03
+F Draba sp.  (a)
+-
+-
+-
+5
+-
+-
+.02
+-
+F Erigeron eatonii
+-
+3
+3
+-
+-
+.00
+-
+-
+F Erigeron pumilus
+3
+6
+-
+-
+-
+-
+-
+-
+F Eriogonum racemosum
+3
+1
+3
+-
+-
+.03
+-
+-
+F Gilia sp.  (a)
+-
+-
+-
+1
+-
+-
+.00
+-
+F Holosteum umbellatum (a)
+-
+-
+a-
+b14
+a-
+-
+.03
+.00
+F Machaeranthera canescens
+5
+-
+-
+-
+-
+-
+-
+-
+F Phlox austromontana
+a12
+b52
+b56
+b63
+b50
+1.24
+1.70
+1.09
+F Phlox longifolia
+a-
+c59
+a3
+b15
+b17
+.01
+.07
+.04
+F Streptanthus cordatus
+-
+-
+1
+1
+1
+.00
+.00
+.00
+Total for Annual Forbs
+0
+0
+0
+163
+12
+0
+1.02
+0.04
+Total for Perennial Forbs
+24
+154
+74
+90
+77
+1.31
+1.84
+1.20
+Total for Forbs
+24
+154
+74
+253
+89
+1.31
+2.87
+1.24
+Values with different subscript letters are significantly different at alpha = 0.10
+331
+Species
+Strip Frequency
+Average Cover %
+BROWSE TRENDS -- 
+Management unit 23 , Study no: 3
+T
+y
+p
+e
+'98
+'03
+'08
+'98
+'03
+'08
+B Artemisia tridentata vaseyana
+40
+35
+29
+4.21
+4.77
+3.73
+B Chrysothamnus viscidiflorus
+stenophyllus
+0
+0
+1
+-
+.00
+0.0
+B Gutierrezia sarothrae
+0
+1
+0
+-
+.00
+-
+B Juniperus osteosperma
+10
+10
+12
+8.44
+12.06
+4.61
+B Opuntia sp.
+12
+14
+17
+.06
+.04
+.45
+B Pinus edulis
+4
+5
+5
+4.00
+6.38
+2.02
+Total for Browse
+66
+65
+64
+16.72
+23.27
+10.82
+CANOPY COVER, LINE INTERCEPT -- 
+Management unit 23 , Study no: 3
+Species
+Percent Cover
+'98
+'03
+'08
+Artemisia tridentata vaseyana
+-
+4.26
+4.15
+Juniperus osteosperma
+16.79 25.36 19.20
+Opuntia sp.
+-
+.03
+.16
+Pinus edulis
+6.00
+8.44
+8.16
+KEY BROWSE ANNUAL LEADER GROWTH -- 
+Management unit 23 , Study no: 3
+Species
+Average leader growth (in)
+'03
+'08
+Artemisia tridentata vaseyana
+1.5
+0.7
+POINT-QUARTER TREE DATA -- 
+Management unit 23 , Study no: 3
+Species
+Trees per Acre
+Average diameter (in)
+'98
+'03
+'08
+'98
+'03
+'08
+Juniperus osteosperma
+99
+97
+104
+9.9
+8.4
+9.6
+Pinus edulis
+72
+63
+63
+4.2
+5.3
+4.8
+332
+BASIC COVER -- 
+Management unit 23 , Study no: 3
+Cover Type
+Average Cover %
+'85
+'91
+'98
+'03
+'08
+Vegetation
+2.75
+6.00
+33.60
+29.34
+18.60
+Rock
+29.00
+24.25
+21.23
+28.35
+22.82
+Pavement
+18.00
+14.25
+17.47
+14.74
+14.09
+Litter
+38.00
+35.50
+42.68
+30.02
+39.34
+Cryptogams
+1.50
+.75
+.14
+.28
+.20
+Bare Ground
+10.75
+19.25
+8.38
+17.11
+22.46
+SOIL ANALYSIS DATA --
+Management unit 23, Study no: 3, Study Name: Thompson Basin
+Effective
+rooting depth (in)
+Temp °F
+(depth)
+pH
+sandy clay loam
+%OM
+PPM P
+PPM K
+ds/m
+%sand
+%silt
+%clay
+12.7
+74.7
+(9.6)
+6.6
+54.0
+19.4
+26.6
+2.0
+10.5
+166.4
+0.8
+PELLET GROUP DATA -- 
+Management unit 23 , Study no: 3
+Type
+Quadrat Frequency
+Days use per acre (ha)
+'98
+'03
+'08
+'98
+'03
+'08
+Sheep
+2
+-
+-
+-
+-
+-
+Rabbit
+23
+21
+39
+-
+-
+-
+Elk
+4
+1
+4
+11 (27)
+9 (23)
+15 (38)
+Deer
+12
+8
+20
+21 (52)
+26 (64)
+20 (50)
+Cattle
+-
+-
+-
+-
+-
+1 (2)
+333
+BROWSE CHARACTERISTICS -- 
+Management unit 23 , Study no: 3
+Age class distribution (plants per acre)
+Utilization
+Seedling
+Young
+Mature
+Decadent
+Dead
+%
+moderate
+%
+heavy
+%
+decadent
+%
+dying
+%
+poor
+vigor
+Plants per
+Acre
+(excluding
+seedlings)
+Average
+Height
+Crown
+(in)
+Y
+e
+a
+r
+Artemisia tridentata vaseyana
+85
+1599
+-
+133
+933
+533
+-
+46
+8
+33
+-  
+0
+11/21
+91
+1465
+-
+133
+533
+799
+-
+50
+18
+55
+7
+32
+14/22
+98
+1000
+60
+60
+640
+300
+720
+14
+0
+30
+4
+10
+20/29
+03
+1000
+-
+100
+480
+420
+280
+12
+6
+42
+24
+24
+20/28
+08
+840
+-
+120
+380
+340
+260
+14
+12
+40
+26
+29
+21/33
+Cercocarpus montanus
+85
+0
+-
+-
+-
+-
+-
+0
+0
+ - 
+-  
+0
+-/-
+91
+0
+-
+-
+-
+-
+-
+0
+0
+ - 
+-  
+0
+-/-
+98
+0
+-
+-
+-
+-
+-
+0
+0
+ - 
+-  
+0
+-/-
+03
+0
+-
+-
+-
+-
+-
+0
+0
+ - 
+-  
+0
+22/33
+08
+0
+-
+-
+-
+-
+-
+0
+0
+ - 
+-  
+0
+-/-
+Chrysothamnus viscidiflorus stenophyllus
+85
+266
+-
+-
+133
+133
+-
+25
+0
+50
+-  
+0
+11/14
+91
+265
+-
+-
+199
+66
+-
+25
+0
+25
+8
+25
+11/14
+98
+0
+-
+-
+-
+-
+-
+0
+0
+ 0
+-  
+0
+-/-
+03
+0
+-
+-
+-
+-
+-
+0
+0
+ 0
+-  
+0
+8/10
+08
+20
+-
+20
+-
+-
+-
+0
+0
+ 0
+-  
+0
+13/20
+Ephedra viridis
+85
+0
+-
+-
+-
+-
+-
+0
+0
+ - 
+-  
+0
+-/-
+91
+0
+-
+-
+-
+-
+-
+0
+0
+ - 
+-  
+0
+-/-
+98
+0
+-
+-
+-
+-
+-
+0
+0
+ - 
+-  
+0
+12/22
+03
+0
+-
+-
+-
+-
+-
+0
+0
+ - 
+-  
+0
+11/9
+08
+0
+-
+-
+-
+-
+-
+0
+0
+ - 
+-  
+0
+-/-
+Gutierrezia sarothrae
+85
+0
+-
+-
+-
+-
+-
+0
+0
+ 0
+-  
+0
+-/-
+91
+0
+-
+-
+-
+-
+-
+0
+0
+ 0
+-  
+0
+-/-
+98
+0
+-
+-
+-
+-
+-
+0
+0
+ 0
+-  
+0
+-/-
+03
+40
+-
+-
+-
+40
+-
+0
+0
+100
+100
+100
+-/-
+08
+0
+-
+-
+-
+-
+-
+0
+0
+ 0
+-  
+0
+-/-
+334
+Age class distribution (plants per acre)
+Utilization
+Seedling
+Young
+Mature
+Decadent
+Dead
+%
+moderate
+%
+heavy
+%
+decadent
+%
+dying
+%
+poor
+vigor
+Plants per
+Acre
+(excluding
+seedlings)
+Average
+Height
+Crown
+(in)
+Y
+e
+a
+r
+Juniperus osteosperma
+85
+66
+133
+-
+66
+-
+-
+0
+0
+ - 
+-  
+0
+69/93
+91
+199
+-
+133
+66
+-
+-
+0
+0
+ - 
+-  
+0
+118/79
+98
+200
+-
+100
+100
+-
+40
+0
+0
+ - 
+-  
+0
+-/-
+03
+200
+-
+60
+140
+-
+20
+0
+0
+ - 
+-  
+10
+-/-
+08
+240
+-
+60
+180
+-
+-
+0
+0
+ - 
+-  
+8
+-/-
+Opuntia sp.
+85
+133
+-
+-
+133
+-
+-
+0
+0
+ 0
+-  
+0
+3/2
+91
+199
+-
+-
+199
+-
+-
+0
+0
+ 0
+-  
+0
+4/5
+98
+320
+20
+60
+240
+20
+40
+0
+0
+ 6
+-  
+0
+5/10
+03
+360
+-
+60
+300
+-
+-
+0
+0
+ 0
+-  
+0
+5/11
+08
+420
+-
+40
+280
+100
+-
+0
+0
+24
+5
+5
+5/13
+Pinus edulis
+85
+66
+-
+66
+-
+-
+-
+0
+0
+ - 
+-  
+0
+-/-
+91
+66
+-
+66
+-
+-
+-
+0
+0
+ - 
+-  
+0
+-/-
+98
+80
+20
+20
+60
+-
+40
+0
+0
+ - 
+-  
+0
+-/-
+03
+100
+-
+40
+60
+-
+40
+0
+0
+ - 
+-  
+0
+-/-
+08
+100
+40
+40
+60
+-
+-
+0
+0
+ - 
+-  
+0
+-/-
+335

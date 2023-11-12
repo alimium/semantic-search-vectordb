@@ -1,0 +1,599 @@
+EXHIBIT 300
+UII 005-000001870
+Exhibit 300: Capital Asset Summary
+Part I: Summary Information And Justification (All Capital Assets)
+Section A: Overview & Summary Information
+Date Investment First Submitted: 2009-06-30
+Date of Last Change to Activities: 2012-11-30
+Investment Auto Submission Date: 2013-03-24
+Date of Last Investment Detail Update:  2013-06-25
+Date of Last Exhibit 300A Update:  2013-06-25
+Date of Last Revision:  2013-06-25
+Agency: 005 - Department of Agriculture        Bureau: 49 - Farm Service Agency
+1. Name of this Investment: Farm Program Modernization (MIDAS) #097
+2. Unique Investment Identifier (UII): 005-000001870
+Section B: Investment Detail
+1.  Briefly describe the investment’s purpose, goals, and current or anticipated benefits
+(quantitative and/or qualitative). Include the investment’s specific contribution to
+mission delivery or agency management support functions and identify key customers,
+stakeholders, and other beneficiaries.
+ The Modernize and Innovate the Delivery of Agricultural Systems (MIDAS) program will
+transform Farm Service Agency's (FSA) delivery of Farm Program benefits, on behalf of the
+Commodity Credit Corporation (CCC), into a 21st century business model. This project will
+provide capability to meet the increasing demand for customer self-service and eliminate
+FSA's reliance on aging technology. This project will reduce the risk of hardware failure by
+replacing the farm program applications residing on the outdated AS400/S36 computing
+platform with an integrated COTS solution, SAP. This project will reengineer business
+processes to be common and centralize data assets to support farm programs, eliminate
+program specific duplication of functionality and non-integrated, distributed data that exists
+between farm program software applications. It will accomplish increased compliance with
+modern internal control structures and effectively implement improved IT security. MIDAS will
+install commitment-based accounting practices (e.g., obligations, commitments, outlays,
+funds control) to upgrade both the program and financial management business practices of
+the CCC. The project is intended to align with Office of the Chief Financial Officer's (OCFO)
+Financial Management Modernization Initiative (FMMI) investment.
+2.  Briefly describe how the investment contributes to the agency target EA and its role
+in the Enterprise Roadmap. Include a description of how the investment includes or
+will achieve programmatic or technical innovation. 
+ MIDAS is aligned with USDA Target Enterprise Architecture. The USDA EA Division (EAD) is
+creating an initial Enterprise Roadmap where MIDAS will be explicitly named and highlighted
+as one of the most important IT investments for USDA. MIDAS can be considered to be well
+aligned with the USDA Target Enterprise Architecture.  MIDAS is aligned with USDA
+Page  1 / 11 of Section300
+Date of Last Revision: 2013-06-25
+Exhibit 300 (2012)
+EXHIBIT 300
+UII 005-000001870
+2010-2015 Strategic Plan.  Initiative IV: Leverage USDA Departmental Management to
+Increase Performance, Efficiency, and Alignment  - MIDAS will help to reduce Improper
+Payments through an integrated solution that will streamline the payment process and reduce
+human errors. - MIDAS will leverage streamlined operations of FMMI to disburse payments. 
+Initiative V: Optimize Information Technology (IT) Policy and Applications - MIDAS will
+leverage the latest technology to improve and support program delivery of services, benefits
+and communication - MIDAS will implement an integrated COTS solution providing a secured
+and robust delivery platform for Farm Benefit Programs  MIDAS is aligned with Farm Service
+Agency (FSA) 2012-2016 Strategic Plan.  Strategic Goal 4: Transform and modernize the
+Farm Service Agency As stated in FSA Strategic Plan 2012-2016, the FSA is transforming its
+systems and applications into a set of enterprise services and eliminating legacy systems,
+servers, and duplicative data environments. Achieving the goal of transforming and
+modernizing key systems, business processes, and support activities will facilitate mission
+success and enhance the accountability, efficiency, and effectiveness of service delivery. 
+Objective 4.3: Modernize Program and Service Delivery MIDAS will allow FSA to respond
+more promptly to customer demands and meet future challenges. MIDAS will enable an
+access program and financial management data to ensure strategic decisions are based on
+valid data. Increased online access will enhance customer self-sufficiency and usability,
+reducing field office trips, transaction processing, data entry, and paperwork.  Objective 4.4:
+Improve Customer Service MIDAS will improve the customer service capabilities and allow
+FSA to use analytics to evaluate the consistency of customer service. MIDAS will expand
+beyond the traditional walk-in local offices and ensure that customers are aware of available
+eservices and that these services are easy to use. MIDAS will review and improve business
+processes to ensure we are effectively delivering our programs and services.
+3.  Provide the investment’s currently projected return on investment (ROI) percentage,
+as documented in the most recent alternatives analysis, and the date that it was
+established.
+a. Current ROI: 
+b. Date of Current ROI: 
+4.  In the section below, indicate if the investment in whole or in part specifically
+addresses any of the following types of requirements.
+  Note: Where “Yes” is indicated, provide a brief description of the requirement and
+how the investment will meet the requirement. Include citations within descriptions, if
+available. Provide any URLs associated with each requirement. If citing the Agency
+Performance Plan, provide the applicable “PRM” code from Performance.gov.
+a. Legislative Mandate: 
+ Required By: YES
+ Description: As applicable, the MIDAS program is working to align with the U.S. CIO  25
+Point Implementation Plan to Reform Federal Information Technology Management .
+ Associated URLs: 
+ http://www.google.com/url?sa=t&rct=j&q=u.s.+cio+25+point+implementation+plan&sourc
+Page  2 / 11 of Section300
+Date of Last Revision: 2013-06-25
+Exhibit 300 (2012)
+EXHIBIT 300
+UII 005-000001870
+e=web&cd=1&ved=0CFIQFjAA&url=http%3A%2F%2Fwww.cio.gov%2Fdocuments%2
+F25-point-implementation-plan-to-reform-federal%2520it.pdf&ei=wYDoT_qdMeik6gG-t
+uXeDg&usg=AFQjCNGSULuy7DBY92MDP2WF48ExcnxV6g
+b. Outstanding Audit Finding or Material Weakness:
+ Required By: NO
+ Description: 
+ Associated URLs: 
+c. Published Agency Strategic Plan/Annual Performance Plan:
+ Required By: YES
+ Description: MIDAS is aligned with USDA Management Initiative #4 (Leverage USDA
+Departmental Management to Increase Performance, Efficiency, and Alignment) and #5
+(Optimize Information Technology (IT) Policy and Applications), as defined in USDA
+2010-2015 Strategic Plan. MIDAS is aligned with FSA Strategic Goal #4 (Transform and
+modernize the Farm Service Agency), as defined in Farm Service Agency (FSA)
+2012-2016 Strategic Plan.
+ Associated URLs: 
+ http://www.ocfo.usda.gov/usdasp/sp2010/sp2010.pdf 
+http://www.fsa.usda.gov/Internet/FSA_File/fsa-strategic_plan_12-16.pdf
+PRM Codes: 
+ 001-003-002
+d. Presidential Direction: 
+ Required By: NO
+ Description: 
+ Associated URLs: 
+e. Other Requirement: 
+ Required By: NO
+ Description: 
+ Associated URLs: 
+5.  Provide a description of the investment’s progress and accomplishments in the PY,
+including the investment’s overall performance against baseline goals, targets,
+significant milestones, or performance measures, and any corrective actions taken to
+address performance deficiencies.
+ Planning/Acquisition:Implemented Governance construct. Acquired enterprise SAP licenses
+in FY12 Q4. Conducted USDA TechStat in FY13 Q1; created improvement plan. Realigned
+Release 1 to D1.0 Farm Records (FR), D1.0 Acreage Reporting/Inventory Reporting (AR/IR)
+and D1.1 MAL/BIN deployments.   Solution:Deployed SolMan, HPQC, ARIS, and uPerform.
+Deployed D1.0 and D1.1 DEV/TEST environments for SAP, GIS, and Web Farm platforms.
+Deployed PROD environments for SAP and GIS.  Completed System Requirements
+Review/System Functional Review in FY12 Q1 (D1.0) and FY13 Q1 (D1.1). Deployed Proof
+of Concept/Demo in FY11 Q2. Completed D1.0 Critical Design Review in FY12 Q2.
+Completed D1.0 FR Test Readiness Review in FY12 Q4. Completed D1.0 FR Final Prep
+Readiness Review in FY13 Q2.  Received interim Authority to Operate.  Completed FR
+Go-Live Readiness Review and deployed nationwide in FY13 Q3.  OCM:Established Change
+Agent Network (CAN) and Super Users. Completed 100% of End-User Training as of 6/6/13.
+Page  3 / 11 of Section300
+Date of Last Revision: 2013-06-25
+Exhibit 300 (2012)
+EXHIBIT 300
+UII 005-000001870
+6.  Describe the investment’s objectives for the CY, BY, and budget out years, if
+available, including specific accomplishments to achieve, realize, or continue to
+achieve the benefits cited in question B.1. above. 
+ Planned Accomplishments for CY   Planning/Acquisition: Finalize MIDAS Release Plan and
+detailed planning/acquisition for Release 2.  Solution: Complete technical design,
+development, testing, and data conversions for remaining R1 deployments. Deploy R1 D1.0
+AR/IR and D1.1 MAL/BIN in FY13/FY14.  OCM: Complete D1.0 FR end user training.
+Conduct Training for O&M support team and larger FSA organization, as budget allows.
+Complete D1.0 AR/IR and D1.1 MAL/BIN end user role mapping and supporting training. 
+Sustainment Operations: Perform 90 days of stabilization after initial Go-Live. Complete
+preparations for O&M (people, process and tools) and initiate ongoing O&M support.  Planned
+Accomplishments for BY  Full Operating Capability: MIDAS will implement Full Operating
+Capability (FOC) in accordance with MIDAS deployment plan. Complete System
+Requirements documentation, Process Modeling, and System Design. Complete Detailed
+Design, Development, and Testing. Identify legacy data and prepare for converting into
+MIDAS. Execute mock conversions and final data conversions. Complete Data Conversions
+and conduct training.  Planned Accomplishments for Out Years.
+7.  If this investment will result in the elimination or the reduction of another
+investment(s), please complete the following:
+ 
+Table I.B.1 Affected Investment Information
+Investment UII
+Status
+NONE
+8.   Does this investment include the following? 
+a.  A shared service (intra-or inter-agency—current and/or planned): NO
+b.  A data center (current and/or planned): NO
+c.  PIV-enabled systems (per HSPD-12) (all systems currently PIV-enabled): NO
+d.  Cloud computing (current and/or planned): NO
+e.  APIs (application programming interfaces) consistent with the Digital Government
+Strategy: NO
+9.   Provide any URLs related to the investment and indicate how they are related. Identify
+each URL’s relationship to the investment (if applicable). 
+ 
+Table I.B.2 URL's Related to the Investment
+B. Provides a
+URL
+A. Provides publicly
+accessible datasets
+publicly accessible
+C. Links to social
+media about this
+E. Provides general
+information about
+produced by this
+API to provide
+investment.
+D. Provides general
+information about
+this investment.
+the business
+Page  4 / 11 of Section300
+Date of Last Revision: 2013-06-25
+Exhibit 300 (2012)
+EXHIBIT 300
+UII 005-000001870
+Table I.B.2 URL's Related to the Investment
+B. Provides a
+URL
+A. Provides publicly
+accessible datasets
+publicly accessible
+C. Links to social
+media about this
+E. Provides general
+information about
+produced by this
+API to provide
+investment.
+D. Provides general
+information about
+this investment.
+the business
+investment.
+access to data from
+process or program
+this investment.
+served by this
+investment but not
+the investment itself.
+investment.
+access to data from
+process or program
+this investment.
+served by this
+investment but not
+the investment
+itself.
+X
+http://www.fsa.usda.g
+ov/FSA/webapp?area
+=about&subject=landi
+ng&topic=sao-dp
+X
+http://www.fsa.usda.g
+ov/FSA/midas?area=
+home&subject=landin
+g&topic=landing
+10.   Provide the date of the investment or IPT charter establishing the required IPT.
+2012-08-31
+Page  5 / 11 of Section300
+Date of Last Revision: 2013-06-25
+Exhibit 300 (2012)
+EXHIBIT 300
+UII 005-000001870
+Section C: Life Cycle Costs
+1.  Provide the cost summary for the investment. 
+ 
+Table I.C.1 Life Cycle Costs
+ 
+PY-1
+&
+PY
+2012
+CY
+2013
+BY
+2014
+Prior
+Planning Costs:
+$21.0
+$11.8
+$4.0
+$0.0
+DME (Excluding Planning) Costs:
+$90.0
+$96.0
+$91.0
+$52.5
+DME (Including Planning) Govt. FTEs:
+$10.3
+$4.6
+$4.8
+$2.7
+Sub-Total DME (Including Govt. FTE):
+$121.3
+$112.4
+$99.8
+0
+O & M Costs:
+$0.0
+$0.0
+$0.0
+$42.0
+O & M Govt. FTEs:
+$0.0
+$0.0
+$0.0
+$2.6
+0
+0
+0
+0
+Sub-Total O & M Costs (Including Govt.
+FTE):
+Total Cost (Including Govt. FTE):
+$121.3
+$112.4
+$99.8
+0
+Total Govt. FTE costs:
+$10.3
+$4.6
+$4.8
+0
+# of FTE rep by costs:
+73
+39
+39
+39
+$34.5
+Total change from prior year final
+President’s Budget ($)
+44.40%
+-33.70%
+Total change from prior year final
+President’s Budget (%)
+2.   
+a.   In which year did or will this investment begin? (specify year - e.g., PY-1= 2011) 
+ 2007
+b.  In which year will this investment reach the end of its estimated useful life? (specify year - e.g., BY+5 = 2019)
+ 2020
+3.   If the funding levels have  changed from the FY 2013 President's Budget request for PY or CY, briefly explain those changes:  
+Page  6 / 11 of Section300
+Date of Last Revision: 2013-06-25
+Exhibit 300 (2012)
+EXHIBIT 300
+UII 005-000001870
+ The Summary of Funding reflects the execution changes due to revised FY11 and FY12 budget decisions. 
+Page  7 / 11 of Section300
+Date of Last Revision: 2013-06-25
+Exhibit 300 (2012)
+EXHIBIT 300
+UII 005-000001870
+Section D: Acquisition/Contract Strategy (All Capital Assets)
+1.  Provide all prime contracts (or task orders) for awarded or open solicitations for the investment.
+Table I.D.1 Contracts and Acquisition Strategy
+Procurement
+Modular Approaches/
+Indefinite
+IDV
+Solicitation ID
+EVM Required
+Contract Type
+Contracting
+Agency ID
+Instrument
+Contracting
+Delivery Vehicle
+Agency
+Identifier (PIID)
+(IDV) Reference ID
+ID
+Awarded
+4732
+GST0012AJ0044
+Y
+GSTFMGBPA100001
+4735
+Y
+Awarded
+1406
+IND12PB00478
+Y
+IND09AP60069
+1406
+Y
+Awarded
+1406
+IND12PB00466
+Y
+IND09AP60069
+1406
+Y
+Awarded
+4732
+GST0012AJ0140
+Y
+GSQFOBBPA100003
+4735
+Y
+Awarded
+AG3151D120047
+Y
+GS35F0131R
+4730
+N
+Awarded
+1205
+AG3142K130036
+Y
+AG3142B120011
+1205
+N
+2.   If earned value is not required or will not be a contract requirement for any of the contracts or task orders above, explain why:
+ Earned Value Management will be required and the standards mandated in ANSI 748 will be followed. 
+Page  8 / 11 of Section300
+Date of Last Revision: 2013-06-25
+Exhibit 300 (2012)
+EXHIBIT 300
+UII 005-000001870
+Exhibit 300B: Performance Measurement Report
+Section A: General Information
+Date of Last Change to Activities:  2012-11-30 
+Section B: Project Plan and  Execution Data
+Table II.B.1 Projects
+Objectives/Expect
+Project
+Project
+Cost Variance
+Cost Variance
+Project ID
+Project
+Name
+ed Outcomes
+Start Date
+Completion
+End Point
+Schedule
+($M )
+(%)
+Date
+Project
+Lifecycle
+Cost ($M)
+Variance (%)
+End Point
+Schedule
+Variance
+(in days)
+IOC Release 1
+2011-07-01
+2013-01-25
+$100.7
+-160
+-28
+$-3.1
+-3.10%
+001
+Initial Operating
+Capability (IOC)
+Release 1
+D1.0. Releases will
+follow SAP ASAP
+Deployment D1.0
+methodology
+(project prep,
+blueprint,
+realization, final
+prep and go live).
+IOC Release 1
+2012-05-01
+2013-07-01
+$42.9
+-91
+-21
+$0.0
+0.00%
+002
+Initial Operating
+Capability (IOC)
+Release 1
+D1.1. Releases will
+follow SAP ASAP
+Deployment D1.1
+methodology
+(project prep,
+blueprint,
+realization, final
+prep and go live).
+Key Deliverables
+Project ID
+Activity Name
+Activity Description
+Planned Completion
+Projected
+Actual Completion
+Schedule Variance
+Schedule Variance
+Date
+Completion Date
+Date
+Duration
+(in days)
+(in days )
+(%)
+001
+Release 1 D1.0
+Release 1 D1.0
+2011-11-30
+2011-12-31
+2011-12-31
+152
+-31
+-20.39%
+Business Blueprinting
+Business Blueprinting
+002
+Release 1 D1.1
+Release 1 D1.1
+2012-06-29
+2012-11-15
+59
+-370
+-627.12%
+Business Blueprinting
+Business Blueprinting
+001
+Release 1 D1.0
+Release 1 D1.0
+2012-10-02
+2012-12-14
+267
+-275
+-103.00%
+Page  9 / 11 of Section300
+Date of Last Revision: 2013-06-25
+Exhibit 300 (2012)
+EXHIBIT 300
+UII 005-000001870
+Key Deliverables
+Project ID
+Activity Name
+Activity Description
+Planned Completion
+Projected
+Actual Completion
+Schedule Variance
+Schedule Variance
+Date
+Completion Date
+Date
+Duration
+(in days)
+(in days )
+(%)
+Realization (Build and
+Realization (Build and
+Test)
+Test)
+002
+Release 1 D1.1
+Release 1 D1.1
+2013-01-02
+2013-05-15
+187
+-183
+-97.86%
+Realization (Build and
+Realization (Build and
+Test)
+Test)
+001
+Release 1 D1.0 Final
+Release 1 D1.0 Final
+2013-01-03
+2013-01-25
+93
+-182
+-195.70%
+Prep
+Prep
+002
+Release 1 D1.1 Final
+Release 1 D1.1 Final
+2013-04-02
+2013-07-01
+90
+-93
+-103.33%
+Prep
+Prep
+Page  10 / 11 of Section300
+Date of Last Revision: 2013-06-25
+Exhibit 300 (2012)
+EXHIBIT 300
+UII 005-000001870
+Section C: Operational Data
+Table II.C.1A/B Performance Metrics and Actuals
+Metric ID
+Metric Description
+Unit of Measure
+FEA Performance
+2012 Target
+2013 Target
+Measurement
+Measurement
+Condition
+Reporting
+Frequency
+Agency Strategic
+Goals / Agency
+Category Mapping
+Objective
+NONE
+Page  11 / 11 of Section300
+Date of Last Revision: 2013-06-25
+Exhibit 300 (2012)

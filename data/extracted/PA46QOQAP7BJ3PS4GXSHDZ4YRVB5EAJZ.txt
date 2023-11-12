@@ -1,0 +1,142 @@
+8672-3704000-School Lunch Equipment
+Workflow Data Version:  Current Version
+School District:  
+3704000-LAFAYETTE COUNTY SCHOOL DISTRI
+Contact Information:  
+Contact Name:  
+Mark Keith
+Contact E-Mail Address:  keithm@lcs.k12.ar.us
+Contact Phone:  
+870-921-5500
+District Website URL:  
+http://lcs.k12.ar.us
+DUNS:  
+100003318
+Legal  Business Name:  Lafayette County School District
+Address:  
+P.O. BOX 950
+City:  
+LEWISVILLE
+State:  
+AR
+Zip:  
+718450000
+County:  
+LAFAYETTE
+Filter Statement 1:  
+Will it invest in the economy?
+Filter 1:  
+Yes
+Filter Statement 2:  
+Is it a one-time, short-term (no longer than two years) investment with long-term benefits?
+Filter 2:  
+Yes
+Filter Statement 3:  
+Is the expenditure allowable under the funding mechanism (Title 1, IDEA, SFSF)?
+Filter 3:  
+Yes
+Filter Statement 4:  
+Will the program, activity or item proposed lead to improved student academic achievement?
+Filter 4:  
+No
+May 19, 2009
+Date of School Board 
+Approval:  
+Date of ADE Review:  
+May 2, 2011
+TOTAL ALLOCATION: $5,305.00
+Run Date: Jun 2, 2011
+Run Time: 6:00:23 AM
+8672-3704000-School Lunch Equipment
+Workflow Data Version:  Current Version
+School District:  
+8672-3704000
+District Plan Input
+1 District/School Allocation Level 3
+Dummy Data Item
+Allocation Funds
+00000
+$5,305.00
+3704013-LAFAYETTE COUNTY HIGH SCHOOL
+Budget Amount:  
+$5,305.00
+Project Narrative:  Purchase double Convection Oven
+Goals:  
+Intensive Support and Effective Interventions
+Goal Justification:  Goal #4- Support and Interventions: A convection oven can provide for safe, hot meals for 
+students so they can focus on learning
+Start Date:  
+July 01, 2009
+End Date:  
+August 28, 2009
+Allocation Funds
+Budget Amount:  
+$5,305.00
+Project Narrative:  
+Goals:  
+Goal Justification:  Be sure to address each goal selected in the goal justification.
+Start Date:  
+End Date:  
+8672-3704000-School Lunch Equipment
+Workflow Data Version:  Current Version
+School District:  
+8672-3704000
+District/School Program Allocation
+Budget Amount
+Project (elist) Level 2
+Dummy 
+Column 
+Spacer 
+Item
+3704000-LAFAYETTE COUNTY SCHOOL DISTRI
+00000
+$5,305.00
+050-Buildings/Additions to Buildings
+$0.00
+051-Major Renovations
+$0.00
+052-Equipment
+$5,305.00
+053-Vehicles
+$0.00
+054-Technology Hardware & Software
+$0.00
+055-Infrastructure
+$0.00
+056-Program Direct Service
+$0.00
+057-Professional Services
+$0.00
+058-All Other
+$0.00
+TOTAL
+$5,305.00
+8672-3704000-School Lunch Equipment
+Workflow Data Version:  Current Version
+School District:  
+8672-3704000
+District/School Program Allocation
+3 Districts/Schools All Level 1
+Dummy Column Spacer Item Budget Amount
+3704013-LAFAYETTE COUNTY HIGH SCHOOL 00000
+$5,305.00
+3704013-LAFAYETTE COUNTY HIGH SCHOOL 050-Buildings/Additions to Buildings
+$0.00
+051-Major Renovations
+$0.00
+052-Equipment
+$5,305.00
+053-Vehicles
+$0.00
+054-Technology Hardware & Software
+$0.00
+055-Infrastructure
+$0.00
+056-Program Direct Service
+$0.00
+057-Professional Services
+$0.00
+058-All Other
+$0.00
+TOTAL
+$5,305.00

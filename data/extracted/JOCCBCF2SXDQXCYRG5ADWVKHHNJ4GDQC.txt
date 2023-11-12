@@ -1,0 +1,3421 @@
+ 
+ 
+   National Park Service  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   U.S. Department of the Interior 
+   Capitol Reef National Park 
+   Torrey, Utah 
+ 
+ 
+Rehabilitate and Resurface the 8-Mile Scenic Drive Road 
+Environmental Assessment 
+ 
+February 2010 
+ 
+ 
+ 
+               
+United States Department of the Interior • National Park Service • Capitol Reef National Park 
+ 
+ 
+ 
+Rehabilitate and Resurface the 8-Mile Scenic Drive Road 
+ 
+Environmental Assessment 
+ 
+Summary  
+Capitol Reef National Park (park), in cooperation with the Federal Highway Administration 
+(FHWA), Central Federal Lands Highway Division (CFLHD), proposes to rehabilitate and 
+resurface eight miles of the Scenic Drive roadway from the intersection with Utah State Route 
+24 (SR-24) (milepost 0.0) and the parking lot for Capitol Gorge (milepost 8.0).  
+The proposal to rehabilitate and resurface the Scenic Drive is needed because the roadway 
+surface has deteriorated with signs of shoving and rutting, as well as deteriorated pavement 
+edges, potholes, and bleeding and cracking failures. Cracking of the pavement is common 
+within the travel lanes and along the shoulders. The roadway is threatened in some locations by 
+eroding ditches and drainage channels. Some culverts are plugged with debris. Numerous 
+culvert headwalls have become weakened because of erosion and deterioration of the mortar.  
+This environmental assessment evaluates two alternatives: a no-action alternative and an action 
+alternative. The no-action alternative describes the current road maintenance regimen of spot 
+repairs and chip-sealing of the roadway as needed, with periodic repairs to individual drainage 
+structures as the need arises. The park would respond to future needs and conditions without 
+substantial actions or changes in the present maintenance regimen. 
+ Under the proposed alternative, Rehabilitate and Resurface the Scenic Drive, the roadway 
+would be rehabilitated and repaved with asphalt pavement or with chip-seal throughout its 8-
+mile length. From the intersection with State Route 24, milepost (MP) 0.00, to the park fee 
+station at MP 1.70, the existing pavement on the Scenic Drive would be pulverized and the 
+roadway would be paved with asphalt concrete. Between the fee station and the Capitol Gorge 
+parking area the existing chip-seal pavement would be pulverized, and the roadway would be 
+paved with a double chip-seal overlay. Painted centerline striping would be applied from the 
+picnic area and campground in the Fruita Historic District to the intersection with SR-24. 
+Centerline striping may also be applied at some of the sharpest curves, to enhance safety. 
+Rumble strips would be installed at the beginning of the 15-mile-per-hour speed zone. Minor 
+improvements would be made to the Fruita Campground entrance to provide additional width for 
+turning movements into and out of the campground. Paved asphalt aprons would be developed 
+and extended into the entrances of Grand Wash and the Pleasant Creek Road. 
+ Existing concrete low water crossings would be repaired or replaced in kind as needed. Cut 
+and fill slope erosion and slumping along the roadway would be repaired as needed. The 
+Capitol Gorge parking area would be paved with asphalt pavement. Some existing minor 
+parking areas and pullouts would be reconstructed and formalized. Vegetated areas disturbed 
+by construction activities would be revegetated with native plants and seeds. Existing roadway 
+signs would be replaced.  
+Damaged and deteriorating culverts (historic and non-historic) would be repaired and/or 
+reconstructed, and new culverts would be installed where needed. The NPS considers the 
+Scenic Drive as potentially eligible for listing in the National Register of Historic Places. 
+Therefore, all masonry stone rehabilitation would be completed in accordance with the 
+Secretary of the Interior’s Standards for the Preservation of Historic Properties. Consultation 
+with the Utah State Historic Preservation Office (SHPO) was conducted under a separate 
+United States Department of the Interior • National Park Service • Capitol Reef National Park 
+ 
+submittal in compliance with Section 106 of the National Historic Preservation of 1966, as 
+amended.  
+This environmental assessment has been prepared in compliance with the National 
+Environmental Policy Act (NEPA) to provide the decision-making framework that 1) analyzes a 
+reasonable range of alternatives to meet objectives of the proposal, 2) evaluates potential 
+issues and impacts to Capitol Reef National Park’s resources and values, and 3) identifies 
+mitigation measures to lessen the degree or extent of these impacts. Resource topics analyzed 
+in detail in this document include cultural landscapes; soundscape; soils and geology; health 
+and safety; visitor use and experience; and park operations and management. All other 
+resource topics were dismissed because the project would have negligible or minor impacts on 
+those resources. No major impacts are anticipated as a result of this project.  
+Public Comment 
+If you wish to comment on the environmental assessment, you may post comments online at 
+http://parkplanning.nps.gov/care or mail comments to: Superintendent; Capitol Reef National 
+Park, HC70 Box 15, Torrey, Utah  84775.  
+This environmental assessment will be available for public review for 30 days. Before including 
+your address, phone number, e-mail address, or other personal identifying information in your 
+comment, you should be aware that your entire comment – including your personal identifying 
+information – may be made publicly available at any time. Although you can ask us in your 
+comment to withhold your personal identifying information from public review, we cannot 
+guarantee that we will be able to do so.  
+ 
+United States Department of the Interior • National Park Service • Capitol Reef National Park 
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+PURPOSE AND NEED ................................................................................................... 1 
+Introduction ........................................................................................................................................... 1 
+Background ........................................................................................................................................... 1 
+Purpose and Need ................................................................................................................................ 1 
+Relationship to Other Plans and Policies .......................................................................................... 3 
+Appropriate Use .................................................................................................................................... 3 
+Scoping .................................................................................................................................................. 4 
+Impact Topics Retained for Further Analysis .................................................................................. 10 
+Cultural Landscapes ...................................................................................................................... 10 
+Soundscape ................................................................................................................................... 11 
+Geology and Soils .......................................................................................................................... 11 
+Health and Safety ........................................................................................................................... 12 
+Visitor Use and Experience ............................................................................................................ 12 
+Park Operations and Management ................................................................................................ 12 
+Impact Topics Dismissed From Further Analysis ........................................................................... 12 
+Vegetation and Invasive Exotic Plants ........................................................................................... 13 
+Wildlife ............................................................................................................................................ 13 
+Special Status Species .................................................................................................................. 14 
+Water Resources ........................................................................................................................... 16 
+Wetlands ........................................................................................................................................ 16 
+Floodplains ..................................................................................................................................... 18 
+Historic structures .......................................................................................................................... 18 
+Archeological Resources ............................................................................................................... 18 
+Ethnographic Resources ................................................................................................................ 19 
+Museum Collections ....................................................................................................................... 19 
+Air Quality ....................................................................................................................................... 19 
+Lightscape Management ................................................................................................................ 20 
+Socioeconomics ............................................................................................................................. 20 
+Prime and Unique Farmlands ........................................................................................................ 20 
+Indian Trust Resources .................................................................................................................. 21 
+Environmental Justice .................................................................................................................... 21 
+Climate Change and Sustainability ................................................................................................ 21 
+ALTERNATIVES ........................................................................................................... 22 
+Alternatives Carried Forward ............................................................................................................ 22 
+Alternative A – No-Action ............................................................................................................... 22 
+Alternative B – Rehabilitate and Resurface the Scenic Drive (Preferred Alternative) ................... 22 
+Staging Areas ................................................................................................................................. 23 
+General Construction Schedule and Costs .................................................................................... 24 
+Mitigation Measures ........................................................................................................................... 24 
+Alternatives Considered and Dismissed .......................................................................................... 26 
+Alternative Summaries ....................................................................................................................... 26 
+Identification of the Environmentally Preferred Alternative .......................................................... 29 
+AFFECTED ENVIRONMENT ........................................................................................ 31 
+Location and General Description of the Park ................................................................................ 31 
+Capitol Reef National Park 
+ 
+i
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+Cultural Landscapes .......................................................................................................................... 31 
+Soundscape ........................................................................................................................................ 32 
+Geology and Soils .............................................................................................................................. 32 
+Health and Safety................................................................................................................................ 33 
+Visitor Use and Experience ............................................................................................................... 34 
+Park Operations and Management ................................................................................................... 34 
+ENVIRONMENTAL CONSEQUENCES ........................................................................ 36 
+Methodology ....................................................................................................................................... 36 
+Cumulative Effects ............................................................................................................................. 36 
+Unacceptable Impacts ........................................................................................................................ 37 
+Impairment .......................................................................................................................................... 38 
+Cultural Landscapes .......................................................................................................................... 39 
+Intensity Level Definitions .............................................................................................................. 39 
+Impacts of Alternative A (No-Action Alternative) ............................................................................ 39 
+Impacts of Alternative B (Preferred Alternative) ............................................................................ 40 
+Soundscape ........................................................................................................................................ 40 
+Intensity Level Definitions .............................................................................................................. 40 
+Impacts of Alternative A (No-Action Alternative) ............................................................................ 41 
+Impacts of Alternative B (Preferred Alternative) ............................................................................ 42 
+Geology and Soils .............................................................................................................................. 43 
+Intensity Level Definitions .............................................................................................................. 43 
+Impacts of Alternative A (No-Action Alternative) ............................................................................ 43 
+Impacts of Alternative B (Preferred Alternative) ............................................................................ 44 
+Health and Safety................................................................................................................................ 45 
+Intensity Level Definitions .............................................................................................................. 45 
+Impacts of Alternative A (No-Action Alternative) ............................................................................ 45 
+Impacts of Alternative B (Preferred Alternative) ............................................................................ 46 
+Visitor Use and Experience ............................................................................................................... 46 
+Intensity Level Definitions .............................................................................................................. 46 
+Impacts of Alternative A (No-Action Alternative) ............................................................................ 47 
+Impacts of Alternative B (Preferred Alternative) ............................................................................ 48 
+Park Operations and Management ................................................................................................... 49 
+Intensity Level Definitions .............................................................................................................. 49 
+Impacts of Alternative A (No-Action Alternative) ............................................................................ 49 
+Impacts of Alternative B (Preferred Alternative) ............................................................................ 50 
+Unacceptable Impacts and Impairment ............................................................................................ 50 
+CONSULTATION AND COORDINATION .................................................................... 52 
+Internal Scoping.................................................................................................................................. 52 
+Agency Consultation .......................................................................................................................... 52 
+Native American Consultation .......................................................................................................... 52 
+Environmental Assessment Review and List of Recipients .......................................................... 52 
+List of Preparers ................................................................................................................................. 53 
+Capitol Reef National Park 
+ 
+ii
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+APPENDIX A ................................................................................................................ 56 
+APPENDIX B ................................................................................................................ 60 
+ 
+LIST OF TABLES 
+ 
+Table 1 – Special Status Species ............................................................................................................... 14 
+Table 2 – Summary of Alternatives and How Each Alternative Meets Project Objectives ......................... 27 
+Table 3 – Environmental Impact Summary by Alternative .......................................................................... 28 
+ 
+LIST OF FIGURES 
+ 
+Figure 2 - Area of pavement distress near Gifford Homestead .................................................................... 5 
+Figure 3 - Pavement near Gifford Homestead has failed from saturated subgrade ..................................... 5 
+Figure 4 – Runoff escapes ditch above Gifford Homestead Barn ................................................................ 6 
+Figure 5- Subgrade settlement in the vicinity of the Gifford Homestead Barn .............................................. 6 
+Figure 6 - Typical subgrade failure within the chip-seal portion of the road ................................................. 7 
+Figure 7 - Bulging retaining wall at culvert crossing ..................................................................................... 7 
+Figure 8 – Drainage ditch adjacent to the roadway ...................................................................................... 8 
+Figure 9 - Vertical ditch bank adjacent to the roadway ................................................................................. 8 
+Figure 10 - Low water crossing with scouring on downstream side ............................................................. 9 
+Figure 11 - Low water crossing with exposed cutoff wall on downstream side ............................................ 9 
+Capitol Reef National Park 
+ 
+iii
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+PURPOSE AND NEED   
+Introduction  
+Capitol Reef National Park (park) is located in southern Utah in Wayne, Garfield, Sevier, and 
+Emery Counties, Utah. The headquarters area and the project areas are located east of the 
+town of Torrey, in Wayne County, Utah. Capitol Reef was first established as a national 
+monument on August 2, 1937 by Presidential Proclamation 2246 (50 Stat. 1856). The 
+monument originally comprised 37,060 acres. Additional lands were added to the monument by 
+Presidential Proclamation 3249 of July 2, 1958 and Presidential Proclamation 3888 of January 
+20, 1969. On December 18, 1971, Congress abolished Capitol Reef National Monument and 
+established Capitol Reef National Park, with its final boundaries encompassing 241,903 acres 
+(85 Stat. 639, 16 U.S.C. §273 et seq.). The park is managed by the National Park Service.  
+This environmental assessment (EA) will examine the environmental impacts associated with 
+the proposal to repair and resurface the entire 8-mile length of the asphalt-paved and chip-
+sealed Scenic Drive roadway between SR-24 and the parking lot for Capitol Gorge. This EA 
+was prepared in accordance with the National Environmental Policy Act (NEPA) of 1969, 
+regulations of the Council on Environmental Quality (CEQ) (40 CFR §1508.9), and the National 
+Park Service Director’s Order (DO)-12 (Conservation Planning, Environmental Impact Analysis, 
+and Decision-Making). Figure 1 depicts the location of the Scenic Drive.  
+Background 
+The Scenic Drive is a hard-surfaced road that extends between Utah State Road 24 (Utah SR-
+24) and Capitol Gorge. The narrow and twisting road, a popular driving route used by park 
+visitors, has numerous concrete-paved low water crossings that are sometimes impassable 
+during seasonal flash flooding. It connects with spur roads accessing popular hiking and scenic 
+locales, and it is the primary scenic tour road within the park. Much of the Scenic Drive was 
+chip-sealed in 1988. The improvements made the road more attractive to visitors in passenger 
+vehicles and motor homes, and traffic and use of trails in the area increased. The use of large 
+recreational vehicles on the narrow, winding, and shoulderless road has created safety 
+concerns. Cyclists and pedestrians, in combination with the large vehicles and other traffic, add 
+to those concerns.  
+Purpose and Need 
+The purpose of the proposal to repair and resurface the Scenic Drive between SR-24 and the 
+parking lot for Capitol Gorge is to maintain a safe and reliable roadway, while providing the 
+National Park Service (NPS) the opportunity to meet and uphold its mandate to administer and 
+protect the park for the enjoyment of natural, cultural, and scientific resources in a manner that 
+leaves these resources unimpaired.  
+The Scenic Drive is in need of repair. The roadway surface has deteriorated, with signs of 
+shoving and rutting, as well as deteriorated pavement edges, potholes, and bleeding and 
+cracking failures. Such damage occurs within the travel lanes in locations where the subgrade 
+becomes saturated because of poor drainage, and along the edges of the pavement where 
+there is little shoulder support. The roadway is threatened in some locations by eroding ditches 
+and drainage channels. Plugged or undersized culverts in some locations force seasonal runoff 
+to flow across the road, eroding the pavement and the roadway bench. Numerous stone 
+headwalls have become weakened and are threatened with failure, because of erosion and 
+deterioration of the mortar. 
+Capitol Reef National Park 
+ 
+ 
+1
+Figure 1 -- Project Location.  
+DSC/Sept. 09/158/100328 
+ 
+ 
+ 
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+Capitol Reef National Park 
+ 
+ 
+2
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+Poorly defined drainage ditches also cause roadway overtopping and roadway shoulder erosion 
+in some locations. Some concrete paved low water crossings have erosion damage. Figures 2 
+through 11 illustrate some of the repair needs.  
+ 
+The objectives of the proposed project are to:  
+Improve the Efficiency of Park Operations 
+• 
+Repair damaged and deteriorating road pavement, drainage, stone masonry 
+retaining walls, headwalls, and other structural features 
+• 
+Reduce maintenance requirements and costs due to deficiencies in the condition of 
+the road  
+Provide for Visitor Enjoyment and Safety 
+• 
+Improve the roadway condition to more safely accommodate traffic 
+• 
+Reduce the incidence and risk of traffic accidents 
+• 
+Efficiently implement rehabilitation work while minimizing visitor impact 
+Protect Park Resources  
+• 
+Maintain the scenic quality of the road  
+• 
+Protect park natural and cultural resources and values 
+Relationship to Other Plans and Policies 
+This proposal is consistent with the objectives of the Capitol Reef National Park Final 
+Environmental Impact Statement, General Management Plan, and Development Concept Plan 
+(1998), which outlines the management, use, and development of the Park through the year 
+2013. The proposal is consistent with the 2006 National Park Service Management Policies goals 
+and objectives for natural resource and cultural resource management, use of the park, 
+transportation systems, park facilities, and visitor facilities. 
+It is consistent with the objectives of the 1984 NPS Park Roads Standards, which states that 
+roads in national parks serve a distinctly different purpose from most other road and highway 
+systems. Park roads are to be designed with extreme care and sensitivity to provide access for 
+the protection, use, and enjoyment of the resources that constitute the national park system. 
+It is consistent with Director’s Order – 87A, which states that park roads are constructed only 
+where necessary to provide access for the protection, use, and enjoyment of the natural, 
+historical, cultural, and recreational resources that constitute our national park system. Park 
+roads should enhance the visitor experience while providing safe and efficient accommodation 
+of park visitors and to serve essential management action needs. Park roads are designed with 
+extreme care and sensitivity with respect to the terrain and environment through which they 
+pass—they are laid lightly onto the land. 
+Appropriate Use 
+Section 1.5 of 2006 National Park Service Management Policies, “Appropriate Use of the Parks,” 
+directs that the National Park Service must ensure that park uses that are allowed would not 
+cause impairment of, or unacceptable impacts on, park resources and values. A form of park 
+use may be allowed within a park only after a determination has been made in the professional 
+judgment of the park manager that it will not result in unacceptable impacts.  
+Capitol Reef National Park 
+ 
+ 
+3
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+Section 8.1.2 of 2006 National Park Service Management Policies, Process for Determining 
+Appropriate Uses, provides evaluation factors for determining appropriate uses. All proposals 
+for park uses are evaluated for: 
+• 
+consistency with applicable laws, executive orders, regulations, and policies;  
+• 
+consistency with existing plans for public use and resource management;  
+• 
+actual and potential effects on park resources and values;  
+• 
+total costs to the Service; and  
+• 
+whether the public interest will be served.  
+Park managers must continually monitor all park uses to prevent unanticipated and 
+unacceptable impacts. If unanticipated and unacceptable impacts emerge, the park manager 
+must engage in a thoughtful, deliberate process to further manage or constrain the use, or 
+discontinue it.  
+From Section 8.2 of 2006 National Park Service Management Policies: “To provide for enjoyment 
+of the parks, the National Park Service will encourage visitor use activities that  
+• 
+are appropriate to the purpose for which the park was established, and  
+• 
+are inspirational, educational, or healthful, and otherwise appropriate to the park 
+environment; and  
+• 
+will foster an understanding of and appreciation for park resources and values, or will 
+promote enjoyment through a direct association with, interaction with, or relation to park 
+resources; and  
+• 
+can be sustained without causing unacceptable impacts to park resources and values.  
+The Scenic Drive, in its present configuration, has been in continuous use since it was 
+constructed. The proposed rehabilitation of the Scenic Drive is consistent with the park’s 
+general management plan and other related park plans. The NPS finds that maintaining 
+automobile access along the Scenic Drive and to trailheads and other points of interest along 
+the road is an acceptable use at Capitol Reef National Park. 
+Scoping   
+Capitol Reef National Park conducted internal scoping with appropriate National Park Service 
+staff, as described in more detail in the Consultation and Coordination chapter. The park also 
+conducted external scoping with the State of Utah Historic Preservation Office and 
+interested/affected groups. More information regarding external scoping can be found in 
+Comments and Coordination. 
+Capitol Reef National Park 
+ 
+ 
+4
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+Figure 2 - Area of pavement distress near Gifford Homestead  
+ 
+ 
+ 
+ 
+Figure 3 - Pavement near Gifford Homestead has failed from saturated subgrade  
+ 
+Capitol Reef National Park 
+ 
+ 
+5
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+Figure 4 – Runoff escapes ditch above Gifford Homestead Barn   
+ 
+ 
+ 
+Figure 5- Subgrade settlement in the vicinity of the Gifford Homestead Barn 
+ 
+Capitol Reef National Park 
+ 
+ 
+6
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+Figure 6 - Typical subgrade failure within the chip-seal portion of the road 
+ 
+ 
+ 
+Figure 7 - Bulging retaining wall at culvert crossing 
+ 
+Capitol Reef National Park 
+ 
+ 
+7
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+Figure 8 – Drainage ditch adjacent to the roadway 
+ 
+ 
+Figure 9 - Vertical ditch bank adjacent to the roadway 
+ 
+ 
+Capitol Reef National Park 
+ 
+ 
+8
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+Figure 10 - Low water crossing with scouring on downstream side 
+ 
+ 
+ 
+Figure 11 - Low water crossing with exposed cutoff wall on downstream side  
+ 
+Capitol Reef National Park 
+ 
+ 
+9
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+Impact Topics Retained for Further Analysis   
+In this section and the following section on Impact Topics Dismissed from Further Analysis, the 
+NPS analyzes all potential impacts by considering the direct, indirect, and cumulative effects of 
+the proposed action on the environment, along with connected and cumulative actions. Impacts 
+are described in terms of context and duration. The context or extent of the impact is described 
+as localized or widespread. The duration of impacts is described as short-term or long-term. The 
+intensity and type of impact is described as negligible, minor, moderate, or major, and as 
+beneficial or adverse. The NPS equates “major” effects as “significant” effects. The identification 
+of “major” effects would trigger the need for an EIS. Where the intensity of an impact could be 
+described quantitatively, the numerical data are presented; however, most impact analyses are 
+qualitative and use best professional judgment in making the assessment.  
+If there is no effect or no measurable effect, there would either be no contribution to cumulative 
+effects, or the contribution would be low. For each issue or topic presented below, if the 
+resource is found in the analysis area or the issue is applicable to the proposal, then a limited 
+analysis of direct and indirect, and cumulative effects is presented. There is no impairment 
+analysis included in the limited evaluations for the dismissed topics because the NPS’s 
+threshold for considering whether there could be an impairment is based on “major” effects.  
+Impact topics for this project have been identified on the basis of federal laws, regulations, and 
+orders; 2006 National Park Service Management Policies; and National Park Service knowledge 
+of resources at Capitol Reef National Park. Impact topics that are carried forward for further 
+analysis in this EA are listed below along with the reasons why the impact topic is further 
+analyzed.  
+Cultural Landscapes 
+According to the Director’s Order # 28, “Cultural Resource Management Guideline,” a cultural 
+landscape is  “. . . a reflection of human adaptation and use of natural resources and is often 
+expressed in the way land is organized and divided, patterns of settlement, land use, systems of 
+circulation, and the types of structures that are built. The character of a cultural landscape is 
+defined by both physical materials, such as roads, buildings, walls, and vegetation, and by use 
+reflecting cultural values.” 
+The NPS has identified the Scenic Drive/Capitol Gorge landscape as potentially eligible for 
+listing in the National Register of Historic Places. Constructed in 1883, the road now known as 
+the Scenic Drive was little more than a wagon trail that connected the farming community of 
+Fruita to Torrey, Notom and other communities nearby. Prior to the rerouting and paving of a 
+section of Utah Highway 24 through Fremont Canyon in 1962, the old route south of Fruita 
+through Capitol Gorge (now part of the Scenic Drive) was the main road through the 
+Waterpocket Fold, a route formerly used by Native Americans for centuries. Fruita, a Mormon 
+farming community, was founded in 1880. The northern 1.7-mile section of the Scenic Drive that 
+passes through the community is considered a contributing feature of the Fruita Rural Historic 
+District, which was listed in the National Register of Historic Places in 1997.  
+Properties more than fifty years old may be eligible for the National Register if they meet the 
+criteria for listing and for contributions at the national, state, or local level. In order for a property 
+to be listed in the National Register, it also must possess historic integrity of those features 
+necessary to convey its significance, i.e., location, design, setting, workmanship, materials, 
+feeling, and association. The Fruita landscape was determined eligible because its original land 
+use patterns, particularly its historic fruit orchards, remain relatively intact. The Fruita Historic 
+Capitol Reef National Park 
+ 
+ 
+10
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+District landscape also contains 14 historic buildings, including a schoolhouse, two homes, 
+outbuildings and cellars, and a distilling site.  
+In the early 1940s, the Civilian Conservation Corps (CCC) completed improvements to the 
+Scenic Drive, including construction of culverts and other drainage features. However, historic 
+records do not indicate how many of these features pre-dated the CCC era. It is unclear which 
+drainage features date to the CCC era, and which were constructed earlier and simply repaired 
+or rebuilt between 1938 and 1942. The Scenic Drive currently has 64 culverts and 22 low water 
+crossings. An inventory of culverts completed by park staff in 2009 identified six that are known 
+or are likely to have been constructed by the CCC, in addition to another 31 possible CCC-era 
+drainage features. Alterations were subsequently made to the road during the later Mission 66 
+period of NPS development (1945-1967), but the overall historic alignment and drainage 
+structures of the road remain relatively intact. The proposed Scenic Drive rehabilitation project 
+described in this EA would have the potential to impact the historic features of the Scenic Drive 
+and Fruita landscapes. For these reasons, the topic of cultural landscapes has been carried 
+forward for further analysis in this document. 
+Soundscape 
+Soundscape refers to the total ambient acoustic environment associated with a given 
+environment (sonic environment) in an area such as a national park. It is also refers to the total 
+ambient sound level for the park. In a national park setting, this soundscape is usually 
+composed of both natural ambient sounds and a variety of human-made sounds.  
+In accordance with 2006 National Park Service Management Policies and Director’s Order 47 – 
+Sound Preservation and Noise Management, an important component of the National Park 
+Service’s mission is the preservation of natural soundscapes associated with national park 
+units. Natural soundscapes exist in the absence of human-caused sound. The natural ambient 
+soundscape is the aggregate of all the natural sounds that occur in a park unit, together with the 
+physical capacity for transmitting natural sounds.   
+With either alternative discussed in this EA, human-caused noise, caused by visitors and their 
+vehicles as well as by park maintenance activities, would intrude upon the natural soundscape. 
+The preferred alternative would result in more construction noise than the no action alternative. 
+The majority of construction noise would occur from April to October. Effects to the natural 
+soundscape during daylight hours would be clearly detectable, localized, and periodic. 
+Therefore, soundscape was addressed as an impact topic in this EA.  
+Geology and Soils  
+According to the 2006 National Park Service Management Policies, the National Park Service will 
+preserve and protect geologic resources and features from adverse effects of human activity, 
+while allowing natural processes to continue (NPS 2006). These policies also state that the 
+National Park Service will strive to understand and preserve the soil resources of park units and 
+to prevent, to the extent possible, the unnatural erosion, physical removal, or contamination of 
+the soil, or its contamination of other resources.  
+The proposed repairs and rehabilitation of the Scenic Drive would be mostly confined to the 
+existing road bench, but some excavation would be needed to widen the roadway in a few 
+locations to achieve a consistent width, and to widen some sharp “S-shaped” curves to improve 
+safety. The proposed project would also require excavation in selected areas under the road 
+surface to reconstruct the subgrade, displacing and disturbing soils. Soils would also be 
+disturbed and compacted in one of the staging areas. 
+Capitol Reef National Park 
+ 
+ 
+11
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+Because the proposed actions would impact geology and soils this topic has been carried 
+forward for further analysis. 
+Health and Safety 
+The NPS is committed to providing appropriate, high-quality opportunities for visitors and 
+employees to enjoy the parks in a safe and healthful environment. The goals of the park include 
+ensuring that basic visitor needs are met in keeping with the park purposes, and that visitor and 
+employee safety and health are protected. To the extent feasible, facilities, programs, and 
+services in the park are accessible to and usable by all people, including those with disabilities 
+(NPS 2004b).  
+One of the primary purposes of this proposed project is to improve safety. The NPS also wants 
+to keep the roadway and associated park resources open during construction and, as a result, 
+protective measures need to be studied and implemented to ensure safety to motorists and 
+visitors. Because the proposed project would affect health and safety of park staff and visitors, 
+this topic has been carried forward for further analysis. 
+Visitor Use and Experience 
+According to 2006 National Park Service Management Policies, the enjoyment of park resources 
+and values by people is part of the fundamental purpose of all park units (NPS 2006). The 
+National Park Service is committed to providing appropriate, high quality opportunities for 
+visitors to enjoy the parks, and will maintain within the parks an atmosphere that is open, 
+inviting, and accessible to every segment of society. Further, the National Park Service will 
+provide opportunities for forms of enjoyment that are uniquely suited and appropriate to the 
+superlative natural and cultural resources found in the parks. The 2006 National Park Service 
+Management Policies also state that scenic views and visual resources are considered highly 
+valued associated characteristics that the National Park Service should strive to protect (NPS 
+2006).  
+Taking a self-guided tour of the Scenic Drive is one of the principal activities available to park 
+visitors. The average number of visitors who travel the Scenic Drive annually is around 70,000. 
+The average visitor length of stay for people who travel to the visitor center and the Scenic Drive 
+is 3 hours. Those who opt for the self-guided tour along the Scenic Drive are able to travel 
+through the historic settlement of Fruita and stop at eleven locations along the western face of 
+the Waterpocket Fold that offer spectacular scenic views of notable geologic formations. The 
+Scenic Drive also offers access to exploration of Grand Wash and Capitol Gorge. Because the 
+proposed project would affect visitor use and experience of these park resources, this topic has 
+been carried forward for further analysis. 
+Park Operations and Management  
+Park operations and management would be affected by implementation of either the no-action 
+alternative or the action alternative (alternative B). Either alternative would require repair and 
+maintenance activities on the Scenic Drive. Construction activities on the Scenic Drive would 
+require temporary changes in park operations to address traffic control and keep the public 
+informed about road conditions. Therefore, the topic of park operations has been carried 
+forward for further analysis in this document. 
+Impact Topics Dismissed From Further Analysis   
+In this section of the EA, NPS provides a limited evaluation and explanation as to why some 
+impact topics are not evaluated in more detail. Impact topics are dismissed from further 
+evaluation in this EA if:  
+Capitol Reef National Park 
+ 
+ 
+12
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+• 
+they do not exist in the analysis area, or 
+• 
+they would not be affected by the proposal, or the likelihood of impacts are not reasonably 
+expected, or  
+• 
+through the application of mitigation measures, the effects from the proposal would be minor 
+or less, and there is little controversy on the subject or reasons to otherwise include the 
+topic. 
+Vegetation and Invasive Exotic Plants  
+According to the 2006 National Park Service Management Policies, the National Park Service 
+strives to maintain all components and processes of naturally evolving park unit ecosystems, 
+including the natural abundance, diversity, and ecological integrity of plants (NPS 2006).  
+Construction activities on the roadway shoulders and immediately adjacent areas would 
+displace native vegetation and would provide conditions favorable for the establishment of 
+invasive exotic plants, but the impacts would be mitigated by control measures, such as a 
+revegetation plan, restricting construction activities to specified areas, and other mitigation 
+measures identified in this EA. The impacts would be negligible to minor, because the areas 
+where conditions would be favorable for invasion by exotic plants would be relatively small, 
+including the road shoulders and areas immediately adjacent to the roadway. The impacts 
+would be short-term because those areas would be revegetated with native species and the 
+spread of invasive exotic plants would be controlled.  
+ Such negligible or minor impacts would not result in any unacceptable impacts; the proposed 
+actions are consistent with §1.4.7.1 of 2006 National Park Service Management Policies. 
+Because these effects are minor or less in degree and would not result in any unacceptable 
+impacts, this topic is dismissed from further analysis in this document.  
+Wildlife  
+The NPS Organic Act, which directs parks to conserve wildlife unimpaired for future 
+generations, is interpreted by the NPS to mean that native animal life should be protected and 
+perpetuated as part of the park’s natural ecosystem. Natural processes are relied on to control 
+populations of native species to the greatest extent possible; otherwise they are protected from 
+harm by human activities. Management goals for wildlife include maintaining components and 
+processes of naturally evolving park ecosystems, including natural abundance, diversity, and 
+the ecological integrity of plants and animals. 
+Wildlife commonly found in the proposed project area include mule deer, coyotes, bighorn 
+sheep, marmots, fox, woodrats, ringtails, chipmunks, ground squirrels, jackrabbits, bats, 
+kangaroo rats, mice, and many species of birds. There are also numerous insect species, 
+amphibians, and reptiles.  
+Neither of the alternatives would impact the overall abundance, diversity, or ecological integrity 
+of animals, nor inhibit the processes of park ecosystems. Wildlife habitat would be adversely 
+affected adjacent to the road along its length, e.g. through the removal of vegetation and soils. 
+Those impacts would be measurable, but they would not affect native species’ populations or 
+the natural processes sustaining them, beyond their natural range of variability. Mitigation 
+measures, such as replanting disturbed areas with native vegetation, would be in accordance 
+with conventional best management practices, and would have a high likelihood of success. The 
+long-term adverse impact to wildlife would be minor.  
+Capitol Reef National Park 
+ 
+ 
+13
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+During construction, noise would also increase, which may disturb wildlife in the general area. 
+Construction-related noise would be temporary, and existing sound conditions would resume 
+following construction activities. Therefore, the temporary noise from construction would have a 
+negligible to minor adverse effect on wildlife.  
+Such negligible to minor impacts would not result in any unacceptable impacts; the proposed 
+actions are consistent with §1.4.7.1 of 2006 National Park Service Management Policies. 
+Because these effects are minor or less in degree and would not result in any unacceptable 
+impacts, this topic is dismissed from further analysis in this document.  
+Special Status Species 
+For federally sponsored projects, the Endangered Species Act (Act) of 1973 (as amended) 
+requires examination of potential impacts to Threatened, Endangered, and Candidate Species. 
+Section 7 of the Act requires federal agencies to ensure that any activities they authorize, fund, 
+or implement, do not jeopardize the continued existence of any wildlife species federally listed 
+as threatened or endangered and do not destroy or adversely modify designated critical habitat. 
+NPS policy requires examination of potential impacts on federal candidate species, as well as 
+state-listed threatened, endangered, candidate, rare, declining, and sensitive species with 
+potential to occur within the project area. For simplicity, the federal and state-listed species 
+identified in this EA are collectively described as Special Status Species. 
+A population of a National Park Service sensitive plant, the rush lomatium, has been identified in 
+the vicinity of the Scenic Drive. Park staff have determined that those plants will not be affected 
+by the proposed repair and rehabilitation of the Scenic Drive. 
+Park staff reviewed the Utah Conservation Data Center website and generated a list of Species 
+of Special Concern for the project area. The database identified five state-listed animal species 
+that could potentially occur within the project area (Utah Conservation Data Center 10/30/2009); 
+Table 1.  
+The NPS has no record of federally listed species occurring within the project area, and recent 
+field examinations by park staff confirm that. The southwestern willow flycatcher has the 
+potential to occur within the project area, but there is no suitable nesting habitat for the species 
+in or near the project area.  
+ 
+Table 1 – Special Status Species 
+ 
+Common Name 
+Scientific Name 
+Federal Status 
+State Status 
+Barneby reed-mustard 
+Schoencrambe 
+barnebyi 
+Endangered 
+NA 
+Despain’s cactus 
+Pediocactus despainii 
+Endangered 
+NA 
+Jones cycladenia 
+Cycladenia humilis 
+var. jonesii 
+Threatened 
+NA 
+Last chance townsendia 
+Townsendia aprica 
+Threatened 
+NA 
+Maguire's daisy 
+Erigeron maguirei 
+Threatened 
+NA 
+Capitol Reef National Park 
+ 
+ 
+14
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+Table 1 – Special Status Species 
+ 
+Common Name 
+Scientific Name 
+Federal Status 
+State Status 
+Western nodding ladies'-tresses 
+Spiranthes diluvialis 
+Threatened 
+NA 
+Winkler cactus 
+Pediocactus winkleri 
+Threatened 
+NA 
+Wright fishhook cactus 
+Sclerocactus wrightiae 
+Endangered 
+NA 
+Rush lomatium 
+Lomatium junceum 
+NA 
+National Park Service 
+Sensitive Species due to 
+limited distribution 
+Mexican Spotted Owl 
+Strix occidentalis 
+lucida  
+Threatened 
+NA 
+Yellow-billed cuckoo 
+Coccyzus americanus 
+Candidate 
+NA 
+Southwestern Willow Flycatcher  
+Empidonax traillii 
+extimus 
+Endangered 
+NA 
+Allen’s Big-eared Bat 
+Idionycteris phyllotis 
+NA 
+State Sensitive Species 
+due to limited distribution 
+Spotted bat 
+Euderma maculatum 
+NA 
+State Sensitive Species 
+due to limited distribution 
+Fringed myotis 
+Myotis thysanodes 
+NA 
+State Sensitive Species 
+due to limited distribution 
+Big free-tailed bat 
+Nyctinomops macrotis 
+ 
+NA 
+State Sensitive Species 
+due to declining 
+populations and limited 
+distribution 
+Townsend’s Big-eared Bat 
+Corynorhinus 
+townsendii 
+NA 
+State Sensitive Species 
+due to declining 
+populations and limited 
+distribution 
+NA – Not applicable; indicates that a species was not included on a federal/state list during consultation during this project. 
+ 
+A portion of the proposed project area lies within designated critical habitat for the Mexican 
+spotted owl, and is near a protected activity center (PAC). The PAC has historically been 
+occupied by young and adult owls. However, a nest site has never been found. The most recent 
+detection of a Mexican spotted owl in the area was in1996, when a single male was observed. 
+Subsequent surveys were conducted in 1997, 2001, 2008, and 2009; no owls have been 
+detected. Based upon those survey data, construction activities associated with the proposed 
+project would not be expected to affect nesting or roosting Mexican spotted owls. Construction 
+activities are not expected to adversely affect any of the primary constituent elements of the 
+critical habitat or to adversely modify critical habitat.  In a letter dated December 3, 2009 the 
+NPS provided a list of federally listed and candidate species that could potentially occur in the 
+project area to the U.S. Fish and Wildlife Service (USFWS), and sought concurrence that the 
+proposed action would not adversely affect listed or candidate species or proposed or 
+designated critical habitat. The USFWS concurred on December 15, 2009 that the proposed 
+Capitol Reef National Park 
+ 
+ 
+15
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+action was "not likely to adversely affect" any listed species, including Mexican spotted owls. 
+The NPS consultation and the USFWS concurrence are presented in Appendix A of this EA. No 
+adverse impacts to Threatened and Endangered Species would be anticipated with 
+implementation of the proposed action, and the proposed action would not result in any 
+unacceptable impacts. The proposed actions are consistent with §1.4.7.1 of 2006 National Park 
+Service Management Policies. Because there would be no adverse impacts or any unacceptable 
+impacts, this topic is dismissed from further analysis.  
+Water Resources 
+National Park Service policies require protection of water quality consistent with the Clean 
+Water Act. The purpose of the Clean Water Act is to "restore and maintain the chemical, 
+physical, and biological integrity of the Nation's waters."  To enact this goal, the U.S. Army 
+Corps of Engineers has been charged with evaluating federal actions that result in potential 
+degradation of waters of the United States and issuing permits for actions consistent with the 
+Clean Water Act. The U.S. Environmental Protection Agency also has responsibility for 
+oversight and review of permits and actions, which affect waters of the United States.  
+The Scenic Drive crosses the Fremont River at one location in the Fruita Historic District, but the 
+rest of the proposed project area does not contain surface waters. It is mostly dry, except for 
+periodic flooding during sudden storm events.  
+A National Pollution Discharge Elimination System (NPDES) permit would be prepared by 
+CFLHD and submitted to the Utah Division of Water Quality prior to commencing any near-
+water activities. As authorized by the Clean Water Act, the NPDES permit program controls 
+water pollution by regulating conveyances such as pipes or man-made ditches that discharge 
+pollutants into waters of the United States.  
+A hazardous spill plan would be required from the contractor prior to the start of construction 
+stating what actions would be taken in the case of a spill and preventive measures to be 
+implemented. Hazardous spill clean-up materials would be on-site at all times.  
+Because of the mitigation benefits of the NPDES permit and a hazardous spill plan, and 
+because most of the Scenic Drive is well removed from surface waters, the impacts to water 
+quality and drinking water would be negligible. Water quantity would not be affected. Because 
+the effects on water resources would be no greater than negligible and would not result in any 
+unacceptable impacts, the topic is dismissed from further analysis in this document. 
+Wetlands  
+For the purpose of implementing Executive Order 11990 Protection of Wetlands, any area that 
+is classified as a wetland according to the U.S. Fish and Wildlife Service's "Classification of 
+Wetlands and Deepwater Habitats of the United States" (Cowardin et al. 1979) is subject to 
+Director’s Order #77-1: Wetland Protection (D.O. 77-1) and its implementation procedures as 
+presented in Procedural Manual #77-1: Wetland Protection (2008). The Cowardin classification 
+system forms the basis for the U.S. Fish and Wildlife Service's National Wetlands Inventory 
+(NWI) mapping program. Under the Cowardin definition, a wetland must have one or more of 
+the following three attributes:  
+1. at least periodically, the land supports predominantly hydrophytes (wetland vegetation);  
+2. the substrate is predominantly undrained hydric soil; or  
+3. the substrate is non-soil and is saturated with water or covered by shallow water at some time 
+during the growing season of each year.  
+Capitol Reef National Park 
+ 
+ 
+16
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+Most of the dry washes within the project area meet the third attribute listed above, and 
+therefore are considered wetlands. 
+Channels or similar features that are used for the sole purpose of active stormwater or 
+wastewater are not considered wetlands for purposes of Procedural Manual #77-1. Therefore, 
+drainage ditches alongside the Scenic Drive road bed are not considered wetlands.  
+Executive Order 11990 requires federal agencies to avoid, where possible, adversely impacting 
+wetlands. Further, §404 of the Clean Water Act authorizes the U.S. Army Corps of Engineers to 
+prohibit or regulate, through a permitting process, discharge of dredged or fill material or 
+excavation within waters of the United States. National Park Service policies for wetlands, as 
+stated in 2006 National Park Service Management Policies and D.O. 77-1 strive to prevent the 
+loss or degradation of wetlands and to preserve and enhance the natural and beneficial values 
+of wetlands. In accordance with D.O. 77-1, proposed actions that have the potential to adversely 
+impact wetlands must be addressed in a statement of findings for wetlands.  
+Some actions may be excepted from the statement of findings and compensation requirements 
+(D.O. 77-1, 4.2.1). They include maintenance, repair, or renovation (but not full reconstruction or 
+expansion) of currently serviceable facilities or structures: 
+- that were under construction or were completed prior to May 28, 1980, but whose retention 
+has been reviewed and justified, or 
+- that were completed after publication of the May 28, 1980 guidelines, and for which 
+compliance with them is on record. 
+This exception allows for minor deviations (total of 0.1 acre or less throughout the entire project) 
+in the structure's configuration or fill footprint in wetlands due to subsequent changes in 
+construction codes, methods, or safety standards (e.g., handicap accessibility), but does not 
+apply to other types of reconstruction/expansion (e.g., road widening to increase capacity, road 
+re-routing) or conversion to other uses that would have additional adverse impacts on wetlands. 
+In order to eliminate future erosion, which could create scour holes, it is anticipated that outlet 
+protection would be constructed below drain outfalls in some naturally-occurring dry washes. 
+Some of the washes meet the Cowardin definition of riverine intermittent wetlands. Such dry 
+washes are common throughout the park and the geographic area. The outlet protection 
+features would vary in size, depending on conditions in the washes. The outlet protection 
+features might incorporate stone riprap or concrete in colors matching the surrounding soil.   
+The FHWA estimated in the October 5, 2009 Preliminary Design Study Report – Draft, Appendix 
+C, that less than 0.1 acre would be impacted by construction of outlet protection in the washes. 
+Because the repair and rehabilitation of the Scenic drive would adversely impact less than 0.1 
+acre of wetlands, and because the impacts of the proposed work meet the conditions in 
+Appendix 2 of D.O. 77-1, that rehabilitation work would be an excepted action. Therefore, it will 
+not be necessary to prepare a wetland statement of findings as part of this environmental 
+assessment, and compensation for the wetland impacts will not be required.  
+The adverse effects on wetlands would be minor or less. They would be detectable, but 
+relatively small in terms of area and the nature of the change. The action would affect a limited 
+number of individuals of plant or wildlife species within the wetland, but all species would remain 
+viable. Because the effects would be no greater than minor and would not result in any 
+unacceptable impacts, this topic has been dismissed from further analysis in this document. 
+Capitol Reef National Park 
+ 
+ 
+17
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+Floodplains  
+Executive Order 11988 Floodplain Management requires all federal agencies to avoid 
+construction within the 100-year floodplain unless no other practicable alternative exists. The 
+National Park Service under 2006 National Park Service Management Policies and Director’s 
+Order 77-2 Floodplain Management will strive to preserve floodplain values and minimize 
+hazardous floodplain conditions. According to Director’s Order 77-2 Floodplain Management, 
+certain construction within a 100-year floodplain requires preparation of a statement of findings 
+for floodplains.  
+A floodplain statement of findings was completed for the park GMP EIS in 1998 (NPS 1998, 
+Appendix F), based on mapping of the Fruita area in 1995. The northern portion of the Scenic 
+Drive from the picnic area to the Gifford barn is within the 100-year floodplain. Areas to the 
+south have not been mapped. However, the Scenic Drive is considered an excepted action 
+under the NPS final procedures for implementing Executive Order 11988, because the section 
+of the Scenic Drive that passes through the Fruita area is considered a contributing feature of 
+the Fruita Rural Historic District, which was listed in the National Register of Historic Places in 
+1997. The NPS also considers the Scenic Drive/Capitol Gorge as a separate component 
+landscape within the park that is potentially eligible for listing in the National Register of Historic 
+Places. The Floodplain Management manual does not apply to historic structures whose 
+location is integral to their significance.  
+Pavement pulverization and road repaving within the existing roadway footprint, and repairs to 
+culverts and low water crossings would be the only work on the floodplain. There would be no 
+change in the ability of a floodplain to convey floodwaters, or its values and functions. The 
+proposed project would not contribute to flooding. The proposed project would not result in 
+significant or unacceptable impacts to floodplain values, and the proposed actions are 
+consistent with §1.4.7.1 of 2006 National Park Service Management Policies. Therefore, this 
+topic is dismissed from further analysis in this document. 
+Historic structures  
+There are 14 historic structures within the park. Only one of these, the Gifford barn, is situated 
+in close proximity to the Scenic Drive within the Fruita Rural Historic District. The structure is 
+separated from the road by a non-historic post-and-rail fence (see Figure 5). The barn is 
+associated with the Gifford farm complex, which was constructed circa 1900. It is a rectangular, 
+post-and-beam building with vertical plank siding.  
+The proposed road work may include resetting two fence posts in proximity to the Gifford Barn 
+to allow for a clear zone at the road shoulder. However, there would be negligible impacts to the 
+setting of this historic structure. Because these effects are less than minor in degree and would 
+not result in unacceptable impacts, this topic is dismissed from further analysis in this document. 
+Archeological Resources  
+In August 2009, a Phase I archeological survey of the Scenic Drive was completed (Bonnifield 
+2009). A total of eight sites were recorded in proximity to the Scenic Drive; two are considered 
+eligible for listing in the National Register of Historic Places. However, the proposed road 
+construction activities are not expected to impact archeological resources because construction 
+activities would be confined to the road bench and designated staging areas. In addition, all 
+construction activities conducted in proximity to the two National Register-eligible sites would be 
+monitored by a professional archeologist.  
+ 
+Capitol Reef National Park 
+ 
+ 
+18
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+The survey report was included in a submittal package to the Utah SHPO on January 19, 2010, 
+as required under the consultation provisions of Section 106 of the NHPA of 1966, as amended. 
+The SHPO consultation letter, with SHPO concurrence, is included in Appendix B of this EA.  
+Because these effects are less than minor in degree and would not result in unacceptable 
+impacts, this topic is dismissed from further analysis in this document. In the unlikely event that 
+human remains, funerary objects, sacred objects, or objects of cultural patrimony are 
+discovered during construction, provisions outlined in the Native American Graves Protection 
+and Repatriation Act (25 USC 3002) of 1990 would be followed. 
+Ethnographic Resources 
+National Park Service’s Director’s Order-28 Cultural Resource Management defines 
+ethnographic resources as any site, structure, object, landscape, or natural resource feature 
+assigned traditional legendary, religious, subsistence, or other significance in the cultural 
+system of a group traditionally associated with it. According to DO-28 and Executive Order 
+13007 on sacred sites, the National Park Service should try to preserve and protect 
+ethnographic resources.  
+Ethnographic resources are not known to exist in the proposed project area. Native American 
+tribes traditionally associated with the park will receive copies of this document for their review 
+and comment. If subsequent issues or concerns are identified, appropriate consultations will be 
+undertaken. Because these effects are less than minor in degree and would not result in any 
+unacceptable impacts, this topic is dismissed from further analysis in this document. 
+Museum Collections  
+Museum collections include historic artifacts, natural specimens, and archival and manuscript 
+material. They may be threatened by fire, vandalism, natural disasters, and careless acts. The 
+National Park Service requires the consideration of impacts on museum collections (historic 
+artifacts, natural specimens, and archival and manuscript material), and provides further policy 
+guidance, standards, and requirements for preserving, protecting, documenting, and providing 
+access to, and use of, National Park Service museum collections. The proposed activities would 
+not require additional curatorial services or increase the number of museum objects at the park; 
+therefore, museum objects were dismissed from further analysis in this document. 
+Air Quality  
+The Clean Air Act of 1963 (42 U.S.C. 7401 et seq.) was established to promote the public health 
+and welfare by protecting and enhancing the nation’s air quality. The act establishes specific 
+programs that provide special protection for air resources and air quality related values 
+associated with National Park Service units. Section 118 of the Clean Air Act requires a park 
+unit to meet all federal, state, and local air pollution standards. Capitol Reef National Park is 
+designated as a Class I air quality area under the Clean Air Act. A Class I area is subject to the 
+most stringent regulations of any designation, and must not exceed the maximum allowable 
+increment over baseline concentrations of sulfur dioxide and particulate matter as specified in 
+Section 163 of the 1963 Clean Air Act. Further, the Act provides that the federal land manager 
+has an affirmative responsibility to protect air quality related values (including visibility, plants, 
+animals, soils, water quality, cultural resources, and visitor health) from adverse pollution 
+impacts (EPA 2000). The air quality at Capitol Reef is generally very good; occasionally, 
+particulate levels in the area are high due to high winds, as is typical in a desert environment.  
+Construction activities such as hauling materials and operating heavy equipment could result in 
+temporary increases of vehicle exhaust, emissions, and fugitive dust in the general project area. 
+Capitol Reef National Park 
+ 
+ 
+19
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+During construction the contractor would be required to implement dust control mitigation 
+procedures to reduce the particulate matter. Additional mitigation measures that would be 
+implemented include: allowing construction vehicles to idle up to but not exceeding 5 minutes 
+when parked. Any exhaust, emissions, and fugitive dust generated from construction activities 
+would be temporary and localized and would likely dissipate rapidly because air stagnation at 
+Capitol Reef National Park is rare. Overall, the project could result in a negligible degradation of 
+local air quality, and such effects would be temporary, lasting only as long as construction. The 
+Class I air quality designation for Capitol Reef National Park would not be affected by the 
+proposal. Because the Class I air quality would not be affected and the proposed actions are 
+consistent with §1.4.7.1 of 2006 National Park Service Management Policies, and because there 
+would negligible effects on air quality, this topic is dismissed from further analysis in this 
+document. 
+Lightscape Management  
+In accordance with 2006 National Park Service Management Policies, the National Park Service 
+strives to preserve natural ambient lightscapes, which are natural resources and values that 
+exist in the absence of human caused light (NPS 2006). Capitol Reef National Park strives to 
+limit the use of artificial outdoor lighting to that which is necessary for basic safety requirements. 
+The park also strives to ensure that all outdoor lighting is shielded to the maximum extent 
+possible, to keep light on the intended subject and out of the night sky. 
+The current impact of light pollution along the Scenic Drive is localized and negligible, lasting as 
+long as it takes for a vehicle to pass. No additional artificial lighting or any actions that would 
+increase nighttime visitors are proposed under the preferred alternative. Further, such impacts 
+are negligible in degree. Because the effects are negligible and would not result in any 
+unacceptable impacts, this topic is dismissed from further analysis in this document. 
+Socioeconomics 
+The proposed action would neither change local and regional land use nor appreciably impact 
+local businesses or other agencies. Implementation of the proposed action could provide a 
+negligible beneficial impact to the economy of the gateway community of Torrey and Wayne 
+County due to minimal increases in employment opportunities for the construction workforce 
+and revenues for local businesses and governments generated from these additional 
+construction activities and workers. Any increase in workforce and revenue, however, would be 
+temporary and negligible, lasting only as long as construction. Because the impacts to the 
+socioeconomic environment would be negligible, this topic is dismissed. 
+Prime and Unique Farmlands  
+In August 1980, the Council on Environmental Quality (CEQ) directed that federal agencies 
+must assess the effects of their actions on farmland soils classified by the U.S. Department of 
+Agriculture's Natural Resources Conservation Service (NRCS) as prime or unique. Prime or 
+unique farmland is defined as soil that particularly produces general crops such as common 
+foods, forage, fiber, and oil seed; unique farmland produces specialty crops such as fruits, 
+vegetables, and nuts. There are 68 acres of prime and unique agricultural lands in the Fruita 
+Valley in the park. These lands are composed of orchards, pastures, and open fields, which are 
+part of a National Register-listed cultural landscape. As such, these lands are protected under 
+the National Historic Preservation Act, which limits development and use of the district. Neither 
+alternative will affect the manner in which these lands are managed. Specifically, the portion of 
+the project that passes through the Fruita Rural Historic District orchards will not affect fruit trees 
+Capitol Reef National Park 
+ 
+ 
+20
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+or orchard operation. Because there would be no effects on prime and unique farmlands, this 
+topic is dismissed from further analysis in this document. 
+Indian Trust Resources  
+Secretarial Order 3175 requires that any anticipated impacts to Indian trust resources from a 
+proposed project or action by the Department of Interior agencies be explicitly addressed in 
+environmental documents. The federal Indian trust responsibility is a legally enforceable 
+fiduciary obligation on the part of the United States to protect tribal lands, assets, resources, 
+and treaty rights, and it represents a duty to carry out the mandates of federal law with respect 
+to Native American and Alaska Native tribes. 
+There are no Indian trust resources at Capitol Reef National Park. The lands comprising the 
+park are not held in trust by the Secretary of the Interior for the benefit of Indians due to their 
+status as Indians. Because there are no Indian trust resources, this topic is dismissed from 
+further analysis in this document. 
+Environmental Justice  
+Executive Order 12898 General Actions to Address Environmental Justice in Minority 
+Populations and Low-Income Populations requires all federal agencies to incorporate 
+environmental justice into their missions by identifying and addressing disproportionately high 
+and adverse human health or environmental effects of their programs and policies on minorities 
+and low-income populations and communities. Because the new administration facility would be 
+available for use by all park staff regardless of race or income, and the construction workforces 
+would not be hired based on their race or income, the proposed action would not have 
+disproportionate health or environmental effects on minorities or low income populations or 
+communities. Because there would be no disproportionate effects, this topic is dismissed from 
+further analysis in this document. 
+Climate Change and Sustainability 
+Although climatologists are unsure about the long-term results of global climate change, it is 
+clear that the planet is experiencing a warming trend that affects ocean currents, sea levels, 
+polar sea ice, and global weather patterns. Although these changes will likely affect winter 
+precipitation patterns and amounts in the parks, it would be speculative to predict localized 
+changes in temperature, precipitation, or other weather changes, in part because there are 
+many variables that are not fully understood and there may be variables not currently defined. 
+Therefore, the analyses in this document are based on past and current weather patterns, and 
+the effects of future climate changes are not discussed further.  
+Capitol Reef National Park 
+ 
+ 
+21
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+ALTERNATIVES 
+During October 2009, an interdisciplinary team of National Park Service and Federal Highway 
+Administration employees met for the purpose of discussing the scope of the proposed project 
+and developing project alternatives. This meeting resulted in the definition of project objectives 
+as described in the Purpose and Need, and a list of alternatives that could potentially meet 
+these objectives. An action alternative and the no-action alternative were originally identified for 
+this project. A number of options that were considered for the action alternative were dismissed 
+from further consideration for various reasons, as described later in this chapter. One action 
+alternative and the no-action alternative are carried forward for further evaluation in this 
+environmental assessment. A summary table comparing alternative components is presented at 
+the end of this chapter. 
+Alternatives Carried Forward 
+Alternative A – No-Action  
+The no-action alternative consists of the park’s ongoing routine of maintenance and repairs. It 
+does not imply or direct discontinuing day-to-day maintenance and repairs. The park would 
+continue to clear culverts, stabilize slopes, patch potholes, and complete other isolated repairs 
+as the need arises. The road would continue to deteriorate, and repair costs would continue to 
+escalate. Temporary road closures for repairs would become more frequent. Should the no-
+action alternative be selected, the NPS would respond to future needs and conditions without 
+major actions or changes in the present course. 
+Alternative B – Rehabilitate and Resurface the Scenic Drive (Preferred Alternative) 
+The Scenic Drive would be rehabilitated and repaved throughout its 8-mile length between SR-
+24 and the Capitol Gorge parking area. The existing roadway width would be maintained, but 
+the pavement would be widened at “S-shaped” curves to help prevent vehicles from off-tracking 
+onto the shoulders. The roadway would also be widened at its southern end to provide a 
+consistent width. The subgrade throughout the length of the Scenic Drive would be excavated 
+as needed in spot locations, and replaced with appropriate fill material. From milepost (MP) 
+0.00, the intersection with SR-24, to the park fee station at MP 1.70, the existing pavement on 
+the Scenic Drive would be pulverized and the roadway would be paved with asphalt concrete. 
+Between the fee station and the Capitol Gorge parking area the existing chip-seal pavement 
+would be pulverized, and the roadway would be paved with a double chip-seal overlay. Painted 
+centerline striping would be applied from the picnic area and campground in the Fruita Historic 
+District to the intersection with SR-24. Centerline striping may also be applied at some of the 
+sharpest curves, to enhance safety. Rumble strips would be installed at the beginning of the 15-
+mile-per-hour speed zone. Minor improvements would be made to the Fruita Campground 
+entrance to provide additional width for turning movements into and out of the campground. 
+Paved asphalt aprons would be developed and extended into the entrances of Grand Wash and 
+the Pleasant Creek Road. 
+At locations where drainage ditches are close to and parallel with the road bed, existing stone 
+retaining walls would be extended or new walls would be constructed to prevent future erosion. 
+The roadside ditch along the east side of the Scenic Drive across from the historic Gifford Barn 
+(MP 1.25) would be improved to better accommodate storm flows. Options being considered 
+include reconstructing and paving the ditch with a consistent cross section and slope to more 
+easily accommodate mechanical maintenance, or retaining the current native soil ditch while 
+implementing a schedule of more frequent maintenance. The native soil ditch would be 
+Capitol Reef National Park 
+ 
+ 
+22
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+reshaped and hardened with compaction as needed. More analysis will be conducted to 
+determine the proper solution. Plugged culverts would be cleaned.  
+Existing concrete low water crossings would be repaired or replaced in kind as is needed. In 
+some drainages where existing culverts have become plugged with soil and rock, the culverts 
+would be replaced with low water crossings. Some such culverts would remain in place and be 
+permanently plugged, to ensure that they do not deteriorate and collapse beneath the road bed.  
+Stone headwalls that have become weakened would be reconditioned, with grout, resin, or new 
+mortar applied as needed. Some stone headwalls would be dismantled and reconstructed, 
+using the original stone as much as is feasible. Any replacement stone would be native stone of 
+a similar appearance. All masonry stone rehabilitation would be in accordance with the 
+Secretary of the Interior’s Standards for the Preservation of Historic Properties. Stone riprap 
+would be placed at culvert outlets as needed.  
+The roadway pavement would be widened on curves between approximately mileposts 4.3 to 
+4.5, although the widened pavement would still be on the existing road bench. In other isolated 
+locations throughout the length of the Scenic Drive the roadway would be widened by 1 to 2 
+feet, to provide a consistent road width as much as is feasible. Warning signs would be installed 
+in locations where the roadway narrows, but cannot be widened because of the proximity of 
+important park resources. 
+Near the Capitol Gorge parking area, from approximately milepost 7.4 to 7.9, the adjacent 
+hillside would be cut back to create slopes with gradients of approximately two-to-one or three-
+to-one (2:1 or 3:1), depending on conditions at the sites. Drainage ditches would be cut at the 
+toe of the slope alongside the roadway. The purpose of those excavations would be to widen 
+the road to a consistent width through that stretch of narrow roadway. It is estimated that 
+approximately 2,000 to 2,500 cubic yards of shale, shale residuum soils, and sandstone would 
+be excavated.  
+The parking area at the entrance to Capitol Gorge would be paved with asphalt and the existing 
+sandstone curbing would be reset. Some new matching curbing would be installed to formalize 
+the parking area. A raised median would be added, and access to the existing restroom would 
+be improved. 
+Approximately nine minor parking areas and pullouts along the length of the Scenic Drive would 
+be reconstructed with formalized layouts. Others would be abandoned and rehabilitated.  
+Staging Areas  
+Construction staging and stockpile areas for repairing and rehabilitating the Scenic Drive would 
+be located in the Cal Pendleton Field south of the Fruita Campground. There is also potential for 
+use of the park's "boneyard" for storage of materials and equipment. The access for Cal 
+Pendleton Field and the boneyard is by a gravel road immediately south of the Fee Station. Cal 
+Pendleton Field is adjacent to the Scenic Drive while the boneyard is approximately one-half 
+mile west. Materials for park use are commonly stored at the boneyard now and it has been 
+disturbed by park vehicles. It has been used as a construction staging area in the past. Cal 
+Pendleton Field is a pasture area but is not currently being used in any capacity by the park. 
+ 
+The parking area at the entrance to Capitol Gorge would also be utilized as a staging area. That 
+would provide a staging area at each end of the Scenic Drive. 
+Capitol Reef National Park 
+ 
+ 
+23
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+General Construction Schedule and Costs 
+It is anticipated that the repair and rehabilitation of the Scenic Drive would be accomplished in 
+2011. The total cost of the repair and rehabilitation of the Scenic Drive would be approximately 
+$4 million. 
+Mitigation Measures  
+The following mitigation measures were developed to minimize the degree and/or severity of 
+adverse effects and would be implemented during construction of the action alternative, as 
+needed:    
+• 
+To minimize the amount of ground disturbance, staging and stockpiling areas would be in 
+previously disturbed sites, away from visitor use areas to the extent possible. All staging and 
+stockpiling areas would be returned to pre-construction conditions following construction.  
+• 
+Fugitive dust generated by construction would be controlled by spraying water on the 
+construction site, if necessary. 
+• 
+Contractors would be required to properly maintain construction equipment (i.e., mufflers 
+and brakes) to minimize noise. Construction equipment would not be permitted to idle for 
+long periods of time.  
+• 
+To minimize possible petrochemical leaks from construction equipment, the contractor would 
+regularly monitor and check construction equipment to identify and repair any leaks.  
+• 
+All tools, equipment, barricades, signs, surplus materials, and rubbish would be removed 
+upon project completion. 
+• 
+Revegetation efforts would strive to reconstruct the natural spacing, abundance, and 
+diversity of native plant species using native species. A revegetation plan approved by NPS 
+would be developed for disturbances in the project area. 
+• 
+ All disturbed areas would be restored as much as is feasible to pre-construction conditions 
+shortly after construction activities were completed. Weed control methods would be 
+implemented to minimize the introduction of noxious weeds. Remedial actions would include 
+installation of erosion-control structures, reseeding, topsoil placement, and/or replanting the 
+area, and controlling non-native plant species with herbicide. 
+• 
+Because disturbed soils would be susceptible to erosion, until the soil was stable and 
+vegetation was established, standard erosion control measures would be used to minimize 
+any potential soil erosion and prevent sediment from reaching streams.  
+• 
+Treatment of non-native vegetation would be completed in accordance with NPS–13, 
+Integrated Pest Management Guidelines. Monitoring and follow-up treatment of exotic 
+vegetation would occur after project activities are completed. 
+• 
+To prevent the introduction of, and minimize the spread of, nonnative vegetation and 
+noxious weeds, the following measures would be implemented during construction:  
+o Soil disturbance would be minimized. 
+o To avoid introduction of non-native/noxious plant species, no hay bales would be 
+used for temporary erosion control or during revegetation.  
+o All construction equipment would be pressure washed and/or steam cleaned before 
+entering the park to ensure that all equipment is weed-free. 
+Capitol Reef National Park 
+ 
+ 
+24
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+o All haul trucks bringing fill materials from outside the park would be covered to 
+prevent seed transport. 
+o Vehicle and equipment parking would be limited to within construction limits or 
+approved staging areas.  
+o Staging areas outside the park would be surveyed for noxious weeds and treated 
+appropriately prior to use. 
+o All fill, rock, and additional topsoil would be obtained from stockpiles from previous 
+projects or excess material from this project, if possible; and if not possible, then 
+weed-free fill, rock, or additional topsoil would be obtained from sources outside the 
+park. NPS personnel would certify that the source is weed-free.  
+• 
+Erosion control BMPs for drainage and sediment control, as identified and used by the 
+FHWA and NPS, would be implemented to prevent or reduce nonpoint source pollution and 
+minimize soil loss and sedimentation in drainage areas. These practices may include, but 
+would not be limited to, silt fencing, filter fabric, temporary sediment ponds, check dams of 
+pea gravel-filled burlap bags or other material, and/or immediate mulching of exposed areas 
+to minimize sedimentation and turbidity impacts as a result of construction activities. The 
+placement and specific measures used would be dictated to a large degree by the 
+steepness of the topography immediately adjacent to the roadway. Silt fencing fabric would 
+be inspected daily during project work and weekly after project completion, until removed. 
+Accumulated sediments would be removed when the fabric was estimated to be 
+approximately 75% full. Silt removal would be accomplished in such a way as to avoid 
+introducing sediments into any flowing water bodies. 
+• 
+Regular site inspections would be conducted to ensure that erosion control measures were 
+properly installed and functioning effectively. 
+• 
+The operation of ground-disturbing equipment would be temporarily suspended during large 
+precipitation events to reduce the production of sediment that may be transported to 
+streams.  
+• 
+A National Pollution Discharge Elimination System (NPDES) permit would be prepared by 
+CFLHD and submitted to the Utah Division of Water Quality prior to commencing any near-
+water activities. 
+• 
+A hazardous spill plan would be required from the contractor prior to the start of construction 
+stating what actions would be taken in the case of a spill and preventive measures to be 
+implemented. Hazardous spill clean-up materials would be on-site at all times. This measure 
+would be designed to avoid/minimize the introduction of chemical contaminants associated 
+with machinery (e.g., fuel, oil, and hydraulic fluid) used in project implementation. 
+• 
+Construction workers and supervisors would be informed about special status species. 
+Contract provisions would require the cessation of construction activities if a species was 
+discovered in the project area, until park staff re-evaluates the project. This would allow 
+modification of the contract for any protection measures determined necessary to protect the 
+discovery. 
+• 
+If there were night construction, lights would be shielded and directed downward to minimize 
+the areas impacted by the artificial light, and to avoid light pollution. 
+• 
+The construction contractor would be required to keep all garbage and food waste contained 
+and removed daily from the work site, to avoid attracting wildlife. Construction workers would 
+be instructed to remove food scraps and not feed or approach wildlife. 
+Capitol Reef National Park 
+ 
+ 
+25
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+• 
+Should construction unearth previously undiscovered cultural resources, work would be 
+stopped in the area of any discovery and the park would consult with the state historic 
+preservation officer and the Advisory Council on Historic Preservation, as necessary, 
+according to §36 CFR 800.13, Post Review Discoveries. In the unlikely event that human 
+remains were discovered during construction, provisions outlined in the Native American 
+Graves Protection and Repatriation Act (1990) would be followed. 
+• 
+The National Park Service would ensure that all contractors and subcontractors were 
+informed of the penalties for illegally collecting artifacts or intentionally damaging 
+paleontological materials, archeological sites, or historic properties. Contractors and 
+subcontractors would also be instructed on procedures to follow in case previously unknown 
+paleontological or archeological resources were uncovered during construction.  
+• 
+To minimize the potential for impacts to park visitors, variations on construction timing may 
+be considered. One option would include conducting the majority of the work in the off-
+season or shoulder seasons.  
+• 
+Visitors would be informed in advance of construction activities. 
+• 
+As much as was feasible, park staff would be posted at construction traffic stops to answer 
+visitor questions and provide information during traffic delays. 
+• 
+Provisions for emergency vehicle access through construction zones would be developed. 
+Alternatives Considered and Dismissed 
+No action alternatives other than to repair and rehabilitate the Scenic Drive throughout its length 
+were considered feasible, but a number of options were considered for the action alternative. 
+Options were considered for rehabilitating a ditch at approximately milepost 1.25. The existing 
+ditch does not effectively intercept and convey storm flows from the adjacent steep slopes. 
+Sediment-laden stormwaters sometimes overflow the ditch, damaging the roadway and flowing 
+into the nearby historic Gifford barn. The following options for preventing those flows were 
+considered, but were dismissed.  
+1. Install a relief culvert halfway down the existing ditch. Although a relief culvert would 
+convey a portion of the water under the road, it is likely that the culvert would plug with 
+sediment and become inoperative.  
+2. Raise the roadway profile . It was determined that raising the roadway profile would not 
+be feasible, because the increased cost would not provide a correspondingly higher level 
+of protection for the roadway or the barn. The option that was selected as part of the 
+preferred alternative (a concrete-lined ditch) would provide equivalent protection for the 
+roadway and the barn and would cost appreciably less. 
+The option of painting white edge striping (sometimes referred to as a fog line) along the 
+outside edge of each travel lane was considered as roadway striping option, but that option 
+was dismissed. Park Service and FHWA interdisciplinary team members felt that such 
+striping could induce vehicle operators to drive closer to the centerline, actually decreasing 
+safety.  
+Alternative Summaries 
+Table 2 summarizes the major components of Alternatives A and B, and compares the ability of 
+these alternatives to meet the project objectives (the objectives for this project are identified in 
+the Purpose and Need chapter). As shown in the following table, Alternative B meets each of 
+Capitol Reef National Park 
+ 
+ 
+26
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+the objectives identified for this project, while the No Action Alternative does not address all of 
+the objectives. 
+Table 2 – Summary of Alternatives and How Each Alternative Meets Project Objectives 
+Project Objectives  
+Alternative A – No Action 
+Alternative B – Preferred Alternative 
+Improve the Efficiency of 
+Park Operations 
+ 
+The efficiency and cost of park operations 
+would improve from better road conditions 
+and reduced maintenance requirements. 
+The improvements would repair damaged 
+areas of road subgrade, correct cross-
+slope and drainage issues, repave the 
+entire roadway, protect existing retaining 
+walls and headwalls and install new walls 
+as needed. Damaged low water crossings 
+would be replaced in kind, and new low 
+water crossings would replace some 
+culverts that are completely filled with 
+debris.  
+Under the No Action Alternative, the 
+NPS would not implement road 
+rehabilitation or improvements. The 
+efficiency of park operations would 
+not be improved and maintenance 
+requirements and costs would 
+increase. Routine road maintenance 
+would continue, but the road 
+pavement and structural integrity 
+would continue to deteriorate, 
+requiring increasingly frequent spot 
+repairs. Seasonal flows across and 
+alongside the roadway would 
+continue damaging the roadway and 
+increasingly threatening the integrity 
+of the road prism and some stone 
+masonry drainage structures. The 
+need for repairs would increase. 
+Provide for Visitor 
+Enjoyment and Safety 
+Visitor enjoyment and safety would benefit 
+from measures to improve the condition of 
+the roadway. Upgrades to the road and 
+associated structures would make travel by 
+vehicles easier and safer. The pavement 
+would be widened to a consistent width 
+where feasible. Improvements at Fruita 
+Campground would increase turning 
+widths for entering and exiting the 
+campground. 
+Visitor enjoyment and safety 
+concerns would not be fully 
+addressed, because problems with 
+the road surface, slope, drainage, 
+guard walls, retaining walls, and low 
+water crossings would not be 
+corrected, except by spot repairs as 
+needed. A deteriorating road 
+surface and delays during repair 
+efforts would adversely affect visitor 
+enjoyment. Existing safety concerns 
+would remain;  the pavement would 
+not be widened to a consistent 
+width, and turning widths for 
+entering and exiting Fruita 
+Campground would not be 
+increased.  
+Protect Park Resources  
+ 
+Park natural and cultural resources 
+and the scenic quality of the road 
+would be compromised by 
+deteriorating road conditions, poor 
+drainage, erosion, and damage to 
+historic cultural features. 
+Park natural and cultural resources would 
+be protected by drainage improvements, 
+repair and construction of retaining walls 
+and headwalls, and other structural repairs 
+that reduce the potential for deterioration 
+of historic features. Road repairs and 
+improvements would decrease erosion 
+along the roadway, reducing adverse 
+impacts to vegetation, soils, and water 
+quality.  
+ 
+ 
+ 
+ 
+ 
+ 
+Capitol Reef National Park 
+ 
+ 
+27
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+Table 3 summarizes the anticipated environmental impacts for alternatives A and B. Only those 
+impact topics that have been carried forward for further analysis are included in this table. The 
+Environmental Consequences chapter provides a more detailed explanation of these impacts.  
+Table 3 – Environmental Impact Summary by Alternative 
+Impact Topic 
+Alternative A – No Action 
+Alternative B – Preferred Alternative 
+Cultural 
+Landscapes 
+Alternative B would have short-term minor adverse 
+impacts to the Scenic Drive and Fruita cultural 
+landscapes. The visual impact to individual drainage 
+features and the overall landscape settings would be 
+apparent during the construction process. In the long 
+term, the impacts to these landscapes would be 
+beneficial. The condition of the Scenic Drive roadbed 
+would be improved, and the road’s historical drainage 
+features would be rehabilitated.      
+Alternative A would have 
+short-term minor, and long-
+term minor to moderate 
+adverse impacts on both 
+the Scenic Drive and Fruita 
+cultural landscapes. The 
+condition and integrity of 
+the Scenic Drive would 
+continue to degrade due to 
+deferred maintenance and 
+the ongoing effects of 
+erosion.  
+Soundscape 
+Alternative A would have 
+short-term, moderate, 
+adverse impacts on the 
+soundscape. Repair 
+operations and their short-
+term impacts on the 
+soundscape would become 
+more frequent. 
+Alternative B would have short-term, moderate, adverse 
+impacts and long-term beneficial impacts on the 
+soundscape. The noise levels from road repair 
+operations would be very noticeable to visitors and would 
+adversely affect wildlife in the surrounding area, but the 
+noise would not have an effect on the regional level. 
+However, the rehabilitation and resurfacing of the entire 
+length of the Scenic Drive would reduce the frequency of 
+periodic repairs. Noise associated with such road repairs 
+would be correspondingly reduced.  
+Geology and 
+Soils 
+Alternative B would have long-term beneficial impacts on 
+geology and soils by reducing erosion, rutting, and soil 
+compaction throughout the length of the Scenic Drive. 
+There would be long-term minor adverse impacts from 
+the removal of rock and soil to accommodate some 
+widening of the roadway, the excavation and paving of 
+an earthen ditch, and the cleaning, realignment, and 
+widening of other ditches along the Scenic Drive, but 
+impacts would be predominantly beneficial.  
+Alternative A would have 
+long-term, minor, adverse 
+impacts on geology and 
+soils. Erosion would 
+continue, because repairs 
+and rehabilitation efforts 
+would not be completed 
+throughout the length of the 
+Scenic Drive. 
+Health and 
+Safety 
+Alternative B would have short-term minor adverse 
+impacts on health and safety, due to road repair 
+operations, as motorists approach and pass through the 
+construction area. Alternative B would also have 
+beneficial long-term impacts. The correction of existing 
+roadway deficiencies and improved safety features would 
+increase safety for motorists on the Scenic Drive. 
+Alternative A would have 
+long-term, minor, adverse 
+impacts on health and 
+safety. Some repairs would 
+have to be deferred, and 
+intermittent repairs at 
+individual locations in the 
+roadway would create 
+minor safety hazards for 
+park staff and for motorists. 
+Visitor Use and 
+Experience 
+Alternative A would have 
+long-term, minor to 
+moderate, adverse impacts 
+on visitor use and 
+experience. Periodic 
+maintenance projects would 
+require traffic delays at 
+Alternative B would have short-term minor to moderate 
+adverse impacts, long-term minor adverse impacts, and 
+long-term beneficial impacts on visitor use and 
+experience. There would be short-term minor adverse 
+impacts on visitor use and experience during road repair 
+and rehabilitation activities, and long-term minor adverse 
+impacts associated with maintenance activities. The 
+Capitol Reef National Park 
+ 
+ 
+28
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+Impact Topic 
+Alternative A – No Action 
+Alternative B – Preferred Alternative 
+Scenic Drive would be closed between Grand Wash and 
+the Capitol Gorge parking area for as long as a month, 
+creating a short-term moderate adverse impact on visitor 
+use and experience. However, rehabilitation and 
+resurfacing of the Scenic Drive would also have long-
+term beneficial impacts. 
+random times and 
+locations. Roadway 
+conditions would 
+deteriorate to the point that 
+the quality of the visitor 
+experience is diminished 
+from a visibly damaged 
+road, eroded low water 
+crossings, or deterioration 
+of other structural features. 
+ 
+Park Operations 
+and 
+Management 
+Alternative A would have 
+long-term, moderate, 
+adverse impacts on park 
+operations and 
+management. Continuing 
+and increasing operational 
+and maintenance demands 
+would be readily apparent 
+and would have a 
+substantial effect on park 
+operations and 
+management in a manner 
+noticeable to staff and the 
+public. 
+Alternative B would have short- term and long-term, 
+minor, adverse impacts, as well as a long-term beneficial 
+impact on park operations and management. Planning 
+for and assisting in the completion of the repair and 
+rehabilitation of the Scenic Drive would require time and 
+attention from park staff, which would add to their 
+workloads. Travel on the Scenic Drive would be impeded 
+during road rehabilitation and resurfacing activities. 
+Those impacts would end when construction was 
+finished. With the rehabilitation and resurfacing of the 
+Scenic Drive completed, maintenance workloads and 
+costs would decrease, creating a long-term beneficial 
+impact. 
+ 
+Identification of the Environmentally Preferred Alternative 
+The environmentally preferred alternative is determined by applying the criteria suggested in the 
+National Environmental Policy Act of 1969 (NEPA), which guides the Council on Environmental 
+Quality (CEQ). The CEQ provides direction that “[t]he environmentally preferable alternative is 
+the alternative that would promote the national environmental policy as expressed as goals in 
+NEPA’s §101: 
+1. fulfill the responsibilities of each generation as trustee of the environment for succeeding 
+generations; 
+2. assure for all generations safe, healthful, productive, and esthetically and culturally 
+pleasing surroundings; 
+3. attain the widest range of beneficial uses of the environment without degradation, risk of 
+health or safety, or other undesirable and unintended consequences; 
+4. preserve important historic, cultural and natural aspects of our national heritage and 
+maintain, wherever possible, an environment that supports diversity and variety of 
+individual choice; 
+5. achieve a balance between population and resource use that will permit high standards 
+of living and a wide sharing of life’s amenities; and 
+6. enhance the quality of renewable resources and approach the maximum attainable 
+recycling of depletable resources. 
+While the no action alternative (alternative A) would preserve existing conditions, it would 
+not be considered the environmentally preferred alternative because not rehabilitating the 
+Capitol Reef National Park 
+ 
+ 
+29
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+Scenic Drive, repairing damaged road and drainage problems, and implementing other 
+improvements would not meet environmental goals in the same manner as the preferred 
+alternative. Alternative A is not the environmentally preferred alternative for the following 
+reasons: 1. not rehabilitating the Scenic Drive would not meet the stewardship responsibility 
+for protecting park resources (goal 1, as expressed in NEPA’s §101); 2. it would not improve 
+road safety or protection of environmental and cultural resources (goals 2, 3, and 4);           
+3. damaged road sections would continue to deteriorate and result in increased 
+maintenance costs (and would not fully meet goal 3); and 4. there is a higher likelihood of 
+road failure, which would result in road closure, making it more difficult for visitors and staff 
+to access park facilities (goal 5). Thus, alternative A does not fully meet the provisions of 
+NEPA §101 goals 1, 2, 3, 4, and 5. 
+The NPS determined that the environmentally preferred alternative is the preferred 
+alternative (alternative B) because it surpasses alternative A in realizing the full range of 
+national environmental policy goals as stated in §101 of NEPA. Alternative B would provide 
+the widest range of beneficial uses without degradation, and would reduce risks to health 
+and safety because it would provide sustainable vehicular access to the facilities and 
+trailheads along the Scenic Drive. Implementing alternative B would best preserve the 
+natural and cultural features along the road because it implements structural improvements 
+while providing long-term protection of environmental and cultural resources (goals 1 and 4). 
+Road improvements would allow for unimpeded access to recreational opportunities and 
+regional access (goals 2, 3, and 5). Alternative B provides for the reuse of asphalt in place 
+or milled asphalt that could be used on other road projects outside of the project area (goal 
+6). 
+ 
+ 
+Capitol Reef National Park 
+ 
+ 
+30
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+AFFECTED ENVIRONMENT 
+ 
+Detailed information on the natural, cultural, and human resources at Capitol Reef National Park 
+may be found in the final general management plan (NPS, 2001). A summary of the resources 
+that may be impacted from the proposed project are described below. 
+Location and General Description of the Park 
+Capitol Reef National Park is located in south-central Utah approximately 225 miles south of 
+Salt Lake City. The entrance to the park is on Utah State Road 24 between the towns of Torrey 
+and Hanksville. The park was established by Congress as a national monument on August 2, 
+1937, to preserve the geologic resources of the area. It was redesignated a national park in 
+1971 and increased six times it original size. The park protects Cathedral Valley, ancient sand 
+dunes and other objects of scientific interest, and the majority of the Waterpocket Fold. The 
+Waterpocket Fold is the largest wrinkle in the earth’s crust (monocline) in North America.  
+Approximately 617,208 recreational visitors came to Capitol Reef National Park in 2009. In the 
+past 30 years annual visitation has fluctuated between a low of 516,000 in 2002 to a high of 
+681,000 in 1999.  
+The primary mode of transportation to the park is the private automobile. The park's main 
+driving tours include the Scenic Drive and two mainly unpaved, loop tours through the park's 
+Cathedral and Waterpocket Districts. The park offers a brochure for a self-guided tour of the 
+Scenic Drive with eleven stops that highlight the geologic and historical features of interest in 
+the park.  
+Ninety-one percent of park visits include the Scenic Drive. Approximately 70,000 vehicles a year 
+travel the road, based on a traffic study completed in 2004. The average number of vehicles per 
+day traveling along the Scenic Drive is over 200, with the peak in May of over 400 vehicles per 
+day.  
+Visitor services include a picnic area, three campgrounds and a visitor center. The Fruita 
+Campground is developed, and the Cathedral and Cedar Mesa campgrounds are primitive. 
+Backcountry camping is available by permit. The most common visitor activities are viewing 
+scenery (93%), followed by photography/painting/drawing (78%) and hiking (70%) (Capitol Reef 
+National Park Visitor Study, 2008). There are fifteen hiking trails in the park, ranging in degree 
+of difficulty from easy to strenuous. Additional recreational opportunities available at the park 
+include climbing, biking, horseback riding and camping. Other popular activities consist of 
+visiting the historic buildings and fruit picking in the orchards of the Fruita Historic District, a 
+Mormon pioneer settlement. Capitol Reef has the largest historic orchards in the National Park 
+System, with approximately 2,600 fruit and nut trees.  
+Cultural Landscapes 
+The Scenic Drive is a narrow, winding historic road that was originally built in 1883 to link the 
+new settlement of Junction (later, Fruita) to other nearby settlements. The road followed traces 
+of an ancient route used by Native Americans along the western edge of the Waterpocket Fold. 
+Portions of the original route have also been known by other names, including the Blue Dugway, 
+Capitol Gorge Highway, Reef Road, Monument Road, and old Utah State Route 24. A two-mile 
+section of the road is a contributing landscape feature of the Fruita Rural Historic District. The 
+NPS also considers the Scenic Drive/Capitol Gorge as a separate component landscape within 
+the park that is potentially eligible for listing in the National Register of Historic Places.  
+Capitol Reef National Park 
+ 
+ 
+31
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+The original route of the Scenic Drive was not highly engineered, and remained little more than 
+a simple wagon road until the mid-twentieth century. Between 1938 and1942, workers from a 
+Civilian Conservation Corps (CCC) sub-camp established in the park completed some 
+improvements to the Scenic Drive. A section of the road southeast of the Fremont River Bridge 
+was stabilized. Improvements were also completed at the Danish Hill area south of Fruita. Some 
+portions of the route were widened from 11 feet to18 feet, and cut slope flattening to improve 
+sight distance was also completed.  
+It is unclear which drainage features date to the CCC era, and which were constructed earlier 
+and simply repaired or rebuilt between 1938 and 1942. The Scenic Drive currently has 64 
+culverts and 22 low water crossings. An inventory of culverts completed by park staff in 2009 
+identified six that are known or are likely to have been constructed by the CCC, in addition to 
+another 31 possible CCC-era drainage features. Historical records also indicate that four 
+hundred feet of rock wall was constructed during this period to improve the grade and drainage, 
+and stone check dams were placed in eroding ditches.  
+By the late 1950s, when the NPS Mission 66 development period was well underway, the park 
+initiated planning for the rerouting of State Highway 24. In 1962 the new highway was realigned 
+to run east-west along the Fremont River, with portions following the general alignment of the 
+historic route. The Old State Route 24 road from Fruita to Capitol Gorge was renamed the 
+Scenic Drive, and the section that extended northeast through the gorge was closed. Minor 
+alignments were also completed during this period. Park records note the addition of twelve new 
+culverts to address drainage problems.  
+Over the years, the Scenic Drive was widened to approximately 20 feet, although some areas 
+are narrower. The Fremont Bridge was replaced in 1985 and the section of road between Fruita 
+and Capitol Gorge, formerly gravel, was chip-sealed in 1988. Gabion walls, at least four low 
+water crossings, and pullouts were also constructed. However, despite these alterations, the 
+Scenic Drive retains its rustic character.  
+Soundscape 
+Generally, ambient sound levels in the vicinity of the proposed project are low and are 
+dominated by natural sounds. In the project area natural sounds include the sounds of wind, 
+running water, birds, and occasionally other animal sounds.  
+Vehicle traffic is the main source of human-caused noise in the project area. Although roadway 
+speeds are low, visitor traffic intermittently increases noise levels, particularly during the 
+summer months when traffic levels are higher. Noise is also produced during road maintenance 
+activities. Summer is the busiest season for road maintenance. Because of weather limitations, 
+part of the construction work for the proposed project would occur during the summer.  
+Actual ambient sound levels along the Scenic Drive are not known, but as a frame of reference, 
+the sound level on a totally quiet night in a desert would be around 30 decibels (dBA), while 
+sound levels from light traffic on paved roads range from 45 to 50 dBA at a distance of 100 feet 
+from the roadway.  
+Geology and Soils 
+The Scenic Drive follows the western face of the Waterpocket Fold. The geology in the area 
+dates from the Permian (as old as 270 million years) to the Cretaceous (around 80 million years 
+old). The Waterpocket Fold has tilted the geologic strata down to the east. The older rocks are 
+found in the western part of the park, and the younger rocks are found near the east boundary. 
+The geology of the area includes the reddish-brown mudstones, siltstones, claystones, and fine 
+Capitol Reef National Park 
+ 
+ 
+32
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+grained sandstones of the Moenkopi Formation and the grayer band of Chinle shale (originally 
+deposited as volcanic ash), to the distinctive red, white, and reddish-brown colors and various 
+shapes assumed by the sandstones of the Wingate, Navajo, and Kayenta formations.  
+Soils in the area of the proposed project are typically very loose, fine-grained, poorly graded 
+silty sand, with some gravel and boulders. The soils are derived from the sandstones and 
+shales that predominate the geology of the park. Such soils are easily infiltrated and eroded by 
+water, and can also become hydro-compacted.  
+Heavier soils, such as silty clay loams, can be found at the base of shale slopes and hills 
+throughout the project area. Soils along the Fremont River floodplain are derived from alluvium 
+deposited by the river. In the Fruita area, silty clay loam floodplain soils were successfully 
+farmed, producing alfalfa, sorghum, vegetables, and a variety of fruit orchards. The NPS has 
+continued that history of cultivation within the park.  
+Health and Safety 
+The rustic characteristics of the Scenic Drive make it suited for low volume traffic flow with slow 
+travel speeds. This works well for visitors using the road to access park facilities, which include 
+the visitor center, a campground, trailheads, and the Fruita Historic District with its homestead 
+buildings and orchards. It is a park road only, and is not an element of the local or county traffic 
+patterns. However, the volume and types of public use have increased since the establishment 
+of the park. The Scenic Drive pre-dates the establishment of the park and was not constructed 
+to currently accepted standards for the volume and types of public use the road now receives. 
+Health and safety concerns include the narrow road width, tight curves, debris such as rocks in 
+the roadway, the possibility of flash flooding in the washes crossed by the road, and seasonal 
+heat and cold.  
+Collisions between vehicles are not frequent. Park records report two vehicle collisions on the 
+Scenic Drive from 1990 through 1993, and two vehicle collisions from 2005 through 2008. The 
+causes of the accidents were reported as inattention and speeding, and some were identified as 
+sideswipe collisions on S-shaped curves. Sliding off the road and striking debris in the road are 
+also identified as causes for accidents on the Scenic Drive. 
+Restroom facilities and potable water are located at the visitor center and the headquarters area 
+(at the intersection of Highway 24 and the Scenic Drive) and in Fruita Campground. The 
+campground is developed  with 71 recreational vehicle (RV) and/or tent sites, each with a picnic 
+table and grill but no individual water, sewage, or electrical hook-ups. An RV dump station is 
+open during the summer. The campground restrooms are heated and feature potable running 
+water and flush toilets, but not showers. There are toilet facilities at the southern end of the 
+Scenic drive where it intersects unpaved spur roads into Grand Wash and Capitol Gorge.  
+The park coordinates law enforcement and related activities with neighboring counties. Most 
+emergency services, such as search and rescue and initial-response emergency medical 
+services for incidents within the park, are provided by park staff. Emergency medical response 
+staff have offices in the park headquarters. A medical clinic is located in Bicknell, 19 miles west 
+of the park on Utah Highway 24. The closest hospital is located in Richfield, 75 miles west of the 
+park. There is limited cell phone service in most areas of the park, but park radios work well 
+along the Scenic Drive corridor.  
+Fire personnel from the park and from other agencies work together to accomplish each 
+agency’s fire management goals. Neighboring agencies will provide assistance with emergency 
+fire suppression when requested, in accordance with the Annual Operating Plan for Fire 
+Capitol Reef National Park 
+ 
+ 
+33
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+Management between the U.S. Forest Service, the Bureau of Land Management, National Park 
+Service, U.S. Fish and Wildlife Service, Bureau of Indian Affairs, and the State of Utah.  
+Visitor Use and Experience 
+About 665,000 people visited the park in 2009. The average length of stay for visitor groups who 
+spend less than 24 hours in the park is about 6 hours. Approximately 92% stop at the visitor 
+center and 91% travel the Scenic Drive. The primary visitor activities are driving the Scenic 
+Drive, viewing the scenery, and visiting the Fruita Historic District. Besides the paved Scenic 
+Drive, there are unpaved loop tours through the Cathedral and Waterpocket Districts of the 
+park. 
+Hiking is a popular visitor activity. In the Fruita area, there are 15 day-hiking trails with trailheads 
+located along Utah Highway 24 and the Scenic Drive. There are also numerous hiking options 
+for serious backpackers and those who enjoy exploring remote areas.  
+Horse and pack animal use is also permitted in the park along several park roads and trails. 
+There are limited overnight facilities for stock users, and backcountry use permits are available 
+for backcountry camping with stock. 
+The park offers camping in the developed Fruita campground and the nearby group 
+campground. There are two primitive campgrounds in more remote parts of the park, and 
+backcountry camping is also permitted.  
+Rock climbing is becoming increasingly popular in the park, as in Utah’s canyon country in 
+general. Bicycling is allowed, though cyclists must stay on designated roads at all times. 
+Cyclists may not travel off road, in washes, on closed roads, on hiking trails, or backcountry 
+routes. 
+From May to September, the park offers a variety of ranger-guided programs at no charge. 
+These include guided walks, talks, and evening programs at the campground amphitheater.  
+Park Operations and Management 
+The park has approximately 24 permanent employees, and additional seasonal employees in 
+the summer months. Interns and volunteers augment the paid staff. Personnel resources are 
+distributed among the superintendent’s office, administration, interpretation, maintenance, 
+resource management and science, and visitor and resource protection functions.  
+The park has a visitor center, an administrative headquarters complex, a maintenance building, 
+a service yard, and a 15-unit residential area. The Fruita Rural Historic District within the park 
+includes a 3,000-tree orchard complex. Many historic buildings within the park, including wood 
+frame homes and barns, are used for staff and/or interpretive purposes, The park has 
+equipment such as trucks, trailers, and construction equipment to support park operations.  
+The 71-site Fruita Campground is the only developed campground in the park, located south of 
+the visitor center in the Fruita Historic District. A group campground, available by reservation for 
+as many as 40 people, is located near the Fruita Campground. Two no-fee primitive 
+campgrounds in more remote parts of the park have pit toilets and picnic tables, but no water. 
+The only paved roads within the park are State Road 24 and the Scenic Drive. Unpaved roads 
+include the Capitol Gorge and Grand Wash spur roads, South Draw Road, Hartnet Road, 
+Caineville Wash Road, Burr Trail Road, and Notom-Bullfrog Road. 
+For management purposes the park is divided into six types of zones: primitive, semi-primitive, 
+threshold, rural developed, utility corridor, and road corridors.  
+Capitol Reef National Park 
+ 
+ 
+34
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+In the primitive zone, management strategies focus on wilderness qualities, allowing natural 
+processes and undeveloped native conditions to continue with minimal human interference. 
+Native species are maintained or re-established, and sensitive species are protected or 
+augmented. Attempts are made to eliminate non-native species. Some grazing and related 
+development is allowed. The primitive zone can be approached via a limited number of roads, 
+primarily four-wheel drive roads and high clearance, two-wheel drive dirt roads. Travel through 
+this zone requires cross-country hiking or horseback riding on unimproved trails and routes. 
+The semi-primitive zone is similar in nature to the primitive zone, except that evidence of human 
+activity is more pronounced. Road corridors are more abundant, and human access is easier. 
+Grazing and related development is allowed. Maintenance activities should be rare, solely for 
+protecting resources and restoring areas disturbed by human activities. The semi-primitive zone 
+can be accessed by a number of roads, primarily two-wheel drive dirt roads. Travel through this 
+zone requires cross-country hiking or horseback riding on unimproved trails and routes. 
+The threshold zone accommodates more varied human activities. Interpretation is provided 
+along maintained hiking trails. A moderate degree of resource management is required. Natural 
+processes are perpetuated and natural conditions are maintained as much as possible, but 
+some human alterations and intrusions are evident. Access is on paved or two-wheel drive, low-
+clearance, all-weather roads. Access to the zone interior is along a variety of trails and routes 
+that connect various destination points.  
+The rural developed zone encompasses the park headquarters, the Fruita campground, and the 
+Sleeping Rainbow Ranch developed areas. The zone is moderately developed and it sustains 
+the highest level of visitor use. It includes the Fruita Rural Historic District. Also located in the 
+zone are the park visitor center, maintenance facilities, and employee housing. Vehicle access 
+to and throughout the zone is by paved and unpaved roads suitable for most vehicles. 
+Pedestrian access is provided by maintained trails that allow visitors to explore natural and 
+cultural environments. Some trail sections are wheelchair-accessible. 
+The utility corridor zone contains the permanent physical plant and infrastructure developments 
+relating to utilities delivery, such as electricity, irrigation water, and telephone service. Corridor 
+widths vary according to right-of-way agreements or special use permits. Visitors can expect to 
+encounter power lines, water developments, underground telephone lines, utility junction boxes, 
+and other such developments. The natural character of the land is preserved, while 
+accommodating utility development and maintenance. Visitor access to the zone varies 
+considerably, depending on the terrain. 
+Road corridor zones identify all primary, secondary, and four-wheel drive vehicle routes 
+established within the park. Bicycles and licensed vehicles manufactured for highway use may 
+travel on park roads. Visitors can expect a variety of road conditions, ranging from a paved, 
+well-maintained, state highway to minimally maintained, high clearance, variable-width dirt 
+roads.  
+The Scenic Drive is one of the road corridors in the park. Users can expect a well-maintained, 
+hard-surfaced road meandering through the rural cultural landscape and through the threshold 
+zone, with turnouts, trailhead parking areas, interpretive signs, wayside exhibits, and picnic 
+sites. Routine maintenance activities include filling potholes and depressions, repairing eroded 
+shoulders, removing debris from roadway drains, and chip-sealing the roadway as needed.  
+Capitol Reef National Park 
+ 
+ 
+35
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+ENVIRONMENTAL CONSEQUENCES 
+Methodology 
+This chapter analyzes the potential environmental consequences, or impacts, that would occur 
+as a result of implementing the proposed project. Topics analyzed in this chapter include 
+cultural landscapes, soundscape, geology and soils, visitor use and experience, and park 
+operations. Direct, indirect, and cumulative effects are analyzed for each resource topic carried 
+forward. Natural and cultural resource topics are also analyzed for impairment. Potential 
+impacts are described in terms of type, context, duration, and intensity. General definitions are 
+defined as follows, while more specific impact thresholds are given for each resource at the 
+beginning of each resource section. 
+• Type describes the classification of the impact as either beneficial or adverse, direct or 
+indirect: 
+- Beneficial: A positive change in the condition or appearance of the resource or a change 
+that moves the resource toward a desired condition. 
+- Adverse: A change that moves the resource away from a desired condition or detracts 
+from its appearance or condition. 
+- Direct: An effect that is caused by an action and occurs in the same time and place. 
+- Indirect: An effect that is caused by an action but is later in time or farther removed in 
+distance, but is still reasonably foreseeable. 
+• Context describes the area or location in which the impact will occur. Are the effects site-
+specific, local, regional, or even broader? 
+• Duration describes the length of time an effect will occur, either short-term or long-term: 
+- Short-term impacts generally last only during construction, and the resources resume 
+their pre-construction conditions following construction. 
+- Long-term impacts last beyond the construction period, and the resources may not 
+resume their pre-construction conditions for a longer period of time following construction. 
+• Intensity describes the degree, level, or strength of an impact. For this analysis, intensity has 
+been categorized into negligible, minor, moderate, and major. Because definitions of intensity 
+vary by resource topic, intensity definitions are provided separately for each impact topic 
+analyzed in this environmental assessment. 
+Note: NPS policy requires that direct and indirect impacts be “considered.” However, 
+directness is not to be specifically labeled or identified as “direct/indirect” in any of the impact 
+topics in the environmental consequences chapter.  
+Cumulative Effects 
+The Council on Environmental Quality (CEQ) regulations, which implement the National 
+Environmental Policy Act of 1969 (42 USC 4321 et seq.), require assessment of cumulative 
+impacts in the decision-making process for federal projects. Cumulative impacts are defined as 
+"the impact on the environment which results from the incremental impact of the action when 
+added to other past, present, and reasonably foreseeable future actions regardless of what 
+agency (federal or non-federal) or person undertakes such other actions" (40 CFR 1508.7). 
+Cumulative impacts are considered for both the no-action and preferred alternative.  
+Capitol Reef National Park 
+ 
+ 
+36
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+Cumulative impacts were determined by combining the impacts of the preferred alternative with 
+other past, present, and reasonably foreseeable future actions. Therefore, it was necessary to 
+identify projects at Capitol Reef National Park and, if applicable, the surrounding region. The 
+following projects were identified for the purpose of conducting the cumulative effects analysis, 
+listed from past to future: 
+Erosion control/bank stabilization measures along State Route 24: The NPS and the Utah 
+Department of Transportation installed erosion control/bank stabilization measures along State 
+Route 24 within Capitol Reef National Park.  
+Development of the Sleeping Rainbow Ranch as a research facility: The project included 
+demolishing and replacing existing buildings and utilities on a mesa top approximately two miles 
+southwest of the Capitol Gorge parking area. Additional facilities were constructed for use as a 
+year-round educational site.  
+Replace administration trailer with permanent building:  The park is in the process of replacing 
+the existing administration offices trailer with a permanent structure. This project will construct a 
+new, site-built structure of about 1,650-square feet that will provide replacement office space for 
+all of the administrative functions and a small portion of space for functions that are located in 
+two other buildings. The existing administrative trailer has been removed. 
+Construct drainage structures on Utah SR-24 to return the Fremont River into its natural 
+channel: Capitol Reef National Park, in cooperation with the Utah Department of Transportation 
+and the Federal Highways Administration, proposes to construct a set of drainage structures on 
+Utah State Highway 24 to return the Fremont River into its natural channel. The proposed 
+project includes the construction of two bridges, restoration of habitat for the threatened Ute 
+ladies’-tresses orchid, elimination of a manmade waterfall, removal of a parking area near the 
+waterfall, and returning the Fremont River to its natural course in the oxbow.  
+Replace the existing resources trailer and visitor and resources protection (VRP) shack with 
+permanent structures: This project would construct a new, site-built structure that would provide 
+replacement office space for all of the resources management and VRP functions. The existing 
+resources and VRP structures would be removed.  
+Unacceptable Impacts   
+As described in Purpose and Need, the NPS must prevent any activities that would impair park 
+resources and values. The impact threshold at which impairment occurs is not always readily 
+apparent. Therefore, the NPS will apply a standard that offers greater assurance that 
+impairment will not occur. The NPS will do this by avoiding impacts that it determines to be 
+unacceptable. These are impacts that fall short of impairment, but are still not acceptable within 
+a particular park’s environment. Park managers must not allow uses that would cause 
+unacceptable impacts; they must evaluate existing or proposed uses and determine whether the 
+associated impacts on park resources and values are acceptable. Virtually every form of human 
+activity that takes place within a park has some degree of effect on park resources or values, 
+but that does not mean the impact is unacceptable or that a particular use must be disallowed. 
+To determine if unacceptable impact could occur to the resources and values of the parks, the 
+impacts of proposed actions in this environmental assessment were evaluated based on 
+monitoring information, published research, and professional expertise, and compared to the 
+guidance on unacceptable impacts provided in 2006 National Park Service Management Policies 
+1.4.7.1 that defines unacceptable impacts as impacts that, individually or cumulatively, would: 
+• 
+Be inconsistent with a park’s purposes or values, or  
+Capitol Reef National Park 
+ 
+ 
+37
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+• 
+Impede the attainment of a park’s desired future conditions for natural and cultural 
+resources as identified through the park’s planning process, or  
+• 
+Create an unsafe or unhealthful environment for visitors or employees, or  
+• 
+Diminish opportunities for current or future generations to enjoy, learn about, or be inspired 
+by park resources or values, or  
+• 
+Unreasonably interfere with:  
+o Park programs or activities, or  
+o An appropriate use, or  
+o The atmosphere of peace and tranquility, or the natural soundscape maintained in 
+wilderness and natural, historic, or commemorative locations within the park.  
+o NPS concessioner or contractor operations or services.  
+By preventing unacceptable impacts, park managers also ensure that the proposed use of park 
+resources will not conflict with the conservation of those resources. In this manner, the park 
+managers ensure compliance with the Organic Act’s separate mandate to conserve park 
+resources and values.  
+Impairment 
+2006 National Park Service Management Policies requires analysis of potential effects to 
+determine whether or not actions would impair park resources. The fundamental purpose of the 
+national park system, established by the Organic Act and reaffirmed by the General Authorities 
+Act, as amended, begins with a mandate to conserve park resources and values. National Park 
+Service managers must always seek ways to avoid, or to minimize to the greatest degree 
+practicable, adversely impacting park resources and values.  
+However, the laws do give the National Park Service the management discretion to allow 
+impacts to park resources and values when necessary and appropriate to fulfill the purposes of 
+a park, as long as the impact does not constitute impairment of the affected resources and 
+values. Although Congress has given the National Park Service the management discretion to 
+allow certain impacts within park, that discretion is limited by the statutory requirement that the 
+National Park Service must leave park resources and values unimpaired, unless a particular law 
+directly and specifically provides otherwise. The prohibited impairment is an impact that, in the 
+professional judgment of the responsible National Park Service manager, would harm the 
+integrity of park resources or values. An impact to any park resource or value may, but does not 
+necessarily, constitute an impairment, but an impact would be more likely to constitute an 
+impairment when there is a major or severe adverse effect upon a resource or value whose 
+conservation is:  
+• 
+necessary to fulfill specific purposes identified in the establishing legislation or proclamation 
+of the park;  
+• 
+key to the natural or cultural integrity of the park; or  
+• 
+identified as a goal in the park’s general management plan or other relevant NPS planning 
+documents.  
+Impairment may result from National Park Service activities in managing the park, visitor 
+activities, or activities undertaken by concessioners, contractors, and others operating in the 
+park. A determination on impairment is made in the Environmental Consequences section for 
+Capitol Reef National Park 
+ 
+ 
+38
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+natural and cultural resource topics. 
+The potential for impairment or unacceptable impacts from the proposed alternatives is provided 
+at the end of this analysis of environmental consequences.  
+Cultural Landscapes 
+Intensity Level Definitions 
+The methodology used for assessing impacts is based on how the proposed repairs to the 
+Scenic Drive would affect the Scenic Drive and Fruita cultural landscapes. The thresholds for 
+this impact assessment are as follows: 
+ 
+Negligible 
+Minor 
+Moderate 
+Major 
+Negligible impacts 
+would be at the 
+lowest levels of 
+detection-barely 
+perceptible and not 
+measurable. There 
+would be no change 
+to defining features 
+that contribute to 
+the resource’s 
+National Register 
+eligibility. 
+Impacts would not 
+affect the character-
+defining features of 
+a cultural landscape 
+or structure listed or 
+eligible for the 
+National Register. 
+Impacts would be 
+detectable but 
+would not diminish 
+the overall integrity 
+of the resource. 
+Moderate impacts 
+would alter a 
+character-defining 
+feature(s) of a 
+cultural landscape 
+and result in 
+measurable 
+changes, and they 
+could diminish the 
+overall integrity of 
+the resource to the 
+extent that its 
+National Register 
+eligibility would be 
+jeopardized.  
+Major impacts 
+would result from 
+substantial and 
+highly noticeable 
+changes that would 
+alter the character-
+defining features of 
+a cultural 
+landscape. These 
+impacts would 
+diminish the overall 
+integrity of the 
+resource to the 
+extent that it would 
+no longer be eligible 
+to be listed in the 
+National Register. 
+Short-term ⎯occurs only during project construction 
+Long-term ⎯continues after project construction 
+ 
+Impacts of Alternative A (No-Action Alternative) 
+Effects on the Fruita and the Scenic Drive cultural landscapes under the no-action alternative 
+would be minor in the short term. In the long-term, impacts would be minor to moderate, and 
+adverse. Despite periodic maintenance, the road conditions on the Scenic Drive would continue 
+to deteriorate. The integrity of the landscapes would be visibly diminished due to the damaged 
+roadbed, eroded low water crossings, and clogged or collapsed stone culverts. The integrity of 
+the Scenic Drive, and therefore the settings of both cultural landscapes would be jeopardized 
+due to degradation of their character-defining features. This could ultimately impact the National 
+Register eligibility of these cultural landscapes.      
+Cumulative Effects:  Other actions in the park will have negligible impacts to the park’s cultural 
+landscapes. For the erosion control/bank stabilization measures along State Route 24, impacts 
+to cultural landscapes are negligible in the short-term and long-term. The development of the 
+Sleeping Rainbow Ranch as a research facility had negligible impacts on cultural landscapes. 
+Replacing the administration and resources trailers with permanent structures will also have 
+negligible impact on cultural landscapes within the park. Constructing drainage structures on 
+Capitol Reef National Park 
+ 
+ 
+39
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+Utah SR-24 to return the Fremont River into its natural channel will have negligible impacts to 
+cultural landscapes. The impacts of the past, present, and future actions, in combination with 
+the long-term, minor to moderate, adverse impacts of alternative A, would have minor to 
+moderate, adverse impacts on visitor cultural landscapes.  
+Conclusion:  Alternative A would have short-term minor adverse impacts, and long-term, minor 
+to moderate, adverse impacts on cultural landscapes. Cumulative impacts would be minor in the 
+short term, minor to moderate in the long term, and adverse.  
+Impacts of Alternative B (Preferred Alternative) 
+Alternative B would have short-term minor adverse impacts on cultural landscapes during road 
+repair and rehabilitation activities. Work on the Scenic Drive roadbed and related drainage 
+structures would visibly impact the character-defining features and the landscape setting during 
+the construction phase. Periodic road maintenance would continue to impact the cultural 
+landscapes of Fruita and the Scenic Drive, but maintenance needs and frequencies would be 
+reduced.  
+Following construction, the landscape settings and individual character-defining features would 
+be improved and would benefit from alternative B. With subgrade improvements, those 
+segments of the road that are affected by subsidence or slumping would no longer require 
+frequent repairs.  The selective pavement widening of the S-curves at Grand Wash would occur 
+within the existing road bench. Stone culverts, headwalls and low-water crossings would 
+function properly, and contribute to the integrity of the Scenic Drive and improve the overall 
+condition of the Fruita and the Scenic Drive landscapes. The setting, design, feeling and overall 
+rustic quality of the Scenic Drive would be maintained. 
+Cumulative Effects:  Other actions in the park will have negligible impacts to the park’s cultural 
+landscapes. For the erosion control/bank stabilization measures along State Route 24, impacts 
+to cultural landscapes are negligible in the short-term and long-term. The development of the 
+Sleeping Rainbow Ranch as a research facility had negligible impacts on cultural landscapes. 
+Replacing the administration and resources trailers with permanent structures will also have 
+negligible impact on cultural landscapes. Constructing drainage structures on Utah SR-24 to 
+return the Fremont River into its natural channel will have negligible impacts to cultural 
+landscapes. The impacts of the past, present, and future actions, in combination with the short-
+term, minor adverse and long term beneficial impacts of alternative B, would have minor 
+adverse and beneficial impacts on cultural landscapes.  
+Conclusion:  Alternative B would have short-term minor adverse impacts and long-term 
+beneficial impacts on cultural landscapes. Cumulative impacts would be short-term, minor, 
+adverse, and long-term beneficial.  
+Soundscape 
+Intensity Level Definitions 
+Capitol Reef National Park was established for the benefit and enjoyment of the public. Noise 
+can adversely affect those benefits by intruding upon or disrupting experiences of solitude. 
+Noise can also indirectly impact resources by interfering with sounds important for animal 
+communication, navigation, mating, nurturing, predation, and foraging functions.  
+The methodology used to assess noise impacts in this document is consistent with 2006 
+National Park Service Management Policies and Director’s Order #47: Soundscape Preservation 
+and Noise Management. 
+Capitol Reef National Park 
+ 
+ 
+40
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+Context, time, and intensity together determine the level of impact for an activity. It is usually 
+necessary to evaluate all three factors together to determine the level of noise impact. In some 
+cases an analysis of one or more factors may indicate one impact level, while an analysis of 
+another factor may indicate a different impact level, according to the criteria below. In such 
+cases, best professional judgment based on a documented rationale must be used to determine 
+which impact level best applies to the situation being evaluated. The thresholds for this impact 
+assessment are as follows: 
+ 
+Negligible 
+Minor 
+Moderate 
+Major 
+Effects on the 
+natural sound 
+environment would 
+be at the level of 
+detection. Changes 
+would be so slight 
+that they would not 
+be of any 
+measurable or 
+perceptible 
+consequence to the 
+visitor experience or 
+to wildlife. 
+Effects on the 
+natural sound 
+environment would 
+be detectable, 
+although the effects 
+would be localized. 
+Impacts would be 
+small and of little 
+consequence to the 
+visitor experience or 
+to wildlife. Mitigation 
+measures, if 
+needed to offset 
+adverse effects, 
+would be simple 
+and successful. 
+Effects on the 
+natural sound 
+environment would 
+be obvious and 
+have substantial 
+consequences for 
+the visitor 
+experience or for 
+wildlife in the 
+region. Extensive 
+mitigation measures 
+would be needed to 
+offset any adverse 
+effects and success 
+would not be 
+guaranteed. 
+Effects on the 
+natural sound 
+environment would 
+be readily 
+detectable and have 
+a noticeable effect 
+on the visitor 
+experience and 
+wildlife. The impacts 
+would be localized, 
+with few if any 
+consequences at 
+the regional level. 
+There would be 
+measureable 
+impacts on the local 
+wildlife population 
+level. Mitigation 
+measures, if 
+needed to offset 
+adverse effects, 
+would be extensive 
+and likely 
+successful. 
+ 
+Short-term - occurs only during the construction period 
+Long-term - occurs even after the construction period  
+ 
+ 
+Impacts of Alternative A (No-Action Alternative) 
+ 
+The no-action alternative would have recurrent, short-term, moderate, adverse impacts on the 
+soundscape. Alternative A would maintain the existing circumstances, in which park staff would 
+continue to clear culverts and roadside drainage ditches, stabilize slopes, patch potholes, and 
+complete other isolated repairs as the need arose. Surface flows would continue to adversely 
+affect the road in some locations, and pavement damage from poor subsurface drainage in 
+some locations would require intermittent repairs. The road would continue to deteriorate, and 
+repair operations and their short-term impacts on the soundscape would become more frequent.  
+Typical sound levels from road construction equipment such as trucks, front loaders, pavers, 
+dozers, and graders can be in the range of 63 to 94 dBA at a distance of 100 feet from the 
+sound source. Sound levels from light traffic on paved roads range from 45 to 50 dBA at a 
+Capitol Reef National Park 
+ 
+ 
+41
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+distance of 100 feet from the roadway, and the sound level on a totally quiet night in a desert 
+would be around 30 decibels (dBA). 
+Noise levels decrease at a rate of approximately 6 dBA per doubling of distance from a noise 
+source. For example, if a sound level were 94 dBA at 100 feet, it would be 88 dBA at 200 feet, 
+and 82 dBA at 400 feet. The rate of decrease is also dependent upon topography and weather 
+conditions, but it is likely that within a mile of the roadway the sound from road repair operations 
+would be greater than the intermittent sounds created by visitors traveling the Scenic Drive. 
+Such sound levels would have a noticeable effect on the visitor experience, disrupting the 
+normally tranquil setting, and on wildlife, impelling some animals to leave or avoid the area.  
+Cumulative Effects:   Impacts to the soundscape were minor and adverse in the short-term 
+during erosion control/bank stabilization measures along State Route 24. Noise from traffic 
+(e.g., heavy equipment, propane trucks, and vans) occurred during the development of the 
+Sleeping Rainbow Ranch as a research facility, creating short-term, moderate, adverse impacts. 
+Noise from outdoor lectures, research activities, and general operations at the research facility 
+now carries to the Pleasant Valley floor, creating long-term, minor, adverse impacts on the 
+soundscape. The work required to replace the existing administration trailer creates short-term, 
+minor, adverse impacts on the soundscape, and replacing the resources trailer will have similar 
+adverse impacts. It is anticipated that constructing drainage structures on Utah SR-24 to return 
+the Fremont River into its natural channel will have short-term, minor, adverse impacts on the 
+soundscape. Those impacts on the soundscape, in combination with the short-term, moderate, 
+adverse impacts of the no action alternative, would have short-term, moderate, adverse, 
+cumulative impacts and long-term, minor, adverse, cumulative impacts on the soundscape.  
+Conclusion:  The no-action alternative would have short-term, moderate, adverse impacts on 
+the soundscape. Cumulative impacts would be short-term, moderate, adverse, and long-term, 
+minor, adverse.   
+Impacts of Alternative B (Preferred Alternative) 
+The preferred alternative would have short-term, moderate, adverse impacts and long-term 
+beneficial impacts on the soundscape. The noise levels from road repair operations would be 
+very noticeable to visitors and would adversely affect wildlife in the surrounding area, but the 
+noise would not have an effect on the regional level. However, the rehabilitation and resurfacing 
+of the entire length of the Scenic Drive would reduce the frequency of periodic repairs. With 
+erosion and slumping of the road shoulders repaired, drainage deficiencies and subgrade 
+deficiencies remedied, and repaving of the road with asphalt concrete or chip-sealing, the need 
+for future repairs would be reduced. Noise associated with such road repairs would be 
+correspondingly reduced.  
+ Cumulative Effects:   The cumulative impacts on the soundscape from past, present, and future 
+actions (as discussed above in alternative A), in combination with the short-term, moderate, 
+adverse impacts and long-term beneficial impacts of the preferred alternative, would have short-
+term, moderate, adverse, and long-term beneficial cumulative impacts. 
+Conclusion:  The preferred alternative would have short-term, moderate, adverse impacts and 
+long-term beneficial impacts on the soundscape. Cumulative impacts would be short-term, 
+moderate, adverse, and long-term beneficial.  
+Capitol Reef National Park 
+ 
+ 
+42
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+Geology and Soils 
+Intensity Level Definitions 
+The planning team based the impact analysis and the conclusions for possible impacts to 
+geology and soils on the on-site inspection of known and potential resources within the project 
+areas. Where possible, map locations of geological and soils resources were compared with 
+locations of potential areas of impact by the proposed project. The thresholds of change for the 
+intensity of an impact are defined as follows: 
+ 
+Negligible 
+Minor 
+Moderate 
+Major 
+The action would 
+result in a change to 
+geology or soils, but 
+the change would be 
+so small that it would 
+barely be of any 
+measurable or 
+perceptible 
+consequence 
+The action would 
+result in a change to 
+geology or soils, but 
+the change would be 
+small and localized 
+and of little 
+consequence. 
+Mitigation may be 
+needed to offset 
+adverse effects to 
+soils, but they would 
+be simple to 
+implement and 
+would likely be 
+successful. 
+The action could 
+result in a change to 
+geology or soils; the 
+change would be 
+measurable and of 
+consequence. The 
+effect on soil would 
+be readily apparent 
+and would result in a 
+change to the soil 
+character over a 
+relatively wide area. 
+Mitigation measures 
+would be needed to 
+offset adverse 
+effects and would 
+likely be successful. 
+An action that would 
+result in a noticeable 
+change to geology or 
+soils; the change 
+would be 
+measurable and 
+result in a severely 
+adverse impact. The 
+action would 
+substantially change 
+the character of the 
+soils over a large 
+area in and out of 
+the park. Mitigation 
+measures would be 
+needed and would 
+be extensive, and 
+their success could 
+not be guaranteed. 
+ 
+Short-term: There are no short-term impacts to geological resources. Soils would recover in less 
+than 3 years. 
+Long-term: All impacts to geological resources would be long-term. It would take more than 3 
+years to recover from impacts to soils. 
+Impacts of Alternative A (No-Action Alternative) 
+Alternative A would have long-term, minor, adverse impacts on geology and soils because 
+repairs and rehabilitation efforts would not be completed throughout the length of the Scenic 
+Drive. Seasonal high water flows in the drainages would sometimes exceed the carrying 
+capacity of culverts and would plug others. The storm waters would be forced from their 
+channels, eroding geologic resources and soils as they find a new flow pathway. Erosion and 
+development of scour holes would continue below culvert outfalls if rock armoring were not 
+installed.  
+Vehicle pull-outs would not be formalized and rehabilitated throughout the length of the Scenic 
+Drive. Visitors would continue to use informal pull-outs, causing erosion, rutting, and 
+compaction. 
+Cumulative Effects:  Impacts to soils from erosion control/bank stabilization measures along 
+State Route 24 were negligible and adverse in the short-term and beneficial in the long-term. 
+Impacts on soils from the development of the Sleeping Rainbow Ranch as a research facility 
+Capitol Reef National Park 
+ 
+ 
+43
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+resulted in a net beneficial effect. Replacement of administrative and research trailers with 
+permanent structures will have negligible, long-term, adverse impacts on geology and soils. 
+Returning the Fremont River to its natural channel will have long-term beneficial impacts on 
+geology and soils. The long-term beneficial impacts of past, present, and future actions, in 
+combination with the long-term, minor, adverse impacts of the no action alternative, would have 
+long-term beneficial cumulative impacts on geology and soils.  
+Conclusion: Alternative A would have long-term, minor, adverse impacts on geology and soils. 
+Cumulative impacts would be long-term beneficial.  
+Impacts of Alternative B (Preferred Alternative) 
+Alternative B would have long-term beneficial impacts on geology and soils by reducing erosion, 
+rutting, and soil compaction throughout the length of the Scenic Drive. Drainage culverts would 
+be replaced and cleaned as needed to better convey runoff flows and prevent erosion. Stone 
+armoring would be placed in drainages as needed to prevent erosion and the development of 
+scour holes below culvert outfalls. Vehicle pull-outs would be formalized and rehabilitated 
+throughout the length of the Scenic Drive. Other informal pull-outs would be closed, rehabilitated 
+and revegetated as needed to reduce and prevent erosion, rutting, and compaction along the 
+Scenic Drive. 
+Alternative B would create some long-term minor adverse impacts on geology and soils from 
+widening of the travel lanes and excavation of ditches. Near the Capitol Gorge parking area, 
+from approximately milepost 7.4 to 7.9, the adjacent hillside would be cut back to create 2:1 to 
+3:1 slopes. Drainage ditches would be cut at the toe of the slope alongside the roadway. The 
+roadway would be widened only slightly, if at all. It is estimated that approximately 2,000 to 
+2,500 cubic yards of shale, shale residuum soils, and sandstone would be excavated.  
+The subgrade throughout the 8-mile length of the Scenic Drive would be excavated as needed 
+in spot locations, and replaced with appropriate fill material. In isolated locations throughout the 
+length of the Scenic Drive the roadway would be widened by 1 to 2 feet, to provide a consistent 
+road width as much as is feasible. 
+An existing earthen ditch at approximately milepost 1.25, south of the Gifford barn, would be 
+improved to better convey sediment-laden runoff. Options being considered include 
+reconstructing and paving the ditch with a consistent cross section and slope to more easily 
+accommodate mechanical maintenance, or retaining the current native soil ditch while 
+implementing a schedule of more frequent maintenance. The native soil ditch would be 
+reshaped and hardened with compaction as needed. More analysis will be conducted to 
+determine the proper solution. Other ditches throughout the length of the Scenic Drive would be 
+cleaned, realigned, and widened as necessary to properly convey runoff.  
+There would be more beneficial impacts from the reduction of erosion, rutting and compaction, 
+than adverse impacts, and overall, the impacts of alternative B on geology and soils would be 
+long-term beneficial. 
+Cumulative Impacts: The negligible, adverse short-term and long-term impacts and the long-
+term beneficial impacts from past, present, and future actions (as discussed above in alternative 
+A), in combination with the long-term beneficial impacts of alternative B, would have long-term 
+beneficial cumulative impacts on geology and soils. 
+Conclusion: Alternative B would have long-term beneficial impacts on geology and soils. 
+Cumulative impacts would be long-term beneficial.  
+Capitol Reef National Park 
+ 
+ 
+44
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+Health and Safety 
+Intensity Level Definitions 
+The analysis of health and safety considered the effects caused by poor roadway conditions 
+and the ability of park visitors to access park facilities along the Scenic Drive.  
+ 
+Negligible 
+Minor 
+Moderate 
+Major 
+The effects on 
+health and safety 
+would be at the 
+lowest levels of 
+detection and would 
+not have an 
+appreciable effect 
+on health or safety. 
+No mitigation 
+measures would be 
+needed. 
+ 
+The effects would 
+be readily apparent 
+and result in 
+substantial, 
+noticeable effects to 
+health and safety on 
+a local scale. 
+Mitigation measures 
+would probably be 
+necessary and 
+would likely be 
+successful. 
+ 
+The effects would 
+be detectable but 
+would not have an 
+appreciable effect 
+on health and 
+safety. If 
+mitigation were 
+needed, it would 
+be relatively 
+simple and would 
+likely be 
+successful. 
+ 
+The effects would 
+be readily 
+apparent and 
+result in 
+substantial, 
+noticeable effects 
+to health and 
+safety on a 
+regional scale. 
+Extensive 
+mitigation 
+measures would 
+be needed, and 
+success would not 
+be guaranteed. 
+ 
+Short-term: Impacts that occur during active construction and reclamation activities.  
+Long-term: Impacts that occur after construction and related activities are completed. 
+Impacts of Alternative A (No-Action Alternative) 
+Alternative A would have long-term, minor, adverse impacts on health and safety. Repairs 
+would not be completed concurrently throughout the length of the Scenic Drive. Road repairs 
+needed to protect health and safety would be completed as promptly as funding and staffing 
+levels allowed, but some repairs would have to be deferred. Intermittent repairs at individual 
+locations in the roadway would create minor safety hazards for the park staff completing the 
+repairs and for the motorists who encountered the work site. 
+Examples of such necessary repairs include worn pavement with ruts in some locations, eroding 
+road shoulders, drainage ditches where retaining walls are needed to prevent erosion of the 
+road bed, plugged or undersized culverts that create drainage and erosion problems that can 
+damage the road surface, and eroded low water crossings. Repairs needed for stone masonry 
+drain headwalls would be delayed. Additionally, the no-action alternative would not correct the 
+areas with inconsistent road widths. The safety hazards associated with such road conditions 
+would be noticeable, but would not be substantial except in cases of excessive speed or driver 
+inattention.  
+ Cumulative Impacts: Construction efforts associated with the past, present, and future actions 
+of the erosion control/bank stabilization measures along State Route 24, the development of the 
+Sleeping Rainbow Ranch as a research facility, the replacement of the administration trailer and 
+the resources trailer with permanent buildings, and the construction of drainage structures on 
+Utah SR-24 to return the Fremont River into its natural channel all have created or would create 
+Capitol Reef National Park 
+ 
+ 
+45
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+short-term, minor, adverse impacts on health and safety. Construction of permanent 
+administration and resource buildings will have a long-term beneficial impact on health and 
+safety, because of the potential for hantavirus infection by staff and visitors in the existing 
+trailers. The impacts of the past, present, and future actions in combination with the impacts of 
+the no-action alternative would have long-term, minor, adverse, cumulative impacts on health 
+and safety.  
+Conclusion: Alternative A would have long-term, minor, adverse impacts on health and safety. 
+Cumulative impacts would be long-term, minor, adverse.  
+Impacts of Alternative B (Preferred Alternative) 
+Alternative B would have short-term minor adverse impacts on health and safety. The adverse 
+impacts would occur due to road repair operations, as motorists approach and pass through the 
+construction area. The adverse impacts would be limited to the construction period. During 
+construction, a traffic control plan would be implemented to provide visitors with safe driving 
+conditions during construction. The traffic control plan would include temporary closing of lanes, 
+sequencing of construction events to minimize impacts to traffic, and restricting contractor work. 
+Visitors would be notified of changes in traffic patterns, detours, and traffic delays through the 
+use of signs and public notifications. The Scenic Drive would be completely closed for as much 
+as a month between Grand Wash and the Capitol Gorge parking area, but it would remain 
+passable by administrative and emergency vehicles. All of these actions would be designed to 
+reduce short-term impacts on safety. Routine road maintenance would continue to impact health 
+and safety with noise, delays, and diminished visual quality, but maintenance needs and 
+frequencies would be reduced. With these measures, there would be a minor short-term 
+adverse impact on safety from changes in traffic patterns, construction activities, and continuing 
+routine maintenance on the Scenic Drive.  
+The correction of existing roadway deficiencies and improved safety features would increase 
+safety for motorists on the Scenic Drive. The long-term impacts would be beneficial. The rustic 
+character of the road would be retained, but visitors would be able to drive more safely on the 
+newly surfaced roadway and repaired low water crossings. The improved turning width at the 
+Fruita Campground would provide a safer traffic flow through there.  
+Cumulative Impacts: The effects of other past, present, and future actions (as discussed above 
+in alternative A) would have short-term, minor, adverse impacts and long-term beneficial 
+impacts on health and safety. Those actions, in combination with the short-term minor adverse 
+impacts and beneficial long-term impacts of alternative B, would have short-term minor adverse 
+impacts and beneficial long-term cumulative impacts on health and safety.  
+Conclusion: Alternative B would have short-term minor adverse impacts and beneficial long-
+term impacts on health and safety. Cumulative impacts would be short-term, minor, adverse and 
+long-term beneficial.  
+ 
+Visitor Use and Experience 
+Intensity Level Definitions 
+Capitol Reef National Park was established in 1937 for the benefit and enjoyment of the public. 
+The methodology used for assessing impacts to visitor use and experience is based on how the 
+proposed repairs to the Scenic Drive would affect the visitor experience. The thresholds for this 
+impact assessment are as follows: 
+Capitol Reef National Park 
+ 
+ 
+46
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+Negligible 
+Minor 
+Moderate 
+Major 
+Changes in visitor 
+experience and 
+recreational 
+resources would 
+be noticeable. 
+The visitor would 
+be aware of the 
+effects associated 
+with the action, 
+but the effects 
+would be slight. 
+Changes in visitor 
+experience and 
+recreational 
+resources would 
+be barely 
+noticeable. The 
+visitor would not 
+likely be aware of 
+the effects 
+associated with 
+the action. 
+Changes in visitor 
+experience and 
+recreational 
+resources would 
+be readily 
+apparent. The 
+visitor would be 
+aware of the 
+effects associated 
+with the action 
+and would likely 
+express an 
+opinion about the 
+changes. 
+Changes in visitor 
+experience and 
+recreational 
+resources would 
+be readily 
+apparent and 
+severely adverse 
+or exceptionally 
+beneficial. The 
+visitor would be 
+aware of the 
+effects associated 
+with the action 
+and would likely 
+express a strong 
+opinion about the 
+changes. 
+ 
+Short-term: Impact occurs only during project construction 
+Long-term: Impact continues after project construction 
+Impacts of Alternative A (No-Action Alternative) 
+Effects on the visitor and recreation experience under the no-action alternative would be long-
+term, minor to moderate, and adverse. The road would remain open and visitors would continue 
+to have access to park resources, but as roadway conditions continued to deteriorate, periodic 
+maintenance projects would require traffic delays at random times and locations, 
+inconveniencing visitors. Roadway conditions would deteriorate to the point that the quality of 
+the visitor experience is diminished from a visibly damaged road, eroded low water crossings, or 
+deterioration of other structural features.  
+Driving and recreational experiences such as bike riding would decline due to the poor condition 
+of the road surface. Road noise and associated activities during maintenance and repair would 
+likely cause wildlife to avoid the construction areas, reducing visitors’ opportunities for wildlife 
+viewing near the road. Those effects would be noticed by visitors, but the effects would be 
+slight. Effects on the visitor and recreation experience would be long-term, minor, and adverse. 
+As more of the road surface continued to deteriorate, there would be a long-term, moderate, 
+adverse effect on visitor use and experience. Visitors would need to focus more on driving, thus 
+limiting their ability to experience the park’s scenery and wildlife. The continued deterioration 
+and increased frequency of maintenance and repairs would convey the impression that the park 
+is poorly maintained, thus diminishing the overall park experience. Visitors would be aware of 
+the effects associated with the deteriorating roadway and would be likely to express an opinion 
+about the conditions. The effects on the visitor and recreation experience would be long-term, 
+moderate, and adverse.  
+Cumulative Effects:  For the erosion control/bank stabilization measures along State Route 24, 
+impacts to visitor use and experience were minor and adverse in the short-term, and beneficial 
+in the long-term. The development of the Sleeping Rainbow Ranch as a research facility had 
+minor, adverse, long and short-term impacts to visitor use and experience. Replacing the 
+administration and resources trailers with permanent structures will have a long-term beneficial 
+Capitol Reef National Park 
+ 
+ 
+47
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+impact on visitor use and experience. Constructing drainage structures on Utah SR-24 to return 
+the Fremont River into its natural channel will have moderate adverse impacts in the short-term, 
+and beneficial impacts in the long-term. The impacts of the past, present, and future actions, in 
+combination with the long-term, minor to moderate, adverse impacts of alternative A, would 
+have long-term and short-term, moderate, adverse impacts on visitor use and experience.  
+Conclusion:  Alternative A would have long-term, minor to moderate, adverse impacts, on visitor 
+use and experience. Cumulative impacts would be long-term and short-term, moderate, 
+adverse.  
+Impacts of Alternative B (Preferred Alternative) 
+Alternative B would have short-term minor adverse impacts on visitor use and experience during 
+road repair and rehabilitation activities, and it would have long-term minor adverse impacts 
+associated with maintenance activities. However, rehabilitation and resurfacing of the Scenic 
+Drive would also have long-term beneficial impacts on visitor use and experience.  
+Most of the adverse impacts to visitor use would occur during rehabilitation and resurfacing 
+operations, and would be limited to the construction period. Construction along the roadway 
+would result in minor adverse impacts on visitor use by causing increased levels of noise and 
+dust, diminished visual quality, and delays in traveling the length of the road. Noise and other 
+associated activities would likely cause wildlife to avoid the construction areas, reducing visitors’ 
+opportunities for wildlife viewing near the road. Construction would also adversely impact noise 
+levels and the visual experience in the surrounding countryside. Those short- term adverse 
+impacts would be noticeable to visitors, but their effect would be slight.  
+Construction would likely require that the Scenic Drive would be closed between Grand Wash 
+and the Capitol Gorge parking area for as long as a month, creating a short-term moderate 
+adverse impact on visitor use and experience. Visitors would be very aware of the impact, and 
+would likely express an opinion about it. 
+Road maintenance would continue to impact visitor use and experience with noise, delays, and 
+diminished visual quality, but maintenance needs and frequencies would be reduced. Use of 
+stone retaining walls to prevent erosion near the roadway would create a long-term adverse 
+impact to visual quality, by introducing a new and unnatural visual element. The combination of 
+intermittent road maintenance activities, combined with the addition of some new retaining walls 
+would create a minor long-term adverse impact to visitor use and experience. 
+Following construction, the visitor experience would be improved and would benefit from 
+alternative B. Access throughout the length of the Scenic Drive would be improved, because it 
+would be fully paved with asphalt pavement or chip-seal. With subgrade improvements, those 
+segments of the road that are affected by subsidence or slumping would no longer require 
+frequent repairs. Visitors would be able to drive comfortably on the newly surfaced roadway, 
+with increased opportunities to view scenery and wildlife, with less need to focus on road 
+conditions. Paving the parking area at Capitol Gorge would eliminate rutting and the uneven 
+surface there. Access to the comfort station at that parking area would also be improved. 
+Cumulative Effects:  The effects of other past, present, and future actions (as discussed above 
+in alternative A) would have short-term minor to moderate, adverse impacts, long-term, minor, 
+adverse impacts on visitor use and experience, but they have long-term beneficial impacts. 
+Alternative B would add a slight increment to the short-term, moderate, adverse impacts, and 
+long-term beneficial cumulative impacts on visitor use and experience.  
+ 
+Capitol Reef National Park 
+ 
+ 
+48
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+Conclusion:   
+Alternative B would have short-term minor to moderate adverse impacts, long-term minor 
+adverse impacts, and long-term beneficial impacts on visitor use and experience. Cumulative 
+impacts would be short-term, moderate, adverse, and long-term beneficial.  
+Park Operations and Management 
+Intensity Level Definitions 
+Implementation of a project can affect the operations of a park such as the number of 
+employees needed; the type of duties that need to be conducted; when/who would conduct 
+these duties; how activities should be conducted; and administrative procedures. For the 
+purpose of this analysis, the human health and safety of park employees is also evaluated. The 
+methodology used to assess potential changes to park operations and management are defined 
+as follows:   
+ 
+Negligible 
+Minor 
+Moderate 
+Major 
+The effects would 
+be at low levels of 
+detection and 
+would not have an 
+appreciable effect 
+on park 
+operations and 
+management. 
+The effects would 
+be detectable and 
+would be of a 
+magnitude that 
+would not have an 
+appreciable effect 
+on park 
+operations and 
+management. If 
+mitigation was 
+needed to offset 
+adverse effects, it 
+would be simple 
+and likely 
+successful. 
+The effects would 
+be readily 
+apparent and 
+would result in a 
+substantial 
+adverse or 
+beneficial change 
+in park operations 
+and management 
+in a manner 
+noticeable to staff 
+and the public. 
+Mitigation 
+measures would 
+probably be 
+necessary to 
+offset adverse 
+effects and would 
+likely be 
+successful 
+The effects would 
+be readily 
+apparent, would 
+have a substantial 
+effect on park 
+operations and 
+management in a 
+manner 
+noticeable to staff 
+and the pubic, 
+and would be 
+markedly different 
+from existing 
+operations. 
+Mitigation 
+measures to 
+offset adverse 
+effects would be 
+needed, 
+extensive, and 
+success could not 
+be guaranteed. 
+ 
+Short-term: Impact occurs only during project construction 
+Long-term: Impact continues after project construction 
+Impacts of Alternative A (No-Action Alternative) 
+Alternative A would have a long-term moderate adverse impact on park operations and 
+management. The effects of the continuing and increasing operational and maintenance 
+demands would be readily apparent and would have a substantial effect on park operations and 
+management in a manner noticeable to staff and the public. The alternative would maintain the 
+existing circumstances in which park staff would continue to clear culverts, stabilize slopes, 
+Capitol Reef National Park 
+ 
+ 
+49
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+patch potholes, repair low water crossings, and complete other isolated repairs as the need 
+arises. Subsurface flows would continue to adversely affect the road subgrade in some 
+locations. Seasonal surface flows across the road would continue to cause intermittent damage 
+to the pavement. 
+ The road would continue to deteriorate, and repair costs would continue to escalate. The repair 
+efforts needed to offset those adverse effects would likely be successful, but the frequency of 
+those efforts would increase. Temporary road closures for repairs would become more frequent. 
+Staff time required for roadway maintenance of culverts, shoulders, and other road features 
+would increase.  
+Cumulative Effects:  Development of the Sleeping Rainbow Ranch as a research facility has 
+resulted in a long-term, moderate, adverse impact upon park operations. Replacing the 
+administration and resources trailers with permanent structures would have a long-term 
+beneficial impact on park operations. Constructing drainage structures on Utah SR-24 to return 
+the Fremont River into its natural channel would have no impact on park operations. The effects 
+of those past, present, and future actions, in combination with the long-term, moderate, adverse 
+impacts of the no-action alternative, would have a long-term, moderate, adverse cumulative 
+impact on park operations and management. 
+Conclusion:  Alternative A would have long-term, moderate, adverse impacts on park operations 
+and management. Cumulative impacts would be long-term, moderate, and adverse.  
+Impacts of Alternative B (Preferred Alternative) 
+Alternative B would have a short-term, minor, adverse impact and a long-term, minor, adverse 
+impact, as well as a long-term beneficial impact on park operations and management. The 
+process of planning for and assisting in the completion of the repair and rehabilitation of the 
+Scenic Drive would require time and attention from park staff, which would add to their 
+workloads. Travel on the Scenic Drive would be impeded during road rehabilitation and 
+resurfacing activities. Those impacts would end when construction was finished. Those minor 
+short-term impacts would be detectable, but would not have an appreciable effect on park 
+operations and management.  
+If the rehabilitation and resurfacing of the Scenic Drive proposed in alternative B were 
+completed, maintenance workloads and costs would decrease, creating a long-term beneficial 
+impact. A newly paved roadway would require fewer periodic repairs; there would be no 
+unpaved segments of roadway to maintain. Damage caused by subsurface seepage in the 
+roadway subgrade and seasonal flows across the road pavement would be eliminated.  
+Cumulative Effects The effects of other past, present, and future actions (as discussed above in 
+alternative A) would have long-term, moderate, adverse and long-term beneficial impacts on 
+park operations and management. The long-term beneficial impacts and short-term and long-
+term, minor, adverse impacts of alternative B would add a small increment to the long-term, 
+moderate, adverse cumulative impacts on visitor use and experience.  
+Conclusion:  Alternative B would have short- term and long-term, minor, adverse impacts, as 
+well as a long-term beneficial impact on park operations and management. Cumulative impacts 
+would be long-term, moderate, and adverse. 
+Unacceptable Impacts and Impairment 
+Unacceptable impacts are those that fall short of impairment, but are still not acceptable within a 
+particular park’s environment. Neither alternative creates unacceptable impacts. Both 
+alternatives are consistent with the park’s purposes and values. The park was established for 
+Capitol Reef National Park 
+ 
+ 
+50
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+resource protection and visitor enjoyment and both alternatives protect resources to the 
+maximum extent possible and provide opportunities for visitor enjoyment. Neither alternative 
+impedes the attainment of the parks’ desired future conditions as this project is consistent with 
+previous planning efforts.   
+Under either alternative, visitors and employees would continue to have opportunities to enjoy, 
+learn about, or be inspired by park resources and values in a safe and healthful environment. 
+Both alternatives provide for the resurfacing and repair of the Scenic Drive in ways that do not 
+unreasonably interfere with park programs, an appropriate use, the natural atmosphere, or 
+concessioner activities.  
+As described at the beginning of this discussion of Environmental Consequences, the NPS’ 
+threshold for considering whether there could be an impairment is based on major (or 
+significant) effects. The analysis of effects on cultural landscapes, soundscape, geology and 
+soils, health and safety, visitor use and experience, and park operations and management 
+determined that there would be no major adverse effects under either alternative; adverse 
+effects were analyzed as negligible to moderate. Guided by this analysis and the 
+superintendent’s professional judgment, there would be no impairment of park resources and 
+values from implementation of either alternative.  
+Capitol Reef National Park 
+ 
+ 
+51
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+CONSULTATION AND COORDINATION 
+Internal Scoping  
+Internal scoping was conducted by an interdisciplinary team of professionals from Capitol Reef 
+National Park, Intermountain Region Office, the DSC, and CFLHD. Interdisciplinary team 
+members met at the park on February 10 and 11, 2009, to discuss the purpose and need for the 
+project; existing conditions, and potential alternatives. An environmental screening form was 
+completed by park staff in May 2009 to consider potential effects on park resources and to 
+identify the appropriate NEPA document for analyzing those potential effects. The appropriate 
+NEPA document was identified as an EA. On October 20, 2009 staff from the park, DSC, and 
+CFLHD reviewed conditions along the Scenic Drive again, to consider repair and rehabilitation 
+procedures, potential environmental impacts, and possible mitigation measures. The team also 
+considered past, present, and reasonably foreseeable projects that may have cumulative 
+effects, gathered background information, and discussed public outreach for the project.  
+Agency Consultation 
+In accordance with the Endangered Species Act, the National Park Service contacted the U.S. 
+Fish and Wildlife Service (USFWS) with regards to federally listed special status species. The 
+USFWS concurred with the NPS opinion that the proposed project is not likely to adversely 
+affect any protected species, and is not likely to adversely modify critical habitat of the Mexican 
+spotted owl. The NPS consultation letter and the USFWS concurrence are included in Appendix 
+A of this EA.  
+In accordance with Section 106 of the National Historic Preservation Act, the NPS provided the 
+Utah SHPO an opportunity to comment on the effects of this project through submittal of 
+separate documentation. A consultation letter was sent to the SHPO by the park on January 22, 
+2010. On January 28, the SHPO concurred that sites that are eligible for listing in the National 
+Register of Historic Places would not be adversely affected by the proposed project. The 
+consultation letter with signed concurrence by the SHPO is included as Appendix B of this EA. 
+Native American Consultation 
+Copies of the EA will be sent to Native American tribes during the public review period, 
+inlcuding: 
+• 
+Hopi Indian Tribe 
+• 
+Kaibab Paiute Indian Tribe of Arizona 
+• 
+Navajo Nation 
+• 
+Paiute Indian Tribes of Utah 
+• 
+San Juan Southern Paiute Tribe 
+• 
+Southern Ute Indian Tribe 
+• 
+Uintah and Ouray Ute Tribe 
+• 
+Ute Mountain Ute Tribe 
+• 
+White Mesa Ute 
+Environmental Assessment Review and List of Recipients 
+The environmental assessment will be released for public review in February 2010. To inform 
+the public of the availability of the environmental assessment, the National Park Service will 
+publish and distribute a letter or press release to local media outlets. Copies of the 
+Capitol Reef National Park 
+ 
+ 
+52
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+environmental assessment will be provided to interested individuals, upon request. Copies of 
+the document will also be available for review at the park’s visitor center and on the internet at 
+http://parkplanning.nps.gov/care. 
+The environmental assessment is subject to a 30-day public comment period. During this time, 
+the public is encouraged to submit their written comments to the National Park Service address 
+provided at the beginning of this document. Following the close of the comment period, all 
+public comments will be reviewed and analyzed, prior to the release of a decision document. 
+The National Park Service will issue responses to substantive comments received during the 
+public comment period, and will make appropriate changes to the environmental assessment, 
+as needed. 
+List of Preparers  
+From the National Park Service, Capitol Reef National Park, Torrey, Utah: 
+• 
+Al Hendricks, Superintendent 
+• 
+Riley Mitchell, Chief of Interpretation 
+• 
+Scott Brown, Chief Ranger 
+• 
+Linda Richards, Facility Manager 
+• 
+Dave Worthington, Chief, Resource Management and Science 
+• 
+Sandy Borthwick, Biologist 
+• 
+Cameron Cox, Archeological Technician 
+From the National Park Service, Denver Service Center: 
+• 
+Cam Hugie, Project Manager 
+• 
+Lee Terzis, Cultural Resource Specialist 
+• 
+Jesse Van Horne, Project Specialist, Landscape Architect 
+• 
+Steven Hoffman, Natural Resource Specialist 
+From the Federal Highway Administration, Central Federal Lands Highway Division: 
+• 
+Christopher Longley, Project Manager 
+From Parsons Brinckerhoff 
+• 
+Steven Morgan, Project Manager 
+• 
+Larry Nechanicky, Project Engineer 
+• 
+Colin Haggerty, Drainage Engineer 
+ 
+Capitol Reef National Park 
+ 
+ 
+53
+ 
+Resurface the 8-Mile Scenic Drive Road Environmental Assessment 
+ 
+ 
+ 
+References 
+ 
+USFWS 1979 
+Classification of Wetlands and Deepwater Habitats of the United States 
+Cowardin et al. 
+NPS 1985 
+General Management Plan and Development Concept Plan, Capitol Reef 
+National Park, 1985. 
+NPS 2001 
+Record of Decision, Final General Management Plan and Environmental 
+Impact Statement, Capitol Reef National Park, 2001 
+NPS 2006 
+Management Policies, National Park Service, U.S. Department of the Interior. 
+NPS 2008 
+Capitol Reef National Park Visitor Study. Capitol Reef National Park, Utah. 
+NPS 2008 
+National Park Service Procedural Manual #77-1: Wetland Protection 
+NPS 2008 
+National Park Service Procedural Manual #77-2: Floodplain Management 
+FHWA 2009 
+ Preliminary Design Study Report, Draft, Capitol Reef National Park, Wayne 
+County. 
+Bonnifield, J. 
+Archeological Inventory of the Scenic Drive Road Project in Capitol Reef 
+2009  
+National Park, Utah.  
+Capitol Reef National Park 
+ 
+ 
+54
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPENDIX A 
+ 
+ 
+ 
+ 
+ 
+U.S. Fish and Wildlife Service Consultation  
+and Concurrence Documentation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+APPENDIX B 
+ 
+ 
+ 
+ 
+ 
+Utah State Historic Preservation Office  
+Consultation and Concurrence Documentation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+As the nation’s principal conservation agency, the Department of the Interior has the responsibility for 
+most of our nationally owned public lands and natural resources. This includes fostering sound use of 
+our land and water resources; protecting our fish, wildlife, and biological diversity; preserving the 
+environmental and cultural values of our national parks and historic places; and providing for the 
+enjoyment of life through outdoor recreation. The department assesses our energy and mineral 
+resources and works to ensure that their development is in the best interests of all our people by 
+encouraging stewardship and citizen participation in their care. The department also has a major 
+responsibility for Native American reservation communities and for people who live in island territories 
+under U.S. Administration. 
+ 
+NPS D158/100327 February 2010 
+ 
+United States Department of the Interior � National Park Service 
+ 
+ 
