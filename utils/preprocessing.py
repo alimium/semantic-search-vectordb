@@ -55,4 +55,4 @@ def preprocess(file_path):
 #     names = os.listdir(path)
 #     files = [path / name for name in names]
 #     result = pool.map_async(preprocess, files, len(files) // cpu_count()).get()
-#     print(result[0][:50])
+#     print(len(max(result, key=lambda x: len(x))))
