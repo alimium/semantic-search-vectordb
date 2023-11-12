@@ -1,5 +1,5 @@
 # Byte-compiled / optimized / DLL files
-__pychache__/
+__pycache__/
 pycache/
 .py[cod]
 py.class
@@ -13,6 +13,9 @@ py.class
 
 # C extensions
 .so
+
+# Data files
+data/
 
 # Distribution / packaging
 .Python
