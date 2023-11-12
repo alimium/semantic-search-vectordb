@@ -38,7 +38,7 @@ def _extract_text(v):
 
 def _mp_handler(cpus, iterable):
     with Pool(cpus) as p:
-        p.map(_extract_text, iterable)
+        p.map(_extract_text, iterable, len(iterable) // cpus)
 
 
 def parse_files(
