@@ -8,7 +8,6 @@ from multiprocessing import Pool, cpu_count
 from pathlib import Path
 
 
-# TODO: need to try some embedding techniques
 if __name__ == "__main__":
     base_folder = Path("semantic_vdb_rag/data/pdf_raw")
     dst_folder = base_folder.parent / "extracted"
