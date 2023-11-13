@@ -1,0 +1,302 @@
+Taxable Year Ending
+SCHEDULE CC
+__ __ / __ __
+41A720CC (10-11) 
+*1100020222*
+ 
+Mo. 
+Yr. 
+Commonwealth of Kentucky 
+DEPARTMENT OF REVENUE
+COAL CONVERSION TAX CREDIT
+KRS 141.041
+➤ Attach to Form 720.
+ Name of Corporation 
+Federal Identification Number 
+Kentucky Corporation/LLET Account Number
+ __ __– __ __ __ __ __ __ __ 
+__ __ __ __ __ __
+ Location of coal conversion facility (street, city, county, state)
+(If more than one facility, complete a separate Schedule CC for each.)
+USE OF UNIT—To qualify, the facility must: (check appropriate box) 
+ 
+ 
+Generate steam or hot water for space heating or materials processing. 
+ 
+ 
+Provide direct heat for industrial processes.
+TYPE OF CONVERSION FOR WHICH CREDIT IS CLAIMED—To qualify, the facility must have: (check appropriate box) 
+ 
+ 
+A. Replaced a non-coal burning facility with a coal-burning facility.* 
+Date Completed
+ 
+ 
+B. Installed an additional facility capable of burning coal.* 
+Date Completed
+ 
+ 
+C. Converted a non-coal facility to a coal facility.* 
+Date Completed
+ 
+ 
+D. Substituted coal for other fuels in multi-fuel facility. Enter the calendar year  
+ 
+ 
+used as base year 
+ 
+ 
+  .   Complete Parts I and III below.
+* Attach a statement describing in detail the type of facility in use previously and the type of 
+facility in use after replacement, addition or conversion. Complete Parts I and II below. 
+PART I—SCHEDULE OF KENTUCKY COAL (Coal Subject to Taxation Under KRS Chapter 143) The corporation must complete.
+ 
+A 
+B 
+C 
+D
+Supplier’s
+Transportation
+Net Cost 
+Supplier
+Coal Severance
+Expense
+Number of
+Tons Used
+Purchase Price
+of Tons Used
+(B Minus C)
+ID Number
+Included in B
+a. 
+00
+b. 
+00
+c. 
+00
+d. 
+00
+e. 
+00
+f. 
+00
+ 
+TOTALS 
+00 
+PART II—COMPUTATION FOR NEW COAL USERS (To be completed by a corporation that checked box A, B or C above.)
+ 1. Total from Part I, column D ................................................................................................................................. 1  
+00
+ 2. Credit Rate is 4.5% ............................................................................................................................................... 2 x 
+.045
+ 3. Tax Credit: Multiply amount on line 1 by line 2. .............................................................................................. 3  
+00
+ 4. LLET Credit—Enter appropriate amount from line 3 on Schedule TCS, Part II, Column E ............................ 4  
+00
+ 5. Corporation Income Tax Credit—Enter appropriate amount from line 3 on Schedule TCS, 
+       Part II, Column F ................................................................................................................................................... 5  
+00
+ 
+(NOTE: This credit cannot reduce the LLET for the tax year below the $175 minimum.) 
+41A720CC (10-11) 
+Commonwealth of Kentucky 
+DEPARTMENT OF REVENUE
+ 
+Page 2
+*1100020223*
+PART III—COMPUTATION OF COAL SUBSTITUTION (To be completed by a corporation that checked box D on page 1.)
+ 1. Base year fuel input.
+ 
+A 
+B 
+C 
+D
+ 
+Number of 
+Million 
+Million 
+Percent of
+ 
+Fuel 
+Unit 
+Units Used 
+BTUs/Unit 
+BTUs/Fuel 
+BTUs Used*
+ 
+(Avg.) 
+ 
+a. 
+Kentucky Coal 
+Tons 
+x 
+=
+ 
+ 
+b. 
+Non-Kentucky Coal 
+Tons 
+x 
+=
+ 
+ 
+c. 
+Natural Gas 
+MCF 
+x 
+=
+ 
+ 
+d. 
+Crude Oil 
+Bbls. 
+x 
+=
+ 
+ 
+e. 
+Fuel Oil 
+Gals. 
+x 
+=
+ 
+ 
+f. 
+Other:  
+ 
+x 
+=
+ 
+ 
+g. 
+TOTAL of c, d, e and f ...........................................................................................................
+ 
+ 
+h. 
+TOTAL of a, b, c, d, e and f ................................................................................................... 
+100%
+ 
+ 
+*Compute percentages by dividing amounts in column C, lines a through f, by amount in column C, line h.
+ 2. Tax year fuel input. 
+ 
+A 
+B 
+C 
+D 
+ 
+Number of 
+Million 
+Million 
+Percent of
+ 
+Fuel 
+Unit 
+Units Used 
+BTUs/Unit 
+BTUs/Fuel 
+BTUs Used*
+ 
+(Avg.)
+ 
+a. 
+Kentucky Coal 
+Tons 
+x 
+=
+ 
+ 
+b. 
+Non-Kentucky Coal 
+Tons 
+x 
+=
+ 
+ 
+c. 
+Natural Gas 
+MCF 
+x 
+=
+ 
+ 
+d. 
+Crude Oil 
+Bbls. 
+x 
+=
+ 
+ 
+e. 
+Fuel Oil 
+Gals. 
+x 
+=
+ 
+ 
+f. 
+Other: 
+ 
+x 
+=
+ 
+ 
+g. 
+TOTAL of c, d, e and f ...........................................................................................................
+ 
+ 
+h. 
+TOTAL of a, b, c, d, e and f ................................................................................................... 
+100%
+ 
+ 
+*Compute percentages by dividing amounts in column C, lines a through f, by amount in column C, line h.
+41A720CC (10-11) 
+Commonwealth of Kentucky 
+DEPARTMENT OF REVENUE
+ 
+Page 3
+*1100020224*
+PART III—COMPUTATION OF COAL SUBSTITUTION (Continued) (To be completed by a corporation that checked box D on page 1.)
+ 3. Enter percentage of BTUs produced by sources other than coal in base year
+ 
+(from line 1g, column D) .................................................................................................................................  3
+ 4. Enter percentage of BTUs produced by sources other than coal in tax year
+ 
+(from line 2g, column D) .................................................................................................................................  4
+ 5. Subtract line 4 from line 3. If there was no decrease in percentage of BTUs
+ 
+from sources other than coal from base year to tax year, then the corporation
+ 
+is not entitled to the coal credit  ....................................................................................................................  5
+ 6. Enter percentage of BTUs produced by Kentucky coal in tax year (from line 2a, column D) ...................  6
+ 7. Enter percentage of BTUs produced by Kentucky coal in the base year
+ 
+(from line 1a, column D) .................................................................................................................................  7
+ 8. Subtract line 7 from line 6. If there was no increase in percentage of BTUs
+ 
+from Kentucky coal from base year to tax year, then the corporation is not
+ 
+entitled to the coal credit  ..............................................................................................................................  8
+ 9. Enter million BTUs input of Kentucky coal (from line 2a, column C) ..........................................................  9
+10. Compare percentages on lines 5 and 8, and enter the lesser percentage ..................................................  10
+11. Multiply amount on line 9 by percentage on line 10. Enter result here ......................................................  11
+12. Enter average million BTUs/unit (from line 2a, column B) ..........................................................................  12
+13. Divide line 11 by line 12. Enter result here ....................................................................................................  13
+14. Enter average purchase price per ton (total from Part I, column D,
+ 
+divided by total from Part I, column A) ..........................................................................................................  14 
+00
+15. Multiply line 13 by line 14. Enter result here .................................................................................................  15 
+00
+16. Credit rate is 4.5% ............................................................................................................................................  16 x 
+.045
+17. Tax Credit: Multiply amount on line 15 by line 16........................................................................................  17 
+00
+18. LLET Credit—Enter appropriate amount from line 17 on Schedule TCS, Part II, Column E ......................  18 
+00
+19. Corporation Income Tax Credit—Enter appropriate amount from line 17 on Schedule TCS,
+ 
+Part II, Column F ..............................................................................................................................................  19 
+00
+(NOTE: This credit cannot reduce the LLET below the $175 minimum.) 
+.

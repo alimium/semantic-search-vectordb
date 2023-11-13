@@ -1,0 +1,838 @@
+., .
+.
+,.. .
+, , \ .. \
+::)
+)
+;;
+::. ) ;,
+~~~OUNTAIN
+201 South Main, Suite 2300
+~ 1.. o... ,", 0 
+IIU'
+n. r.:' U
+(U:JII:,,
+Salt lake City, Utah 84111
+j C,
+May 29, 2007
+i\;,
+f ..
+UTiLI"! L..
+VIA OVERNIGHT MAIL
+Idaho Public Utilities Commission
+472 W. Washington
+Boise, ID 83702
+Attention:
+Jean D. Jewell
+Commission Secretary
+RE:
+Case No. P AC-
+07-
+Annual Notice of Revision ofQF Variable Energy Prices
+In compliance with IPUC Order No. 29316, Rocky Mountain Power, a division ofPacifiCorp, is
+providing the updated QF variable energy price in accordance with the terms of the 1992
+amendments to Idaho QF power purchase agreements.
+The variable energy rate applicable to deliveries commencing July 1 , 2007 extending through
+June 30, 2008 shall be $12. 17/MWH. The calculation is attached, together with the relevant
+pages from the Company s FERC Form 1 for year/period ending 2006/Q4 (refer to items
+higWighted in blue).
+If you have any questions, please feel free to call or email Mark Widmer at (503) 813-5541 or
+mark. widmer~pacifi Corp. com
+Sincerely,
+MJf
+Vice President, Regulation
+Enclosures
+PacifiCorp
+Total Variable Energy Rate
+for 2007 
+2008
+Naughton
+Huntington
+Hunter
+Totals
+Carbon
+Fuel Cost ($) $ 13,633,123 $ 65,409 065 $ 56,823,628 $ 86,493,418 $ 222,359,234
+2006 FERC FORM 1 - Page 402 Line 20
+477,276
+858,236
+929,400
+139,007
+Generation (MWH) 1 312 553
+2006 FERC FORM 1 . Page 402 Line 12
+10.66 IMWH
+Average Fuel Cost ($/MWH)
+51 IMWH
+Variable O&M
+IPUC Order 30078. Dated June 29. 2006
+12.17 IMWH
+Total Variable Energy Rate for 2007 I 2008
+For deliveries commencing July 1 , 2007 extending through June 30, 2008
+13 PacifiCorp/OFs contracts with approved 1992 amendment language
+5/25/2007 3:37 PM
+Ijh Id AC June 2007 - Update 2007 Variable Coal Energy Rate 2007 0525.xls (2007)
+Name of Respondent
+This ~ort Is:
+Date of Report
+Year/Period of Report
+PacifiCorp
+(1) An Original
+(Mo, Da, Yr)
+2006/Q4
+(2)
+0 A Resubmission
+05/17/2007
+End of
+STEAM-ELECTRIC GENERATING PLANT STATISTICS (Large Plants)
+1. Report data for plant in Service only,
+2. Large plants are steam plants with installed capacity (name plate rating) of 25 000 Kw or more. Report in
+this page gas-turbine and internal combustion plants of 10,000 Kw or more, and nuclear plants.
+3. Indicate by a footnote any plant leased or operated
+as a joint facility.
+4. If net peak demand for 60 minutes is not available, give data which is available, specifying period.
+5. If any employees attend
+more than one plant, report on line 11 the approximate average number of employees assignable to each plant.
+6. If gas is used and purchased on a
+therm basis report the Btu content or the gas and the quantity of fuel burned converted to Mct.
+7. Quantities of fuel burned (Line 38) and average cost
+per unit offuel burned (Line 41) must be consistent with charges to expense accounts 501 and 547 (Line 42) as show on Line 20.
+8. If more than one
+fuel is burned in a plant furnish only the composite heat rate for all fuels burned.
+Line
+Item
+Plant
+Plant
+No.
+Name: 
+Carbon
+Name: Cholla
+(a)
+(b)
+(c)
+1 Kind of Plant (Internal Comb, Gas Turb, Nuclear
+Steam
+Steam
+Type of Constr (Conventional, Outdoor, Boiler, etc)
+Outdoor Boiler
+Full Outdoor
+3 Year Originally Constructed
+1954
+1981
+Year Last Unit was Installed
+1957
+1981
+5 Total Installed Cap (Max Gen Name Plate Ratings-MW)
+188.
+414.
+Net Peak Demand on Plant - MW (60 minutes)
+175
+378
+7 Plant Hours Connected to Load
+8718
+8332
+8 Net Continuous Plant Capability (Megawatts)
+9 When Not Limited by Condenser Water
+172
+380
+When Limited by Condenser Water
+Average Number of Employees
+Net Generation, Exclusive of Plant Use - KWh
+1312553000
+2755783000
+Cost of Plant: Land and Land Rights
+956546
+1246363
+Structures and Improvements
+12195375
+46531254
+Equipment Costs
+78255924
+327174942
+Asset Retirement Costs
+313308
+35051
+Total Cost
+91721153
+374987610
+Cost per KW of Installed Capacity (line 17/5) Including
+486.3264
+905.7672
+Production Expenses: Oper, Supv, & Engr
+103478
+1526906
+Fuel
+13633123
+45467404
+Coolants and Water (Nuclear Plants Only)
+Steam Expenses
+1235100
+2488756
+Steam From Other Sources
+Steam Transferred (Cr)
+Electric Expenses
+1897270
+1353347
+Misc Steam (or Nuclear) Power Expenses
+3853893
+1783535
+Rents
+32322
+122887
+Allowances
+Maintenance Supervision and Engineering
+2432903
+Maintenance of Structures
+233317
+675302
+Maintenance of Boiler (or reactor) Plant
+2403799
+3033534
+Maintenance of Electric Plant
+864401
+646757
+Maintenance of Misc Steam (or Nuclear) Plant
+355705
+2501736
+Total Production Expenses
+24612408
+62033067
+Expenses per Net KWh
+0188
+0225
+Fuel: Kind (Coal , Gas, Oil , or Nuclear)
+Coal
+Oil
+Composite
+Coal
+Oil
+Composite
+Unit (Coal-tons/Oil-barrel/Gas-mcf/N uclear -indicate)
+Tons
+Barrels
+Tons
+Barrels
+Quantity (Units) of Fuel Burned
+632354
+2908
+1527105
+1855
+Avg Heat Cont - Fuel Burned (btu/indicate if nuclear)
+11709
+140000
+9712
+136093
+Avg Cost of Fuel/unit, as Delvd f.
+b. during year
+20.548
+77.503
+000
+28.955
+72.751
+000
+Average Cost of Fuel per Unit Burned
+21.203
+000
+000
+29.685
+000
+000
+Average Cost of Fuel Burned per Million BTU
+905
+13. 181
+920
+528
+12.728
+532
+Average Cost of Fuel Burned per KWh Net Gen
+010
+000
+010
+016
+000
+016
+Average BTU per KWh Net Generation
+11282.184
+13.027
+11295.211
+10763.724
+848
+10767.572
+FERC FORM NO. 1 (REV. 12-03)
+Page 402
+Name of Respondent
+This ~ort Is:
+Date of Report
+Year/Period of Report
+PacifiCorp
+(1) An Original
+(Mo, Da, Yr)
+2006/Q4
+(2)
+DA Resubmission
+05/17/2007
+End of
+STEAM-ELECTRIC GENERATING PLANT STATISTICS (Large Plants) 
+(Continued)
+1. Report data for plant in Service only.
+2. Large plants are steam plants with installed capacity (name plate rating) of 25 000 Kw or more. Report in
+this page gas-turbine and internal combustion plants of 10,000 Kw or more, and nuclear plants.
+3. Indicate by a footnote any plant leased or operated
+as a joint facility.
+4. If net peak demand for 60 minutes is not available, give data which is available, specifying period.
+5. If any employees attend
+more than one plant, report on line 11 the approximate average number of employees assignable to each plant.
+6, If gas is used and purchased on a
+therm basis report the Btu content or the gas and the quantity of fuel burned converted to Mct.
+7. Quantities of fuel burned (Line 38) and average cost
+per unit of fuel burned (Line 41) must be consistent with charges to expense accounts 501 and 547 (Line 42) as show on Line 20.
+8. If more than one
+fuel is burned in a plant furnish only the composite heat rate for all fuels burned.
+Line
+Item
+Plant
+Plant
+No.
+Name: 
+Huntington
+Name: 
+Jim Bridger
+(a)
+(b)
+(c)
+Kind of Plant (Internal Comb, Gas Turb, Nuclear
+Steam
+Steam
+Type of Constr (Conventional, Outdoor, Boiler, etc)
+Outdoor Boiler
+Semi-Outdoor
+Year Originally Constructed
+1974
+1974
+Year Last Unit was Installed
+1977
+1979
+Total Installed Cap (Max Gen Name Plate Ratings-MW)
+996.
+1541.
+Net Peak Demand on Plant - MW (60 minutes)
+916
+1400
+Plant Hours Connected to Load
+8729
+8760
+Net Continuous Plant Capability (Megawatts)
+When Not Limited by Condenser Water
+895
+1413
+When Limited by Condenser Water
+Average Number of Employees
+167
+342
+Net Generation, Exclusive of Plant Use - KWh
+6139007000
+10060478000
+Cost of Plant: Land and Land Rights
+2386782
+1161925
+Structures and Improvements
+100385029
+133223694
+Equipment Costs
+511645641
+762621386
+Asset Retirement Costs
+2709703
+9171815
+Total Cost
+617127155
+906178820
+Cost per KW of Installed Capacity (line 17/5) Including
+619.6056
+588.0078
+Production Expenses: Oper, Supv, & Engr
+12960
+16749677
+Fuel
+56823628
+134687486
+Coolants and Water (Nuclear Plants Only)
+Steam Expenses
+6056760
+3541899
+Steam From Other Sources
+Steam Transferred (Cr)
+Electric Expenses
+132186
+Misc Steam (or Nuclear) Power Expenses
+9627725
+15298152
+Rents
+89768
+728304
+Allowances
+Maintenance Supervision and Engineering
+1343814
+1361822
+Maintenance of Structures
+1374744
+7673456
+Maintenance of Boiler (or reactor) Plant
+10468523
+24789113
+Maintenance of Electric Plant
+5011369
+7067362
+Maintenance of Misc Steam (or Nuclear) Plant
+1188364
+2174513
+Total Production Expenses
+91997655
+183607666
+Expenses per Net KWh
+0150
+0183
+Fuel: Kind (Coal , Gas, Oil, or Nuclear)
+Coal
+Oil
+Composite
+Coal
+Oil
+Composite
+Unit (Coal-tons/Oil-barrel/Gas-mcf/Nuclear-indicate)
+Tons
+Barrels
+Tons
+Barrels
+Quantity (Units) of Fuel Burned
+2621873
+12812
+5695821
+24008
+Avg Heat Cont - Fuel Burned (btu/indicate if nuclear)
+11219
+140000
+9219
+140000
+Avg Cost of Fuel/unit, as Delvd f.
+b. during year
+21.255
+81.877
+000
+23.586
+93.706
+000
+Average Cost of Fuel per Unit Burned
+21.273
+000
+000
+23.252
+000
+000
+Average Cost of Fuel Burned per Million BTU
+948
+13.925
+965
+261
+15.936
+281
+Average Cost of Fuel Burned per KWh Net Gen
+009
+000
+009
+013
+000
+013
+Average BTU per KWh Net Generation
+9583.207
+12.272
+9595.479
+10438.953
+14.032
+10452,984
+FERC FORM 
+NO. 1 (REV. 12-03)
+Page 402.
+, 
+Name of Respondent
+This ~ort Is:
+Date of Report
+Year/Period of Report
+PacifiCorp
+(1) An Original
+(Mo, Da, Yr)
+2006/Q4
+(2)
+DA Resubmission
+05/17/2007
+End of
+STEAM-ELECTRIC GENERATING PLANT STATISTICS (Large 
+Plants)(Continued)
+9. Items under Cost of Plant are based on U. S. of A. Accounts. Production expenses do not include Purchased Power, System Control and Load
+Dispatching, and Other Expenses Classified as Other Power Supply Expenses.
+10. For IC and GT plants , report Operating Expenses, Account Nos.
+547 and 549 on Line 25 "Electric Expenses," and Maintenance Account Nos, 553 and 554 on Line 32
+Maintenance of Electric Plant." Indicate plants
+designed for peak load service. Designate automatically operated plants.
+11. For a plant equipped with combinations of fossil fuel steam , nuclear
+steam , hydro, internal combustion or gas-turbine equipment, report each as a separate plant. However, if a gas-turbine unit functions in a combined
+cycle operation with a conventional steam unit, include the gas-turbine with the steam plant.
+12. If a nuclear power generating plant, briefly explain by
+footnote (a) accounting method for cost of power generated including any excess costs attributed to research and development; (b) types of cost units
+used for the various components of fuel cost; and (c) any other informative data concerning plant type fuel used, fuel enrichment type and quantity for the
+report period and other physical and operating characteristics of plant.
+Plant
+Plant
+Plant
+Line
+Name: 
+Hunter Unit No.
+Name:
+Hunter Unit No.
+Name: Hunter- Total Plant
+No.
+(d)
+(e)
+(f)
+Steam
+Steam
+Steam
+Outdoor Boiler
+Outdoor Boiler
+Outdoor Boiler
+1980
+1983
+1978
+1980
+1983
+1983
+285.
+495.
+1223.
+271
+459
+1143
+7288
+8129
+8760
+259
+460
+1122
+225
+1828040000
+3433975000
+8477276000
+9688975
+10275400
+29653350
+50557997
+89608334
+201765762
+153975955
+378888393
+764145430
+1893538
+1893538
+5680614
+216116465
+480665665
+1001245156
+758.3034
+970.0619
+818.3450
+18608228
+34932246
+86493418
+2945176
+2961088
+8858277
+41300
+41300
+123900
+-4669798
+2791516
+300537
+31237
+35829
+105385
+1783200
+1446619
+4695032
+7892743
+5782359
+18813958
+3421677
+884164
+5123522
+258996
+309695
+930875
+30312759
+49184816
+125444904
+0166
+0143
+0148
+Coal
+Oil
+Composite
+Coal
+Oil
+Composite
+Coal
+Oil
+Composite
+Tons
+Barrels
+Tons
+Barrels
+Tons
+Barrels
+841436
+2949
+1580669
+11726
+3954190
+16505
+11335
+140000
+11185
+140000
+11215
+140000
+000
+000
+000
+000
+000
+000
+21.402
+87.456
+000
+21.810
+000
+000
+21.426
+000
+000
+21.509
+000
+000
+962
+14.774
+975
+958
+15.449
+986
+959
+14.874
+974
+010
+000
+010
+010
+000
+010
+010
+000
+010
+10434.867
+9.485
+10444.352
+10296.978
+20,078
+10317.056
+10462.363
+11.448
+10473.811
+FERC FORM 
+NO. 1 (REV. 12-03)
+Page 403.
+, 
+Name of Respondent
+This ~ort Is:
+Date of Report
+Year/Period of Report
+PacifiCorp
+(1) An Original
+(Mo, Da, Yr)
+2006/Q4
+(2)
+DA Resubmission
+05/17/2007
+End of
+STEAM-ELECTRIC GENERATING PLANT STATISTICS (Large 
+Plants)(Continued)
+9. Items under Cost of Plant are based on U. S. of A. Accounts. Production expenses do not include Purchased Power, System Control and Load
+Dispatching, and Other Expenses Classified as Other Power Supply Expenses.
+10. For IC and GT plants, report Operating Expenses, Account Nos.
+547 and 549 on Line 25 "Electric Expenses," and Maintenance Account Nos. 553 and 554 on Line 32
+Maintenance of Electric Plant." Indicate plants
+designed for peak load service. Designate automatically operated plants.
+11. For a plant equipped with combinations of fossil fuel steam, nuclear
+steam , hydro, internal combustion or gas-turbine equipment, report each as a separate plant. However, if a gas-turbine unit functions in a combined
+cycle operation with a conventional steam unit, include the gas-turbine with the steam plant.
+12, If a nuclear power generating plant, briefly explain by
+footnote (a) accounting method for cost of power generated including any excess costs attributed to research and development; (b) types of cost units
+used for the various components of fuel cost; and (c) any other informative data concerning plant type fuel used. fuel enrichment type and quantity for the
+report period and other physical and operating characteristics of plant.
+Plant
+Plant
+Plant
+Line
+Name: 
+Naughton
+Name:
+Wyodak
+Name: Gadsby Steam Plant
+No.
+(d)
+(e)
+(f)
+Steam
+Steam
+Steam
+Outdoor Boiler
+Conventional
+Outdoor
+1963
+1978
+1951
+1971
+1978
+1955
+707.
+289.
+257.
+704
+278
+213
+8760
+7207
+1651
+700
+268
+235
+145
+4929400000
+1886039000
+130819000
+4290776
+210526
+1252090
+60389753
+49345431
+13877760
+314227168
+278145860
+56496749
+4359064
+301453
+746792
+383266761
+328003270
+72373391
+541.9496
+1132.2170
+280.9526
+501341
+2544249
+46172
+65409065
+15020362
+7793183
+7378618
+41914
+7102076
+991108
+2718842
+2000
+7796
+1219
+1490534
+1064394
+407401
+74305
+8178136
+9158158
+531662
+3005603
+2952695
+613311
+564432
+902250
+490962
+94738113
+31984065
+12269656
+0192
+0170
+0938
+Coal
+Gas
+Composite
+Coal
+Oil
+Composite
+Gas
+Tons
+MCF
+Tons
+Barrels
+MCF
+2603974
+153975
+1357141
+10067
+1806776
+9852
+1057
+7979
+140000
+1056
+25.037
+000
+000
+10.589
+93.308
+000
+000
+000
+000
+24.870
+214
+000
+10.376
+000
+000
+313
+000
+000
+262
+906
+271
+650
+15.869
+692
+087
+000
+000
+013
+000
+013
+008
+000
+008
+060
+000
+000
+10408.539
+33.701
+10442.240
+11482.931
+31.385
+11514.317
+14576. 132
+000
+000
+FERC FORM 
+NO. 1 (REV. 12-03)
+Page 403.

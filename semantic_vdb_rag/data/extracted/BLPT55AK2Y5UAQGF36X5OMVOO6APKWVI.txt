@@ -1,0 +1,1894 @@
+26892
+Proposed Rules
+Federal Register
+Vol. 64, No. 95
+Tuesday, May 18, 1999
+This section of the FEDERAL REGISTER
+contains notices to the public of the proposed
+issuance of rules and regulations. The
+purpose of these notices is to give interested
+persons an opportunity to participate in the
+rule making prior to the adoption of the final
+rules.
+Pathogen Reduction (PR)/Hazard
+Analysis and Critical Control Points
+(HACCP) regulations, and to encourage
+establishments to adopt new
+technologies and methods that will
+improve food safety and other consumer
+protections.
+DATES: Comments must be received on
+or before July 19, 1999.
+DEPARTMENT OF AGRICULTURE
+Food Safety and Inspection Service
+9 CFR Parts 317, 318, 319, and 381
+[Docket No. 97–001P]
+RIN 0583–AC35
+Elimination of Requirements for Partial
+Quality Control Programs
+AGENCY: Food Safety and Inspection
+Service, USDA.
+ACTION: Proposed rule.
+ADDRESSES: Submit one original and
+two copies of written comments to FSIS
+Docket Clerk, DOCKET #97–001P, U.S.
+Department of Agriculture, Food Safety
+and Inspection Service, Room 112
+Cotton Annex Building, 300 12th Street,
+SW., Washington, DC 20250–3700. All
+comments submitted in response to this
+proposed rule will be available for
+public inspection in the Docket Clerk’s
+Office between 8:30 a.m. and 4 p.m.,
+Monday through Friday. Those who
+wish to make oral comments can
+schedule an appointment with the
+person whose name appears in FOR
+FURTHER INFORMATION CONTACT.
+FOR FURTHER INFORMATION CONTACT:
+Patricia F. Stolfa, Assistant Deputy
+Administrator, Office of Policy, Program
+Development, and Evaluation, Food
+Safety and Inspection Service, U.S.
+Department of Agriculture, Washington,
+DC 20250–3700; (202) 205–0699.
+SUPPLEMENTARY INFORMATION:
+regulations. Command-and-control
+requirements specify, often in great
+detail, how a plant is to achieve
+particular food safety or other regulatory
+objectives, while performance standards
+state the objectives or levels of
+performance to be achieved and give a
+plant the ability to describe how it will
+achieve them. Included in the Agency’s
+review are regulations on sanitation,
+meat and poultry products with visible
+defects affecting safety or quality, and
+economic adulteration of meat and
+poultry products.
+FSIS announced its regulatory review
+in a December 29, 1995, advance notice
+of proposed rulemaking (ANPR) ‘‘FSIS
+Agenda for Change’’ (60 FR 67469). The
+Agency said that, by eliminating
+unnecessary regulations and replacing
+command-and-control prescriptions
+with performance standards, inspected
+establishments would have greater
+flexibility to adopt innovations that can
+yield food-safety benefits. Among the
+regulations FSIS has identified as
+candidates for modification or
+elimination are those that delimit
+processing and treatment methods
+intended to eliminate specific food
+safety hazards and requirements
+concerning quality control programs.
+FSIS has already reduced its role of
+approving and specifying in detail the
+design and operation of establishment-
+operated partial quality control (PQC)
+programs. In 1997, the Agency
+published a final rule that, among other
+things, removes the requirement for
+FSIS prior approval of most PQC
+programs (62 FR 45016, August 25,
+1997). Recognizing that the
+establishment bears primary
+responsibility for the control of its own
+manufacturing processes, FSIS now
+thinks it appropriate to take the further
+step of eliminating PQC requirements
+other than for irradiation of poultry (9
+CFR 381.149(b)), so that establishments
+will have the flexibility they need to be
+innovative, and consistent with HACCP
+and the Agency’s regulatory policy.
+(FSIS proposed to remove requirements
+for quality control programs for poultry-
+product irradiation in its February 24,
+1999, proposal on the irradiation of
+meat and meat products (64 FR 9809).)
+Quality Control
+Quality control, in general, is a
+planned, documented system of
+activities intended to ensure the
+SUMMARY: The Food Safety and
+Inspection Service (FSIS) is proposing
+to amend the meat and poultry products
+inspection regulations by removing the
+requirements pertaining to partial
+quality control (PQC) programs except
+with respect to the irradiation of poultry
+products. A PQC program controls a
+single product, operation, or part of an
+operation in a meat or poultry
+establishment. The proposal would
+remove the design requirements for PQC
+programs and the requirements for
+establishments to have PQC programs
+for certain products or processes, other
+than those that apply to irradiation of
+poultry products. For example, the
+proposal would remove the
+requirements for poultry slaughtering
+establishments operating under the New
+Line Speed (NELS) inspection system
+and the New Turkey Inspection System
+(NTIS) to have PQC programs and the
+requirements concerning the design,
+content, and Agency approval of those
+programs. The proposal would also
+remove from the thermal processing
+regulations the requirements for FSIS
+prior approval of systems and devices
+not specified in the regulations and all
+requirements concerning PQC programs.
+The proposal would expand the
+alternatives available to establishments
+under the thermal processing
+regulations for ensuring the safety of
+their products. This proposal is
+intended to provide inspected
+establishments with flexibility, to make
+the regulations more consistent with the
+Background
+FSIS carries out programs designed to
+ensure that meat, poultry, and egg
+products are wholesome, not
+adulterated, and properly marked,
+labeled, and packaged. FSIS is
+implementing the ‘‘Pathogen Reduction;
+Hazard Analysis and Critical Control
+Point (HACCP) Systems’’ final rule
+published July 25, 1996 (61 FR 38806),
+to reduce the risk of foodborne illness
+associated with the consumption of
+meat and poultry products to the
+maximum extent possible. The Pathogen
+Reduction (PR)/HACCP final rule
+requires establishments to take
+appropriate and feasible measures to
+prevent or reduce the likelihood of
+physical, chemical, and microbiological
+hazards in the production of meat and
+poultry products.
+FSIS is reviewing its other regulations
+to determine how they can be made
+more consistent with the PR/HACCP
+regulations and the regulatory approach
+they embody. This approach favors
+performance-based standards over
+prescriptive, command-and-control
+26893
+Federal Register / Vol. 64, No. 95 / Tuesday, May 18, 1999 / Proposed Rules
+Proposed Changes
+prevent the marketing of products that
+are misbranded or that lack the quality
+or value that consumers expect. A plant
+operating under a PQC program for net
+weight keeps records of its checks and
+corrective actions to avoid lot
+inspection. Under PQC programs for fat
+and water in frankfurters, plants keep
+ingredient records by lot and results of
+laboratory tests for verification by FSIS
+inspectors. A plant operating a PQC
+program for boneless meat inspection
+does its own on-line inspection and
+keeps records. The FSIS inspector
+randomly selects samples of product
+that the plant has already inspected to
+ensure that the records are accurate.
+Establishments are required by
+current regulations to have PQC
+programs for certain products or
+processes, such as the one for MS(S),
+just mentioned. A PQC program for on-
+line carcass quality control is required
+for an establishment operating under
+either the NELS or the NTIS poultry
+inspection system (9 CFR 381.76(c)).
+PQC Programs in Slaughtering Plants
+FSIS is proposing to eliminate the
+requirement in 9 CFR 317.21(b) that
+establishments have, as an alternative to
+State or local certification of scales, PQC
+programs or total quality control system
+provisions for checking the accuracy of
+scales. The Agency is proposing simply
+to require that there be a certification of
+accuracy from State or local authorities
+or from a State-registered or -licensed
+scale repair firm or person.
+Establishments could continue to
+maintain scale-checking provisions in
+their QC programs and systems.
+The Agency is proposing to remove
+from the meat and poultry inspection
+regulations the design requirements for
+partial quality control programs (9 CFR
+318.4(d), 381.145(d)). The provisions
+outline what is necessary when an
+establishment is required to have a PQC
+program. Because the Agency is
+proposing to revoke the regulatory
+requirements pertaining to PQC
+programs, there is no need to describe
+what is necessary when PQC is
+required.
+FSIS would also remove quality
+control requirements (9 CFR 318.7)
+governing the use of nitrites in bacon
+curing and the use of certain organic
+acids singly or in combination to delay
+the discoloration of fresh meat cuts.
+Such requirements are incompatible
+with the Agency’s regulatory objectives
+because they specify a manner of
+compliance rather than simply a
+performance standard.
+Both the nitrite and the organic acid
+regulations clearly state the maximum
+limits of use of the substances they
+concern. The consumer is also informed
+by product labeling of the presence of
+the substances in the products. The
+regulations provide clear limits and
+adequate consumer protections without
+the quality control requirements. The
+Agency is also proposing to improve the
+accuracy of the regulation by using the
+term ‘‘production of botulinum toxin’’
+rather than ‘‘growth of botulinum toxin’’
+(see 9 CFR 318.7(b)(3)(ii)). FSIS is aware
+that these food-safety regulations also
+may be regarded as inconsistent with
+the PR/HACCP regulations, but the
+Agency would prefer to address this
+inconsistency in a future rulemaking.
+The Agency proposes to make the
+meat and poultry canning regulations (9
+CFR 318.305 and 381.305) more
+consistent with the Agency’s new, non-
+command-and-control regulatory
+approach by eliminating a number of
+prior-approval requirements. First, the
+requirement that the Agency prior-
+approve temperature-indicating devices
+other than mercury-in-glass
+The Agency conducts verification
+checks on the plant-operated PQC
+programs required for certain inspection
+systems. Establishments being
+considered for implementation of the
+NELS and NTIS inspection systems
+(currently, about 10 per year) must meet
+requirements both for facilities and for
+PQC programs.
+Interested establishments are required
+to obtain FSIS approval of their PQC
+programs before the programs can be
+implemented on a trial basis.
+Unacceptable PQC programs are
+returned to the establishment for
+correction.
+Once approved, PQC programs are
+subject to on-site review by the Agency
+for six months after implementation.
+The establishment then submits an
+updated PQC program to the Agency for
+final review. If, at that stage, the
+program is found to be acceptable, full
+approval is granted, although the
+establishment remains subject to
+Agency verification checks. If the
+program is unacceptable, the trial period
+may be extended or approval of the
+program may be withdrawn.
+The Agency provides guidelines to
+help interested establishments prepare
+for implementation of the NELS and
+NTIS inspection systems. Instructions
+for developing PQC programs are
+included in those guidelines. The
+Agency also offers instruction on
+slaughter quality control programs to
+Government and industry personnel at
+the FSIS Training Center.
+stability of processes and uniformity of
+products. Quality control programs and
+systems are based on the assumption
+that there is normal variation in any
+process, and that the process is under
+control if that variation is not exceeded.
+In the food industry, quality control
+systems are used in processing
+operations to make sure that products
+from TV dinners to hotdogs will be
+exactly the same—will have the same
+content, flavor, color, texture, etc.—no
+matter how many thousands are made
+in a production run. Quality control
+programs can be used to maintain
+normal process variation within the
+limits prescribed in a standard, such as
+the 50-percent-fat limitation in a
+breakfast sausage. If the expected
+variation is exceeded, corrective action
+is taken to restore process stability.
+Under FSIS regulations, a company
+may choose to place all of the processes
+and products in a plant under a
+comprehensive, or total, quality control
+system, or the company may choose to
+place only individual products or
+processes under quality control. A
+quality control program for only one
+process or product in a plant is known
+as a partial quality control (PQC)
+program.
+Some PQC programs control product
+potential health and safety problems;
+others focus on economic or quality
+factors. PQC programs controlling for
+safety factors include those for
+thermally processed products, which
+are intended primarily to prevent toxin
+formation in the processed product. The
+programs for cooked beef products are
+intended to ensure that the processing
+of the products meets the regulatory
+requirements for handling, processing
+(time, temperature, and relative
+humidity), and storage to prevent
+pathogen formation in the products.
+PQC programs that control for product
+safety have been largely superseded by
+required HACCP plans.
+PQC programs that control for
+economic or non-food-safety factors
+include those used to control the fat and
+water content of hotdogs, the number of
+meatballs in, or pepperoni slices on, a
+product, and the moisture or protein-fat-
+free (PFF) content of a product labeled
+‘‘ham, water added.’’ The quality
+control program for mechanically
+separated (species) (MS(S)) is intended
+to control bone particle size, calcium
+content, fat and protein content, and
+protein efficiency ratio (9 CFR 319.5).
+The programs for pressed ham and
+spiced ham products are intended to
+ensure that the products meet the PFF
+regulatory requirements of § 319.104.
+PQC programs to control products for
+economic factors are intended to
+26894
+Federal Register / Vol. 64, No. 95 / Tuesday, May 18, 1999 / Proposed Rules
+corrective actions to be taken,
+recordkeeping, or monitoring
+procedures, that would be followed
+when process deviations occurred. They
+could also include partial quality
+control programs, developed by or for
+the establishment, but not subject to
+FSIS approval. Such food-safety-related
+PQC programs would, however, be
+superseded by or integrated with
+provisions of the establishment’s
+HACCP plan when that plan is
+implemented.
+Similarly, under this proposal, a
+thermal processing establishment would
+have four alternatives for handling
+finished product inspections. The
+finished product inspections could be
+handled under: (1) The existing
+regulations (§§ 318.309(d) and
+381.309(d)); (2) a HACCP plan; (3) the
+provisions of an approved total quality
+control system, until the PR/HACCP
+final rule is applicable to the
+establishment; or (4) alternative
+documented procedures for handling
+finished product inspections. The
+alternative documented procedures
+could be PQC programs or the HACCP
+plan provisions.
+In any case, any alternative
+procedures for handling process
+deviations or finished product
+inspections would have to ensure that
+only safe, stable product is shipped in
+commerce. This proposed requirement
+dictates that not only would the
+procedures have to ensure that the
+product is free of microorganisms of
+public health significance, but also that
+it is not adulterated by other types of
+microorganisms, such as ‘‘flat-sour’’
+bacteria or other spoilage organisms.
+This proposed requirement is consistent
+with the aims of HACCP and with the
+statutory prohibitions against the
+distribution of adulterated and
+misbranded meat and poultry products
+in commerce.
+The proposed amendments would
+make the thermal processing regulations
+more consistent with the PR/HACCP
+final rule by explicitly providing a
+HACCP-plan alternative to the
+prescriptive procedures (consistent with
+§ 417.2(b)(3)) and by including, as an
+option for handling process deviations
+or final product inspections, alternative
+documented procedures that ensure that
+only safe and stable products are
+shipped in commerce. This option
+would provide the establishment with
+the flexibility to use PQC programs or
+other procedures that meet a regulatory
+public health standard.
+It should be noted that, under the
+HACCP regulations, an establishment’s
+HACCP plan does not have to address
+potential microbial hazards in thermally
+processed/commercially sterile product
+if the establishment is following the
+current regulatory requirements for such
+product. However, the HACCP plan
+must address physical and chemical
+hazards to which the product may be
+subject.
+Besides proposing to remove the
+requirements pertaining to PQC
+programs that control food-safety
+factors, which are inconsistent with PR/
+HACCP, FSIS is proposing to remove
+the requirements affecting economic or
+quality-related PQC programs. FSIS
+considers these requirements to be too
+prescriptive. They tend to perpetuate
+the command-and-control approach to
+food inspection and regulation. They are
+not in keeping with the Agency’s new
+regulatory approach, which is oriented
+more toward monitoring industry
+compliance with performance-related
+objectives.
+First, the Agency is proposing to
+remove the QC system requirements
+from the regulations and requirements
+governing the identity and composition
+of MS(S) product and label approval of
+the product (9 CFR 319.5). The MS(S)
+regulations specify the maximum
+calcium content, the minimum protein
+content, the protein efficiency ratio, the
+maximum fat content, and the
+maximum bone particle size for the
+product. The regulations also specify
+the elements that the QC system must
+contain, including a written description
+of the methods used by the
+establishment to maintain uniformity of
+raw materials used in manufacturing
+product and to control handling and
+processing of the raw materials and
+finished product. The regulations also
+specify the sample size and sampling
+frequency for food-chemistry analysis of
+product to determine compliance with
+the standards. FSIS regards these
+provisions as overly prescriptive and
+believes that, to achieve the purposes of
+the MS(S) regulations, it is sufficient to
+set the product standards for fat,
+protein, calcium content, and bone
+particle size.
+The Agency is also proposing to
+update the provision for finished
+product samples to be analyzed
+according to methods of the Association
+of Official Analytical Chemists (AOAC)
+or methods listed in the FSIS
+‘‘Chemistry Laboratory Guidebook’’ to
+reflect use of the most recent edition of
+the AOAC compendium. In addition,
+FSIS is proposing to give establishments
+the latitude to use validated scientific
+methods equivalent to, but not listed in,
+the AOAC and FSIS references. Under
+this proposed action, the establishments
+will have flexibility to choose the most
+appropriate means of ensuring that
+thermometers (at §§ 318.305(a)(1)(ii) and
+381.305(a)(1)(ii)) would be replaced.
+Temperature-indicating devices, such as
+resistance temperature detectors, could
+be used and, as is the case currently,
+they would have to meet known
+standards of accuracy for such devices,
+but the frequency of testing for accuracy
+would not be prescribed.
+The Agency is also proposing to
+remove the requirement for case-by-case
+evaluation and approval by FSIS of
+thermal processing systems not
+specified in the regulations. As
+amended, 9 CFR 318.305(f) and
+381.305(f) would require that such
+systems be adequate to produce shelf-
+stable products consistently and
+uniformly. These requirements reflect
+the basic purposes of the canning
+regulations.
+FSIS is also proposing to remove from
+the thermal processing regulations (9
+CFR 318.307(b) and 381.307(b))
+provisions concerning PQC programs
+and requirements for FSIS prior
+approval of thermal processing systems
+not specified in the regulations,
+including monitoring and recording
+devices not specified in the regulations.
+The Agency tentatively concludes that
+these regulations will ensure the
+adequacy of these systems without the
+requirement that the Agency is
+proposing to delete, which is
+inconsistent with the PR/HACCP
+regulations.
+The Agency is also proposing to
+remove from the thermal processing
+regulations the requirements (in
+§§ 318.308 and 309 and §§ 381.308 and
+309) concerning partial quality control
+programs to control process deviations
+and establishment finished product
+inspection procedures. The Agency
+tentatively finds that these requirements
+are unnecessary. The detailed
+prescriptions in these sections, which
+are based on HACCP principles, would
+remain as acceptable protections against
+potential microbial contamination.
+Under this proposal, a thermal
+processing establishment would have
+four alternatives available to control
+process deviations identified in-process.
+The establishment could:
+(1) Provide for how it will handle the
+deviations under a HACCP plan; or,
+until subject to 9 CFR part 417, (2)
+follow the existing regulations
+(§§ 318.308(d) and 381.308(d)); (3)
+handle the deviations under an
+approved total quality control system
+until the PR/HACCP rule becomes
+applicable to it; or (4) use alternative
+documented procedures for handling
+process deviations. The alternative
+documented procedures could be
+provisions of a HACCP plan, such as
+26895
+Federal Register / Vol. 64, No. 95 / Tuesday, May 18, 1999 / Proposed Rules
+MS(S) meets the compositional and
+labeling identity requirements of the
+regulations, but they will also have the
+burden of demonstrating equivalence.
+The Agency is aware, however, that
+some may disagree with the evaluation
+of the MS(S) QC and analytical
+requirements as overly prescriptive;
+their comments on this matter are
+invited. Others may regard the
+incorporation by reference of the AOAC
+methods as unnecessary and such
+standards as those for fat content and
+protein efficiency ratio as duplicative of
+other regulatory requirements. Their
+comments are invited as well.
+Second, consistent with the other
+changes proposed in this document,
+FSIS is proposing to eliminate the
+quality control program requirements
+from the protein-fat-free (PFF)
+percentage regulations (§§ 319.104 and
+319.105) for various ‘‘finely divided’’
+cured ham products, such as patties,
+chopped or pressed ham, and spiced
+ham. Establishments would still be
+required to abide by the PFF percentage
+limits for these products.
+Finally, FSIS is proposing to remove
+the requirement that poultry
+slaughtering establishments operating
+under the NELS and NTIS inspection
+systems have PQC programs for carcass
+defects. If this proposed change is
+adopted, the establishments will have
+the flexibility to adopt quality control
+programs or other measures for ensuring
+the quality of their products. Removing
+the prior-approval aspect of these
+requirements will contribute to
+clarifying the respective roles of the
+inspection service and the regulated
+industry—a necessary task in making
+the requirements consistent with
+HACCP.
+FSIS inspectors would continue to
+check poultry in NELS and NTIS plants
+for visible contamination and carcass
+trimming defects.
+The alternative of mandating new
+general requirements or standards for
+PQC programs would differ little in its
+effects from the current requirements for
+PQC programs to have certain features
+and for process control under the
+programs to be based on generally
+accepted statistical principles (9 CFR
+318.4(d); 381.145(d)). Even if the current
+requirements were condensed, they
+would still be inconsistent with the PR/
+HACCP regulations and with the
+Agency’s new regulatory approach,
+establishments would continue to incur
+a substantial recordkeeping burden, and
+the Agency would have nearly the same
+burden as it now does of verifying
+establishment compliance with the
+requirements.
+FSIS chose the option of eliminating
+regulatory requirements for all PQC
+programs except QC programs for the
+irradiation of poultry products. This
+option provides establishments with the
+most flexibility in implementing process
+control programs in a HACCP
+environment. FSIS’s proposed rule on
+irradiation of meat and meat products
+(64 FR 9089, February 24, 1999) would
+eliminate the requirement for QC
+programs in facilities where poultry
+products are irradiated.
+Implementation of this proposed rule
+would enable FSIS to redirect resources
+from PQC program verification to other
+activities for ensuring that products are
+not adulterated or misbranded. FSIS has
+considered a number of alternatives to
+PQC program verification, such as
+finished product sampling for
+microbiological or food chemistry
+analysis and market sampling. Market
+sampling or national surveys can be
+used in lieu of inspecting lots or
+evaluating PQC programs for fat and
+water content of frankfurters. An
+alternative to FSIS evaluation of PQC
+programs for basting solutions in
+poultry products is finished product
+sampling for chemical analysis.
+In-plant sampling of finished
+products for chemical analysis is a tool
+that FSIS has used—and will continue
+to use—to determine whether products
+are in compliance with regulatory
+requirements and to verify the
+effectiveness of in-plant controls. To be
+most effective, such sampling and
+analysis would be carried out in
+conjunction with Agency HACCP-
+verification and other verification
+activities.
+FSIS also regards market sampling as
+a potentially useful tool for enforcing
+the statutes prohibiting the distribution
+in commerce of adulterated and
+misbranded meat and poultry products
+and for checking the effectiveness of
+establishment process controls.
+most PQC programs were eliminated.
+This action was taken to facilitate the
+transition to HACCP in official
+establishments producing the greatest
+portion of meat and poultry products
+consumed in the United States. FSIS is
+proposing to take the additional step of
+eliminating most requirements for
+establishments to have PQC programs
+for specific products or processes, as
+well as design requirements affecting
+most PQC programs. The only PQC
+program requirements this proposal
+would leave in place would be the
+requirement for QC programs for
+irradiated chicken. However, as
+mentioned previously, this requirement
+is being addressed in another
+rulemaking proceeding (64 FR 9809).
+The alternatives to this proposed
+rulemaking that FSIS considered were,
+in addition to the alternative of no
+rulemaking, those of mandating
+additional in-plant controls and of
+mandating general requirements and
+standards for PQC programs.
+The alternative of no rulemaking
+would impose no additional regulatory
+burdens on establishments, which
+would continue to have the assurance
+that their PQC programs meet basic
+design criteria. However, the Agency
+rejected this alternative because not
+changing the regulations would leave in
+place a prescriptive regulatory regime
+for process controls and PQC programs
+that conflict in a material way with the
+objectives of the PR/HACCP final rule.
+Under HACCP, establishments assume
+responsibility for building science-
+based, preventive process controls into
+the food production system to reduce or
+eliminate food safety hazards. This
+includes taking responsibility for
+ensuring that processes conform with
+sound food safety performance
+standards. Establishments need to be
+able to implement better and more
+innovative food-safety and other
+consumer-protection strategies. This
+includes the flexibility to design a PQC
+program and determine its content and
+implementation date.
+The alternative of mandating
+additional in-plant controls, whether in
+addition to or in lieu of PQC
+requirements, would add regulatory
+assurances that processes are under
+control and that products are safe,
+wholesome, and not misbranded.
+However, this alternative would add
+prescriptive, command-and-control
+requirements and restrict the scope for
+establishment food-safety initiatives,
+contradicting the Agency’s new
+regulatory approach. The additional
+requirements also would probably not
+result in food-safety improvement.
+Executive Order 12866 and Regulatory
+Flexibility Act
+This proposed rule has been
+determined to be significant, though not
+economically significant, and was
+reviewed by the Office of Management
+and Budget under Executive Order
+12866.
+FSIS is proposing to eliminate the
+regulatory requirements pertaining to
+establishment-operated PQC programs.
+This action would remove regulatory
+obstacles to innovation and command-
+and-control requirements inconsistent
+with the Agency’s new regulatory
+approach and the objectives of the PR/
+HACCP regulations. In its August 25,
+1997, final rule (62 FR 45016), the
+requirements for FSIS prior approval of
+26896
+Federal Register / Vol. 64, No. 95 / Tuesday, May 18, 1999 / Proposed Rules
+260 hrs./yr./program X 1,852 programs),
+add up to about $14 million in costs to
+the regulated industry.
+For most establishments, the proposal
+would not yield immediate, direct
+savings from removal of burdens
+associated with developing PQC
+programs because most PQC programs
+are voluntarily adopted by
+establishments. Establishments likely
+would continue the use of QC methods
+in their operations, so the removal of the
+regulatory requirement for
+establishments to follow the regulatory
+design specifications would not
+immediately yield a savings to
+establishments. Further, a substantial
+proportion of the costs of complying
+with this regulation was removed with
+the publication of the final rule
+eliminating prior approvals for facilities,
+equipment, and PQC programs (62 FR
+45016; August 25, 1997).
+However, FSIS currently requires that
+if establishments adopt PQC programs,
+the programs must meet certain design
+specifications and must contain certain
+specified information. Some
+establishments that are required to have
+PQC programs for certain products and
+processes would benefit from the
+removal of burdens associated with
+developing PQC programs. These
+establishments, including those
+involved in producing MS(S), meat cuts
+treated with organic acids, and other
+processing, could benefit from shifting
+some portion of their PQC program
+development and operation costs into
+HACCP-related or other activities.
+Also, under the proposed regulatory
+amendments, establishments would
+have greater freedom to innovate. An
+indeterminate proportion of the annual
+burden of developing PQC programs
+according to FSIS specifications could
+eventually be channeled into more
+efficient and effective use of industry
+resources, especially where PQC
+programs have been operated.
+Thus, although there would not be a
+direct savings from the removal of the
+regulatory requirements governing PQC
+programs, the industry potentially
+would be able to make more efficient
+and effective use of the $1 million or so
+in annual costs of developing the
+programs.
+Finally, the proposed rule would
+permit FSIS to reallocate field
+inspection and headquarters resources
+now used in oversight of establishment-
+operated PQC programs to higher
+priority food safety-related activities.
+substantial number of small entities.
+The proposal would affect about 72
+poultry slaughtering establishments,
+most of which are large business
+enterprises. It also would affect as many
+as 3,550 official meat and poultry
+processing establishments, of which a
+substantial majority, 3,330, are
+considered small entities under Small
+Business Administration criteria (500 or
+fewer employees per establishment).
+However, the proposal would not have
+a significant effect on these
+establishments. It would impose no new
+regulatory requirements necessitating
+investments or other resource
+commitments by establishments but
+would, by removing a number of
+existing regulatory requirements, permit
+more efficient resource utilization,
+especially to support establishment
+HACCP systems.
+The proposal would remove most
+remaining requirements for
+establishments to have PQC programs
+for certain products or processes and the
+general requirement concerning the
+design of such programs. The proposal
+would give inspected establishments
+greater flexibility to innovate and to
+introduce new processes or products
+that meet HACCP or other consumer
+protection objectives. As a result, the
+proposal would theoretically provide
+several thousand dollars of regulatory
+relief annually per establishment.
+The proposal would enable
+establishments to avoid the costs
+associated with developing and
+implementing PQC programs that
+address regulatory requirements for the
+use of certain substances in preparation
+of meat and poultry products, such as
+the use of organic acids to delay
+discoloration of fresh meat cuts.
+Thermal processing establishments (of
+which there are about 130) would avoid
+the costs associated with developing
+PQC programs according to Agency
+specifications and the costs associated
+with obtaining Agency prior approvals.
+As many as 3,330 small
+establishments would no longer be
+required to operate PQC programs for
+certain processes (such as PQC
+programs for processing cooked beef)
+and products (such as mechanically
+separated, or ‘‘deboned,’’ product).
+Small and large establishments would
+theoretically save about $520 per PQC
+program in development costs for 320
+mandatory PQC programs, or $161,720
+total. Out of this total, small
+establishments would save about
+$151,320. Small establishments could
+thus be expected to save about $4,000
+each in annual recurring costs
+associated with developing mandatory
+PQC programs.
+Regulatory Flexibility Act
+The Administrator of FSIS has
+determined that this proposed rule will
+not have a significant effect on a
+Marketplace sampling and testing can
+also help in addressing food safety
+hazards arising in post-processing
+distribution of meat and poultry
+products.
+This proposal would affect, overall, as
+many as 72 poultry slaughtering
+establishments and about 3,550
+establishments that process meat and
+poultry products beyond slaughtering,
+dressing, and cut-up. The most far-
+reaching effect of the rule would be to
+increase the flexibility establishments
+have in controlling their processes. This
+benefit would arise from eliminating the
+required PQC program elements in
+§§ 318.4(d) and 381.145(d).
+With or without this proposal,
+establishment HACCP plans will
+supersede or incorporate the few PQC
+programs that control food-safety
+factors. Under the proposal, most
+establishments that have PQC programs
+that control for non-food safety factors
+would continue to use the programs. In
+all likelihood, in developing new PQC
+programs, they would continue to
+include the information now required
+by FSIS. They would also be free to
+adopt other methods of process control
+and different techniques of observation,
+measurement, documentation,
+recordkeeping, and evaluation than are
+prescribed in the current regulations.
+They could change their PQC-controlled
+operations to integrate their food quality
+process control more effectively with
+their HACCP system operations to
+improve overall efficiency. For example,
+raw material control, now a required
+element in PQC programs, could be
+handled under an establishment?s
+HACCP plan, as could process controls
+for food safety. Similarly, the records
+requirements for PQC programs could
+be superseded by more efficient and
+appropriate establishment-developed
+systems. Establishments would thus be
+able to achieve unquantifiable gains in
+efficiency that would yield food-safety
+and other consumer-protection benefits.
+FSIS-inspected establishments
+develop about 1,900 PQC programs a
+year according to regulatory design
+specifications. Assuming that a PQC
+program is developed by a QC manager
+earning about $26 an hour, and that it
+takes about 20 hours, on average, to
+develop a PQC program, the cost to an
+establishment of developing such a
+program is about $520. FSIS estimates
+that the cost to the regulated industry of
+developing such programs is about
+$1,000,000 per year.
+This cost of developing PQC programs
+according to FSIS requirements, plus
+$13 million in annual operating costs
+for about 1,852 mandatory (required by
+regulation) PQC programs ($26/hr. X
+26897
+Federal Register / Vol. 64, No. 95 / Tuesday, May 18, 1999 / Proposed Rules
+of affected small establishments would
+thus not likely be substantial.
+Paperwork Requirements
+§ 317.21
+[Amended]
+2. Paragraph (b) of § 317.21 would be
+amended by removing the comma and
+all words following the word ‘‘person’’.
+PART 318—ENTRY INTO OFFICIAL
+ESTABLISHMENTS; REINSPECTION
+AND PREPARATION OF PRODUCTS
+3. The authority citation for part 318
+would continue to read as follows:
+Authority: 7 U.S.C. 138f, 450, 1901–1906;
+21 U.S.C. 601–695; 7 CFR 2.18, 2.53.
+Title: Processing Procedures and
+Quality Control Systems.
+Type of Collection: Revision.
+Abstract: FSIS has reviewed the
+paperwork and recordkeeping
+requirements in this proposed rule in
+accordance with the Paperwork
+Reduction Act. This proposed rule
+would substantially reduce reporting
+requirements for official establishments.
+The proposed rule would remove the
+design requirements affecting most PQC
+programs that establishments have and
+most requirements for establishments to
+have PQC programs for certain products
+or processes. Currently, there are
+624,465 burden hours associated with
+the PQC program requirements. FSIS
+will request OMB to eliminate all these
+burden hours from the information
+collection request 0083–0089.
+List of Subjects
+§ 318.4
+[Amended]
+4. Paragraph (d) of § 318.4 would be
+removed.
+5. Section 318.7 would be amended to
+read as follows:
+a. Paragraphs (b)(3)(i) and (b)(3)(ii)
+would be revised;
+b. The table in paragraph (c)(4), under
+the Class of substance ‘‘Miscellaneous,’’
+the entry for the Substance ‘‘Ascorbic
+acid, erythorbic acid, citric acid, sodium
+acetate, and sodium citrate, singly or in
+combination’’ would be revised.
+The revisions would read as follows:
+9 CFR Part 317
+Meat inspection, Reporting and
+recordkeeping requirements.
+9 CFR Part 318
+Meat inspection, Reporting and
+recordkeeping requirements.
+9 CFR Part 319
+Food labeling, Meat inspection.
+9 CFR Part 381
+Poultry and poultry products,
+Reporting and recordkeeping
+requirements.
+For the reasons set forth in the
+preamble, FSIS is proposing to amend 9
+CFR Chapter III, the Federal meat and
+poultry inspection regulations, as
+follows:
+PART 317—LABELING, MARKING
+DEVICES, AND CONTAINERS
+1. The authority citation for part 317
+would continue to read as follows:
+Authority: 21 U.S.C. 601–695; 7 CFR 2.18,
+2.53.
+Operating costs of PQC programs vary
+widely. A simple PQC program to verify
+the accuracy of scales, for example, may
+require that tests be performed only
+several times a year, at little cost in
+operator time. A PQC program for a
+complex process, on the other hand,
+may require daily tests and data
+collection and recordkeeping tasks
+lasting up to 4 hours. For the purposes
+of this document, PQC programs are
+each assumed to require up to 1 hour’s
+worth of daily attention by the
+establishment QC specialist. The
+removal of the PQC requirements
+would, at least theoretically, relieve
+small establishments of these burdens.
+Assuming, for example, that small
+establishments incur annual costs of
+about $12,000,000 in operating
+mandatory PQC programs (solely in
+operating the QC evaluation process of
+such programs, and not including
+laboratory analysis, and other special
+facilities that may be required to
+determine whether products are in
+compliance with the regulations), each
+establishment could theoretically save
+about $4,000 in PQC program
+operations.
+In addition, small establishments
+would benefit through unquantifiable
+savings accruing from removal of
+regulatory design requirements for both
+mandatory and voluntary PQC
+programs. They would have additional
+flexibility, beyond the removal of prior
+approval requirements effected by FSIS
+Docket No. 95–032F, to develop and
+implement HACCP-consistent or other
+process control systems.
+Thus, about $8,000 in recurring
+savings could theoretically accrue to
+each small meat and poultry
+establishment. However, because many,
+if not most, affected establishments
+would be likely to continue to operate
+PQC programs that help in producing
+products with consistent and uniform
+characteristics, establishments may not
+choose to reap the theoretical savings
+that could result from eliminating their
+PQC programs. The effect of the
+proposed rule on the substantial number
+§ 318.7
+Approval of substances for use in
+the preparation of products.
+* 
+* 
+* 
+* 
+*
+(b) * * *
+(3) * * *
+(i) 100 ppm ingoing (potassium nitrite
+at 123 ppm ingoing); and 550 ppm
+sodium ascorbate or sodium erythorbate
+(isoascorbate) shall be used; or
+(ii) A predetermined level between 40
+and 80 ppm (potassium nitrite at a level
+between 49 and 99 ppm); 550 ppm
+sodium ascorbate or sodium erythorbate
+(isoascorbate); and additional sucrose or
+other similar fermentable carbohydrate
+at a minimum of 0.7 percent and an
+inoculum of lactic acid producing
+bacteria such as Pediococcus acetolactii
+or other bacteria demonstrated to be
+equally effective in preventing the
+production of botulinum toxin at a level
+sufficient for the purpose of preventing
+the production of botulinum toxin.
+* 
+* 
+* 
+* 
+*
+(c) * * *
+(4) * * *
+Class of sub-
+stance
+Substance
+Purpose
+Product
+Amount
+*
+*
+*
+*
+*
+*
+*
+Miscellaneous
+Ascorbic acid, erythorbic acid,
+citric acid, sodium ascor-
+bate and sodium citrate,
+singly or in combination.
+To delay dis-
+coloration.
+Fresh beef
+cuts, fresh
+lamb cuts,
+and fresh
+pork cuts.
+Not to exceed, singly or in combination, 500 ppm or 1.8 mg/
+sq inch of product surface of ascorbic acid (in accordance
+with 21 CFR 182.3013), erythorbic acid (in accordance
+with 21 CFR 182.3041), or sodium ascorbate (in accord-
+ance with 21 CFR 182.3731); and/or not to exceed, singly
+or in combination, 250 ppm or 0.9 mg/sq inch of product
+surface of citric acid (in accordance with 21 CFR
+182.6033), or sodium citrate (in accordance with 21 CFR
+182.6751).
+26898
+Federal Register / Vol. 64, No. 95 / Tuesday, May 18, 1999 / Proposed Rules
+Class of sub-
+stance
+Substance
+Purpose
+Product
+Amount
+*
+*
+*
+*
+*
+*
+*
+* 
+* 
+* 
+* 
+*
+6. Paragraphs (a)(1)(ii) and paragraph
+(f) of § 318.305 would be revised to read
+as follows:
+product that is safe and stable is
+shipped in commerce.
+(c) [Reserved]
+(d) Procedures for handling process
+deviations where the HACCP plan for
+thermally processed/commercially
+sterile product does not address food
+safety hazards associated with microbial
+contamination, where there is no
+approved total quality control system, or
+where the establishment has no
+alternative documented procedures for
+handling process deviations.
+* 
+* 
+* 
+* 
+*
+9. In § 318.309, paragraph (a) would
+be revised, paragraphs (b) and (c) would
+be removed and reserved, and paragraph
+(d) introductory text would be revised,
+to read as follows:
+§ 318.305
+Equipment and procedures for
+heat processing systems.
+(a) * * *
+(1) * * *
+(i) * * *
+(ii) Other devices. Temperature-
+indicating devices used in lieu of
+mercury-in-glass thermometers, such as
+resistance temperature detectors, shall
+meet known, accurate standards for
+such devices when tested for accuracy.
+The records of such testing shall be
+available to FSIS program employees.
+* 
+* 
+* 
+* 
+*
+(f) Other systems. All other systems
+not specifically delineated in this
+section and used for the thermal
+processing of canned product shall be
+adequate to produce shelf-stable
+products consistently and uniformly.
+* 
+* 
+* 
+* 
+*
+7. Paragraph (b) of § 318.307 would be
+revised to read as follows:
+§ 319.5
+Mechanically Separated (Species).
+* 
+* 
+* 
+* 
+*
+(e) * * *
+(2) Analytical methods used by
+establishments in verifying the fat,
+protein, and calcium content of product
+consisting of or containing
+Mechanically Separated (Species) shall
+be among those listed in ‘‘Official
+Methods of Analysis of the Association
+of Official Analytical Chemists
+(AOAC),’’ 16th edition, 1995, §§ 960.39,
+976.21, 928.08 (Chapter 39), and 940.33
+(Chapter 45), which is incorporated by
+reference, or, if no AOAC method is
+available, in the ‘‘Chemistry Laboratory
+Guidebook,’’ U.S. Department of
+Agriculture, Washington, DC, March
+1986 edition, sections 6.011–6.013,
+Revised June 1987 (pages 6–35 through
+6–65), or by appropriate methods
+validated by scientific bodies in
+collaborative trials. The ‘‘Official
+Methods of Analysis of the Association
+of Official Analytical Chemists,’’ 16th
+edition, 1995, is incorporated by
+reference with the approval of the
+Director of the Federal Register in
+accordance with 5 U.S.C. 552(a) and 1
+CFR Part 51.
+§ 319.104
+[Amended]
+12. Section 319.104 would be
+amended in paragraph (a) by removing
+the last sentence of footnote 3 to the
+chart.
+§ 319.105
+[Amended]
+13. Section 319.105 would be
+amended in paragraph (a) by removing
+the last sentence of footnote 2 to the
+chart.
+§ 318.307
+Record review and maintenance.
+* 
+* 
+* 
+* 
+*
+(b) Automated process monitoring
+and recordkeeping. Automated process
+monitoring and recordkeeping systems
+shall be designed and operated in a
+manner which will ensure compliance
+with the applicable requirements of
+§ 318.306.
+* 
+* 
+* 
+* 
+*
+8. In § 318.308, paragraph (b) would
+be revised, paragraph (c) would be
+removed and reserved, and paragraph
+(d) introductory text would be revised to
+read as follows:
+PART 381—POULTRY PRODUCTS
+INSPECTION REGULATIONS
+14. The authority citation for part 381
+continues to read as follows:
+Authority: 7 U.S.C. 138f, 450; 21 U.S.C.
+451–470; 7 CFR 2.18, 2.53.
+§ 318.309
+Finished product inspection.
+(a) Finished product inspections shall
+be handled:
+(1) Under the provisions of paragraph
+(d) of this section;
+(2) Under a HACCP plan for thermally
+processed/commercially sterile products
+that addresses hazards associated with
+microbiological contamination;
+(3) Under an FSIS-approved total
+quality control system; or
+(4) Under alternative documented
+procedures that will ensure that only
+safe and stable product is shipped in
+commerce.
+(b) [Reserved]
+(c) [Reserved]
+(d) Procedures for handling finished
+product inspections where the HACCP
+plan for thermally processed/
+commercially sterile product does not
+address food safety hazards associated
+with microbial contamination, where
+there is no approved total quality
+control system, or where the
+establishment has no alternative
+documented procedures for handling
+finished product inspections.
+* 
+* 
+* 
+* 
+*
+PART 319—DEFINITIONS AND
+STANDARDS OF IDENTITY OR
+COMPOSITION
+10. The authority citation for part 319
+continues to read as follows:
+Authority: 7 U.S.C. 450, 1901–1906; 21
+U.S.C. 601–695; 7 CFR 2.18, 2.53.
+11. Paragraph (e)(2) of § 319.5 would
+be revised to read as follows:
+15. Section 381.76 would be amended
+to read as follows:
+a. Paragraph (b)(1)(ii)(b) would be
+revised.
+b. Paragraph (b)(1)(iii)(b) would be
+revised.
+c. Paragraph (b)(4)(i)(a), introductory
+text, would be revised.
+d. Paragraph (b)(4)(i)(b) would be
+revised.
+e. Paragraph (b)(4)(ii) would be
+removed and reserved.
+§ 318.308
+Deviations in processing.
+* 
+* 
+* 
+* 
+*
+(b) Deviations in processing (or
+process deviations) shall be handled:
+(1) Under a HACCP plan for thermally
+processed/commercially sterile product
+that addresses hazards associated with
+microbial contamination; or
+(i) Under the provisions of paragraph
+(d) of this section; or
+(2) Until the establishment is subject
+to part 417 of this chapter,
+(i) Under an FSIS-approved total
+quality control system; or
+(ii) Under alternative documented
+procedures for handling process
+deviations that will ensure that only
+26899
+Federal Register / Vol. 64, No. 95 / Tuesday, May 18, 1999 / Proposed Rules
+§ 381.145
+[Amended]
+17. Paragraphs (d) and (e) of § 381.145
+would be removed.
+18. Paragraphs (a)(1)(ii) and (f) of
+§ 381.305 would be revised to read as
+follows:
+f. Paragraph (b)(4)(iii) would be
+removed and reserved.
+g. Paragraph (b)(5)(i)(a) introductory
+text, would be revised.
+h. Paragraph (b)(5)(i)(b) would be
+revised.
+i. Paragraph (b)(5)(ii) would be
+removed and reserved.
+j. Paragraph (b)(5)(iii) would be
+removed and reserved.
+k. Paragraph (c) would be removed.
+The revisions would read as follows:
+§ 381.305
+Equipment and procedures for
+heat processing systems.
+(a) * * *
+(1) * * *
+(ii) Other devices. Temperature-
+indicating devices used in lieu of
+mercury-in-glass thermometers, such as
+resistance temperature detectors, shall
+meet known, accurate standards for
+such devices when tested for accuracy.
+The records of such testing shall be
+available to FSIS program employees.
+* 
+* 
+* 
+* 
+*
+(f) Other systems. All other systems
+not specifically delineated in this
+section and used for the thermal
+processing of canned product shall be
+adequate to produce shelf-stable
+products consistently and uniformly.
+* 
+* 
+* 
+* 
+*
+19. Paragraph (b) of § 381.307 would
+be revised to read as follows:
+§ 381.307
+Record review and maintenance.
+* 
+* 
+* 
+* 
+*
+(b) Automated process monitoring
+and recordkeeping. Automated process
+monitoring and recordkeeping systems
+shall be designed and operated in a
+manner which will ensure compliance
+with the applicable requirements of
+§ 381.306.
+* 
+* 
+* 
+* 
+*
+20. In § 381.308, paragraphs (b) would
+be revised, paragraph (c) would be
+removed and reserved, and paragraph
+(d) introductory text would be revised to
+read as follows:
+station shall comply with the facility
+requirements in § 381.36(d)(2). The
+inspector shall ensure that the
+establishment has performed the
+indicated trimming of carcasses passed
+subject to reinspection by visually
+monitoring, checking data, and/or
+gathering samples at the station or at
+other critical points on the line.
+(ii) [Reserved]
+(iii) [Reserved]
+(5) * * *
+(i) * * *
+(a) Post-mortem inspection. Each
+inspection station must comply with the
+facility requirements in § 381.36(e)(1).
+Each inspector shall be flanked by and
+establishment employee assigned to be
+the inspector’s helper. The one
+inspector on an NTI–1 Inspection
+System shall be presented every bird.
+Each inspector on an NTI–2 Inspection
+System line shall be presented every
+other bird on the line. An establishment
+employee shall present each bird to the
+inspector properly eviscerated with the
+back side toward the inspector and the
+viscera uniformly trailing or leading.
+Each inspector shall inspect the inside,
+viscera, and outside of all birds
+presented. The inspector shall
+determine which bird shall be salvaged,
+reprocessed, condemned, retained for
+disposition by a veterinarian, or allowed
+to proceed down the line as a passed
+bird subject to reinspection. Turkey
+carcasses with certain defects not
+requiring condemnation of the entire
+carcass shall be passed by the inspector,
+but shall be subject to reinspection to
+ensure the physical removal of the
+specified defects. The helper, under the
+supervision of the inspector, shall mark
+such carcasses for trim when the defects
+of birds passed subject to reinspection
+shall be performed by:
+* 
+* 
+* 
+* 
+*
+(b) Reinspection. A reinspection
+station shall be located at the end of the
+lines. This station shall comply with the
+facility requirements in § 381.36(e)(2).
+The inspector shall ensure that
+establishments have performed the
+indicated trimming of each carcass
+passed subject to reinspection by
+visually monitoring, checking data, and/
+or sampling product at the reinspection
+station and, if necessary, at other points,
+critical to the wholesomeness of
+product, on the eviscerating line.
+(ii) [Reserved]
+(iii) [Reserved]
+§ 381.76
+Post-mortem inspection, when
+required; extent; traditional, Streamlined
+Inspection System (SIS), New Line Speed
+(NELS) Inspection System and the New
+Turkey Inspection (NTI) System; rate of
+inspection.
+* 
+* 
+* 
+* 
+*
+(b)(1) * * *
+(ii) * * *
+(b) The Administrator determines that
+the establishment has the intent and
+capability to operate at line speeds
+greater than 70 birds per minute, and
+meets all the facility requirements in
+§ 381.36(d).
+(iii) * * *
+(b) The Administrator determines that
+the establishment meets all the facility
+requirements in § 381.36(e).
+* 
+* 
+* 
+* 
+*
+(4) * * *
+(i) * * *
+(a) Post-mortem inspection. The
+establishment shall provide three
+inspection stations on each eviscerating
+line in compliance with the facility
+requirements § 381.36(d)(1). The three
+inspectors shall inspect the inside,
+viscera, and outside of all birds
+presented. Each inspector shall be
+flanked by two establishment
+employees—the presenter and the
+helper. The presenter shall ensure that
+the bird is properly eviscerated and
+presented for inspection and the viscera
+uniformly trailing or leading. The
+inspector shall determine which birds
+shall be salvaged, reprocessed,
+condemned, retained for disposition by
+the veterinarian, or allowed to proceed
+down the line as a passed bird subject
+to reinspection. Poultry carcasses with
+certain defects not requiring
+condemnation of the entire carcass shall
+be passed by the inspector, but shall be
+subject to reinspection to ensure the
+physical removal of the specified
+defects. The helper, under the
+supervision of the inspector, shall mark
+such carcasses for trim when the defects
+are not readily observable. Trimming or
+birds passed subject to reinspection
+shall be performed by:
+* 
+* 
+* 
+* 
+*
+(b) A reinspection station shall be
+located at the end of each line. This
+§ 381.121d
+[Amended]
+16. Paragraph (b) of § 381.121d would
+be amended by removing the comma
+and all words following the word
+‘‘person.’’
+§ 381.308
+Deviations in processing.
+* 
+* 
+* 
+* 
+*
+(b) Deviations in processing (or
+process deviations) shall be handled:
+(1) Under a HACCP plan for thermally
+processed/commercially sterile product
+that addresses hazards associated with
+microbial contamination; or
+(i) Under the provisions of paragraph
+(d) of this section; or,
+(ii) Under a HACCP plan for thermally
+processed/commercially sterile product
+that addresses hazards associated with
+microbial contamination; or
+(2) Until the establishment is subject
+to part 417 of this chapter,
+(i) Under an FSIS-approved total
+quality control system; or
+(ii) Under alternative documented
+procedures for handling process
+deviations that will ensure that only
+product that is safe and stable is
+shipped in commerce.
+26900
+Federal Register / Vol. 64, No. 95 / Tuesday, May 18, 1999 / Proposed Rules
+ACTION: Notice of proposed special
+conditions.
+will be filed in the docket. Persons
+wishing the FAA to acknowledge
+receipt of their comments must submit
+with those comments a self-addressed,
+stamped postcard on which the
+following statement is made:
+‘‘Comments to Docket No. NM156.’’ The
+postcard will be date stamped and
+returned to the commenter.
+Background
+(c) [Reserved]
+(d) Procedures for handling process
+deviations where the HACCP plan for
+thermally processed/commercially
+sterile product does not address food
+safety hazards associated with microbial
+contamination, where there is no
+approved total quality control system, or
+where the establishment has no
+alternative documented system or
+procedures for handling process
+deviations.
+* 
+* 
+* 
+* 
+*
+21. In § 381.309, paragraph (a) would
+be revised, paragraphs (b) and (c) would
+be removed and reserved, and paragraph
+(d) introductory text would be revised,
+to read as follows:
+SUMMARY: The FAA proposes to issue
+special conditions for the McDonnell
+Douglas Corporation Model MD–17
+airplane. This airplane will have novel
+and unusual design features, including
+the use of power-augmented-lift from
+externally blown flaps, for which the
+applicable airworthiness standards for
+transport category airplanes do not
+contain adequate or appropriate safety
+standards. This document contains the
+additional safety standards that the
+Administrator considers necessary to
+establish a level of safety equivalent to
+that provided by the existing
+airworthiness standards.
+DATES: Comments must be received on
+or before July 2, 1999.
+On July 7, 1996, McDonnell Douglas
+Corporation, 2401 E. Wardlow Rd., Long
+Beach, CA 90807–5309, a wholly owned
+subsidiary of The Boeing Company,
+submitted an application for type
+certification of a commercial version of
+the Model C–17 military airplane,
+designated as the MDC Model MD–17.
+The MD–17 is a long range, transport
+category airplane powered by four Pratt
+& Whitney F–117–PW–100 engines,
+which are a military version of the
+PW2040 engines used on other civil
+transport category airplane types. The
+airplane will be offered in a cargo
+configuration only and is designed for
+carriage of outsized cargo into short
+runways.
+The MD–17 airplane will be certified
+as a part 25 transport category airplane
+and, as such, pilots and flight
+instructors who operate it will have a
+standard airplane multiengine rating.
+Type Certification Basis
+ADDRESSES: Comments on this
+document may be mailed in duplicate
+to: Federal Aviation Administration,
+Transport Airplane Directorate, Program
+Management Branch, Attention: Rules
+Docket (ANM–114), Docket No. NM156,
+1601 Lind Avenue SW., Renton, WA
+98055–4056; or delivered in duplicate to
+the Transport Airplane Directorate at
+the above address. Comments delivered
+must be marked Docket No. NM156.
+Comments may be examined in the
+Rules Docket weekdays, except Federal
+holidays, between 7:30 a.m. and 4:30
+p.m.
+FOR FURTHER INFORMATION CONTACT:
+Gerry Lakin, Project Officer, FAA
+Transport Airplane Directorate,
+Standardization Branch, ANM–113,
+1601 Lind Avenue SW., Renton, WA
+98055–4056; telephone (425) 227–1187;
+facsimile (425) 227–1149; Email:
+gerald.lakin@faa.gov.
+SUPPLEMENTARY INFORMATION:
+Comments Invited
+§ 381.309
+Finished product inspection.
+(a) Finished product inspections shall
+be handled:
+(1) Under the provisions of paragraph
+(d) of this section;
+(2) Under a HACCP plan for thermally
+processed/commercially sterile products
+that addresses hazards associated with
+microbiological contamination;
+(3) Under an FSIS-approved total
+quality control system; or
+(4) Under alternative documented
+procedures that will ensure that only
+product that is safe and stable is
+shipped in commerce.
+(b) [Reserved]
+(c) [Reserved]
+(d) Procedures for handling finished
+product inspections where the HACCP
+plan for thermally processed/
+commercially sterile product does not
+address food safety hazards associated
+with microbial contamination, where
+there is no approved total quality
+control system, or where the
+establishment has no alternative
+procedures for handling finished
+product inspections.
+* 
+* 
+* 
+* 
+*
+Done at Washington, DC, on May 11, 1999.
+Thomas J. Billy,
+Administrator.
+[FR Doc. 99–12352 Filed 5–17–99; 8:45 am]
+BILLING CODE 3410–DM–P
+DEPARTMENT OF TRANSPORTATION
+Federal Aviation Administration
+14 CFR Part 25
+[Docket No. NM156, Notice No. 25–99–04–
+SC]
+Special Conditions: McDonnell
+Douglas Corporation (MDC) Model
+MD–17 Series Airplanes
+Under the provisions of § 21.17,
+McDonnell Douglas must show that the
+MD–17 complies with the applicable
+provisions of 14 CFR part 25, as
+amended by Amendments 25–1 through
+25–87. In addition, the certification
+basis includes part 36, as amended at
+the time of certification; part 34, as
+amended at the time of certification; any
+subsequent amendments to part 25 that
+are required for operation under part
+121; and the special conditions resulting
+from the proposals specified in this
+notice.
+If the Administrator finds that the
+applicable airworthiness regulations
+(i.e., part 25) do not contain adequate or
+appropriate safety standards for the
+MD–17 because of a novel or unusual
+design feature, special conditions are
+prescribed under the provisions of
+§ 21.16.
+In addition to the applicable
+airworthiness regulations and special
+conditions, the MD–17 must comply
+with the fuel vent and exhaust emission
+requirements of part 34 and the noise
+certification requirements of part 36,
+and the FAA must issue a finding of
+regulatory adequacy pursuant to § 611 of
+Pub. L. 92–574, the ‘‘Noise Control Act
+of 1972.’’
+Interested persons are invited to
+participate in the making of these
+proposed special conditions by
+submitting such written data, views, or
+arguments as they may desire.
+Communications should identify the
+regulatory docket or notice number and
+be submitted in duplicate to the Rules
+Docket address specified above. All
+communications received on or before
+the closing date for comments will be
+considered by the Administrator. The
+proposals described in this notice may
+be changed in light of the comments
+received. All comments received will be
+available in the Rules Docket for
+examination by interested persons, both
+before and after the closing date for
+comments. A report summarizing each
+substantive public contact with FAA
+personnel concerning this rulemaking
+AGENCY: Federal Aviation
+Administration, DOT.

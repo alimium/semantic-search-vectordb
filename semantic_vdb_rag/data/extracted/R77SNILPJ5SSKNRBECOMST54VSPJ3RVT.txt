@@ -1,0 +1,1072 @@
+The Internal Revenue Service
+Needs to Encourage Taxpayer Use,
+Improve Customer Service, and
+Enhance Computer Controls
+of the 941 TeleFile Program
+October 1999
+ Reference Number:  200020004
+This report has cleared the Treasury Inspector General for Tax Administration (TIGTA) disclosure
+review process and information determined to be restricted from public release has been redacted
+from this document.
+DEPARTMENT OF THE TREASURY
+WASHINGTON, D.C.  20220
+                         INSPECTOR GENERAL
+                                      for TAX
+                            ADMINISTRATION
+October 14, 1999
+MEMORANDUM FOR COMMISSIONER ROSSOTTI
+FROM:
+Pamela J. Gardiner
+Deputy Inspector General for Audit
+SUBJECT:
+Final Audit Report - The Internal Revenue Service Needs to
+Encourage Taxpayer Use, Improve Customer Service, and
+Enhance Computer Controls of the 941 TeleFile Program
+This report presents the results of our review of the 1998 TeleFile Program used
+by small business taxpayers to file an Employer’s Quarterly Federal Tax Return
+(Form 941).  We evaluated the effectiveness of the Internal Revenue Service’s (IRS)
+processes for ensuring that the 1998 Form 941 TeleFile Program was successfully
+implemented.  This was the first year for nationwide TeleFile processing of Forms 941.
+In summary, we found that the IRS established effective processes for ensuring that the
+941 TeleFile Program was successfully implemented.  The vast majority of Form 941
+TeleFile returns filed in 1998 were accurately processed and posted to the IRS'
+Business Masterfile.  However, to achieve its long-term goals of increased 941 TeleFile
+Program participation, the IRS needs to encourage eligible taxpayers to use the system,
+educate taxpayers on program changes, and provide quality customer service to all
+TeleFile users.  In addition, improvements to the 941 TeleFile System would prevent the
+filing of multiple returns by a taxpayer and would allow the system to verify the filing
+history and electronic signature of TeleFile users.
+The report recommends that the IRS analyze customer feedback information gathered
+in 1997 during the 941 TeleFile Program limited expansion to identify ways to increase
+participation.  It also recommends that the IRS educate taxpayers on the requirements
+for using the 941 TeleFile System, as well as any program changes, and ensure quality
+customer service.  In addition, the report recommends enhancements to the system to
+prevent the processing of duplicate Form 941 TeleFile returns and to verify the filing
+2
+history and electronic signatures of the taxpayers, or taxpayer representatives, who file
+Form 941 TeleFile returns.
+The Chief Operations Officer agreed with the facts cited in the report and is taking
+appropriate corrective actions.  Management’s comments have been incorporated into
+the report where appropriate, and the full text of their comments is included as an
+appendix.
+Copies of this report are also being sent to the IRS managers who are affected by the
+report recommendations.  Please contact me at (202) 622-6510 if you have questions,
+or your staff may call Scott E. Wilson, Associate Inspector General for Audit
+(Information Systems Programs), at (202) 622-8510.
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+Table of Contents
+Executive Summary .................................................................................. Page    i
+Objective and Scope ................................................................................ Page   1
+Background............................................................................................... Page   2
+Results ...................................................................................................... Page   3
+The Internal Revenue Service Needs to Encourage
+Eligible Taxpayers to Use the 941 TeleFile Program ..................... Page   4
+The Internal Revenue Service Needs to Provide Quality
+Customer Service to TeleFile Users............................................... Page   7
+The Internal Revenue Service Needs to Improve 941 TeleFile
+Computer Controls to Prevent Taxpayers From Filing Multiple
+Returns and Allow the System to Verify a TeleFile User's
+Filing History and Electronic Signature........................................... Page 11
+Conclusion .............................................................................................…Page 15
+Appendix I – Detailed Objective, Scope, and Methodology....................... Page 16
+Appendix II – Major Contributors to This Report ...................................... Page 18
+Appendix III – Report Distribution List....................................................... Page 19
+Appendix IV – Memorandum #1 – Business Masterfile TeleFile
+1998 Expansion ........................................................................................ Page 20
+Appendix V – Management’s Response to Memorandum #1 ................... Page 22
+Appendix VI – Management’s Response to the Draft Report.................... Page 24
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+Executive Summary
+TeleFile is an Internal Revenue Service (IRS) voice response system that allows
+taxpayers to file tax returns using a touch-tone telephone.  In 1997, the IRS expanded the
+Telefile System to allow a limited number of small business taxpayers to file the
+Employer’s Quarterly Federal Tax Return (Form 941) through the 941 TeleFile System.
+In 1998, TeleFile was further expanded to allow small businesses nationwide to use the
+system.  For the first six months of 1998, almost 460,000 Form 941 returns were filed
+using the 941 TeleFile System.  TeleFile is an important initiative in the IRS’ overall
+plans to increase electronic filing of tax returns.  The IRS has a goal of 16 million
+employment tax returns being filed electronically by the year 2002.
+The TeleFile Program is coordinated through the National Office and includes all of the
+activities that enable taxpayers to file tax returns using the Telefile System.  The
+objective of this audit was to evaluate the effectiveness of the IRS’ processes for ensuring
+that the 1998 941 TeleFile Program was successfully implemented.
+Results
+The 941 TeleFile Program experienced a successful 1998 filing season, its first year of
+nationwide use (for the period January 1998 through the end of our fieldwork in
+November 1998).  The IRS had effectively corrected prior audit findings, and ensured
+that Form 941 tax returns were accurately processed through the Telefile System and
+recorded on the taxpayers’ accounts in the IRS’ computer systems.  However, to achieve
+the long-term goals of the 941 TeleFile Program, the IRS needs to:
+• Encourage eligible taxpayers to use the 941 TeleFile Program.
+• Provide quality customer service to TeleFile users.
+• Improve 941 TeleFile computer controls to prevent taxpayers from filing multiple
+returns and allow the system to verify a TeleFile user’s filing history and
+electronic signature.
+The Internal Revenue Service Needs to Encourage Eligible Taxpayers to
+Use the 941 TeleFile Program
+The customer feedback information gathered during the 1997 limited expansion
+should be used to increase 941 TeleFile Program participation.  The IRS obtained
+information from taxpayers who chose not to use the 941 TeleFile System.  This
+customer feedback showed that many taxpayers had not used the 941 TeleFile System
+either because they used a paid preparer or because they wanted a paper copy of the
+Page
+i
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+return.  This information could have been used to focus the IRS’ marketing efforts to
+address any taxpayer misconceptions about the system.  During 1998, there was no
+significant increase in the percentage of eligible taxpayers who used the TeleFile
+Program.  The IRS needs to focus its marketing efforts to encourage more taxpayers to
+use the 941 TeleFile System.  This will enable the IRS to achieve its goal of 16 million
+electronically filed employment tax returns by the year 2002.
+The Internal Revenue Service Needs to Provide Quality Customer
+Service to TeleFile Users
+A more effective method for resolving taxpayer problems needs to be established.
+The IRS has not implemented a process for delivering effective one-stop customer
+service to taxpayers using the 941 TeleFile Program (correctly handling their questions or
+concerns during their first contact with the IRS).  Taxpayers with questions regarding
+Form 941 TeleFile returns are instructed to contact a customer service call site.  The call
+site representative will then either contact the TeleFile Coordinator to ask the question for
+the taxpayer or will instruct the taxpayer to contact the Coordinator directly.
+Taxpayers should be informed when they are no longer eligible to participate in the
+941 TeleFile Program.  If a taxpayer’s annual Form 941 liability exceeds a certain dollar
+criteria, then the taxpayer is no longer eligible to use the 941 TeleFile System.  The IRS
+has no procedures to notify taxpayers of this and to suggest other electronic methods for
+filing the Form 941 returns.
+The 941 TeleFile forms and instructions should be timely updated to reflect
+program changes.  The 941 TeleFile tax package (which includes the forms and
+instructions mailed to taxpayers) was not timely updated to indicate that the IRS would
+accept returns with a higher balance due amount than had been accepted previously.
+Some taxpayers may not have used the 941 TeleFile System because of the incorrect
+instructions.
+The Internal Revenue Service Needs to Improve 941 TeleFile Computer
+Controls to Prevent Taxpayers From Filing Multiple Returns and Allow
+the System to Verify a TeleFile User’s Filing History and Electronic
+Signature
+The 941 TeleFile System should prevent multiple returns from being filed by a
+taxpayer.  Normally, TeleFile returns are received at one processing site, with a backup
+site available to handle the excess volume.  If both sites are receiving returns, and a
+taxpayer files a second (amended) return on the same day the first (original) return was
+filed, both returns could be accepted by TeleFile if the returns were processed at separate
+sites.  The IRS would not be aware of the potential duplicate or amended return because
+data from the two sites are only merged and updated at the end of the day.  When this
+occurs, TeleFile always processes the return received at the main processing site, and not
+Page ii
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+the return from the backup site, even though the taxpayer may have intended otherwise.
+While this should not be a common occurrence, we performed some limited testing and
+identified several instances where a taxpayer filed more than one return on the same day.
+This is a systemic problem that will be compounded as the population of TeleFile users
+increases.
+The look-back period could be used to ensure businesses are authenticated
+(i.e., verified) to use the 941 TeleFile System.  The IRS requires taxpayers to be in
+business for at least 12 months before using the 941 TeleFile System.  However, the
+existing 941 TeleFile System will accept and process returns from taxpayers, even though
+they are not authenticated to use the 941 TeleFile System.  The IRS has a current process
+in place (the look-back period) that could be used to provide the IRS with more assurance
+that taxpayers have an established filing history when using the 941 TeleFile System.
+The process for verifying the electronic signature of 941 TeleFile System users needs
+to be improved.  There is not an effective process to ensure that returns filed using the
+941 TeleFile System were actually filed by the taxpayers or their representatives.  The
+process for verifying the electronic signatures of the taxpayers is incomplete because
+(1) only a sample of the electronic signatures are verified as correct, and (2) there are no
+procedures for following up on invalid signatures.
+Summary of Recommendations
+The IRS should analyze the customer feedback information gathered during the
+1997 limited expansion to determine how 941 TeleFile Program participation can be
+increased.  In addition, the IRS needs to ensure 941 TeleFile Program taxpayers are given
+quality customer service when resolving taxpayer problems with the 941 TeleFile
+Program.  Also, the 941 TeleFile computer controls need to be enhanced to prevent
+duplicate Form 941 returns from being filed and to improve the process for verifying the
+filing history and electronic signature of taxpayers using the 941 TeleFile System.
+Management’s Response:  IRS management agreed with the conditions cited in the report
+and has designed and, in some instances, implemented actions to correct the problems.
+To improve its marketing effort to increase participation in the 941 TeleFile Program, the
+IRS has contracted with a vendor to develop a comprehensive marketing and
+communication strategy that will focus on the Form 941 products.  In addition, the IRS
+has made several enhancements and clarifications to the 1998 TeleFile tax package to
+address customer feedback received in 1997 and 1998.
+To ensure 941 TeleFile Program taxpayers are given quality customer service, the IRS
+will update the instructions for its telephone representatives to include additional program
+detail, processing guidelines, and questions and answers.  In addition, the IRS tested an
+Page iii
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+Employment Tax call site for small businesses this past filing season and, based on the
+favorable results, plans to request the establishment of the call site.
+To prevent duplicate returns from being filed, the IRS has implemented a process to
+eliminate duplicate returns when multiple sites are used to process returns.  To improve
+the process for verifying the identity of taxpayers using TeleFile, the IRS will redesign
+the return filing confirmation number to make it unique for each taxpayer.
+Management’s complete response to the draft report is included as Appendix VI.  (Note:
+the report recommendations were renumbered after management issued their response,
+and, therefore, do not correspond directly with the recommendation numbers shown in
+Appendix VI.)
+Page iv
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+Objective and Scope
+The overall objective was to
+evaluate the effectiveness of
+the IRS’ processes for
+ensuring that the 1998 941
+TeleFile Program was
+successfully implemented.
+The TeleFile Program for the Employer’s Quarterly
+Federal Tax Return (Form 941) was designed to provide
+businesses with flexible and convenient ways to file
+returns.  The overall objective of the audit was to evaluate
+the effectiveness of the Internal Revenue Service’s (IRS)
+processes for ensuring that the 1998 941 TeleFile Program
+was successfully implemented.
+Specifically, we:
+• Evaluated actions taken in response to a prior audit
+report titled, “Evaluation of the 1997 TeleFile Pilot -
+Business Masterfile” (Reference Number 080704,
+Dated December 2, 1997) on the 1997 TeleFile
+limited expansion for Form 941 tax returns.
+• Evaluated the effectiveness of the IRS’ processes for
+ensuring Form 941 TeleFile returns were accurately
+processed nationwide.
+• Evaluated the effectiveness of the IRS’ publicity
+efforts to increase the number of businesses that file
+returns using the 941 TeleFile System.
+The review was conducted between July 1998 and
+November 1998 at the National Office and the
+Cincinnati Service Center (CSC), with limited testing at
+the Tennessee (TCC) and Martinsburg Computing
+Centers (MCC).  These centers are the IRS offices
+where TeleFile returns are filed and processed.  We
+performed this review in accordance with Government
+Auditing Standards.
+Appendix I provides the detailed objective, scope, and
+methodology used to conduct the audit; Appendix II lists
+the major contributors to this report; and Appendix III
+reflects the Report Distribution List.
+During the review, we issued two audit memoranda
+communicating several issues requiring immediate
+attention.  This report presents a summary of the
+two memoranda and additional audit results completed
+Page 1
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+after the memoranda were issued.  IRS management
+responded to the first memorandum.  A copy of the first
+memorandum and management’s response are included
+in Appendices IV and V, respectively.
+Background
+TeleFile is a voice response system that allows
+taxpayers to file tax returns using a touch-tone
+telephone.  The Telefile System uses Electronic Filing
+(ELF) to process returns.  The Program is coordinated
+through the Electronic Tax Administration (ETA) Office
+at the National Office and includes all of the activities
+that enable taxpayers to file tax returns using the Telefile
+System.  Beginning in 1996, the TeleFile Program
+enabled individual taxpayers across the nation to file
+returns over the telephone.  The IRS expanded the
+Program in 1997 by allowing a limited number of small
+business taxpayers to file Form 941 returns through the
+941 TeleFile System.
+On December 2, 1997, the IRS Inspection Service (now
+Treasury Inspector General for Tax Administration)
+issued a report titled, “Evaluation of the 1997 TeleFile
+Pilot - Business Masterfile.”  The purpose of that audit
+was to evaluate controls over the 941 TeleFile Program
+and determine whether it was properly implemented.
+We concluded that the IRS experienced a successful
+limited expansion with 48,834 Form 941 returns filed
+and 99 percent of the businesses able to access the
+system on their first attempt.  However, the following
+issues were also identified:
+• The 941 TeleFile Program allowed new
+businesses and businesses that were not current
+with their filing requirements to participate in the
+Program.
+• Taxpayers in the 941 TeleFile Program were not
+always properly verified.
+• Instructions in the Form 941 TeleFile package
+contained an error that could be confusing to
+taxpayers.
+Page 2
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+ETA management agreed with
+the results from the prior
+report and established plans
+for corrective action.
+ETA management generally agreed with our
+recommendations and established plans for corrective
+action.  In 1998, TeleFile was further expanded to allow
+small business taxpayers nationwide to file Form 941
+returns electronically.
+Results
+Nationwide implementation of
+the 941 TeleFile Program was
+successful.
+Overall, the IRS has established effective processes for
+ensuring that the 941 TeleFile Program was successfully
+implemented.  For example, Form 941 TeleFile returns
+filed in 1998 were accurately processed and posted to
+the taxpayers’ accounts.  In addition, the IRS
+implemented corrective actions from the 1997 audit,
+which increased assurances that only authorized
+taxpayers participated in the Program.
+Nearly 460,000 employment tax returns were filed for
+the first six months of calendar year 1998 using the
+941 TeleFile System.  In addition, approximately
+94 percent of the business taxpayers that attempted to
+file over the telephone in the second quarter of calendar
+year 1998 were successful.  The remaining six percent
+of the taxpayers were either not allowed by the IRS to
+complete their TeleFile return because they did not meet
+the eligibility requirements or they hung-up before
+completing their return.
+Additional actions are needed
+to ensure the IRS achieves its
+goal of 16 million employment
+tax returns being filed
+electronically by the
+year 2002.
+Although the IRS had a successful 1998 filing season
+(January 1998 through December 1998) for the
+941 TeleFile Program, additional actions are needed to
+market the 941 TeleFile Program to eligible users and to
+improve customer service for TeleFile users.
+Improvements in these two areas should enhance the
+IRS’ ability to achieve its goal of 16 million
+employment tax returns being filed electronically by the
+year 2002.  The IRS needs to improve its marketing and
+customer service by:
+• Using the customer feedback information gathered
+during the 1997 limited expansion to increase
+TeleFile Program participation.
+Page 3
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+• Establishing a more effective method for resolving
+taxpayer problems with the 941 TeleFile Program.
+• Informing taxpayers when they are no longer eligible
+to participate in the 941 TeleFile Program.
+• Ensuring that 941 TeleFile Program forms and
+instructions are timely updated to reflect program
+changes.
+Our review also showed that improvements to the
+TeleFile computer controls would help ensure that the
+correct return is processed by:
+Improvements to the computer
+controls would prevent a
+taxpayer from filing more than
+one return per day.
+• Preventing the filing of multiple returns by a
+taxpayer.
+• Using the look-back period to ensure businesses
+using the 941 TeleFile System are authenticated
+(i.e., verified) to use the system.
+• Improving the process of verifying the electronic
+signatures of 941 TeleFile System users.
+The Internal Revenue Service Needs to
+Encourage Eligible Taxpayers to Use the 941
+TeleFile Program
+The IRS has not used customer
+feedback from 1997 to identify
+ways to better market the
+Program to eligible users.
+The IRS should use the customer feedback
+information gathered during the 1997 limited
+expansion to increase 941 TeleFile Program
+participation.  We found no evidence that the IRS
+focused its marketing on the 941 TeleFile Program
+non-users (those 941 filers who were eligible to use
+TeleFile but did not do so) to increase the number of
+businesses participating in the Program.
+The IRS obtained customer feedback information during
+the 1997 Customer Satisfaction Survey, which included
+the reasons why taxpayers used or did not use the
+Telefile System.  Customer feedback obtained from
+eligible non-users of the 941 TeleFile Program indicated
+that:
+Page 4
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+• Approximately 39 percent of eligible non-users
+employed a paid tax preparer (called a third-
+party preparer) to complete and file their
+quarterly returns.
+• Another 23 percent of the businesses did not use
+the Program because they wanted a copy of the
+return.
+No marketing strategy was
+developed for the 941 TeleFile
+Program.
+The IRS does not know why the third-party preparers
+did not file clients' returns electronically.  The TeleFile
+team that measures quality recommended that the IRS
+market and educate third-party preparers to increase
+future use of the 941 TeleFile Program.  However, the
+ETA office did not use the information gathered or
+prepare a 941 TeleFile Program marketing strategy for
+calendar year 1998 and there were no coordinated
+nationwide efforts toward third-party preparers.  During
+1998, IRS employees again traveled around the country
+to obtain customer feedback from businesses.  The
+feedback contained some of the same issues as the
+previous year, further emphasizing the need for the IRS
+to analyze and use this information to address any
+taxpayer misconceptions about the System.
+The National Office also did not provide any of the
+marketing information to the district TeleFile
+coordinators after nationwide implementation of the
+941 TeleFile Program.  These employees were
+responsible for marketing the 941 TeleFile Program and
+indicated that they received no marketing information
+specifically on the 941 TeleFile Program from the
+National Office.  In addition, we were informed that the
+overall ETA marketing strategy efforts in 1998 focused
+primarily on the IRS’ TeleFile Program for individual
+taxpayers (known as “Individual Masterfile (IMF)
+TeleFile”), and not on the 941 TeleFile Program.
+The IRS sent TeleFile tax packages to eligible taxpayers
+in 1998; however, the lack of emphasis on marketing the
+941 TeleFile Program in 1998 may be reflected in the
+low volume of participation in the Program.  We
+determined that the percentage of eligible filers using
+the Telefile System in 1998 was almost the same as
+Page 5
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+1997 (6.7 percent of the eligible filers in 1998 compared
+to 6.2 percent in 1997).  Through the second quarter of
+calendar year 1998, approximately 460,000 employment
+tax returns were filed by businesses using the 941
+TeleFile System.  Unless there is a significant increase
+in the number of 941 TeleFile returns filed for the
+second half of calendar year 1998, the IRS will be about
+24 percent below its estimate of 1.2 million 941 TeleFile
+returns filed for 1998.
+The IRS has taken steps to improve its marketing efforts
+by contracting with an outside vendor to develop a
+strategy for marketing the 941 TeleFile Program.  The
+contract will go into effect the first quarter of calendar
+year 1999.  With the emphasis on customer service and
+on increasing the number of electronic returns, the IRS
+needs to consider any information that could be used to
+help achieve its goal of 16 million employment tax
+returns being filed electronically by the year 2002.
+Recommendations
+1. The IRS needs to improve its marketing towards
+eligible businesses to increase participation in the
+941 TeleFile Program.  Specific actions include:
+• Using the non-users’ customer feedback
+responses to determine where to concentrate
+marketing efforts (i.e., third party preparers).
+• Clarifying the 941 TeleFile Program instructions
+and educational material to address taxpayers’
+misconceptions with the system (e.g., informing
+taxpayers that they will receive a confirmation
+number as proof of filing).
+The IRS has evaluated the
+non-user responses from the
+1997 limited expansion and
+will continue to use tax
+packages as its primary
+method for communicating
+directly with eligible users.
+Management’s Response: The IRS has evaluated the
+non-user responses and determined that since the IRS
+identifies eligible users prior to filing, and sends tax
+packages to those taxpayers, it will continue to
+emphasize a direct marketing approach by using the tax
+packages to communicate messages directly to eligible
+users.
+ETA management has written tax package instructions
+to be easy to read and understand.  They have also
+Page 6
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+addressed many misconceptions of users, eligible non-
+users, and tax preparers.  For example, the instruction
+regarding proof of filing or return acceptance has been
+revised to draw more emphasis to this benefit and to the
+issuance of a confirmation number by the Telefile
+System.
+ETA management has also established a group to
+promote awareness and education to internal and
+external audiences.  In addition, the IRS periodically
+provides articles and Questions and Answers on the 941
+TeleFile Program to employees and taxpayers to
+improve publicity, education, and instructions for IRS
+electronic filing programs.
+The IRS has contracted with a vendor to develop a
+comprehensive marketing and communications strategy
+that will focus on the “941 Suite” of products.  The final
+plan “IRS Marketing for Business Masterfile (BMF)
+Initiatives” was delivered December 23, 1998.  The plan
+gave further direction and provided recommendations
+for the best marketing approach for electronic business
+options.
+The Internal Revenue Service Needs to Provide
+Quality Customer Service to TeleFile Users
+An effective method for
+resolving taxpayer problems is
+needed.
+The IRS needs to establish a more effective method
+for resolving taxpayer problems with the 941
+TeleFile Program.  The IRS has not established an
+effective method for delivering quality customer service
+to taxpayers using the 941 TeleFile Program.  Currently,
+business taxpayers with questions about their 941
+TeleFile return contact IRS Customer Service.  The
+customer service representative then either contacts the
+TeleFile Coordinator or has the taxpayer contact the
+Coordinator.  We were advised that the TeleFile
+Coordinator currently handles about 20 phone calls per
+day.
+Since this was the first full year of nationwide use, most
+of these calls could be handled by the TeleFile
+Page 7
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+Coordinator. However, the current process does not
+meet the IRS’ goal of resolving taxpayers’ problems
+during their initial contact with the IRS.  In addition, as
+the number of TeleFile users increases, a more effective
+method will need to be implemented since TeleFile is
+not adequately staffed to handle taxpayer problems.
+The IRS is testing an Employment Tax call site for 90
+days at the MCC and an employment tax web page on
+the Internet.  These two options, if implemented, could
+improve the customer service provided to businesses
+using the 941 TeleFile Program.
+Some current 941 TeleFile
+Program users will not be
+allowed to use TeleFile for
+1999 because their tax
+liabilities have exceeded the
+dollar threshold, but the IRS
+does not inform them of this.
+Taxpayers should be informed when they are no
+longer eligible to participate in the 941 TeleFile
+Program.  The 941 TeleFile Program will not allow
+businesses with tax liabilities greater than $50,000 to
+use the system because those businesses are required to
+file an additional supporting schedule with the Form 941
+return.
+The IRS uses a taxpayer’s prior filing history to
+determine the taxpayer’s requirements for depositing
+employment tax payments (known as Federal Tax
+Deposits or FTDs) towards their yearly tax liability.
+Specifically, the IRS uses the taxpayer’s Form 941 filing
+history for 12 months (e.g., beginning July 1st and
+ending June 30th of the prior year).  This period is called
+the look-back period.  Once the taxpayer’s total tax
+liability exceeds $50,000, they are required to deposit
+their FTDs on a semi-weekly basis and are also required
+to file an Employer’s Record of Federal Tax Liability
+(Schedule B), with the Form 941 return.   
+When business taxpayers exceed the $50,000 liability
+threshold, the IRS issues an Annual Notification of FTD
+Deposit Requirements (CP-136 notice), advising them
+that their FTD requirements have changed from monthly
+to semi-weekly.  However, the notice does not mention
+that the taxpayer is no longer eligible to use the
+941 TeleFile Program because they exceeded the
+threshold.  It also does not indicate that they are now
+required to file a Schedule B with the Form 941 return.
+Page 8
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+Once a taxpayer is required to file a Schedule B, they
+cannot file electronically through the Telefile System.
+During the first six months of 1998, there were 236,344
+filers who attempted to use TeleFile and 8,294 of these
+filers were not allowed to use the System because they
+were required to file a Schedule B with the Form 941
+return.  These Schedule B filers (3.5 percent of the
+population) received a CP-136 notice and may have
+subsequently called the IRS to determine why they were
+no longer eligible to use TeleFile.  These types of calls
+could be prevented if the IRS notifies the taxpayer when
+they are no longer eligible to use the 941 TeleFile
+System.  The IRS could use the CP-136 to advise
+taxpayers that they are no longer eligible to use TeleFile
+and that they are now required to file a Schedule B with
+the Form 941 return.  The notice could also advise the
+taxpayer of other alternatives for filing their returns,
+such as ELF.
+TeleFile packages had not
+been updated to reflect the
+revised balance due limitation
+of $1,000.
+The IRS needs to ensure that the 941 TeleFile
+Program forms and instructions are timely updated
+to reflect program changes.  On October 2, 1998, we
+issued a memorandum advising the IRS that the
+instructions to the 941 TeleFile package had not been
+updated to reflect a revision to the criteria scheduled for
+use with the Telefile System in the fourth quarter of
+calendar year 1998.  This criteria change involved
+permitting taxpayers with a balance due tax liability of
+$1,000 or less to use the 941 TeleFile System.  Prior to
+this criteria change, taxpayers could only use the 941
+TeleFile System if they had a balance due of $500 or
+less.
+Our review of the fourth quarter TeleFile tax package
+instructions and the 941 TeleFile tax form showed that
+they had not been revised to reflect that the balance due
+criteria of $500 was raised to $1,000.  Line 15 of the
+941 TeleFile tax form incorrectly instructed the
+taxpayers that if they owed a balance due of $500 or
+more, then they could not use the 941 TeleFile System.
+This information was also included on Page TEL-1 of
+the tax package instructions.
+Page 9
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+The IRS was expected to mail approximately 3.5 million
+fourth quarter TeleFile packages to taxpayers in
+December 1998.  The omission to the instructions may
+have caused some eligible taxpayers to not use the
+941 TeleFile System.  The incorrect instructions may
+impact IRS management’s ability to achieve their goal
+of 16 million employment tax returns being filed
+electronically by the year 2002.
+The IRS is currently in the process of enhancing the
+941 TeleFile Program to accept all balance due returns
+effective January 4, 1999.  This change will eliminate
+the balance due dollar restriction.
+Recommendations
+2. The IRS should ensure that Customer Service
+representatives located at Customer Service sites are
+adequately trained to handle 941 TeleFile Program
+problems.
+3. The IRS should provide additional wording to the
+CP-136 notice to advise taxpayers they are no longer
+eligible to use the 941 TeleFile Program and to
+advise them of other electronic alternatives for filing
+their returns, such as ELF.
+4. In a memorandum dated October 2, 1998, we
+recommended that the fourth and subsequent quarter
+TeleFile tax packages be revised to correctly instruct
+taxpayers on the revised criteria.
+Management’s Response: The IRS will supplement
+Part 21 of the Internal Revenue Manual (IRM) for
+customer service representatives to include additional
+program detail and processing instructions when
+responding to calls from taxpayers.
+The IRS is supplementing
+Part 21 of the IRM to include
+additional detail and
+instructions when responding to
+calls from taxpayers, and has
+proposed the establishment of an
+Employment Tax call site.
+The test for the new Employment Tax call site was
+conducted between October and December 1998.  Based
+on the results of the test, the IRS has proposed the
+establishment of the call site.
+IRS management has requested a computer code for the
+941 TeleFile Program to enable them to track and retain
+eligible filers.  Based on Information Systems resources,
+Page 10
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+the assignment of this code may not be possible until the
+year 2001.
+The IRS is exploring the
+recommendation to include
+information about a change in
+a taxpayer’s eligibility for the
+941 TeleFile Program in the
+CP-136 notice.
+The IRS will explore the recommendation to include
+information in the CP-136 notice that will advise the
+taxpayer that if they are required to file a Schedule B,
+they are no longer eligible to use the 941 TeleFile
+System.  The IRS is also working on incorporating the
+Schedule B into the 941 TeleFile System, which is the
+basis for the expansion of the 941 TeleFile Program.
+The IRS explained that it could not revise the 941
+TeleFile tax package prior to mailing the fourth quarter
+packages.  The TeleFile instructions and tax package
+were subsequently updated and the changes were
+effective in the mailout for the first quarter of calendar
+year 1999.
+The Internal Revenue Service Needs to Improve
+941 TeleFile Computer Controls to Prevent
+Taxpayers From Filing Multiple Returns and
+Allow the System to Verify a TeleFile User's
+Filing History and Electronic Signature
+Multiple Form 941 TeleFile
+returns are being filed.
+The 941 TeleFile computer system should prevent the
+filing of multiple returns by a taxpayer.  Form 941
+TeleFile returns are primarily processed at the TCC.  If
+the TCC cannot handle the volume of returns being
+filed, or if the Telefile System is not working at TCC,
+the CSC serves as the backup site to handle the excess
+volume.  The CSC currently accepts TeleFile returns
+only during peak filing periods, which are the last two
+days of the filing month.  Returns from the two locations
+are merged and updated on the 941 TeleFile System at
+the end of each day.  In contrast, the IRS’ IMF TeleFile
+computer system, which processes Individual Income
+Tax Returns (Form 1040), is updated every 15 minutes.
+Occasionally, taxpayers file a second, or amended,
+return to correct errors or omissions in their original tax
+return.  The TeleFile tax package instructions state that
+amended returns cannot be filed through TeleFile and
+Page 11
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+must be filed on paper.  However, if a taxpayer attempts
+to file more than one Form 941 TeleFile return in the
+same peak filing day, both returns could be processed
+separately at the two sites.  Since the Systems are only
+merged and updated at the end of the day, TeleFile
+would not be aware of the potential duplicate or
+amended return and would accept both returns.
+However, when there are duplicate returns, TeleFile
+always processes the return received at the primary
+processing site (TCC).  The return filed at the CSC, the
+backup site, would not be processed even though the
+taxpayer may have intended otherwise.
+Our audit showed that the 941 TeleFile System did not
+prevent multiple returns from being filed when both the
+TCC and the CSC were receiving TeleFile returns.  We
+tested the peak processing period for the second quarter
+of calendar year 1998 and identified 17 business
+taxpayers that filed more than one 941 return on the
+Telefile System.
+This process may cause the taxpayer to contact the IRS
+to ensure the correct return was processed, which
+increases taxpayer burden.  This problem will be
+compounded as the volume of both Form 1040 and
+Form 941 TeleFile returns increases and there are more
+days when both the TCC and the CSC are accepting
+TeleFile returns.
+Businesses are filing returns
+through the 941 TeleFile
+System without being
+authenticated (i.e., verified) to
+use the system.
+The IRS could use the look-back period to ensure
+businesses using the 941 TeleFile System are
+authenticated (i.e., verified) to use the System.  Under
+existing processes, business taxpayers can participate in
+the 941 TeleFile Program without being authenticated.
+Each quarter, the IRS creates a database of taxpayers
+who are eligible to use the 941 TeleFile System.  Each
+of the taxpayers in the database has been in business for
+at least the last 12 months.  Requiring taxpayers to be in
+business for at least a year assures the IRS that the 941
+TeleFile System is only used by businesses with an
+established filing history.  Using the look-back period,
+which relies on the Form 941 filing history over the past
+year, will provide the IRS with more assurance that
+Page 12
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+taxpayers have an established filing history when using
+the 941 TeleFile System.
+To verify the taxpayer’s identity, the IRS requires the
+taxpayer to enter the prior year’s third quarter total FTD
+amount each time a Form 941 return is filed.  If the
+taxpayer did not file a prior year third quarter Form 941
+return or have any FTDs for that quarter and enters a
+zero in the FTD amount field, the computer allows the
+taxpayer to file the current Form 941 return.  As a result,
+businesses are able to participate in the Program even
+though they have not established a filing history to
+determine their filing requirements.
+However, it is possible due to timing for an eligible
+taxpayer (in business for at least 12 months) to not have
+a prior year third quarter FTD amount.  For example,
+taxpayers eligible to file for the fourth quarter of 1998
+(October 1998 - December 1998) would only have to be
+in business since the fourth quarter of calendar year
+1997 (October 1997 – December 1997).  These
+taxpayers would not have a prior year third quarter FTD
+amount because they were not in business during the
+third quarter of calendar year 1997.
+The IRS should improve the process of verifying the
+electronic signatures of the 941 TeleFile System
+users.  Currently, taxpayers electronically sign their
+returns by entering their Social Security Number (SSN)
+and their last name.  After TeleFile accepts the return,
+the System provides a confirmation number to the
+taxpayer.  The confirmation number is based, in part, on
+the date the return is filed.
+Because the taxpayer’s electronic signature (name and
+SSN) cannot be verified on-line against the IRS’
+computer system, a sample of electronic signatures is
+manually reviewed at the end of the quarter as a quality
+measure.  The TeleFile Coordinator selects a random
+sample of returns and manually matches the names and
+SSNs to the IRS’ Masterfile to ensure the returns were
+filed by the taxpayer or his or her representative.
+The TeleFile Coordinator’s review at the end of the
+first quarter of calendar year 1998 showed that about
+Five percent of the electronic
+signatures were not valid.
+Page 13
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+95 percent of the electronic signatures were valid.  Five
+percent of the signatures were not valid because the SSN
+did not match the name control.  However, the IRS does
+not have procedures to follow up on the invalid
+signatures, allowing potential invalid returns to be filed.
+This raises the question about the purpose of this quality
+review.  If it is important to verify the signature by
+manually reviewing a sample of returns, then the IRS
+should follow up on the invalid signatures.
+Recommendations
+5. The IRS should update the 941 TeleFile System
+using the same update process used by the IMF
+Telefile System.  This process would result in
+updates every 15 minutes, which reduces the risk of
+multiple returns being filed.
+6. The IRS should require taxpayers to be in business
+for the entire look-back period to be eligible to
+participate in the 941 TeleFile Program.
+7. The IRS should assess the risks associated with the
+electronic signature process and develop appropriate
+actions based on this assessment.  If the IRS elects to
+continue the existing process, we recommend that
+the IRS determine an acceptable error rate for
+invalid signatures and take appropriate action when
+the error rate is exceeded.
+Management’s Response:  To prevent duplicate returns
+from being filed, the IRS has implemented a Data
+Replication process to eliminate duplicate returns when
+multiple sites are used to process returns .  This process
+will be tracked to ensure it is successful.
+ETA management will analyze the computer program
+criteria for determining if a taxpayer is eligible to use
+the 941 TeleFile System to ensure it is capturing eligible
+filers for the full look-back period.  ETA management is
+also researching the possibility of allowing all new
+businesses that otherwise meet the 941 TeleFile
+Program requirements to use the System.
+Page 14
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+The IRS is redesigning the
+return filing confirmation
+number to make it unique for
+each taxpayer.
+The IRS is researching a random sample of SSNs for
+invalid electronic signatures.  The IRS is sending letters
+to the taxpayers who provided the invalid signatures,
+and informing them their tax return may be delayed until
+the letter is returned with a valid signature.  The IRS is
+also working on redesigning the return filing
+confirmation number so that it will be unique to each
+taxpayer, which will allow the IRS to continue to track
+the electronic signature information on a quarterly basis.
+The results of the electronic signature information and
+an assessment of the error rate will continue to be
+reported.
+Conclusion
+Ninety-four percent of the
+businesses that attempted to
+use the 941 TeleFile System in
+the second quarter of calendar
+year 1998 were successful.
+Overall, the IRS experienced a successful 1998 filing
+season for the 941 TeleFile Program.  Returns were
+accurately processed and approximately 94 percent of
+the business taxpayers attempting to file electronically
+through the 941 TeleFile System were successful.
+Improving the marketing and customer service processes
+will increase assurances that more of the eligible filers
+will use the 941 TeleFile Program in the future.  In
+addition, improvements to the 941 TeleFile System will
+prevent taxpayers from filing multiple returns and will
+improve the process for verifying the filing history and
+electronic signatures of taxpayers using the 941 TeleFile
+System.
+Page 15
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+Appendix I
+Detailed Objective, Scope, and Methodology
+The overall objective of this audit was to evaluate the effectiveness of the Internal Revenue
+Service’s (IRS) processes for ensuring that the 1998 941 TeleFile Program was successfully
+implemented.   To accomplish the overall objective, we conducted the following tests:
+I. 
+Evaluated whether the IRS took appropriate actions to address the following
+issues identified in the prior review.
+A. 
+Determined whether taxpayers were adequately identified by selecting a
+sample of 50 Employer’s Quarterly Federal Tax Return (Form 941)
+TeleFile returns to determine whether the taxpayer had to enter the correct
+amount in the security field (total third quarter Federal Tax Deposit
+amount from the prior year) before being allowed to file.
+B. 
+Determined whether only eligible taxpayers filed 941 TeleFile returns.
+II. 
+Matched the Martinsburg Computing Center requirements for extracting
+1998 eligible 941 TeleFile businesses to the 1998 TeleFile package.
+III. 
+Reviewed 941 TeleFile returns filed for the second quarter of calendar year 1998
+to determine whether only eligible businesses filed.
+IV. 
+Determined the effectiveness of the IRS’ processes for ensuring 941 TeleFile
+returns were accurately processed and accounted for during the nationwide
+implementation.
+A. 
+Reviewed a sample of 114 Form 941 TeleFile returns filed for the second
+quarter of calendar year 1998 and determined whether taxpayer return
+information posted correctly to the Masterfile.
+B. 
+Tracked the second quarter 941 TeleFile returns from the Tennessee
+Computing Center and Cincinnati Service Center Telefile Systems to the
+Masterfile.
+C. 
+Evaluated the IRS’ efforts to verify the electronic signatures (Social
+Security Numbers and last name) used to sign the 941 TeleFile returns.
+V. 
+Assessed publicity efforts for increasing the number of businesses who filed
+1998 returns using the 941 TeleFile Program.
+A. 
+Evaluated the IRS’ efforts to market the 1998 941 TeleFile Program by
+reviewing marketing materials and interviewing project office employees.
+     Page  16
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+B. 
+Reviewed the 941 TeleFile Program customer feedback gathered in 1997
+and determined whether the IRS had an effective strategy to increase the
+number of filers.
+C. 
+Determined whether the IRS provided adequate information to Customer
+Service personnel to enable them to resolve 941 TeleFile Program
+problems.
+     Page  17
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+Appendix II
+Major Contributors to This Report
+Scott E. Wilson, Associate Inspector General for Audit (Information Systems Programs)
+M. Susan Boehmer, Director
+Nancy A. Nakamura, Director
+James V. Westcott, Audit Manager
+Edward Gorman, Senior Auditor
+John W. Baxter, Auditor
+Gregory W. Holdeman, Auditor
+Nancy L. Prather, Auditor
+Sharon R. Shepherd, Auditor
+Michael R. Van Nevel, Auditor
+     Page  18
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+Appendix III
+Report Distribution List
+Chief Operations Officer  C:OP
+Assistant Commissioner (Electronic Tax Administration)  OP:ETA
+Assistant Commissioner (Forms & Submission Processing)  OP:FS
+Assistant Commissioner (Program Evaluation and Risk Analysis)  M:OP
+National Director, Electronic Program Operations  OP:ETA:O
+National Director, Tax Forms and Publications Divisions  OP:FS:FP
+National Director for Legislative Affairs  CL:LA
+Office of Management Controls  M:CFO:A:M
+     Page  19
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+Appendix IV
+Memorandum #1 - Business Masterfile TeleFile 1998 Expansion
+October 2, 1998
+MEMORANDUM FOR NATIONAL DIRECTOR
+TAX FORMS AND PUBLICATIONS DIVISION OP:FS:FP
+FROM:
+(for) REGIONAL INSPECTOR
+SOUTHEAST REGION 
+SUBJECT:
+BMF TeleFile 1998 Expansion – Internal Audit Memorandum #1
+This memorandum is to advise you of an error in the fourth quarter 941 TeleFile
+Instructions that may adversely effect the number of taxpayers participating in the BMF
+TeleFile program. Although Internal Revenue Manual 1289 provides 30 workdays for
+responding to an Internal Audit memorandum, we are requesting that you advise us of the
+action you plan take in a written response within 10 workdays.  This request is being
+made as a result of the time sensitivity of the issue.  If you have any suggestions for
+improving or clarifying this memorandum, please contact me or Audit Manager Jim
+Westcott at (606) 292-5162.
+Instructions to the BMF TeleFile package have not been updated to reflect program
+enhancements scheduled for the Telefile System in the fourth quarter.
+We determined that the 941 TeleFile Tax packages have not been revised to show that the
+$500 balance due limit is no longer in effect. The Service is in the process of enhancing
+the BMF TeleFile program to accept all balance due returns effective January 4, 1999.
+This change will eliminate the restriction for taxpayers who owe a balance due of $500 or
+more. Previously, if a taxpayer attempted to file and had a balance due of $500 or more
+they would receive a message indicating that their balance due exceeded the balance due
+amount that TeleFile can accept and that the Service cannot continue with the processing
+of their return.  Furthermore, taxpayers would be advised to file a paper return for the
+quarter.
+Our review showed that the TeleFile package instructions and the 941 TeleFile Tax
+Record have not been revised to eliminate the balance due criteria of $500 or more.  Line
+15 of the 941 TeleFile Tax Record incorrectly tells the taxpayer that if they owe a balance
+due of $500 or more, they cannot use 941 TeleFile.  This information is also included on
+Page TEL-1 of the tax package instructions.  Modifications to the 941 TeleFile Program
+for the fourth quarter eliminated the restriction of taxpayers who owe a balance due of
+     Page  20
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+$500 or more.  The BMF TeleFile packages are scheduled to be mailed in December
+1998, for the fourth quarter.
+This oversight to the instructions will cause taxpayers not to use the BMF TeleFile
+program. We estimate the Service plans to mail approximately 3.4 million 941TeleFile
+packages for the fourth quarter. With the emphasis on customer service and on increasing
+the number of taxpayers filing returns electronically, the Service cannot afford to
+overlook issues that may impact these goals.
+Recommendation
+To minimize losing potential taxpayers that are eligible to file 941 TeleFile, we
+recommend that the fourth and subsequent quarter TeleFile tax packages, including the
+941 TeleFile Tax Record line 15, be revised by removing the reference to the $500
+balance due.
+cc:
+Assistant Commissioner (Electronic Tax Administration)  OP:ETA
+National Director, Electronic Program Operations  OP:ETA:O
+Assistant Commissioner (Forms and Submission Processing)  OP:FS
+     Page  21
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+Appendix V
+Management's Response to Memorandum #1
+     Page  22
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+     Page  23
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+Appendix VI
+Management's Response to the Draft Report
+     Page  24
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+     Page  25
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+     Page  26
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+     Page  27
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+     Page  28
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+     Page  29
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+     Page  30
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+     Page  31
+The Internal Revenue Service Needs to Encourage Taxpayer Use, Improve
+Customer Service, and Enhance Computer Controls of the 941 TeleFile Program
+     Page  32

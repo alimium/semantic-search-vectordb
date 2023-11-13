@@ -1,0 +1,121 @@
+EERE 103: Notice of Intent (NOI) 
+ 
+ 
+ 
+Notice of Intent No. DE‐FOA‐0001623 
+ 
+Notice of Intent to Issue 
+Funding Opportunity Announcement No. DE‐FOA‐0001461 
+ 
+The Office of Energy Efficiency and Renewable Energy (EERE) intends to issue, on behalf of the 
+Bioenergy Technology Office (BETO) and Vehicle Technologies Office (VTO), a Funding 
+Opportunity Announcement (FOA) entitled “Co‐Optimization of Fuels and Engines.”  The FOA 
+will be restricted to U.S. Institutions of Higher Education (as defined in 20 U.S.C. § 1001, and 
+in accordance with 2 C.F.R § 200.55), and non‐profit research institutions that operate as a 
+division under the U.S. Institutions of Higher Education. 
+ 
+This FOA will support the Co‐Optimization of Fuels and Engines (Co‐Optima) initiative, a 
+collaborative initiative being pursued by BETO and VTO to accelerate the introduction of 
+affordable, scalable, and sustainable high‐performance fuels for use in high‐efficiency, low‐
+emission engines. This first‐of‐its‐kind effort brings together multiple DOE offices, national 
+laboratories, and industry stakeholders to simultaneously conduct tandem fuel and engine R&D 
+and deployment assessment in order to maximize energy savings and on‐road vehicle 
+performance, while dramatically reducing transportation‐related petroleum consumption and 
+greenhouse gas (GHG) emissions. 
+ 
+In 2016, BETO and VTO jointly funded a consortium of nine DOE national laboratories to begin 
+an initial three‐year project in support of the Co‐Optima initiative. The National Laboratory 
+Project includes two research thrusts: 
+ 
+ Thrust I—Improve near‐term conventional spark ignition engine efficiency 
+ Thrust II—Enable full operability advance compression ignition engines 
+ 
+The research cycle for each thrust includes identifying fuel candidates, understanding their 
+characteristics and combustion performance, and determining market transformation 
+requirements such as cost, GHG reduction, feedstock requirements, scalability, and 
+infrastructure compatibility, while providing feedback to stakeholders and future collaborators.  
+ 
+Projects selected under this FOA will complement the ongoing National Laboratory Project and 
+support the broader Co‐Optima initiative. 
+  
+ 
+This FOA will solicit applications that address one or more of the following sub‐topic areas:  
+ Fuel characterization and fuel property prediction  
+____________________________ 
+This is a Notice of Intent (NOI) only.  EERE may issue a FOA as described herein, may issue a FOA 
+that is significantly different than the FOA described herein, or EERE may not issue a FOA at all. 
+ 
+Template Version 05/19/16 
+ 
+ Kinetic measurement and mechanism development 
+ Emissions and environmental impact analysis 
+ Impact of fuel chemistry and fuel properties on particulate emissions 
+ Small volume, high‐throughput fuel testing 
+ 
+Additional information about the Co‐Optima initiative and National Laboratory Project can be 
+found at: http://energy.gov/eere/bioenergy/co‐optimization‐fuels‐engines.  
+ 
+This FOA will be restricted to U.S. Institutions of Higher Education (as defined in 20 U.S.C. § 
+1001, and in accordance with 2 C.F.R § 200.55), and non‐profit research institutions that 
+operate as a division under the U.S. Institutions of Higher Education.  EERE envisions awarding 
+multiple financial assistance awards in the form of grants. The estimated period of performance 
+for each award will be approximately 1–3 years. 
+ 
+This Notice is issued so that interested parties are aware of EERE’s intention to issue this FOA in 
+the near term. All of the information contained in this Notice is subject to change. EERE will not 
+respond to questions concerning this Notice. Once the FOA has been released, EERE will 
+provide an avenue for potential applicants to submit questions.  
+ 
+EERE plans to issue the FOA in August 2016 via the EERE Exchange website (https://eere‐
+exchange.energy.gov/). If applicants wish to receive official notifications and information from 
+EERE regarding this FOA, they should register in EERE Exchange. When the FOA is released, 
+applications will be accepted only through EERE Exchange. 
+ 
+In anticipation of the FOA being released, applicants are advised to complete the following 
+steps, which are required for application submission: 
+ 
+ Register and create an account in EERE Exchange at https://eere‐exchange.energy.gov.  This 
+account will allow the user to register for any open EERE FOAs that are currently in EERE 
+Exchange. It is recommended that each organization or business unit, whether acting as a 
+team or a single entity, use only one account as the contact point for each submission. 
+ 
+Questions related to the registration process and use of the EERE Exchange website should 
+be submitted to EERE‐ExchangeSupport@hq.doe.gov. 
+ Obtain a Dun and Bradstreet Data Universal Numbering System (DUNS) number (including 
+the plus 4 extension, if applicable) at http://fedgov.dnb.com/webform. 
+ Register with the System for Award Management (SAM) at https://www.sam.gov. 
+Designating an Electronic Business Point of Contact (EBiz POC) and obtaining a special 
+password called an MPIN are important steps in SAM registration. Please update your SAM 
+registration annually. 
+____________________________ 
+This is a Notice of Intent (NOI) only. EERE may issue a FOA as described herein, may issue a FOA 
+that is significantly different than the FOA described herein, or EERE may not issue a FOA at all. 
+ 
+2
+Template Version 05/19/16 
+ 
+ 
+ 
+        
+ 
+ Register in FedConnect at https://www.fedconnect.net/. To create an organization account, 
+your organization’s SAM MPIN is required. For more information about the SAM MPIN or 
+other registration requirements, review the FedConnect Ready, Set, Go! Guide at 
+https://www.fedconnect.net/FedConnect/Marketing/Documents/FedConnect_Ready_Set_
+Go.pdf 
+ Register in Grants.gov (http://www.grants.gov/) to receive automatic updates when 
+amendments to a FOA are posted. However, please note that applications will not be 
+accepted through Grants.gov. All applications must be submitted through EERE Exchange 
+(https://eere‐exchange.energy.gov). 
+ 
+ 
+____________________________ 
+This is a Notice of Intent (NOI) only. EERE may issue a FOA as described herein, may issue a FOA 
+that is significantly different than the FOA described herein, or EERE may not issue a FOA at all. 
+ 
+3
+Template Version 05/19/16 
+ 
+ 
+ 
+        

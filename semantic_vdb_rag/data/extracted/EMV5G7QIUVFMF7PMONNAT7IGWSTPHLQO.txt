@@ -1,0 +1,316 @@
+Expiration 
+Date
+6565 Knott Avenue
+Buena Park
+CA
+90620
+07/19/2006
+06/30/2012
+9/12/2011 at 2:58:26 PM 
+MT.2052 
+Braz Transfers, Inc.
+999 Broadway, Suite 500
+Saugus
+MA
+1906
+06/25/2010
+06/30/2012
+MT.2030 
+Continental Exchange Solutions, Inc.
+dba RIA Financial Services; Associated 
+Foreign Exchange
+MT.2035 
+Dahab-Shil, Inc.
+2025 Nicollet Ave South # 206
+Minneapolis
+MN
+55404
+02/21/2007
+06/30/2012
+MT.2059 
+Facebook Payments Inc.
+1601 S. California Avenue
+Palo Alto
+CA
+94304
+08/08/2011
+06/30/2012
+MT.2046 
+NoteWorld LLC
+NoteWorld Servicing Center
+1001 Pacific Avenue, Suite 200
+Tacoma
+WA
+98402
+09/01/2009
+06/30/2012
+MT.2038 
+Paypal, Inc.
+2211 North First Street
+San Jose
+CA
+95131
+07/30/2007
+06/30/2012
+MT.2029 
+PreCash, Inc.
+1800 West Loop South, Suite 1400
+Houston
+TX
+77027
+07/19/2006
+06/30/2012
+MT.2044 
+Xoom Corporation
+100 Bush Street, Suite 300
+San Francisco
+CA
+94104
+06/24/2009
+06/30/2012
+MT.2056 
+Bancomer Transfer Services, Inc.
+16825 Northchase Drive, Suite 1525
+Houston
+TX
+77060
+12/16/2010
+06/30/2012
+MT.2049 
+Blackhawk Network California, Inc.
+6220 Stoneridge Mall Road
+Pleasanton
+CA
+94588
+10/21/2009
+06/30/2012
+MT.2055 
+DLC Empire Prepaid Cards, LLC
+901 West 10th Street
+Sioux Falls
+SD
+57104
+11/02/2010
+06/30/2012
+MT.2050 
+Golden Money Transfer, Inc.
+517 4th Avenue, Suite 103
+San Diego
+CA
+92101
+03/08/2010
+06/30/2012
+MT.2051 
+Moneybookers USA, Inc.
+61 Broadway, Suite 1603
+New York
+NY
+10006
+05/28/2010
+06/30/2012
+MT.2012 
+MoneyGram Payment Systems, Inc.
+1550 Utica Avenue South
+Minneapolis
+MN
+55416
+02/18/1997
+06/30/2012
+MT.2041 
+nFinanSe Payments Inc.
+3923 Coconut Palm Drive, Suite 107
+Tampa
+FL
+33619
+01/28/2008
+06/30/2012
+MT.2018 
+Sigue Corporation
+13291 Ralston Ave.
+Sylmar
+CA
+91342-7676
+09/30/2002
+06/30/2012
+MT.2058 
+Tempus Consulting, Inc.
+1225 New York Avenue NW, Suite 200
+Washington
+DC
+20005
+06/07/2011
+06/30/2012
+MT.2054 
+Travelex Global Business Payments, Inc.
+1152 15th Street NW, 7th Floor
+Washington
+DC
+20005
+09/14/2010
+06/30/2012
+MT.2047 
+ADP Payroll Services, Inc.
+One ADP Blvd. M/S 443
+Roseland
+NJ
+7068
+09/01/2009
+06/30/2012
+MT.2048 
+Global Cash Access, Inc. (GCA)
+3525 E. Post Road, Suite 120
+Las Vegas
+NV
+89120
+10/13/2009
+06/30/2012
+Credential 
+Number
+Name
+DBA
+Address
+City
+State
+Zip
+First 
+Issuance 
+Date
+MT.2023 
+Green Dot Corporation
+605 East Huntington Drive, Suite 205
+Monrovia
+CA
+91016
+12/02/2004
+06/30/2012
+MT.2010 
+Integrated Payment Systems Inc.
+6200 S Quebec Street, Ste 260
+Greenwood Village
+CO
+80111
+08/19/1993
+06/30/2012
+MT.2043 
+Official Payments Corporation
+11130 Sunrise Valley Drive, Suite 300
+Reston
+VA
+20191
+05/20/2009
+06/30/2012
+MT.2060 
+Softgate Systems, Inc.
+330 Passaic Avenue
+Fairfield
+NJ
+7004
+08/16/2011
+06/30/2012
+MT.2003 
+Comdata Network Inc.
+dba Comdata Corporation
+5301 Maryland Way
+Brentwood
+TN
+37027
+07/01/1987
+06/30/2012
+MT.2042 
+Google Payment Corp.
+dba Google Checkout
+1600 Amphitheatre Parkway
+Mountain View
+CA
+94043
+04/14/2009
+06/30/2012
+MT.2057 
+Cambridge Mercantile Corporation (U.S.A.)
+902 Carnegie Center, Suite 340
+Princeton
+NJ
+8540
+01/20/2011
+06/30/2012
+MT.2020 
+Coborn's Incorporated
+1445 East Highway 23
+St. Cloud
+MN
+56304
+05/10/2004
+06/30/2012
+MT.2025 
+ITC Financial Licenses, Inc.
+5617 Princeton Avenue, Suite B
+Columbus
+GA
+30303
+01/21/2005
+06/30/2012
+37 Items Found
+MT.1001 
+American Express Travel Related Services Co. Inc.
+200 Vesey Street
+New York
+NY
+10285
+07/01/1973
+06/30/2012
+MT.2019 
+CheckFreePay Corporation
+15 Sterling Drive
+Wallingford
+CT
+06492-7544
+03/25/2003
+06/30/2012
+MT.2039 
+Obopay, Inc.
+350 Marine Parkway, Suite 100
+Redwood City
+CA
+94065
+09/21/2007
+06/30/2012
+MT.2053 
+American Express Prepaid Card Management Corp.
+20022 North 31st Avenue
+Phoenix
+AZ
+85027
+07/29/2010
+06/30/2012
+MT.2027 
+Custom House (USA) Ltd.
+Western Union Business Solutions
+517 Fort Street
+Victoria
+BC
+V8W 1E7
+04/01/2005
+06/30/2012
+MT.2011 
+Travelex Currency Services Inc.
+100 Yonge Street, 14th Floor, Scotia Plaza
+Ontario
+M5C 2W1
+10/16/1995
+06/30/2012
+MT.2004 
+Western Union Financial Services, Inc.
+12500 East Belford Avenue, Suite M12K3
+Englewood
+CO
+80112
+10/19/1989
+06/30/2012
+MT.2045 
+Amazon Payments, Inc.
+410 Terry Avenue N
+Seattle
+WA
+98109
+07/31/2009
+06/30/2012

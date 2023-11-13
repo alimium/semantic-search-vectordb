@@ -1,0 +1,506 @@
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 1
+Liquid Argon TPC R&D Update
+(a Fermilab perspective)
+• Technical Efforts at Fermilab
+• Massive LAr Detector Paradigms
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 2
+Massive Detector Paradigms
+– Single large volume with multiple horizontal drift 
+regions
+– Single large volume with single vertical drift region 
+followed by multiplication in the gas
+– Many (perhaps identical) detectors of the largest 
+practical “modest” size with horizontal drift 
+regions
+• Liquefied Natural Gas tank (FLARE-like)
+• Liquefied Natural Gas tank (GLACIER-like)
+• Modules (ICARUS-like)
+Many large LNG tanks in 
+service. excellent safety 
+record
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 3
+Detector Tank based on Industrial Liquefied Natural Gas (LNG) storage tanks
+DRIFT SPACE
+SECTION B-B
+Liquid Argon ACTIVE
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 4
+Cathode planes
+Wires planes
+FLARE  Design: View from the Top of 50kton LArTPC
+Note: 47.5 / 59.0 = 0.805
+Liquid Argon:
+Total-59,000 tons
+Active-47,500 tons
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 5
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 6
+C. Rubbia at Fermilab October 2005 “20 years of liquid Argon technology”
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 7
+and it can still be put in a neutrino beam.
+– Although the neutrino beam itself may only be ~10 
+microseconds long, the electrons will take ~2 milliseconds to 
+drift to the TPC sense wires
+– If it can be demonstrated that the cosmic ray background 
+can be handled it may be sensible to locate the detector near 
+the surface (under a few meters of overburden).
+Some uses of Massive LAr Detectors
+• One use (of particular interest at Fermilab):
+– An excellent electron neutrino detector in a neutrino beam
+• Another use:
+– A detector under (at least ~50 meters of) dirt/rock cover to 
+reduce cosmic ray background
+– This allows for nucleon decay, supernovae neutrino watches …
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 8
+Some Features of Massive LAr Detectors
+• Features of modular approach:
+– It avoids various problems with large dimension objects
+– It does not “put all your eggs in one basket”
+– It allows for a staged turn on of data taking
+• Light collection is another feature
+– Provides a trigger for natural processes such as nucleon 
+decay and supernovae … and is very useful for sorting out 
+background tracks in detectors in neutrino beams
+• Feature of long drift: Purity
+– ICARUS has shown it can be done on 300ton scale
+– Now it must be done better to be useful for massive scale
+Liquid Argon TPC R&D Update
+(a Fermilab perspective)
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 9
+• Technical Efforts at Fermilab
+– Overview
+– Purity Monitors
+– Materials Test Station
+– Argon Piston
+– Purity Demonstration
+– Cellular Design of the TPC
+• Massive LAr Detector Paradigms
+Overview: 1
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 10
+– This Talk
+• Focus of technical effort Fermilab: “Big Tank” issues
+• Using Fermilab’s neutrino beams:
+– Proposal to put a ~300liter TPC in front of the MINOS near 
+detector (T962) by Yale, Michigan State University and Fermilab
+– Conceptual development of a 150ton neutrino detector on the 
+surface almost directly above the MINOS near detector.
+• Long Baseline study with Brookhaven
+– LArTPC physics case studies include using off-axis NuMI beam as 
+well as on-axis beam to DUSEL (off-axis = narrow band, on-axis = 
+broad band)
+• Specific recent study
+– Understand the physics reach of a 5kton LArTPC detector near the 
+location of NOvA.
+• We continue to trade ideas with other groups around the world.
+Overview: 2
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 11
+– qualify / disqualify materials to be used in a detector
+– The presently preferred TPC design at Fermilab for the 5kton 
+detector is the Cellular Design.
+– Demonstrate that the purity required by a large liquid argon TPC 
+detector can be achieved without evacuation, and estimate the 
+associated costs for a 5kton scale detector or larger
+– A key is to use argon as a “piston” to push out the air as an 
+inexpensive first step (e.g., remove ~ton of oxygen in a 5kton tank)
+• Commissioning of the Materials Test Station 
+• Purity demonstration without evacuation
+• Cellular TPC design
+• Systems integration test in a ~30liter TPC (not in this talk)
+– Observe cosmic ray tracks
+– Develop electronics needed for T962 and other detectors (MSU)
+•Purity monitors
+– Will make more as needed for the purity demonstration without 
+evacuation and other uses.
+50 cm
+More Purity Monitors
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 12
+Long Purity Monitor - for long drift life times
+ICARUS Clone made at Fermilab
+anode signal
+cathode signal
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 13
+Electron lifetime measurement in LAr
+(*) peaks need some correction for cathode signal rise-time
+a 2.8 millisecond drift,   Qanode/Qcathode ~ 0.4 (*)
+• Our first measurement May 4, 2006 surpassed the 10 msec lifetime 
+required for a 3m drift with a 20% loss for a 500 V/cm field.
+Liquid Argon TPC R&D Update
+(a Fermilab perspective)
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 14
+• Technical Progress at Fermilab
+– Overview
+– Purity Monitors
+– Materials Test Station
+– Argon Piston
+– Purity Demonstration
+– Cellular Design of the TPC
+• Massive LAr Detector Paradigms
+Materials lock
+Gas contaminant
+LAr boil-off condenser
+LN2
+T. Tope
+PrM
+Materials Test Station
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 15
+Implement the Materials Test Station..
+- Closed system cryostat - sketch at right
+It is fully assembled and awaiting safety 
+review.
+Note Materials lock which allows 
+introduction of materials without evacuating
+Start debugging the system in March 2007
+Developing in-cryostat filtering
+(new development)
+Start testing materials by the summer of 
+2007 … if all continues to go well.
+C. Kendziora
+01_30_07
+Internal
+Filter &
+Pump
+Sample
+Cage
+Purity
+Monitor
+Materials Test Station
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 16
+Insulating 
+Vacuum
+Argon 
+Vacuum
+Hydrogen for
+Regeneration
+Materials Test Station
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 17
+Stay tuned … and feel free to suggest materials to be tested
+Liquid Argon TPC R&D Update
+(a Fermilab perspective)
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 18
+• Massive LAr Detector Paradigms
+• Technical Progress at Fermilab etc
+– Overview
+– Purity Monitors
+– Materials Test Station
+– Argon Piston
+– Purity Demonstration
+– Cellular Design of the TPC
+climb rate ~ 3.8 f/h
+tank volume = 157 cf
+tank cross section = 19 sf
+flow rate ~ 73.2 cf/h
+(reading for air was 86 scfh)
+bubbler
+gas out
+to PPM Monitor 
+(parts per million of oxygen)
+24 ins
+48 ins
+59 ins
+diffuser
+WASHED
+TANK
+`O2 Monitor'
+`O2 Monitor'
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 19
+99 ins
+Using an “Argon Piston” to Purge oxygen
+(reported at Gran Sasso Cryodet Workshop March 2006)
+argon gas in
+Test of purging a volume from atmosphere (without evacuation):
+Insert Argon gas at bottom of tank over large area at low velocity.
+Fewer volume changes than simple mixing requires will achieve a given reduction in air concentration.
+The Argon introduced, being heavier than air, will act as a piston and drive the air out of the tank at the top.  
+The Test 
+Tank …
+(The very small 
+tank to his right is 
+a “bubbler”.)
+… behind an 
+average 
+sized 
+Fermilab
+engineer.
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 20
+Using an “Argon Piston” to Purge oxygen
+O xygen PPM
+200
+160
+120
+80
+40
+0
+100 ppm
+output
+5000 ppm
+output
+Time
+Upper Monitor
+Lower Monitor
+PPM Monitor
+Oxygen Content vs Time
+to 100 ppm (reduction of 2,000) takes 6 hrs = 2.6 volume changes
+(cf simple mixing, which predicts ln(2000) = 7.6 volume changes)
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 21
+5
+0
+17:16 18:16 19:16 20:16 21:16 22:16 23:16
+0:16
+1:17
+2:17
+3:17
+25
+20
+15
+10
+O xygen Content (% )
+Measurements using an “Argon Piston” to Purge oxygen
+(reported at Gran Sasso Cryodet Workshop March 2006)
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 22
+Argon Piston: Add Instrumentation
+Nitrogen is expected to 
+exhibit perfect mixing and 
+it does.
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 23
+Argon Piston compared with Nitrogen
+Purity Demonstration: 1
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 24
+constructed by an LNG contractor.
+–
+150tons is scaled down from 5ktons by a factor of 30
+–
+appropriately modified to accommodate a TPC
+–
+appropriately cleaned
+–
+use appropriately clean techniques to insert the cellular design TPC
+•
+Demonstrate that the purity required by a large liquid argon TPC
+detector can be achieved without evacuation, and estimate the 
+associated costs.
+•
+A credible demonstration must use, as much as possible, the same 
+materials and techniques as expected to be used for a massive detector 
+(e.g., 5kton).  Thus, the design of the detector must be sufficiently 
+understood.
+•
+The purity demonstration itself does not need a functioning TPC,
+but it does need to include the TPC materials arranged as in an 
+experiment, and prepared in the same manner as in an 
+experiment.
+•
+The present focus is to propose using a 150ton LNG tank
+Purity Demonstration: 2
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 25
+• purge oxygen to 50ppm or less
+• vertical velocity chosen to control diffusion and to be the same as to 
+be used in a 5kton detector
+• recirculated through filter scaled down from 5kton
+• remove water and oxygen, goal is 500ppb
+• i. e., achieve purity similar to that achieved by ICARUS with 
+evacuation
+• Final purity expected to be determined by contaminants from tank
+walls, TPC materials, flow restrictions due to presence of TPC, 
+leaks, etc.
+– Warm argon gas used as a piston
+– Recirculation of warm argon gas
+– Liquid purification system similar to ICARUS
+• Three steps starting from air in the tank:
+Liquid Argon TPC R&D Update
+(a Fermilab perspective)
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 26
+• Massive LAr Detector Paradigms
+• Technical Progress at Fermilab etc
+– Overview
+– Purity Monitors
+– Materials Test Station
+– Argon Piston
+– Purity Demonstration
+– Cellular Design of the TPC
+CHIMNEY SPACE
+CHIMNEY
+Deck 
+supported 
+from the dome
+Wires in plane
+(+20º,-20º, 0º)
+B
+A
+Liquid Argon TOTAL
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 27
+SUPPORT TUBE
+DOME
+WARM DECK
+B
+A
+Previous Design: LArTPC 50kton (wire plane section)
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 28
+Cellular Design: An Alternate Wire Layout
+(A Better Idea, perhaps)
+In the previous design with angled wires, attached to the tank top, 
+bottom, and sides, there will be some wires that do not reach all the 
+way to the top.  Hence they cannot  easily be read out (without 
+electronics immersed in the liquid, for example).
+Each set of wire planes has 3 planes to detect electrons drifting in from 
+the left, and 3 planes for electrons drifting in from the right.
+For each plane in  the left triplet, there is a corresponding plane, with 
+the same DC potential, in the right triplet.
+Why not …
+Connect the short wires on the left, that did not reach the top, to the 
+set of short wires on the right that start not at the tank bottom, but 
+higher up on the wall.
+Voila:   Complete coverage.
+“Half” wire
+layout
++”α” layout
+-”α” layout
+Vertical 
+layout
+Ground layout
+We can cover 
+the full chamber 
+area …
+while bringing 
+all signals out  
+at the top 
+surface.
+Drift
+}
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 29
+“Complete Coverage” Conceptual Layout
+Drift
+“Half” wire
+layout
+}
++”α” layout
+-”α” layout
+Vertical layout
+Ground layout 
+Drift
+Drift
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 30
+View from the Top: Complete Coverage Layout
+Cold Tank Wall
+Cold Tank Wall
+Cellular TPC
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 31
+1. Panels are made off-site and shipped (by truck or cargo 
+plane) to the detector site
+2. Panels are made while the tank is being built
+3. Panels are fully tested and cold-shocked
+4. Panel installation is fast and low-risk
+The panel is tall enough to reach the top of the Argon pool.
+Interpret the previous cross section as that of a panel that 
+forms a “cell” just 3 m wide.
+Since a single wire wraps around the cell from the left side to 
+right side, this introduces pattern recognition complications.
+What do we gain ?
+Cellular TPC,  Top View
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 32
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 33
+–
+http://www-lartpc.fnal.gov/
+–
+http://lartpc-docdb.fnal.gov/cgi-bin/DocumentDatabase
+–
+http://cryodet.lngs.infn.it/agenda/agenda.htm
+–
+http://www-lartpc.fnal.gov/atwork/workandconf/2006workshop/
+–
+http://nwg.phy.bnl.gov/fnal-bnl/
+Some Web References for this  talk
+•
+Web site with many of the items in this talk
+•
+Cryodet workshop
+•
+Yale Workshop
+•
+Draft Long Baseline report (not the final version)
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 34
+•Thank you!
+Backup
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 35
+~ 20 cm from anode 
+to cathode.
+Based on ICARUS 
+design.
+Used to measure 
+electron “lifetime”.
+Electrons arrive 
+at anode
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 36
+Flash of light strikes 
+photocathode
+Liquid Argon Purity Monitor
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 37
+Better View of Argon and Nitrogen purging
+Submitted to NuSAG by 
+the LArTPC group
+Summer 2005
+The “LArTPC group” is 
+Fermilab plus 6 
+universities
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 38
+Liquid Argon TPC Overview for NuSAG
+Note: At this point 
+in time …
+“15” could be “50”
+“1” could be “3”
+etc
+The optimum 
+choices depend on 
+the goals.
+Field grid
+5 meters
+17 meters
+Field grid
+wire panels
+Liquid Argon Technical Agenda - Scaling up
+LaThuile Italy / David Finley, Fermilab / March 2007            
+Slide 39
+Field grid
+wire panel
+1 meter
+A     5 ton detector is a cylinder 5 meters high with diameter 1 meter. 
+A 150 ton detector is a cylinder 5 meters high with diameter 5 meters.
+A   5 kton detector is a cylinder 17 meters high with diameter 17 meters
+The transverse dimension is partly modular - more panels, similar drift distances; 
+If the 150 ton detector works, the design of the 17 meter panel is probably 
+the key technical challenge.

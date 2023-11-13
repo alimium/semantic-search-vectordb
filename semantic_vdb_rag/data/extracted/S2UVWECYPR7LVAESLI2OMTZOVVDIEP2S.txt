@@ -1,0 +1,196 @@
+John Chiang - California State Controller    1
+Gasoline
+Diesel
+Use Fuel
+Code
+Cents/
+Cents/
+Cents/
+Other
+Section
+ Gallon
+Percent
+Tax
+Gallon
+Percent
+Tax
+Gallon
+Tax
+Revenue
+ Apportioned
+Transportation Tax Fund
+Highway Users Tax Account
+Distributed by Streets and Highways Code Sections
+June 28, 2010, Apportionment
+Counties
+2104* 
+$0.02035
+11.305555%
+$24,111,594.91
+$0.01800
+10.000000%
+$4,385,194.67
+$0.01800
+$34,262.94
+$
+28,531,052.52
+0.00
+Counties
+2105  
+0.01035
+5.750000%
+12,263,145.93
+0.01035
+5.750000%
+2,521,486.93
+0.01035
+5.06
+14,784,637.92
+Cities
+2105  
+0.01035
+5.750000%
+12,263,145.93
+0.01035
+5.750000%
+2,521,486.93
+0.01035
+5.06
+14,784,637.92
+ 
+Counties
+2106**
+ 
+2,495,359.97
+2,495,359.97
+Cities
+2106**
+0.01040
+5.777778%
+9,227,028.68
+9,227,028.68
+Bicycle Lane Account
+600,000.00
+600,000.00
+Cities
+2107  
+0.01315
+7.305556%
+15,580,712.92
+0.01800
+10.000000%
+4,385,194.67
+0.02590
+49,300.57
+20,015,208.16
+Cities - Snow
+2107
+0.00
+0.00
+Highway
+   Account
+2108  
+0.11540
+64.111111%
+136,731,114.71
+0.12330
+68.500000%
+30,038,583.46
+various
+45,585.66
+$207,249.45
+167,022,533.28
+State Controller, Support
+-93,196.95
+-93,196.95
+State Controller, Pro Rata
+0.00
+0.00
+State Controller, Support
+TOTAL
+$0.18000 100.000000%
+$213,178,906.10
+$0.18000 100.000000% $43,851,946.66
+various
+$129,159.29
+$207,249.45 $ 257,367,261.50
+To Cities:
+Fixed Amount Section 2106 (a) ($400.00 per City)
+$
+191,600.00
+Balance Section 2106 (b) (3)
+9,035,428.68
+Total to Cities
+$
+9,227,028.68
+*
+Detail of Apportionment to Counties under Section 2104:
+Engineering Costs and Administrative Expenses, County Roads, Section 2104 (a)
+$
+96,686.00
+Snow Removal, Sections 2104 (b), 2110
+583,333.33
+Heavy Rainfall and Storm Damage, Sections 2104 (c), 2110.5
+41,666.67
+Road Purposes 75% Allocation, Section 2104 (d)
+21,398,289.39
+Road Purposes, Section 2104 (e & f)
+6,411,077.13
+Total for Section 2104
+$
+28,531,052.52
+** Detail of Apportionment Under Section 2106:
+To Counties:
+Fixed Amount Section 2106 (a) ($800.00 per County)
+$
+46,400.00
+Balance Section 2106 (b) (2)
+2,448,959.97
+Total to Counties
+$
+2,495,359.97
+Transportation Tax Fund
+Motor Vehicle Fuel Account
+Reconciliation of Revenues
+May 24, 2010 through June 23, 2010
+June 28, 2010, Apportionment
+Gasoline Tax Revenue.......................................................................................
+$226,280,145.67
+Deduct:
+Board of Equalization, Support ...............................................................
+3,072,679.67
+State Controller, Support ……………………………………………………
+318,083.33
+SCO CH 208/04 GAAP Rptg ……………………………………………….
+215.38
+21st Century Project …………………………………………………………
+9,500.00
+Transfer to:
+Aeronautics Account (Aircraft Jet Fuel) ..................................................
+180,395.56
+Aeronautics Account (Aviation Gasoline) ...............................................
+196,573.00
+Harbors and Watercraft ..........................................................................
+3,320,956.00
+Off Highway ............................................................................................
+6,002,836.63
+Total Deductions...................................................
+13,101,239.57
+Net Gasoline Tax Revenue Available for Distribution........................................
+213,178,906.10
+Add:
+Other Revenues:
+Use Fuel Tax, Net .............................................................................
+129,159.29
+Diesel Fuel Tax, Net .........................................................................
+43,851,946.66
+Regulatory Licenses .........................................................................
+190,923.15
+Proceeds from Cancelled Warrants ..................................................
+16,326.30
+Total Other Revenues ..........................................
+44,188,355.40
+Transferred to Highway Users Tax Account,
+June 24, 2010
+$257,367,261.50
+John Chiang - California State Controller    2

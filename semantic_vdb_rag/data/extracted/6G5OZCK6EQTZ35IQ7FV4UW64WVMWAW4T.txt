@@ -1,0 +1,187 @@
+Know the name and want to find the code?
+Search by Name
+Know the code and want to check the name?
+Search by Code
+Agency Code: 0500
+Need Help Finding Award Information?
+Agency Name: Government Accountability Office
+Browse the Full Listings by using the drop-down lists.
+Enter Agency Code: 0500
+Enter Agency Name: Government Accountability Office
+Program Source (TAS) 
+Name: Salaries and Expenses, Recovery Act
+Enter Program Source 
+(TAS) Code: 05-0108
+Enter Program Source 
+(TAS) Name: Salaries and Expenses, Recovery Act
+Program Source (TAS) 
+Code: 05-0108
+Program Source (TAS) 
+Drop-Down List: 05-0108-Salaries and Expenses, Recovery Act
+Final Report*
+N
+Recipient Congressional District*
+02
+Award Date*
+04/10/2009
+Agency Drop-Down List: 0500 - Government Accountability Office
+Award Information
+Prime Recipient
+Reporting Information
+Award Recipient Information
+Award Number*
+S387A090041
+Recipient Account Number
+4572104
+Total Amount of Sub Awards less than 
+$25,000/award*
+$0.00
+Awarding Agency Code*
+9146
+Sub Account Number for Program Source (TAS)
+Total Amount of Payments to Vendors less than 
+$25,000/award*
+CFDA Number*
+84.387
+N/A
+Total Amount of Sub Awards to Individuals*
+$0.00
+Recipient Report: Grant or Loan
+Version: 1.1
+Award Type*
+Grant
+Recipient DUNS Number*
+929956563
+Funding Agency Code*
+9146
+91-1001
+Total Number of Sub Awards to Individuals*
+0.00
+Total Number of Payments to Vendors less than 
+$25,000/award*
+$0.00
+0.00
+Total Number of Sub Awards less than 
+$25,000/award*
+Award Description*
+Amount of Award*
+$175,966.00
+Program Source (TAS)*
+0.00
+Education of Homeless Children and Youth (rev)
+111219 - Other Vegetable (except Potato) and 
+Melon Farming
+Browse the Full Listing by using the drop-down list.
+Total Federal Amount ARRA Funds 
+Received/Invoiced*
+$0.00
+Project Information
+Project Status*
+Less than 50% completed
+The ARRA provides $70 million in fiscal year (FY) 2009 funds under the McKinney Vento Education fo
+Homeless Children and Youth program, which is authorized under Title VII-B of the McKinney-Vento 
+Homeless Assistance Act, 42 U.S.C. 11431 et seq. (McKinney-Vento Act). The McKinney-Vento ARRA 
+funds are a one-time source of funds that supplement the McKinney-Vento funds made available under 
+the regular FY 2009 appropriation.  
+McKinney-Vento ARRA funds must be used for activities authorized under Title VII-B of the McKinney-
+Vento Act and are subject to the same statutory and regulatory requirements as McKinney-Vento funds 
+made available through the regular FY 2009 appropriation. LEAs created and/or retained jobs with 
+McKinney-Vento ARRA funds to address the educational and related needs of some of children and yout
+experiencing homelessness.
+Instructional staff are being hired or retained to provide instructional programming for students.  Job titles 
+in this category include teachers for both math and literacy and teacher assistant positions. McKinney-
+Vento ARRA funds are also being used to provide stipends for additional hours of work for teacher aides 
+Number of characters entered: 1563
+1
+B03.03
+2
+Activity Code Drop-Down 
+List: 
+Number of characters entered:    175
+Need Help Finding an Activity, State, or Country Code?
+Number of characters entered:    175
+Education for Homeless Children and Youth
+0.01
+Activity Code (NAICS or NTEE-NPC)*
+Ensure that each homeless child and youth has equal access to the same free, appropriate public education, including a public preschool education, as other 
+children and youth.
+Project Name or Project/Program Title*
+Quarterly Activities/Project Description*
+Ensure that each homeless child and youth has equal access to the same free, appropriate public education, including a public preschool education, as other 
+children and youth
+Description of Jobs Created*
+Number of Jobs*
+Education of Homeless Children and Youth (rev)
+Other Vegetable (except Potato) and Melon 
+Farming
+Know the name and want to find the code?
+Search by Name
+State Code: CA
+Know the code and want to check the name?
+Search by Code
+Activity Code: 111219
+Country Code: US
+Enter State Code: CA
+Enter State Name: California
+Enter Country Code: US
+Enter Country Name: United States
+Infrastructure Contact Name
+Activity Name: Soybean Farming
+Infrastructure Contact Phone Ext
+State Name: California
+Infrastructure Contact Street Address 3
+Country Name: United States
+Infrastructure ZIP Code+4
+Enter Activity Name: 
+City*
+Providence
+Congressional District*
+02
+Primary Place of Performance
+$0.00 
+Infrastructure Contact Phone
+Infrastructure Contact Street Address 2
+Infrastructure State
+Street Address 2
+ZIP Code+4*
+029034018
+Country Drop-Down List: US - United States
+7
+8
+3
+4
+State Drop-Down List: AK - Alaska
+5
+6
+9
+10
+Enter Activity Code: 111110
+Infrastructure City
+Street Address 1
+State*
+RI
+Country*
+Total Federal Amount of ARRA Expenditure*
+Total Federal ARRA Infrastructure Expenditure
+$0.00
+Infrastructure Contact Email
+Infrastructure Contact Street Address 1
+Infrastructure Purpose and Rationale
+This is not applicable to Education of Homeless Children and Youth, Recovery Act.
+Number of characters entered:    81
+797 Westminster Street
+Education of Homeless Children and Youth (rev)
+1
+2
+3
+4
+5
+#
+Officer Name
+Officer Compensation
+Recipient Highly Compensated Officers
+US
+Prime Recipient Indication of Reporting 
+Applicability*
+No
+Education of Homeless Children and Youth (rev)

@@ -1,0 +1,98 @@
+State of Idaho                                                                                                                     Fixed Asset System (FAS) 
+Office of the State Controller                                                                                                                    FAS Manual 
+Division of Statewide Accounting 
+_____________________________________________________________________________________________ 
+ 
+FIXED ASSET MANUAL ..............................................................1 
+TRANSFERRING AN ASSET TO ANOTHER AGENCY..............1 
+INTRODUCTION ......................................................................................................... 1 
+TO TRANSFER AN ASSET WITH A BOOK VALUE OF LESS THAN $5,000........... 1 
+TO TRANSFER AN ASSET WITH A BOOK VALUE OF $5,000 OR MORE.............. 2 
+ 
+_____________________________________________________________________________________________ 
+ 
+FAS Manual 
+Transferring an Asset 
+Rev. Date: 05/26/2005 
+TOC  Page 1 
+ 
+ 
+ 
+State of Idaho                                                                                                  Capital Asset Management System 
+Office of the State Controller                                                                                                                FAS Manual 
+Division of Statewide Accounting 
+_____________________________________________________________________________________________ 
+ 
+FIXED ASSET MANUAL 
+TRANSFERRING AN ASSET TO 
+ANOTHER AGENCY 
+INTRODUCTION 
+Transferring an asset between agencies simply means that one agency sends an asset to another 
+agency. The agency transferring the asset out is referred to as the "transfer out" agency and the 
+agency receiving the asset is referred to as the "receiving agency". 
+ 
+The book value of the asset is an important factor in determining how to record the transaction. 
+If the book value of the asset is less than $5,000, the agency transferring will treat the transaction 
+as a disposition, e.g., a donation or scrap, using transaction codes DD1 through DD4, depending 
+on the class of asset. The receiving agency can enter the acquisition by whatever method seems 
+appropriate. 
+If the book value of the asset is $5,000 or more, both agencies should contact the DSAHelpline 
+for assistance. 
+TO TRANSFER AN ASSET WITH A BOOK VALUE OF LESS 
+THAN $5,000 
+The transfer out agency should dispose of the asset using the following steps: 
+1. Type 35 at the FAS Main Menu and press ENTER. 
+2. Enter an A in the FUNCTION field, and enter the property number and component 
+number in the PROP NO and COMP NO fields. Confirm that the property and 
+component number exactly match the record in the FAS Property File (i.e., screen S040). 
+3. Enter the sequence number (usually 0001) in the SEQ NO field. 
+4. Enter the transaction code (FAS TC) for the class code of the property number being 
+disposed. The FAS TC will be DD1, DD2, DD3, or DD4. (Refer to FAS Descriptor 
+Table 15.) 
+5. Enter the status code in the STATUS field. 
+For a full disposition, enter the following: 
+• D (disposed) 
+6. Enter a disposition code (e.g., S (if Sold), D (donated or scrapped), etc.) in the DSP 
+MTH field. (Refer to FAS Descriptor Table 22 for more disposition codes.) 
+7. Enter the amount of cash actually received in the ADT AMT field. 
+8. Enter the three-digit number representing the percentage of the asset being disposed in 
+the DISP % field. For a full disposition, enter 100. 
+9. Enter the disposition date in the ADT DATE field. 
+_____________________________________________________________________________________________ 
+ 
+FAS Manual 
+ 
+Transferring an Asset 
+Rev. Date: 05/26/2005 
+ 
+Page 1 
+ 
+State of Idaho                                                                                                  Capital Asset Management System 
+Office of the State Controller                                                                                                                FAS Manual 
+Division of Statewide Accounting 
+_____________________________________________________________________________________________ 
+ 
+10. Enter the quantity in the QTY field. For a full disposition, the quantity should equal that 
+of the asset in the FAS Property File. 
+11. Press F1 or ENTER to post the record to the FAS Property File. 
+• If you do not have disposition-release authority (i.e., approval level 3 or lower), 
+'INVALID APPROVAL LEVEL' will appear in the message section of the screen, 
+and the status in the FAS Hold File record will be 'H'. 
+• If you have disposition-release authority (i.e., approval level 4 or greater), 'RECORD 
+ADDED' will appear in the message section of the screen and there will be a 'P' in the 
+FAS Hold File record. 
+ 
+The receiving agency should enter the acquisition using standard acquisition steps. Click here for 
+steps to enter acquisitions. 
+TO TRANSFER AN ASSET WITH A BOOK VALUE OF $5,000 
+OR MORE 
+For either transferring out or receiving the asset, contact the DSAHelpline for assistance. 
+_____________________________________________________________________________________________ 
+ 
+FAS Manual 
+ 
+Transferring an Asset 
+Rev. Date: 05/26/2005 
+ 
+Page 2 
+ 

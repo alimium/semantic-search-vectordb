@@ -1,0 +1,819 @@
+53495 
+Federal Register / Vol. 72, No. 181 / Wednesday, September 19, 2007 / Proposed Rules 
+2007–0135–E, dated May 14, 2007, and Grob 
+Aerospace Service Bulletin No. MSB 306–35, 
+dated April 27, 2007, for related information. 
+Issued in Kansas City, Missouri, on 
+September 13, 2007. 
+Kim Smith, 
+Manager, Small Airplane Directorate, Aircraft 
+Certification Service. 
+[FR Doc. E7–18443 Filed 9–18–07; 8:45 am] 
+GROB received isolated difficulty reports 
+regarding cracks on welded parts of the flight 
+control system of the type G102, model CLUB 
+ASTIR III & IIIb, and STANDARD ASTIR III. 
+The cracks progress slowly from the welding 
+seams periphery, and may eventually result 
+in rupture at a matured stage. 
+The MCAI requires all welded parts to be 
+inspected and replaced if any cracks are 
+found. 
+BILLING CODE 4910–13–P 
+DEPARTMENT OF TRANSPORTATION 
+Federal Aviation Administration 
+14 CFR Part 39 
+[Docket No. FAA–2007–29226; Directorate 
+Identifier 2006–NM–256–AD] 
+RIN 2120–AA64 
+under Executive Order 13132. This 
+proposed AD would not have a 
+substantial direct effect on the States, on 
+the relationship between the national 
+Government and the States, or on the 
+distribution of power and 
+responsibilities among the various 
+levels of government. 
+For the reasons discussed above, I 
+certify this proposed regulation: 
+1. Is not a ‘‘significant regulatory 
+action’’ under Executive Order 12866; 
+2. Is not a ‘‘significant rule’’ under the 
+DOT Regulatory Policies and Procedures 
+(44 FR 11034, February 26, 1979); and 
+3. Will not have a significant 
+economic impact, positive or negative, 
+on a substantial number of small entities 
+under the criteria of the Regulatory 
+Flexibility Act. 
+We prepared a regulatory evaluation 
+of the estimated costs to comply with 
+this proposed AD and placed it in the 
+AD docket. 
+Airworthiness Directives; McDonnell 
+Douglas Model DC–9–81 (MD–81) and 
+DC–9–82 (MD–82) Airplanes 
+List of Subjects in 14 CFR Part 39 
+Air transportation, Aircraft, Aviation 
+safety, Safety. 
+Actions and Compliance 
+(f) Unless already done, do the following 
+actions: 
+(1) Within the next 25 hours time-in- 
+service (TIS) after the effective date of this 
+AD or within the next 6 calendar months 
+after the effective date of this AD, whichever 
+occurs first, inspect the welded parts of the 
+flight control system for any cracks, 
+deformations, or distortions following Grob 
+Aerospace Service Bulletin No. MSB 306–35, 
+dated April 27, 2007. Thereafter, repetitively 
+inspect at intervals not to exceed 12 calendar 
+months. 
+(2) If you find any cracks, deformations, or 
+distortions as a result of any inspection 
+required by paragraph (e)(1) of this AD, 
+before further flight, replace the affected part 
+following Grob Aerospace Service Bulletin 
+No. MSB 306–35, dated April 27, 2007. 
+AGENCY: Federal Aviation 
+Administration (FAA), Department of 
+Transportation (DOT). 
+FAA AD Differences 
+ACTION: Notice of proposed rulemaking 
+(NPRM). 
+Note: This AD differs from the MCAI and/ 
+or service information as follows: No 
+differences. 
+The Proposed Amendment 
+Accordingly, under the authority 
+delegated to me by the Administrator, 
+the FAA proposes to amend 14 CFR part 
+39 as follows: 
+PART 39—AIRWORTHINESS 
+DIRECTIVES 
+1. The authority citation for part 39 
+continues to read as follows: 
+Authority: 49 U.S.C. 106(g), 40113, 44701. 
+§ 39.13
+[Amended] 
+2. The FAA amends § 39.13 by adding 
+the following new AD: 
+Grob-Werke Gmbh & Co Kg: Docket No. 
+FAA–2007–28670; Directorate Identifier 
+2007–CE–060–AD. 
+Comments Due Date 
+(a) We must receive comments by October 
+19, 2007. 
+SUMMARY: The FAA proposes to adopt a 
+new airworthiness directive (AD) for 
+certain McDonnell Douglas Model DC– 
+9–81 (MD–81) and DC–9–82 (MD–82) 
+airplanes. This proposed AD would 
+require, for certain airplanes, inspecting 
+for cracking of the fuselage skin at the 
+upper corners of the forward passenger 
+doorjamb, installing or replacing 
+doublers as applicable, and doing 
+applicable repairs. This proposed AD 
+results from reports of fatigue cracking 
+in the fuselage skin at the upper corners 
+of the forward passenger doorjamb. We 
+are proposing this AD to prevent 
+cracking of the fuselage skin at the 
+upper corners of the forward passenger 
+doorjamb, which could lead to loss of 
+overall structural integrity of the 
+airplane. 
+Affected ADs 
+(b) None. 
+DATES: We must receive comments on 
+this proposed AD by November 5, 2007. 
+Applicability 
+(c) This AD applies to the gliders Model 
+G102 CLUB ASTIR III, serial numbers (SNs) 
+5501 (suffix C) through 5652 (suffix C); 
+Model G102 CLUB ASTIR IIIb, SNs 5501 
+(suffix Cb) through 5652 (suffix Cb); and 
+Model G102 STANDARD ASTIR III, SNs 
+5501 (suffix S) through 5652 (suffix S), that 
+are certificated in any category. 
+Other FAA AD Provisions 
+(g) The following provisions also apply to 
+this AD: 
+(1) Alternative Methods of Compliance 
+(AMOCs): The Manager, Standards Office, 
+FAA, has the authority to approve AMOCs 
+for this AD, if requested using the procedures 
+found in 14 CFR 39.19. Send information to 
+ATTN: Greg Davison, Glider Program 
+Manager, FAA, Small Airplane Directorate, 
+901 Locust, Room 301, Kansas City, Missouri 
+64106; telephone: (816) 329–4130; fax: (816) 
+329–4090. Before using any approved AMOC 
+on any airplane to which the AMOC applies, 
+notify your appropriate principal inspector 
+(PI) in the FAA Flight Standards District 
+Office (FSDO), or lacking a PI, your local 
+FSDO. 
+(2) Airworthy Product: For any 
+requirement in this AD to obtain corrective 
+actions from a manufacturer or other source, 
+use these actions if they are FAA-approved. 
+Corrective actions are considered FAA- 
+approved if they are approved by the State 
+of Design Authority (or their delegated 
+agent). You are required to assure the product 
+is airworthy before it is returned to service. 
+(3) Reporting Requirements: For any 
+reporting requirement in this AD, under the 
+provisions of the Paperwork Reduction Act 
+(44 U.S.C. 3501, et seq.), the Office of 
+Management and Budget (OMB) has 
+approved the information collection 
+requirements and has assigned OMB Control 
+Number 2120–0056. 
+Subject 
+(d) Air Transport Association of America 
+(ATA) Code 27: Flight Controls. 
+Reason 
+(e) The mandatory continuing 
+airworthiness information (MCAI) states: 
+Related Information 
+(h) Refer to MCAI European Aviation 
+Safety Agency (EASA) Emergency AD No.: 
+ADDRESSES: Use one of the following 
+addresses to submit comments on this 
+proposed AD. 
+• DOT Docket Web site: Go to 
+http://dms.dot.gov and follow the 
+instructions for sending your comments 
+electronically. 
+• Government-wide rulemaking Web 
+site: Go to http://www.regulations.gov 
+and follow the instructions for sending 
+your comments electronically. 
+• Mail: U.S. Department of 
+Transportation, Docket Operations, M– 
+30, West Building Ground Floor, Room 
+VerDate Aug<31>2005 
+16:41 Sep 18, 2007
+Jkt 211001
+PO 00000
+Frm 00008
+Fmt 4702
+Sfmt 4702
+E:\FR\FM\19SEP1.SGM
+19SEP1
+mstockstill on PROD1PC66 with PROPOSALS
+53496 
+Federal Register / Vol. 72, No. 181 / Wednesday, September 19, 2007 / Proposed Rules 
+(800) 647–5527) is located on the 
+ground level of the West Building at the 
+DOT street address stated in the 
+ADDRESSES section. Comments will be 
+available in the AD docket shortly after 
+the Docket Management System receives 
+them. 
+Discussion 
+the initial inspection; and do an HFEC 
+inspection within 28,000 flight cycles 
+after the repair, and repetitively at 
+20,000-flight-cycle intervals. 
+• For Group 1, Configuration 3, 
+airplanes on which no cracks are found 
+beyond the edge of the aluminum 
+doublers: Repeat the HFEC inspection at 
+20,000-flight-cycle intervals. 
+Accomplishing the actions specified 
+in the service information is intended to 
+adequately address the unsafe 
+condition. 
+FAA’s Determination and Requirements 
+of the Proposed AD 
+W12–140, 1200 New Jersey Avenue, SE., 
+Washington, DC 20590. 
+• Fax: (202) 493–2251. 
+• Hand Delivery: Room W12–140 on 
+the ground floor of the West Building, 
+1200 New Jersey Avenue, SE., 
+Washington, DC, between 9 a.m. and 5 
+p.m., Monday through Friday, except 
+Federal holidays. 
+Contact Boeing Commercial 
+Airplanes, Long Beach Division, 3855 
+Lakewood Boulevard, Long Beach, 
+California 90846, Attention: Data and 
+Service Management, Dept. C1–L5A 
+(D800–0024), for the service information 
+identified in this proposed AD. 
+We have received a report that fatigue 
+cracking has been discovered in the 
+fuselage skin at the upper corners of the 
+forward passenger doorjamb on certain 
+Model DC–9/MD–80 airplanes. This 
+condition, if not corrected, could lead to 
+loss of overall structural integrity of the 
+airplane. 
+Relevant Service Information 
+FOR FURTHER INFORMATION CONTACT: 
+Roger Durbin, Aerospace Engineer, 
+Airframe Branch, ANM–120L, FAA, Los 
+Angeles Aircraft Certification Office, 
+3960 Paramount Boulevard, Lakewood, 
+California 90712–4137; telephone (562) 
+627–5233; fax (562) 627–5210. 
+SUPPLEMENTARY INFORMATION: 
+We have evaluated all pertinent 
+information and identified an unsafe 
+condition that is likely to exist or 
+develop on other airplanes of this same 
+type design. For this reason, we are 
+proposing this AD, which would require 
+accomplishing the actions specified in 
+the service information described 
+previously, except as discussed under 
+‘‘Differences Between Proposed AD and 
+Alert Service Bulletin.’’ 
+Differences Between Proposed AD and 
+Alert Service Bulletin 
+For all airplanes, the alert service 
+bulletin specifies to contact the 
+manufacturer for instructions on how to 
+repair certain conditions, but this 
+proposed AD would require repairing 
+those conditions in one of the following 
+ways: 
+• Using a method that we approve; or 
+• Using data that meet the 
+certification basis of the airplane, and 
+that have been approved by an 
+Authorized Representative for the 
+Boeing Commercial Airplanes 
+Delegation Option Authorization 
+Organization whom we have authorized 
+to make those findings. 
+For airplane configuration 4: Where 
+the alert service bulletin specifies to 
+contact the manufacturer for repair 
+instructions before further flight, to 
+avoid unnecessarily grounding 
+airplanes, this proposed AD would 
+require performing repairs within 90 
+days after the effective date of this 
+proposed AD. 
+Costs of Compliance 
+Comments Invited 
+We invite you to submit any relevant 
+written data, views, or arguments 
+regarding this proposed AD. Send your 
+comments to an address listed in the 
+ADDRESSES section. Include the docket 
+number ‘‘FAA–2007–29226; Directorate 
+Identifier 2006–NM–256–AD’’ at the 
+beginning of your comments. We 
+specifically invite comments on the 
+overall regulatory, economic, 
+environmental, and energy aspects of 
+the proposed AD. We will consider all 
+comments received by the closing date 
+and may amend the proposed AD in 
+light of those comments. 
+We will post all comments we 
+receive, without change, to http:// 
+dms.dot.gov, including any personal 
+information you provide. We will also 
+post a report summarizing each 
+substantive verbal contact with FAA 
+personnel concerning this proposed AD. 
+Using the search function of that Web 
+site, anyone can find and read the 
+comments in any of our dockets, 
+including the name of the individual 
+who sent the comment (or signed the 
+comment on behalf of an association, 
+business, labor union, etc.). You may 
+review DOT’s complete Privacy Act 
+Statement in the Federal Register 
+published on April 11, 2000 (65 FR 
+19477–78), or you may visit http:// 
+dms.dot.gov. 
+There are about 76 airplanes of the 
+affected design in the worldwide fleet. 
+This proposed AD would affect about 46 
+airplanes of U.S. registry. The following 
+table provides the estimated costs for 
+U.S. operators to comply with this 
+proposed AD, at an average labor rate of 
+$80 per work hour. The proposed 
+actions vary depending upon the 
+airplane configuration. 
+We have reviewed Boeing Alert 
+Service Bulletin MD80–53A298, dated 
+August 1, 2006. The alert service 
+bulletin describes procedures for a low- 
+frequency eddy current (LFEC) or a 
+high-frequency eddy current (HFEC) 
+inspection, depending on airplane 
+configuration, for cracking of the 
+fuselage skin at the upper corners of the 
+forward passenger doorjamb; and 
+applicable corrective actions. The 
+compliance time for the initial 
+inspection is before accumulating 
+37,500 total flight cycles, or within 
+3,575 flight cycles (whichever is later). 
+The corrective actions include: 
+• For Group 1, Configuration 1, 
+airplanes on which no cracking is 
+found: Either repeating the LFEC 
+inspection at intervals of 3,575 flight 
+cycles; or installing external aluminum 
+doublers within 3,575 flight cycles after 
+the last inspection, and doing an HFEC 
+inspection within 28,000 flight cycles 
+after doing the installation, and 
+repetitively at 20,000-flight-cycle 
+intervals. 
+• For Group 1, Configuration 1, 
+airplanes on which any crack is found 
+that is 2.0 inches or shorter in length: 
+Repair before further flight, and do an 
+HFEC inspection within 28,000 flight 
+cycles after the repair, and repetitively 
+at 20,000-flight-cycle intervals. 
+• For Group 1, Configuration 1, 
+airplanes on which any crack is found 
+that is longer than 2.0 inches; for Group 
+1, Configurations 2 and 3, airplanes on 
+which any crack is found beyond the 
+edge of the doublers; and for Group 1, 
+Configuration 4, airplanes: Contact 
+Boeing for repair instructions before 
+further flight. 
+• For Group 1, Configuration 2, 
+airplanes on which no crack is found 
+beyond the edge of the steel doublers: 
+Replace existing steel doublers with 
+aluminum doublers, and repair upper 
+corners within 6,000 flight cycles after 
+Examining the Docket 
+You may examine the AD docket on 
+the Internet at http://dms.dot.gov, or in 
+person at the Docket Operations office 
+between 9 a.m. and 5 p.m., Monday 
+through Friday, except Federal holidays. 
+The Docket Operations office (telephone 
+VerDate Aug<31>2005 
+16:41 Sep 18, 2007
+Jkt 211001
+PO 00000
+Frm 00009
+Fmt 4702
+Sfmt 4702
+E:\FR\FM\19SEP1.SGM
+19SEP1
+mstockstill on PROD1PC66 with PROPOSALS
+53497 
+Federal Register / Vol. 72, No. 181 / Wednesday, September 19, 2007 / Proposed Rules 
+ESTIMATED COSTS 
+Action 
+Work hours 
+Parts 
+Cost per airplane 
+Fleet cost 
+LFEC inspection ......................
+1 None needed ..........................
+$80, per inspection cycle ........
+Up to $3,680, per inspection 
+cycle. 
+HFEC inspection .....................
+1 None needed ..........................
+$80, per inspection cycle ........
+Up to $3,680, per inspection 
+cycle. 
+Authority for This Rulemaking 
+The Proposed Amendment 
+Accordingly, under the authority 
+delegated to me by the Administrator, 
+the FAA proposes to amend 14 CFR part 
+39 as follows: 
+PART 39—AIRWORTHINESS 
+DIRECTIVES 
+1. The authority citation for part 39 
+continues to read as follows: 
+forward passenger doorjamb; and do all 
+applicable corrective actions (repetitive 
+inspections, installation of doublers, 
+replacements, and repairs), except as 
+provided by paragraph (g) of this AD. Do the 
+actions in accordance with the 
+Accomplishment Instructions of the alert 
+service bulletin. Where the alert service 
+bulletin specifies a compliance time after the 
+date on the service bulletin, this AD requires 
+compliance within the specified compliance 
+time after the effective date of this AD. 
+Authority: 49 U.S.C. 106(g), 40113, 44701. 
+Repair of Certain Conditions 
+§ 39.13
+[Amended] 
+2. The Federal Aviation 
+Administration (FAA) amends § 39.13 
+by adding the following new 
+airworthiness directive (AD): 
+McDonnell Douglas: Docket No. FAA–2007– 
+29226; Directorate Identifier 2006–NM– 
+256–AD. 
+(g) If any crack is found during any 
+inspection required by paragraph (f) of this 
+AD and Boeing Alert Service Bulletin MD80– 
+53A298, dated August 1, 2006, specifies to 
+contact Boeing for repair instructions: Before 
+further flight, repair using a method 
+approved in accordance with the procedures 
+specified in paragraph (i) of this AD. 
+Corrective Action for Configuration 4 
+Airplanes 
+Comments Due Date 
+(a) The FAA must receive comments on 
+this AD action by November 5, 2007. 
+Title 49 of the United States Code 
+specifies the FAA’s authority to issue 
+rules on aviation safety. Subtitle I, 
+Section 106, describes the authority of 
+the FAA Administrator. Subtitle VII, 
+Aviation Programs, describes in more 
+detail the scope of the Agency’s 
+authority. 
+We are issuing this rulemaking under 
+the authority described in Subtitle VII, 
+Part A, Subpart III, Section 44701, 
+‘‘General requirements.’’ Under that 
+section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in 
+air commerce by prescribing regulations 
+for practices, methods, and procedures 
+the Administrator finds necessary for 
+safety in air commerce. This regulation 
+is within the scope of that authority 
+because it addresses an unsafe condition 
+that is likely to exist or develop on 
+products identified in this rulemaking 
+action. 
+Regulatory Findings 
+Affected ADs 
+(b) None. 
+(h) For airplanes identified as 
+Configuration 4 in Boeing Alert Service 
+Bulletin MD80–53A298, dated August 1, 
+2006: Within 90 days after the effective date 
+of this AD, repair using a method approved 
+in accordance with the procedures specified 
+in paragraph (i) of this AD. 
+Applicability 
+(c) This AD applies to McDonnell Douglas 
+Model DC–9–81 (MD–81) and DC–9–82 (MD– 
+82) airplanes; certificated in any category; as 
+identified in Boeing Alert Service Bulletin 
+MD80–53A298, dated August 1, 2006. 
+Alternative Methods of Compliance 
+(AMOCs) 
+Unsafe Condition 
+(d) This AD results from a report of fatigue 
+cracking in the fuselage skin at the upper 
+corners of the forward passenger doorjamb. 
+We are issuing this AD to prevent cracking 
+of the fuselage skin at the upper corners of 
+the forward passenger doorjamb, which 
+could lead to loss of overall structural 
+integrity of the airplane. 
+Compliance 
+(e) You are responsible for having the 
+actions required by this AD performed within 
+the compliance times specified, unless the 
+actions have already been done. 
+We have determined that this 
+proposed AD would not have federalism 
+implications under Executive Order 
+13132. This proposed AD would not 
+have a substantial direct effect on the 
+States, on the relationship between the 
+national Government and the States, or 
+on the distribution of power and 
+responsibilities among the various 
+levels of government. 
+For the reasons discussed above, I 
+certify that the proposed regulation: 
+1. Is not a ‘‘significant regulatory 
+action’’ under Executive Order 12866; 
+2. Is not a ‘‘significant rule’’ under the 
+DOT Regulatory Policies and Procedures 
+(44 FR 11034, February 26, 1979); and 
+3. Will not have a significant 
+economic impact, positive or negative, 
+on a substantial number of small entities 
+under the criteria of the Regulatory 
+Flexibility Act. 
+We prepared a regulatory evaluation 
+of the estimated costs to comply with 
+this proposed AD and placed it in the 
+AD docket. See the ADDRESSES section 
+for a location to examine the regulatory 
+evaluation. 
+List of Subjects in 14 CFR Part 39 
+Repetitive Inspections and Corrective 
+Actions for Configuration 1, 2, and 3 
+Airplanes 
+(f) For airplanes identified as Configuration 
+1, 2, or 3 in Boeing Alert Service Bulletin 
+MD80–53A298, dated August 1, 2006: At the 
+applicable times specified in paragraph 1.E., 
+‘‘Compliance,’’ of the alert service bulletin, 
+do a low-frequency eddy current (LFEC) or 
+high-frequency eddy current (HFEC) 
+inspection, as applicable, for cracking of the 
+fuselage skin at the upper corners of the 
+(i)(1) The Manager, Los Angeles Aircraft 
+Certification Office (ACO), FAA, has the 
+authority to approve AMOCs for this AD, if 
+requested in accordance with the procedures 
+found in 14 CFR 39.19. 
+(2) To request a different method of 
+compliance or a different compliance time 
+for this AD, follow the procedures in 14 CFR 
+39.19. Before using any approved AMOC on 
+any airplane to which the AMOC applies, 
+notify your appropriate principal inspector 
+(PI) in the FAA Flight Standards District 
+Office (FSDO), or lacking a PI, your local 
+FSDO. 
+(3) An AMOC that provides an acceptable 
+level of safety may be used for any repair 
+required by this AD, if it is approved by an 
+Authorized Representative for the Boeing 
+Commercial Airplanes Delegation Option 
+Authorization Organization who has been 
+authorized by the Manager, Los Angeles 
+ACO, to make those findings. For a repair 
+method to be approved, the repair must meet 
+the certification basis of the airplane and 14 
+CFR 25.571, Amendment 45, and the 
+approval must specifically refer to this AD. 
+Air transportation, Aircraft, Aviation 
+safety, Safety. 
+VerDate Aug<31>2005 
+16:41 Sep 18, 2007
+Jkt 211001
+PO 00000
+Frm 00010
+Fmt 4702
+Sfmt 4702
+E:\FR\FM\19SEP1.SGM
+19SEP1
+mstockstill on PROD1PC66 with PROPOSALS
+53498 
+Federal Register / Vol. 72, No. 181 / Wednesday, September 19, 2007 / Proposed Rules 
+passengers and crew using the door 
+escape slide during an emergency 
+evacuation. 
+DATES: We must receive comments on 
+this proposed AD by November 5, 2007. 
+Issued in Renton, Washington, on 
+September 10, 2007. 
+Ali Bahrami, 
+Manager, Transport Airplane Directorate, 
+Aircraft Certification Service. 
+[FR Doc. E7–18447 Filed 9–18–07; 8:45 am] 
+BILLING CODE 4910–13–P 
+including the name of the individual 
+who sent the comment (or signed the 
+comment on behalf of an association, 
+business, labor union, etc.). You may 
+review DOT’s complete Privacy Act 
+Statement in the Federal Register 
+published on April 11, 2000 (65 FR 
+19477–78), or you may visit http:// 
+dms.dot.gov. 
+DEPARTMENT OF TRANSPORTATION 
+Examining the Docket 
+Federal Aviation Administration 
+14 CFR Part 39 
+[Docket No. FAA–2007–29227; Directorate 
+Identifier 2007–NM–100–AD] 
+RIN 2120–AA64 
+Airworthiness Directives; Boeing 
+Model 747–100, 747–100B, 747–100B 
+SUD, 747–200B, 747–200C, 747–300, 
+747–400, 747–400D, and 747SR Series 
+Airplanes 
+You may examine the AD docket on 
+the Internet at http://dms.dot.gov, or in 
+person at the Docket Operations office 
+between 9 a.m. and 5 p.m., Monday 
+through Friday, except Federal holidays. 
+The Docket Operations office (telephone 
+(800) 647–5527) is located on the 
+ground floor of the West Building at the 
+DOT street address stated in the 
+ADDRESSES section. Comments will be 
+available in the AD docket shortly after 
+the Docket Management System receives 
+them. 
+Discussion 
+AGENCY: Federal Aviation 
+Administration (FAA), Department of 
+Transportation (DOT). 
+ACTION: Notice of proposed rulemaking 
+(NPRM). 
+ADDRESSES: Use one of the following 
+addresses to submit comments on this 
+proposed AD. 
+• DOT Docket Web site: Go to http:// 
+dms.dot.gov and follow the instructions 
+for sending your comments 
+electronically. 
+• Government-wide rulemaking Web 
+site: Go to http://www.regulations.gov 
+and follow the instructions for sending 
+your comments electronically. 
+• Mail: U.S. Department of 
+Transportation, Docket Operations, M– 
+30, West Building Ground Floor, Room 
+W12–140, 1200 New Jersey Avenue, SE., 
+Washington, DC 20590. 
+• Fax: (202) 493–2251. 
+• Hand Delivery: Room W12–140 on 
+the ground floor of the West Building, 
+1200 New Jersey Avenue, SE., 
+Washington, DC, between 9 a.m. and 5 
+p.m., Monday through Friday, except 
+Federal holidays. 
+Contact Boeing Commercial 
+Airplanes, P.O. Box 3707, Seattle, 
+Washington 98124–2207, for the service 
+information identified in this proposed 
+AD. 
+FOR FURTHER INFORMATION CONTACT: Ivan 
+Li, Aerospace Engineer, Airframe 
+Branch, ANM–120S, FAA, Seattle 
+Aircraft Certification Office, 1601 Lind 
+Avenue, SW., Renton, Washington 
+98057–3356; telephone (425) 917–6437; 
+fax (425) 917–6590. 
+SUPPLEMENTARY INFORMATION: 
+On June 30, 2004, we issued an 
+NPRM, Docket No. FAA–2004–18583, to 
+address the identified unsafe condition. 
+That NPRM was prompted by reports 
+from eight operators indicating that 
+cracking of the lower forward corner 
+reveal of the number 3 main entry doors 
+(MEDs) was found on several Model 747 
+airplanes. Of the twelve reveals that 
+were cracked, eleven were made of cast 
+356 aluminum and one was made of 
+machined 6061 aluminum. The cause of 
+the cracking of the reveals made of cast 
+356 aluminum is fatigue. The cause of 
+the cracking of the reveal made of 
+machined 6061 aluminum was a 
+manufacturing defect, which led to 
+fatigue cracking. 
+Subsequent to issuing the NPRM, we 
+have been working with the 
+manufacturer to ensure that the unsafe 
+condition is adequately addressed and 
+appropriate service instructions are 
+available. We have also received new 
+data showing other issues related to the 
+unsafe condition. In addition to the 
+comments received for that NPRM, the 
+data include reports that forward corner 
+reveals installed on certain airplanes 
+have a ‘‘sharp edge’’ detail at the 
+forward edge, which could lead to 
+fatigue cracking, and that additional 
+airplanes are affected by the identified 
+unsafe condition. We have determined 
+from these data that the corrective 
+actions proposed by that NPRM are 
+inadequate for addressing the identified 
+unsafe condition; therefore, we have 
+withdrawn that NPRM and are issuing 
+this new proposed AD. 
+SUMMARY: The FAA proposes to adopt a 
+new airworthiness directive (AD) for 
+certain Boeing Model 747–100, 747– 
+100B, 747–100B SUD, 747–200B, 747– 
+200C, 747–300, 747–400, 747–400D, and 
+747SR series airplanes. For certain 
+airplanes, this proposed AD would 
+require a material type inspection to 
+determine if the lower forward corner 
+reveal of the number 3 main entry doors 
+(MEDs) is a casting. If the reveals are 
+castings, this proposed AD would 
+require repetitive inspection of the 
+reveals for cracking, and corrective 
+action if necessary. If the reveals are not 
+castings, this proposed AD would 
+require a detailed inspection of the 
+reveals for a sharp edge and repetitive 
+inspection of the reveals for cracking, 
+and corrective action if necessary. For 
+certain other airplanes, this AD would 
+require only a detailed inspection of the 
+reveals for a sharp edge and repetitive 
+inspection of the reveals for cracking, 
+and corrective action if necessary. For 
+certain other airplanes, this AD would 
+require repetitive inspection of the 
+reveals for cracking only, and corrective 
+action if necessary. This proposed AD 
+results from reports of cracking and/or 
+a sharp edge in the lower forward corner 
+reveal of the number 3 MEDs. We are 
+proposing this AD to detect and correct 
+fatigue cracking of the lower forward 
+corner reveal of the number 3 MEDs, 
+which could lead to the door escape 
+slide departing from the airplane when 
+the door is opened and the slide is 
+deployed, and consequent injuries to 
+Comments Invited 
+We invite you to submit any relevant 
+written data, views, or arguments 
+regarding this proposed AD. Send your 
+comments to an address listed in the 
+ADDRESSES section. Include the docket 
+number ‘‘FAA–2007–29227; Directorate 
+Identifier 2007–NM–100–AD’’ at the 
+beginning of your comments. We 
+specifically invite comments on the 
+overall regulatory, economic, 
+environmental, and energy aspects of 
+the proposed AD. We will consider all 
+comments received by the closing date 
+and may amend the proposed AD in 
+light of those comments. 
+We will post all comments we 
+receive, without change, to http:// 
+dms.dot.gov, including any personal 
+information you provide. We will also 
+post a report summarizing each 
+substantive verbal contact with FAA 
+personnel concerning this proposed AD. 
+Using the search function of that Web 
+site, anyone can find and read the 
+comments in any of our dockets, 
+VerDate Aug<31>2005 
+16:41 Sep 18, 2007
+Jkt 211001
+PO 00000
+Frm 00011
+Fmt 4702
+Sfmt 4702
+E:\FR\FM\19SEP1.SGM
+19SEP1
+mstockstill on PROD1PC66 with PROPOSALS

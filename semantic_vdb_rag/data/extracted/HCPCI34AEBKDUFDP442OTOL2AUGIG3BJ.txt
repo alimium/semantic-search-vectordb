@@ -1,0 +1,15 @@
+Flammability And Mechanical Properties Of Polymer Composites 
+R.N. Walters and R.E. Lyon, FAA 
+The flammability and flexural strength of fiber-reinforced thermoset resin structural composites 
+for use in aircraft and Navy ships were evaluated. Several different commercial and high 
+performance resins as well as a toughened aerospace composite were tested. Processing 
+characteristics, thermal stability, and flammability of the neat resins were measured using 
+rheometry, thermogravimetry, and pyrolysis-combustion flow calorimetry, respectively. 
+Structural laminates were made from liquid resins and woven glass fabric by vacuum-assisted 
+resin transfer molding (VARTM). Single-layer specimens (lamina) for flammability testing were 
+prepared by hand lay-up. Mechanical properties of the laminates were measured in three-point 
+bending according to ASTM-D790. Fire behavior of the lamina and laminates was measured in 
+the OSU and cone calorimeters according to Federal Aviation Regulation FAR 25.853(a-1) and 
+military standard MIL-STD-2031. Results for the flammability and mechanical properties of 
+these composites will be presented. 
+ 

@@ -1,0 +1,102 @@
+      Case: 14-60155      Document: 00513093820     Page: 1     Date Filed: 06/25/2015
+IN THE UNITED STATES COURT OF APPEALS 
+FOR THE FIFTH CIRCUIT 
+United States Court of Appeals 
+ 
+ 
+Fifth Circuit 
+FILED 
+No. 14-60155 
+June 25, 2015 
+ 
+Summary Calendar 
+Lyle W. Cayce 
+Clerk 
+ 
+ 
+IFEYHEWEN BADIDI, 
+ 
+Petitioner 
+ 
+v. 
+ 
+LORETTA LYNCH, U.S. ATTORNEY GENERAL, 
+ 
+Respondent 
+ 
+ 
+Petition for Review of an Order of the 
+Board of Immigration Appeals 
+BIA No. A075 854 677 
+ 
+ 
+Before JOLLY, HIGGINBOTHAM, and HIGGINSON, Circuit Judges. 
+Stephen A. Higginson, Circuit Judge:* 
+ 
+Ifeyhewen Badidi petitions for review of a dismissal by the Board of 
+Immigration Appeals (BIA) of his appeal of an order of removal and the denial 
+of his motion for continuance.  Badidi challenges the determination that he 
+was removable based upon Immigration and Nationality Act (INA) 
+§ 237(a)(1)(D)(i) (8 U.S.C. § 1227(a)(1)(D)(i)), as an alien who had his 
+permanent resident status on a conditional basis terminated.  He also contends 
+                                         
+* Pursuant to 5TH CIR. R. 47.5, the court has determined that this opinion should not 
+be published and is not precedent except under the limited circumstances set forth in 5TH 
+CIR. R. 47.5.4. 
+      Case: 14-60155      Document: 00513093820     Page: 2     Date Filed: 06/25/2015
+No. 14-60155 
+that the denial of his motion for continuance was an abuse of discretion by the 
+BIA and Immigration Judge (IJ).  The Respondent has filed a motion for 
+dismissal for lack of jurisdiction—claiming the petition was untimely—and, 
+alternatively, for summary denial. 
+ 
+The Respondent contends that this court lacks jurisdiction over this 
+petition for review because it was not timely filed.  A timely petition for review 
+is a jurisdictional requirement.  Navarro-Miranda v. Ashcroft, 330 F.3d 672, 
+676 (5th Cir. 2003).  The BIA’s final order is dated January 27, 2014.  Badidi’s 
+petition was therefore due by February 26, 2014, see 8 U.S.C. § 1252(b)(1), but 
+was received by this court on February 28, 2014.  For petitioners such as Badidi 
+who are detained at the time of filing, pleadings are considered “timely if 
+deposited in the institution’s internal mailing system on or before the last day 
+for filing.”  FED. R. APP. P. 25(a)(2)(C); Marmorato v. Holder, 376 F. App’x 380, 
+382 n.1 (5th Cir. 2010) (applying the mailbox rule to filings by a detained alien).  
+Because Badidi’s petition was filed within two business days of the due date, 
+this court will presume, pursuant to the prison mailbox rule, that the pleading 
+was timely deposited in the prison mail system.  See, e.g., United States v. 
+Young, 966 F.2d 164, 165 (5th Cir. 1992) (presuming notice of appeal was 
+timely mailed when received two days late); Marmorato, 376 F. App’x at 382 
+n.1. 
+ 
+Although we reject Respondent’s argument that the petition was not 
+timely filed, we lack jurisdiction to consider Badidi’s claims regarding the 
+determination that he is removable under INA § 237(a)(1)(D)(i) (8 U.S.C. § 
+1227(a)(1)(D)(i)).  In this immigration proceeding, Badidi took two appeals to 
+the BIA.  In neither appeal did Badidi present to the BIA the arguments that 
+he now presents to this court: (1) that improper procedures were followed when 
+his conditional resident status was terminated; and (2) that the IJ did not 
+2 
+      Case: 14-60155      Document: 00513093820     Page: 3     Date Filed: 06/25/2015
+No. 14-60155 
+develop the record and adjudicate his I-751 petition to remove conditions on 
+residence.  He therefore failed to administratively exhaust his challenge to the 
+removal order and this court thus lacks jurisdiction to consider it.  See 
+§ 1252(d)(1); Roy v. Ashcroft, 389 F.3d 132, 137 (5th Cir. 2004) (“An alien fails 
+to exhaust his administrative remedies with respect to an issue when the issue 
+is not raised in the first instance before the BIA.”). 
+We reach the merits of Badidi’s claim that the BIA erred in denying his 
+request for a continuance pending the appeal of the denial of his I-130 petition.  
+The BIA determined that the IJ had properly denied Badidi’s continuance 
+request, given that the United States Citizenship and Immigration Service had 
+denied the I-130 petition.  This determination is in accord with the record, 
+which indicates that the I-130 petition was denied due to numerous 
+discrepancies in the couple’s answers to questions designed to establish the 
+authenticity of their marriage.  Badidi’s conclusory assertions regarding this 
+issue do not establish a likelihood of success in challenging USCIS’s 
+determination, or that the denial of a continuance was an abuse of discretion.  
+See, e.g., Ahmed v. Gonzales, 447 F.3d 433, 438-39 n.3 (5th Cir. 2006); Matter 
+of Hashmi, 24 I & N. Dec. 785, 790 (BIA 2009) (listing factors to be considered 
+in assessing whether to grant a continuance due to a pending petition). 
+ 
+Badidi’s petition for review is DISMISSED, in part, for lack of 
+jurisdiction and DENIED, in part.  The Respondent’s motion is DENIED. 
+3 

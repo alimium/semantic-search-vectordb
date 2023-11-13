@@ -1,0 +1,112 @@
+VIRGINIA REGISTER OF REGULATIONS 
+VIRGINIA REGISTER NEWS 
+News you can use 
+OCTOBER 2009 
+VOLUME 2, ISSUE 1 
+RIS TRAINING 
+Inside this issue: 
+The Virginia Registrar's Office is presenting its RIS Basic and Intermediate Training Session 
+on October 28, 2009.  Please let us know if you would like to attend the following session: 
+October 28  — 10 - 11:30 a.m. RIS Basic Training  
+RIS TRAINING 
+1 
+ 
+ 
+ 
+12:15 - 2 p.m.   RIS Intermediate Training  
+REGULATION 
+BREAKDOWN 
+1 
+Attendees may sign up for the morning session, afternoon session, or both.  
+WHAT’S YOUR 
+ISSUE? 
+1 
+WHERE: General Assembly Bldg, 6th Floor, DLAS training room.  
+GETTING TO 
+KNOW YOU 
+2 
+Seating is limited, so please make reservations with Terri Edwards at 
+tedwards@dls.virginia.gov.  
+INTEGRITY 
+CHECK 
+2 
+If you would like to attend both morning and afternoon sessions, the cafeteria on the 6th 
+Floor of the GAB is available for lunch purchases or for enjoying a lunch you bring.  
+SEPTEMBER 
+NOIRA 
+9 
+Proposed 
+11 
+Final 
+27 
+Fast-Track 
+2 
+Emergency 
+1 
+TOTAL 
+50 
+Virginia Register of Regulations, 910  
+Capitol Street, 2nd Floor, Richmond, Vir-
+ginia 23219, (804) 786-3591. 
+WHAT’S YOUR ISSUE? 
+For comments and questions contact Terri 
+Edwards at tedwards@dls.virginia.gov. 
+RIS automatically places a regulation in the next available Virginia Register volume and 
+issue for publication when submitted from the Town Hall. Therefore, if you enter a later 
+volume and issue  in Town Hall, rather than use the default, RIS still places it in the 
+default issue. Be sure to call our office if you intend for your regulation to be published in 
+an issue other than the default, and we will manually move it to the issue you specify. 
+For the latest Virginia Register publication schedule, click here. 
+PAGE 2 
+VIRGINIA REGISTER NEWS 
+Cindy has two children and a dog. She enjoys reading, 
+spending time with friends, and doing most any kind of puzzle: 
+crossword, suduko, daily jumble, and jigsaw. 
+ “If anyone needs help with it 
+(a regulation), contact the 
+staff at the Registrar’s office.  
+They’re the best.” 
+ 
+- Cindy Berndt 
+Cindy Berndt, the regulatory coordinator for the 
+Department of Environmental Quality, started with the State 
+Water Control Board 39 years ago.  The State Water Control 
+Board then merged with the Department of Air Pollution 
+Control, the Department of Waste Management, and the 
+Council on the Environment to form the Department of 
+Environmental Quality in 1993.  She became the regulatory 
+coordinator for the Water Control Board in 1984 and for the 
+Department of Environmental Quality in 1993. 
+Over the years, Cindy has worn many different hats. In the 
+early years, she worked in enforcement, before moving into 
+the financial end doing contract management and financial 
+services.  Since 1984, she has focused on regulation 
+development through the APA.  She also serves as staff to the 
+three regulatory Boards (Air, Waste, and Water).  
+INTEGRITY -- WE ALL WANT IT! (PART I) 
+With the implementation of RIS came the Integrity Check feature. Here's how it works and how you can use it to ensure the 
+integrity of the sections you amend in the Virginia Administrative Code. Click "integ" in the list of RIS actions as shown. 
+ 
+ 
+The program performs a document compare routine of all text in the current section in RIS with the text in the online VAC, but 
+skips the following punctuation marks: commas, periods, semicolons and colons. This means it is up to agencies and the 
+Registrar's staff to pay particular attention to those items. Parentheses are not skipped and are treated as "letters" in text so if a 
+word with an opening or closing parenthesis is being amended, strike through the old word including the parenthesis and 
+underscore the new word with the appropriate parenthesis. 
+For example: (2004) (2008). 
+ 
+For numbered lists, strike the number and its period and underscore the new number and its period. 
+For example:  2. 3. 
+Capitalization matters to the integrity check program. So, when adding text to the beginning of a sentence, strike the word with 
+the uppercase first letter and underscore the word in lowercase. 
+For example:  The Prior to submitting the application, the applicant shall ... 
+What happens if the text does not match? 
+Integrity check passed! 
+Integrity check failed! 
+If the text is an exact match, the program responds with     
+If the text is not an exact match, the 
+program responds with  
+and marks the spot of the discrepancy with There's a problem starting here 
+==> 
+Check the text in the current online VAC to determine if a letter or word is inappropriately stricken, underscored, or missing.  
+More ways to troubleshoot an integrity check failure in Part II of Integrity -- We all want it! 

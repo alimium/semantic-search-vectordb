@@ -1,0 +1,504 @@
+--
+--
+--
+Malaria 
+MCH 
+Malaria 
+MCH 
+TB 
+Malaria 
+PRH 
+MCH 
+PEPFAR 
+TB 
+PRH 
+MCH 
+Malaria 
+PRH 
+MCH 
+Bernard Lane 
+AFR/WA 
+CWT Hagelman 
+AFR/SA 
+Linda Crawford 
+AFR/WA 
+Karen O'Donnell 
+AFR/EA 
+Sean McClure 
+AFR/EA 
+Karen O'Donnell 
+AFR/EA 
+Sean McClure 
+AFR/EA 
+Karen Nelson 
+AFR/EA 
+Torina Way 
+(acting) 
+AFR/WA 
+GH Senior 
+Advisor 
+AFR Bureau 
+Desk Officer 
+Priority 
+GH Senior 
+Staff 
+GH Senior 
+Staff 
+Richard 
+Greene 
+AFR/SD 
+Rep 
+Mary Harvey GH Senior 
+Staff 
+Subhi Mehdi GH Senior 
+Staff 
+Mary Harvey GH Senior 
+Staff 
+John Paul 
+Clark 
+Mary Harvey, 
+Hope Sukin 
+Subhi Mehdi GH Senior 
+Staff 
+Subhi Mehdi GH Senior 
+Staff 
+ Willa 
+Pressman 
+Janean Martin 
+Celeste 
+Gregory 
+Janean Martin 
+Nancy 
+McCharen 
+Janean Martin 
+Nancy 
+McCharen 
+Lisa Maniscalco 
+Celeste 
+Gregory 
+Janean Martin 
+Patricia 
+Mengech 
+Lisa Maniscalco 
+Nancy 
+McCharen 
+Lisa Maniscalco 
+Patricia 
+Mengech 
+Neen Alrutz, Glenn 
+Post
+Janean Martin 
+Julie Wallace Subhi Mehdi GH Senior 
+Staff 
+Country 
+Country 
+Coordinator 
+GH HIV/AIDS 
+Point Person 
+GH/RCS 
+Rep 
+Africa Region 
+Angola 
+Victoria Graham 
+(202-712-0041) 
+Ellyn Ogden 
+(202-712-5891) 
+Benin 
+John Borrazzo 
+(202-712-4816) 
+Matt Lynch 
+(202-712-0644) 
+Burundi 
+Celeste Gregory-
+Acting 
+(202-661-0373) 
+Djibouti 
+Layla Shabaan 
+(202-661-0383) 
+DR Congo 
+Monique Mosolf 
+(202-712-0648) 
+Amy Leonard 
+(202-661-0376) 
+Eritrea 
+Matt Lynch 
+(202-712-0644) 
+Patricia Mengech 
+(202-712-5712) 
+Ethiopia 
+Willa Pressman 
+(202-712- 0187) 
+Eunyong Chung 
+(202) 712-4789 
+Joan Robertson 
+(202-712-5313) 
+Ghana 
+Julie Wallace 
+(202-712-0428) 
+Carter Diggs 
+(202-712-5728) 
+Guinea 
+Sandra Jordan 
+(202-712-1161) 
+Celeste Gregory 
+(202-661-0373) 
+--
+Priority 
+PEPFAR 
+TB 
+PRH 
+PRH 
+MCH 
+Malaria 
+PRH 
+MCH 
+PRH 
+MCH 
+PEPFAR 
+Malaria 
+PRH 
+MCH 
+PEPFAR 
+AFR Bureau 
+Desk Officer 
+Lydia Hall 
+(Acting) 
+AFR/WA 
+Kathy Walsh 
+AFR/EA 
+Ayanna Toure 
+AFR/SA 
+Lisa Chandonnet 
+AFR/WA 
+Deborah 
+Mendelson 
+AFR/SA 
+Rosalind Best 
+AFR/SA 
+GH Senior 
+Advisor 
+GH Senior 
+Staff 
+GH Senior 
+Staff 
+GH Senior 
+Staff 
+GH Senior 
+Staff 
+AFR/SD 
+Rep 
+Ishrat Husain Scott Radloff Julia Escalona 
+AFR/EA 
+Mary Harvey GH Senior 
+Staff 
+Mary Harvey, 
+Ishrat Husain 
+John Paul 
+Clark 
+John Paul 
+Clark 
+Subhi Mehdi, 
+Hope Sukin 
+Ishrat Husain GH Senior 
+Staff 
+GH/RCS 
+Rep 
+Patricia 
+Mengech 
+Nancy 
+McCharen 
+Patricia 
+Mengech 
+GH HIV/AIDS 
+Point Person 
+Katherine Kripke, 
+Emily Osinoff 
+Janean Martin 
+Celeste 
+Gregory 
+Lisa Maniscalco 
+Nancy 
+McCharen, 
+Celeste 
+Gregory 
+Janean Martin 
+Patricia 
+Mengech 
+Janean Martin 
+Nancy 
+McCharen 
+Neen Alrutz, Ana 
+Bodipo-Memba 
+Nancy Lowenthal, 
+Michael Cassell 
+Country 
+Country 
+Coordinator 
+Kenya 
+Dana Vogel 
+(202-712-4241) 
+Harris Solomon 
+(202-712-6486) 
+Padmini Srinivasan 
+(202-712-4135) 
+Liberia 
+Francisco Zamora 
+(202-712-1631) 
+Winifred Kpabar 
+(202-661-0354) 
+Madagascar 
+Tom Outlaw 
+(202-712-0867) 
+John Borrazzo 
+(202-712-4816) 
+Malawi 
+Jacob Adetunji 
+(202-712-4095) 
+Patricia Mengech 
+(202-712-5712) 
+Mali 
+Trish MacDonald 
+(202-712-1235) 
+Nancy McCharen 
+(202-712-1894) 
+Celeste Gregory 
+(202-661-0373) 
+Mozambique 
+Karen Cavanaugh 
+(202-712-5859) 
+Ann Lion Coleman 
+(202-712-5402) 
+Namibia 
+Barbara Addy 
+(202-712-5691) 
+Elizabeth Flanagan 
+(202-661-0356) 
+--
+PRH 
+MCH 
+PEPFAR 
+Malaria 
+PRH 
+MCH 
+Lorie Dobbins 
+AFR/SA 
+Olutokunbo L. 
+Cole AFR/EA 
+Harry Proctor 
+AFR/WA 
+Lydia Hall 
+AFR/WA 
+Staff 
+AFR/EA 
+GH Senior 
+Staff 
+Hope Sukin 
+Margaret 
+Neuse 
+Mary Harvey GH Senior 
+Staff 
+Pressman, 
+Patricia 
+Mengech 
+Nancy 
+McCharen 
+Janean Martin 
+Julie Wallace Hope Sukin 
+GH Senior 
+Staff 
+Nancy Lowenthal, 
+Megan Gerson 
+Janean Martin 
+Julie Wallace John Paul 
+Clark 
+Janean Martin 
+Celeste 
+Gregory 
+Coordinator 
+Point Person 
+Rep 
+Rep 
+Advisor 
+Desk Officer 
+712-4904) 
+Rose McCullough 
+Ishrat Husain Staff 
+AFR/WA 
+Malaria 
+Emily Wainwright 
+(202-712-4569) 
+Delna Ghandhi (202-
+712-4808) 
+(202-712-0187) 
+Patricia Mengech 
+(202-712-5712) 
+Bryn Sakagawa 
+(202-712-5022) 
+Nancy McCharen 
+(202-712-1894) 
+Julia Byington 
+(202-712-0540) 
+(202-712-0428) 
+(202-712-1444) 
+Country 
+Country 
+GH HIV/AIDS 
+GH/RCS 
+AFR/SD 
+GH Senior 
+AFR Bureau 
+Priority 
+Nigeria 
+Susan Wright (202-
+Katherine Kripke, Julie Wallace Mary Harvey, GH Senior 
+Angela Lozano 
+PEPFAR 
+RCSA 
+Ishrat Husain 
+(Botswana) 
+REDSO/ESA Willa Pressman 
+Janean Martin 
+Willa 
+Subhi Mehdi GH Senior 
+Julia Escalona 
+--
+RHAP 
+Julie Wallace 
+(202-712-0428) 
+Jason Wright 
+(202-712-5146) 
+Rwanda 
+Rose McCullough 
+(202-712-4763) 
+Senegal 
+Frances Davidson 
+(202-712-0982) 
+Julie Wallace 
+Sierra Leone 
+Sandra Jordan 
+(202-712-1161) 
+Susan Youll 
+--
+--
+Priority 
+PEPFAR 
+TB 
+PEPFAR 
+Malaria 
+PRH 
+PEPFAR 
+TB 
+Malaria 
+PRH 
+MCH 
+AFR Bureau 
+Desk Officer 
+Ami Helson 
+AFR/EA 
+Lorie Dobbins, 
+AFR/SA 
+Krista Desgranges 
+AFR/EA 
+Crystal Garrett 
+AFR/WA 
+Katie Donohoe 
+PEPFAR 
+Malaria 
+PRH 
+MCH 
+Marjorie Copson 
+AFR/SA 
+GH Senior 
+Advisor 
+Richard 
+Greene 
+GH Senior 
+Staff 
+AFR/SD 
+Rep 
+Hope Sukin, 
+Mary Harvey 
+Subhi Mehdi Scott Radloff Krista Desgranges 
+AFR/EA 
+Ishrat Husain Roxana 
+Rogers 
+Hope Sukin 
+GH Senior 
+Staff 
+John Paul 
+Clark 
+Ishrat Husain GH Senior 
+Staff 
+GH/RCS 
+Rep 
+Julie Wallace Hope Sukin 
+GH Senior 
+Staff 
+Willa 
+Pressman 
+Patricia 
+Mengech 
+Patricia 
+Mengech 
+GH HIV/AIDS 
+Point Person 
+Lisa Maniscalco 
+Willa 
+Pressman 
+Shanti Conly, Julie 
+Wallace 
+Katherine Kripke, 
+Peter Salama 
+Neen Alrutz, Krista 
+Stewart 
+Janean Martin 
+Nancy 
+McCharen 
+Shanti Conly, 
+Janean Martin 
+Janean Martin 
+Celeste 
+Gregory 
+712-0187) 
+Trent Ruebush (202-
+712-5734) 
+Country 
+Country 
+Coordinator 
+South Africa 
+Celeste Carr 
+(202-712-4802) 
+Julie Wallace 
+(202-712-0428) 
+Tanzania 
+Willa Pressman 
+(202-712-0187) 
+Mark Austin 
+(202-712-1001) 
+Tanvi Pandit 
+(202-712-4943) 
+Sudan 
+Willa Pressman (202-
+Uganda 
+Krista Stewart 
+(202-712-0808) 
+Laura Harley 
+(202-712-5024) 
+WARP 
+Alan Bornbusch 
+(202-712- 4691) 
+Nancy McCharen 
+(202-712-1894) 
+Zambia 
+Ritu Singh 
+(202-712-5955) 
+Tara Lewing 
+(202-712-0788) 
+Zimbabwe 
+Carl Hawkins 
+(202-712-4539) 
+Sharmila Raj 
+(202-712-5536) 
+For questions regarding country coordination in the Africa region, please contact GH/RCS Africa Team Leader, Willa Pressman at 202-712-0187,  
+wpressman@usaid.gov 
+For corrections or changes, please contact Celeste Gregory, cgregory@usaid.gov (202-661-0373) 

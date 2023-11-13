@@ -1,0 +1,248 @@
+ 
+ 
+ 
+Forest Service FY 2010 Guidance for Use of Incident Job Codes 
+Attachment A – August, 2009 
+  
+ 
+The following direction and procedures will be used to establish and charge to wildland fire, 
+severity and support job codes in FY 2010: 
+Incident job codes will have the region/unit override of the incident host unit.  Incidents that 
+qualify for a unique incident job code are as follows and will be established in the FireCode 
+system:   
+ 
+ Wildfire incidents 300 acres or more  
+ Type 1 or Type 2 IMT is ordered 
+ Type 3 organization is used  
+ 
+ 
+P codes will be established only for direct suppression expenditures through the FireCode 
+system.   Base salary will be charged to wildland fire suppression (WFSU) for all employees 
+assigned to fire incidents.  
+Each land based unit will have one code for ABCD fires.   These codes will be the same as in 
+2009, and will be reestablished by ASC for 2010. (see spreadsheet at 
+http://www.fs.fed.us/fire/ibp/cost_accounting/cost_accounting.html ) All ABCD codes will be 
+used with the region/unit override.  The ABCD code format will be P#XXXX (where # is the 
+region number and XXXX is created by the FireCode system).  The ABCD codes will be used 
+for the following: 
+ Initial response to wildfires. 
+ False alarms (including FS response to DOI false alarms) 
+ Extended response to wildfires under 300 acres (except as noted above) 
+ 
+Each land based unit will have one code for fire support.  These codes will be used for salary and 
+other project support charges by dispatch centers, local caches, and unit employees providing 
+general fire support that have traditionally been charged to ABCD Misc.  Support codes will be 
+used when an employee is working on multiple fires with different P codes and time cannot 
+reasonably be separated out.  If personnel are working on actual support to ongoing ABCD fires, 
+they should charge to the ABCD code.  These codes will be the same as 2009 and will be 
+reestablished by ASC for 2010.   
+P-codes generated from the National Interagency Coordination Center (NICC) will use “W” as 
+the second digit in the code.    
+The following non-land based units will have a support code for all salary charges:   The ASC, 
+National Caches, GACCs, NICC, NIFC, ROs and the WO. When converting from WFPR work 
+to WFSU fire support, salary charges will be made to this support code.  Employees at these 
+ 
+It’s Cool to Be Safe 
+Printed on Recycled Paper    
+ 
+ 
+Regional Foresters, Station Directors, Area Director, ITTF Director, Deputy Chiefs and WO     
+Directors                                                                                                                                            
+units will charge to a P or F code when they are specifically assigned to an incident or supporting 
+only one incident and can identify time in minimum four hours blocks.  WFSU fire support 
+codes for non-land based units will change in 2010 from a “WFSU” code to a pre-established 
+code generated from Firecode with a WG prefix (WG#### where # is the generated Firecode). 
+Each Region will have one P code for staging and/or transporting unassigned resources.  The 
+code of the requesting Region will be used on resource orders. Use of this code will be short 
+term in nature and be limited to times when resources are being ordered for active fire incidents, 
+but the location of the resource assignment is not known. These codes will be pre-established and 
+will use the region/unit override in the following format: P#XXXX, where the XXXX is created 
+by the FireCode system.  
+Units are asked to limit the number of additional codes created in the FireCode system.  While it 
+is understood there are situations where the established codes are not adequate for specific needs, 
+units should adequately describe the purpose of the code in the FireCode name field. 
+The following information is provided to update the appropriate use of incident and severity 
+codes for the FY 2010 season. 
+P-codes:   
+Costs for responses for all size class A, B, C, and D wildfires for each forest will 
+be collected under one P-code per Forest, except as noted below.  Format is 
+P#XXXX (where # is region and XXXX is created by the FireCode system), 
+region/unit override will be used.  Established codes will be posted to the Forest 
+Service Incident Business website:   
+http://www.fs.fed.us/fire/ibp/cost_accounting/cost_accounting.html. 
+ 
+Do not issue a unique P-code for wildfires under 300 acres unless you are certain 
+it meets at least one of the following criteria: 
+ Human caused 
+ Trespass  
+ Expected reimbursement 
+ Cost share 
+ Type 1, 2, or 3 Incident Management Team assigned 
+ 
+Charge to the ABCD code until such time as you have determined one of the 
+above criteria exists.  All wildfires that are size class E, F, or G will be issued a 
+unique P-code with the region/unit override. 
+ 
+ 
+P-codes for 
+DOI Fires: 
+All Department of Interior (DOI) fire codes will be issued by dispatch personnel 
+or a DOI representative through the FireCode system.  Fire codes will pass to the 
+FS Financial system only if the fire code is flagged in the FireCode system with 
+a value of “Y” for FS Assist. FS Assist should not be checked unless there is 
+certainty that there will be Forest Service resources responding. These codes 
+allow FS resources to charge to a FireCode in support of DOI fires and will be 
+assigned the appropriate letter (D=BLM, A=BIA, P=NPS, R=FWS) after the P.   
+An override of 1502 will be used for all DOI fires. 
+ 
+Regional Foresters, Station Directors, Area Director, ITTF Director, Deputy Chiefs and WO     
+Directors                                                                                                                                            
+H-codes: 
+Use H-codes for approved BAER projects.  One H-code will be established for 
+each Region to track assessment expenditures for BAER teams.  The H-codes will 
+be established in the format:  H#BAER (where # is the Region number).  A 
+Regional override will be used. 
+ 
+These unique codes will enhance the ability of each Region to monitor annual 
+assessment costs and simplify the process of establishing codes in time-critical 
+situations.  It also provides for the transaction code (in accordance with Public 
+Law 106-558) to be used for overtime rate equal to one and one-half times the 
+hourly rate, which is appropriate for individuals involved in the preparation of a 
+BAER plan.  The overtime provisions apply only until the initial BAER plan is 
+submitted for approval.  (See FSM 2523.) 
+ 
+Each unit is responsible for contacting the ASC Incident Finance at 
+asc_ipc@fs.fed.us  to request H-codes for BAER plan implementation, once the 
+plan is approved.  The H-code should mirror the P-code, including the region/unit 
+override.  If the P-code was a non FS jurisdictional incident and reflected a 
+region/unit override of 1502, the H-code will reflect the region/unit override of 
+the requesting unit. 
+ 
+AD Support: A WFSUAD code for AD (Casual) training and Work Capacity Test will be 
+issued for each Region.  These codes are to be used for allowable expenditures for 
+suppression funds.  A Regional override will be used. 
+ 
+Exclusive Use 
+Aviation  
+Contracts: 
+Each region will be assigned a code for Exclusive Use contract availability as 
+designated in the FY 2010 Program Direction.  These codes will be pre-
+established code generated from Firecode with a WA prefix (WA#### where # is 
+the generated Firecode) with Region/Unit override. 
+National aviation contracts will also be assigned a unique code for availability 
+payments. 
+  
+S-codes:   
+Each Forest will have two S-codes for severity.  One code for Washington Office 
+approved severity and a second code for Regional Office approved severity. 
+National severity codes will be established in the format: S#9999 and the 
+Regional codes in the format: S#1111.  Region/Unit overrides will be used.  
+Please note that OMB is closely monitoring FS use of severity and funding levels 
+are being controlled through the apportionment process.  Regions should insure 
+that severity funds have been approved prior to charging to severity job codes. 
+ 
+ 
+Regional Foresters, Station Directors, Area Director, ITTF Director, Deputy Chiefs and WO     
+Directors                                                                                                                                            
+ 
+S-codes for  
+DOI Severity: Assistance to Department of the Interior severity authorizations will be tracked 
+separately.  S-codes will be established to be used by individuals assisting a DOI 
+Bureau under a severity request.  Use the following S-codes on all related 
+timesheets and travel vouchers.  Do not use the individual severity codes 
+established by DOI in the FireCode system as they will not be compatible with 
+our systems. 
+ 
+ 
+Job Code 
+Override 
+Agency 
+S70001 
+1502 
+Bureau of Indian Affairs (BIA) –
+Severity assistance. 
+S70002 
+1502 
+Bureau of Land Management 
+(BLM) – Severity assistance. 
+S70003 
+1502 
+Fish and Wildlife Service (FWS) 
+– Severity assistance. 
+S70004 
+1502 
+National Park Service (NPS) – 
+Severity assistance. 
+ 
+FS Support of  
+Non-Federal 
+Fires: 
+States will not be utilizing the FireCode system to establish codes for non-federal 
+fires.  When federal resources respond and provide support to non-federal fires, 
+the FS or DOI will create a fire code.  The agency that receives the request 
+initially, and fills an order, is responsible for generating the fire code.  These 
+codes will be established with PN as the first two characters and the remaining 
+four characters/digits will be generated by the FireCode system.  These codes will 
+have an override of 1502. 
+ 
+Non-Wildland Federal 
+Fire Departments/ 
+Agencies: 
+Non-wildland Federal fire departments and agencies, including but not limited to 
+DOD and Tennessee Valley Authority, will not be utilizing the FireCode system 
+to establish codes for their federal fires.  When federal resources respond and 
+provide support to Federal non-wildland fire departments or agencies, the FS or  
+                        DOI will retrieve a fire code.  The agency that receives the request initially, and 
+fills an order, is responsible for generating the fire code.  These codes will be 
+established with PF as the first two characters and the remaining four 
+characters/digits will be generated by the FireCode system.  Use override 1502. 
+ 
+F-codes for 
+FEMA Activations: 
+Non-Fire FEMA Incident: A unique F-code will be established for each Mission 
+Assignment received from FEMA for ESF4 non-fire activation. ASC-IF will not 
+pre-establish these codes in FFIS, however a protocol has been provided in the 
+attached spreadsheet for use on non-fire FEMA responses.  FEMA codes will use 
+ 
+Regional Foresters, Station Directors, Area Director, ITTF Director, Deputy Chiefs and WO     
+Directors                                                                                                                                            
+the region/unit override in the following format:  F#0000 where # is the Region in 
+which the response is taking place.  ASC-Incident Finance shall be notified by the 
+Region or National Office, as soon as a job code has been assigned so that it can 
+be established for use in FFIS.  ASC-IF must also be provided a copy of the 
+Mission Assignment (MA). 
+ 
+Fire ESF4 Incident: Utilize FireCode for ESF4 wildland fire activations.  ESF4 
+Fire Mission Assignments are the only MAs where multiple job codes can be 
+assigned. The majority of FEMA ESF4 fires will start out with a PN**** or 
+P#**** Firecode. When the fire is assigned to ESF4, the P code will change to a 
+F#**** where # is the Region number, and **** is the same Firecode as the P 
+code. For example PNLMNO would change to F#LMNO. In situations where the 
+fire did not start out as a state PN code, assign a Firecode with a prefix of F#.  
+This will provide consistency with the current job code process for wildfire and 
+will maintain the integrity of the fire costs for the specific fire.  Each fire covered 
+by the MA will have a unique F code.  ASC-IF will be notified, as soon as a job 
+code has been assigned or converted from a P# so that it can be established for use 
+in FFIS.  ASC-IF must also be provided a copy of the Mission Assignment. 
+ 
+ 
+Base salary of all employees on assignment to a declared emergency will be paid 
+from the Emergency Operations (WFSU) account.    
+Non-Fire  
+Emergency  
+Job Codes: 
+Upon execution of an interagency reimbursable agreement the Unit should request 
+a unique reimbursable job code with the appropriate reimbursable program and 
+fund.  Contact ASC-Incident Finance to create the code prior to incurring any 
+expenses.  Do not create a fire code in the FireCode system for non fire 
+emergencies.    
+   
+Fire codes are processed into FFIS as they are created in the FireCode system.  The job code 
+cycles in FFIS do not run on Friday and Saturday night.  Therefore, incident job codes passed to 
+FFIS on Friday and Saturday nights will not be available for use (in Paycheck and other systems) 
+until after processing on Sunday night. 
+For Fire Code questions, contact Marylea Lockard, ASC Incident Finance at 505-563-7411;  Fire 
+and Aviation funding policy questions, Branch Chief, Fire Planning 202-205-0996; 
+implementation questions MaryAnn Szymoniak at 208-387-5944. 
+ 
+ 
