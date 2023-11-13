@@ -1,15 +1,14 @@
 """
 This module holds embedding engines
 """
-import os
-from sentence_transformers import SentenceTransformer
-from semantic_vdb_rag.utils.preprocessing import preprocess
-from multiprocessing import Pool, cpu_count
-from pathlib import Path
 import numpy as np
+from sentence_transformers import SentenceTransformer
 
 
 def embed(sequnce_list: str, model, average: bool = False, char_lim: int = None):
+    """
+    Embed a list of sentences into possibly one vector by averaging over all the independent vectors.
+    """
     model = SentenceTransformer("paraphrase-mpnet-base-v2") if model is None else model
     embeddings = []
     for s in sequnce_list:
