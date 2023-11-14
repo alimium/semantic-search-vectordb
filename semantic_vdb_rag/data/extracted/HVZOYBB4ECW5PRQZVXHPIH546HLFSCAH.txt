@@ -1,409 +1,0 @@
-Joint Hurricane Testbed 
-Transitioning from Research to Operations 
- 
-Shirley Murillo – NOAA/AOML 
-Jiann-Gwo Jiing and Chris Landsea – NOAA/NHC 
-Joint	  Hurricane	  Testbed	  is	  funded	  by	  the	  US	  Weather	  Research	  Program	  in	  
-NOAA/OAR's	  Oﬃce	  of	  Weather	  and	  Air	  Quality.	  	  
-Joint Hurricane Testbed (JHT) since 2001 
-  Bridge hurricane research and operations 
-  Began in 2001 under the USWRP 
-  Mission: successfully transfer new technology, research 
-results and observational advances from research groups 
-to operational centers 
-  Testing is done at NHC or EMC 
-US Weather Research Program’s vision 
-USWRP Goals relating to 
-hurricane landfall forecasting 
-  To reduce landfall track and intensity forecast errors by 20%.  
-  To increase warning lead-time to and beyond 24 hours with 
-95% confidence without increasing the present 3-to -1 over 
-warning.  
-  To make skillful (compared to persistence) forecasts of gale- 
-and hurricane-force radii out to 48 hours with 95% 
-confidence.  
-  To extend quantitative precipitation forecasts out to 3 days 
-and enhance skill of day-3 predictions to improve inland 
-flooding forecasts.  
-Major Activities 2001-2011 
-Building the JHT 2001-02 
-  Funded initial round of 10 projects for a first year (FY01)  (Mar - Sep 
-2001) 
-  Developed Terms of Reference (Mar 2001- May 2002) 
-  Appointed Director and 2 administrative assistants (all 25% NOAA FTE) 
-(2001) 
-  Formed Steering Committee (Mar 2002) 
-  Procured hardware (Q3 2002) 
-  Hired IT Facilitator (Jul 2002) 
-5 
-Public 
-Private 
-PIs/POCs connect on 
-public JHT side 
-6 
-Cont. 
-Major Activities 2001-2011 
-Activities associated with each funding cycle 
-•  Preparation, revision, and legal review of Announcement of 
-Federal Funding Opportunities (AFFO) 
-•  AFFO released through Federal Register Notice (FRN)  
-–  Open to government, academic, and private sector applicants 
-worldwide 
-–  List forecast center priorities 
-–  List forecast center IT configuration, available data and format  
-–  List project selection criteria 
-–  List criteria for operational acceptance 
-•  Review of pre-applications 
-•  Review and score of full proposals 
-7 
-Major Activities 2001-2011 
-Cont. 
-Activities associated with each funding cycle 
-•  JHT Directors recommend projects for funding 
-•  NHC assigns Point of Contacts (POC) for each project. POCs 
-work with PIs and forecasters to define timelines/
-deliverables 
-•  Real-time testing and evaluation activities  
-•  PIs present progress (annual reports) at annual 
-Interdepartmental Hurricane Conference (IHC) (www.ofcm.gov) 
-•  Review of second year funding for 2-year projects 
-8 
-Cont. 
-Major Activities 2001-2011 
-Activities associated with each cycle 
-•  PIs submit final reports when projects end 
-•  POCs and forecasters provide feedback to the JHT 
-•  JHT document IT evaluation on each project 
-•  JHT prepare final evaluation results and submit to NHC 
-Director 
-•  NHC Director makes final decisions on operational acceptance 
-(for non-modeling projects)   
-•  NHC/EMC/NCO implement accepted projects/techniques 
-9 
-Major Activities 2001-2011 
-•  Completed five rounds of projects 
-•  Final evaluations on fifth round projects completed 
-•  Sixth round projects started in 2011 
-�
-10 
-JHT Infrastructure 
-Personnel 
-  Quarter-time Director (NOAA FTE) 
-  7-member Steering Committee 
-  Three from NOAA (one NHC), two from DOD, and two from the 
-academic community 
-  NHC member serves as co-Chair 
-  Two quarter-time administrative assistants (NOAA FTE)  
-  One IT Facilitator (contractor) 
-Computing Resources 
-  Server and workstations 
-  Software 
- 
-11 
-What does it take to support the JHT? 
-JHT Staff:   
-•  Jiann-Gwo Jiing (JHT Director) 
-•  Jose Salazar (JHT IT specialist) 
-•  Shirley Murillo (JHT Admin. Asst.) 
-•  Chris Landsea (JHT Admin. Asst.) 
-JHT Steering Committee: 
-  Ed Rappaport (NHC – Co-chair) 
-  Ed Fukada (Joint Typhoon Warning Center) 
-  Jeff Hawkins (Naval Research Laboratory) 
-  John Gamache (Hurricane Research Division) 
-  Liz Ritchie (University of Arizona) 
-  Vijay Tallapragada (Environmental Modeling Center) 
-  Hugh Willoughby (Florida International University) 
-JHT Principal Investigators and other funded participants 
-  John Cortinas and staff (OWAQ)  
-  NHC and EMC forecaster and technical points of contact 
-  NHC/Technical Support Branch IT staff 
-NHC Contributions to JHT 
-Logistics 
- 
-Dedicated physical space in operations, offices 
-Personnel 
- 
-TPC dedicating about 1.5 FTE spread across ~12 people 
- 
-0.5 FTE reimbursed by USWRP for quarter-time JHT Director and one quarter-time JHT 
-administrative assistant  
- 
-TPC contributing 1.0 FTE, including TPC member on JHT Steering Committee, forecasters, and 
-technical support staff 
- 
-Forecaster and technical points of contact (POC) 
- 
-Programming, system administration, and network support 
- 
-Administrative support 
-Computing Resources 
- 
-Network connectivity 
- 
-Operational data flow 
-13 
- 
-JHT Proposal Review Criteria 
-  Relevance to program goals (40 pts) 
-  Research maturity (10 pts) 
-  Priority-to-payoff factors (25 pts) 
-  Other agency use (5 pts) 
-  Technical merit (40 pts) 
-  Risk-to-payoff factors (10 pts) 
-  Testing (10 pts) 
-  Operational usage (10 pts) 
-  Technical compatibility (10 pts) 
-  Overall qualification of applicants (10 pts) 
-  Project costs (10 pts) 
-Factors in NHC Director’s Decisions for 
-Operational Implementation 
-(Listed in the AFFO announcement) 
- 
-Forecast or Analysis Benefit: expected improvement in 
-operational forecast and/or analysis accuracy 
- 
-Efficiency:  adherence to forecaster time constraints and ease of 
-use needs 
- 
-Compatibility:  IT compatibility with operational hardware, 
-software, data, communications, etc. 
- 
-Sustainability:  availability of resources to operate, upgrade, and/
-or provide support 
- 
-15 
-JHT Summary 2001-12 
-•  Number of projects supported: 75 
-•  62 completed  
-•  39.5 accepted for operational implementation 
-•  6 projects completed but rejected 
-•  9.5 projects completed but pending further investigation 
-(decisions deferred) 
-•  12 projects started in fall 2011 
- 
- 
-•  Implementation  
-•  35.5 projects implemented: (including 4 5th round projects) 
-•  10 numerical modeling related projects implemented by 
-EMC/NCO: 
-•  24.5 projects implemented by NHC: 
-•  4 projects accepted but not yet fully implemented by NHC: 
-Implementation 
-  Some relatively easy 
-  Some very complicated 
-  NHC contributes ~0.5 FTE/yr on implementation 
-  JHT IT facilitator assists in the process 
-  NCEP/EMC and NCO also contributed  
-Operational Centers are not funded for this task 
-17 
-JHT first five rounds 
-62 projects by topic area 
-Rappaport et al. 2012 - The Joint Hurricane Test Bed, Its first decade of 
-tropical cyclone research-to-operations activities reviewed, BAMS, March 
-issue. 
-Highlights of implemented projects 
-Track guidance 
-GFDL 
-Guidance on guidance 
-19 
-HWRF 
-Highlights of implemented projects 
-Intensity guidance 
-8
-7
-Atlantic (All Cases)
-Atlantic (Near Land)
-6
-5
-4
-3
-Percent Improvement
-2
-1
-0
-12
-24
-36
-48
-60
-72
-84
-96
-108 120
-Forecast Time (hr)
-Inner core SST 
-Revised SHIPS intensity forecast scheme  
-Probability of 
-rapid intensification 
-20 
-Highlights of implemented projects 
-Improved use of observations 
-Satellite intensity and  
-size estimates 
-VORTRAC (Intensity estimates  
-using coastal 88-D radars) 
-Airborne Doppler Winds  
-SFMR 
-Highlights of implemented projects 
-New products 
-Rainfall CLIPER 
-Probabilistic wind forecast 
-22 
-Funding Distribution 
-5th Round (2009-2011) 
-6th Round (2011-2013) 
-DOD/Navy 
-NOAA 
-NOAA 
-DOD/Navy Private 2% 
-Private 
-9% 
-6% 
-12% 
-8% 
-22% 
-80% 
-61% 
-University 
-University 
-Includes	  NOAA	  cooperaFve	  inst.	  	  
-Includes	  NOAA	  cooperaFve	  inst.	  	  
-Figure from Rappaport et al. 2012 
-2011-2012 Major JHT Activities - 5th round 
-  February – August 2011 
-  Testing of 5th round (2009-2011) projects 
-  August 2011 
-  9 Projects completed (5th Rd) 
-  JHT final evaluation/report on 5th round projects (through December) 
-  Decision on acceptance for implementation (NHC and EMC Directors) 
-  March 2012 
-  Final decision made 
- 
-Highlights of 5th Round Completed Projects 
-Improved Wind Probabilities – DeMaria/Knaff 
-Enhanced ATCF - Sampson 
-HWRF-GFDN coupled model- Ginis 
-Ocean Model Parameterizations - Shay 
-JHT: The Process 
-• 
-Call for Proposals – drafted and disseminated (bi-annually) 
-• 
-Principal Investigators apply for funding through NOAA 
-• 
-7 member Steering Committee rates all proposals 
-• 
-Funded projects are tested during 1 or 2 hurricane seasons in 
-conjunction with NHC/EMC points of contact 
-• 
-At the project’s end, each are evaluated by NHC/EMC staff 
-• 
-Implementation of successful projects are then carried out 
-by NHC/EMC staff/PIs 
- 
-Forecaster Priorities 
-(Listed in the AFFO announcement) 
-Second Round (2003) 
-Sixth Round (2011) 
-1.  Intensity change, rapid intensification 
-1.  intensity change, rapid intensification 
-2.  “Guidance on guidance” for track, 
-2.  Improved observational systems in the 
-storm and its environment 
-intensity and precipitation – 
-probabilistic 
-3.  “Guidance on guidance” for track, 
-intensity and precipitation 
-3.  Precipitation amount and distribution 
-4.  Reduce the occurrence of guidance 
-4.  Storm surge, coastal inundation 
-and official track outliers 
-modeling/applications 
-5.  Implement improved observational 
-5.  Improved and extended track 
-systems in the storm and its 
-environment 
-guidance) and identify and removal of 
-outliers 
-28 
-Modeling Priorities 
-(Provided by EMC) 
-Second Round (2003) 
-Sixth Round (2011) 
-1. 
-Improved model development to advance 
-track and intensity forecasts 
-1. 
-General model improvements to advance 
-NCEP global model track forecasts, improve 
-5-7 day  
-2. 
-Improved boundary layer representation for 
-coupled air/sea/land models-hurricane 
-rainfall and inland flooding problem 
-2. 
-Diagnostic techniques to further increase 
-the utility of global models in forecasting 
-tropical cyclone genesis 
-3. 
-Improved targeting strategies for hurricane 
-surveillance missions 
-3. 
-Improvements specific to operational HWRF 
-modeling system 
- 
-4. 
-Transforming results from field programs, 
-e.g., Coupled Boundary Layers/Air-Sea 
-Transfer (CBLAST), into tangible results for 
-NWP models. 
-5. 
-Diagnostic studies of storm scale structure 
-changes from high resolution models 
-29 
-2011-2012 Major JHT Activities - 6th round 
-• 6th round funding recommendation 
-• Steering committee review proposals – Complete Feb 2011 
-• Rank and select proposals for funding  
-• Work with Grants Office to fund selected projects 
-• Find Point of contacts among NHC forecasters and support staff  
-• Work with PIs to setup timelines for their projects 
-• 6th round Projects (12) began Aug-Sept 2011 
- 
-Primary	  Area	  of	  Focus	  
-#	  of	  Projects 
-3	  
-Improvements	  to	  dynamical	  models	  (for	  track,	  
-intensity,	  and	  precipitaFon	  forecasts)	  
-StaFsFcal	  intensity	  forecast	  guidance	  
-4	  
-Enhancements	  to	  observed	  data,	  assimilaFon	  
-4	  
-Tropical	  cyclone	  structure/wind/wave	  distribuFon	  
-1	  
-Total	  
-12	  
-Average forecaster rating by topic area 
-50 projects (1-4 JHT rounds) 
-Upcoming in 2012 
-• Decision on 5th round projects 
-• Final reports for 5th round projects 
-• POC feedback 
-• JHT final review/reports to NHC Director for acceptance  
-• Test and evaluation 
-• Prepare real-time testing & evaluation for 6th round projects  
-• Set up necessary software code and data flow 
-• Implement newly accepted projects (NHC) 
-• Draft and publish 7th round announcement  
-• Funding Opportunity (summer 2012)  
-• Review and recommend pre-applications 
-JHT Web site: for additional info 
-www.nhc.noaa.gov/jht 
-Thank you 
-Joint Hurricane Testbed 
-Transitioning from Research to Operations 
- 
-Shirley Murillo – NOAA/AOML 
-Jiann-Gwo Jiing and Chris Landsea – NOAA/NHC 
-Joint	  Hurricane	  Testbed	  is	  funded	  by	  the	  US	  Weather	  Research	  Program	  in	  
-NOAA/OAR's	  Oﬃce	  of	  Weather	  and	  Air	  Quality.	  	  
