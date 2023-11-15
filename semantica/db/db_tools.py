@@ -19,28 +19,28 @@ class SemanticaDB:
             ),
         )
 
-    def add_data(self, id, sequences, metadata, custom_embed: bool = True):
+    def add_data(self, id_, sequences, metadata, custom_embed: bool = True):
         """
         Add data for one file to a collection. A file is a sequence of sentences.
         """
-        if len(self.collection.get(id)["ids"]) == 0:
+        if len(self.collection.get(id_)["ids"]) == 0:
             text = ". ".join(sequences)
             embedding = embed(sequences)
             try:
                 if custom_embed:
                     self.collection.add(
-                        [id],
+                        [id_],
                         documents=[text],
                         embeddings=[embedding],
                         metadatas=[metadata],
                     )
                 else:
-                    self.collection.add([id], documents=[text])
-                print(f"File {id} added to database.")
+                    self.collection.add([id_], documents=[text])
+                print(f"File {id_} added to database.")
             except ValueError as e:
-                print(f"File {id} was not added successfully | {e}")
+                print(f"File {id_} was not added successfully | {e}")
         else:
-            print(f"File {id} already exists in database.")
+            print(f"File {id_} already exists in database.")
 
     def get_files(self, query, n):
         query = preprocess(sequence=query)
