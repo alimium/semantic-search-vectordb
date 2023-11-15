@@ -5,8 +5,8 @@ This module hosts a helper function to extract text from pdf files.
 import os
 from pathlib import Path
 from multiprocessing import Pool, cpu_count
-from semantica.utils.preprocessing import preprocess as prep
 import fitz
+from semantica.utils.preprocessing import preprocess as prep
 
 
 def _extract_text(v):
