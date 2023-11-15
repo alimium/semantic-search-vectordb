@@ -19,7 +19,7 @@ def _extract_text(v):
             text = "".join([page.get_text(sort=True) for page in doc])
             if len(text) == 0:
                 return
-        with open(dst / f"{file[:-4]}.txt", "w", encoding="utf8") as f:
+        with open(dst / f"{file[:-4]}.txt", "w", encoding="utf-8") as f:
             f.write(text)
         print(f"extracted {file}")
     except (ValueError, RuntimeError) as e:
@@ -50,7 +50,7 @@ def parse_files(
     skip_on_err: bool = True,
 ) -> None:
     """
-    Parses PDF documents into TXT files in parallel.
+    Parses PDF documents into TXT files optionally in parallel.
 
     Parameters
     ----------
@@ -60,7 +60,8 @@ def parse_files(
             path to a destination folder. extracted *.txt files will be written here.
             If `None`, base folder will be used.
         `num_workers:int` (optional)
-            number of workers for multiprocessing pool. If `None`, number of cpu cores will be used.
+            number of workers for multiprocessing pool. If `None` no parallelism will be used,
+            `0` number of cpu cores will be used.
         `skip_on_err: bool` (optional)
             whether to skip the file that caused an error.
 
@@ -69,7 +70,6 @@ def parse_files(
         None
     """
     base_folder = Path(os.path.abspath(base_folder))
-    print(dst_folder)
     dst_folder = (
         base_folder if dst_folder is None else Path(os.path.abspath(dst_folder))
     )
@@ -78,4 +78,8 @@ def parse_files(
 
     files = [file for file in os.listdir(base_folder) if file.endswith(".pdf")]
     vectors = [(file, base_folder, dst_folder, skip_on_err) for file in files]
-    _mp_handler(cpu_count() if num_workers is None else num_workers, vectors)
+    if num_workers is None:
+        for v in vectors:
+            _extract_text(v)
+    else:
+        _mp_handler(cpu_count() if num_workers == 0 else num_workers, vectors)
