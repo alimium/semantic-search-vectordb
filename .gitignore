@@ -15,7 +15,7 @@ py.class
 .so
 
 # Data files
-pdf_raw/
+# pdf_raw/
 
 # Distribution / packaging
 .Python

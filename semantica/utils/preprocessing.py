@@ -16,7 +16,7 @@ def _cleanup(txt: str):
     txt = re.sub(r"\d+", "", txt)
     # remove punctuations
     txt = txt.translate(str.maketrans("", "", string.punctuation))
-    txt = re.sub(r"(?<!\d)[“’](?!\d)", "", txt)
+    txt = re.sub(r"(?<!\d)[“’-](?!\d)", "", txt)
 
     return txt
 
@@ -33,17 +33,37 @@ def _lemmatize(txt):
     return txt
 
 
-def preprocess(file_path):
-    with open(file_path, "r", encoding="utf8") as f:
-        txt = f.read()
-    tokens = sent_tokenize(txt)
-    sentences = []
-    for t in tokens:
-        t = _cleanup(t)
-        t = word_tokenize(t)
-        t = _stp_removal(t)
-        t = _lemmatize(t)
-        t = " ".join(t)
-        if len(t) > 0:
-            sentences.append(t)
-    return sentences
+def preprocess(
+    file_path=None,
+    sequence=None,
+    cleanup: bool = True,
+    stop_word_removal: bool = True,
+    lemmatize: bool = True,
+):
+    cnt = True
+    if file_path is None and sequence is None:
+        print("Error: Provide at least one parameter.")
+        cnt = False
+    elif file_path is None:
+        txt = sequence
+    elif sequence is None:
+        with open(file_path, "r", encoding="utf-8") as f:
+            txt = f.read()
+    else:
+        print("Error: Provide just one of the parameters.")
+        cnt = False
+    if cnt:
+        tokens = sent_tokenize(txt)
+        sentences = []
+        for t in tokens:
+            if cleanup:
+                t = _cleanup(t)
+            t = word_tokenize(t)
+            if stop_word_removal:
+                t = _stp_removal(t)
+            if lemmatize:
+                t = _lemmatize(t)
+            t = " ".join(t)
+            if len(t) > 0:
+                sentences.append(t)
+        return sentences

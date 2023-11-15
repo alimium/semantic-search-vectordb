@@ -5,6 +5,7 @@ This module hosts a helper function to extract text from pdf files.
 import os
 from pathlib import Path
 from multiprocessing import Pool, cpu_count
+from semantica.utils.preprocessing import preprocess as prep
 import fitz
 
 
@@ -13,12 +14,17 @@ def _extract_text(v):
     base = v[1]
     dst = v[2]
     skp = v[3]
+    preprocess_ = v[4]
 
     try:
         with fitz.open(base / file) as doc:
             text = "".join([page.get_text(sort=True) for page in doc])
             if len(text) == 0:
                 return
+        if preprocess_:
+            text = ". ".join(
+                prep(sequence=text, stop_word_removal=False, lemmatize=False)
+            )
         with open(dst / f"{file[:-4]}.txt", "w", encoding="utf-8") as f:
             f.write(text)
         print(f"extracted {file}")
@@ -46,6 +52,7 @@ def _mp_handler(cpus, iterable):
 def parse_files(
     base_folder: str,
     dst_folder: str = None,
+    preprocess: bool = False,
     num_workers: int = None,
     skip_on_err: bool = True,
 ) -> None:
@@ -59,6 +66,8 @@ def parse_files(
         `dst_folder:str` (optional)
             path to a destination folder. extracted *.txt files will be written here.
             If `None`, base folder will be used.
+        `preprocess:bool` (optional)
+            Whether to do basic preprocessing before saving the file.
         `num_workers:int` (optional)
             number of workers for multiprocessing pool. If `None` no parallelism will be used,
             `0` number of cpu cores will be used.
@@ -77,7 +86,9 @@ def parse_files(
         dst_folder.mkdir(parents=True, exist_ok=True)
 
     files = [file for file in os.listdir(base_folder) if file.endswith(".pdf")]
-    vectors = [(file, base_folder, dst_folder, skip_on_err) for file in files]
+    vectors = [
+        (file, base_folder, dst_folder, skip_on_err, preprocess) for file in files
+    ]
     if num_workers is None:
         for v in vectors:
             _extract_text(v)
