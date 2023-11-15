@@ -31,8 +31,6 @@ if __name__ == "__main__":
         parse_files(base_folder=str(pdf_path), dst_folder=str(txt_path), num_workers=0)
         print("parsing done.")
 
-    # create/load db instance
-
     # add data to the collection
     names = os.listdir(txt_path)
     files = [txt_path / name for name in names]
@@ -49,11 +47,6 @@ if __name__ == "__main__":
     QUERY = "what is the wage for broadcast technicians?"
     ids, docs = db.get_texts(QUERY, 2)
     ids, paths = db.get_files(QUERY, 2)
-
-    # get summaries of texts
-    # summaries = summarizer.summarize_files(paths)
-    # for summary in summaries:
-    #     print(summary)
 
     interface = gr.Interface(fn=search_interface, inputs="text", outputs="text")
     interface.launch()
